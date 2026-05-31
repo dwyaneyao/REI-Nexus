@@ -1,0 +1,353 @@
+{
+  "schemaVersion": 1,
+  "unit": {
+    "id": "red-blue-n3-1000-practice-unit-09",
+    "title": "红蓝宝书1000题 - Unit 9",
+    "type": "practice_unit",
+    "status": "manual-reviewed-draft",
+    "tags": [
+      "jlpt",
+      "n3",
+      "practice",
+      "vocabulary",
+      "grammar",
+      "red-blue-1000",
+      "manual-entry"
+    ],
+    "sourceId": "source-red-blue-n3-1000-practice",
+    "sourcePages": [
+      104,
+      115
+    ],
+    "created": "2026-05-26",
+    "updated": "2026-05-26",
+    "scope": {
+      "Question range": "Q289-Q324",
+      "Source pages": "PDF pages 104-115",
+      "Page-image cache": "`.cache/ocr/red-blue-n3-1000-practice/`"
+    },
+    "contentPath": "content/items/red-blue-n3-1000-practice/unit-09.md"
+  },
+  "vocabulary": [],
+  "reviewCards": [],
+  "sourceTestPages": [
+    {
+      "kind": "questions",
+      "title": "原书练习题",
+      "bookPages": "97-107",
+      "pdfPages": "104-114",
+      "images": [
+        ".cache/ocr/red-blue-n3-1000-practice/images/page_104.jpg",
+        ".cache/ocr/red-blue-n3-1000-practice/images/page_106.jpg",
+        ".cache/ocr/red-blue-n3-1000-practice/images/page_108.jpg",
+        ".cache/ocr/red-blue-n3-1000-practice/images/page_110.jpg",
+        ".cache/ocr/red-blue-n3-1000-practice/images/page_112.jpg",
+        ".cache/ocr/red-blue-n3-1000-practice/images/page_114.jpg"
+      ]
+    },
+    {
+      "kind": "answers",
+      "title": "原书答案解析",
+      "bookPages": "98-108",
+      "pdfPages": "105-115",
+      "images": [
+        ".cache/ocr/red-blue-n3-1000-practice/images/page_105.jpg",
+        ".cache/ocr/red-blue-n3-1000-practice/images/page_107.jpg",
+        ".cache/ocr/red-blue-n3-1000-practice/images/page_109.jpg",
+        ".cache/ocr/red-blue-n3-1000-practice/images/page_111.jpg",
+        ".cache/ocr/red-blue-n3-1000-practice/images/page_113.jpg",
+        ".cache/ocr/red-blue-n3-1000-practice/images/page_115.jpg"
+      ]
+    }
+  ],
+  "sourceTextTests": [
+    {
+      "id": "Q289",
+      "part": "Unit 9",
+      "type": "文字",
+      "prompt": "**急がない**と、学校に遅れるよ。 選択肢：1 いそがない / 2 ふさがない / 3 かせがない / 4 さわがない",
+      "answer": "1",
+      "explanation": "考点：急がない。读音是「いそがない」。"
+    },
+    {
+      "id": "Q290",
+      "part": "Unit 9",
+      "type": "文字",
+      "prompt": "先輩が**熱心**に教えてくれました。 選択肢：1 ねしん / 2 ねっしん / 3 ねじん / 4 ねつじん",
+      "answer": "2",
+      "explanation": "考点：熱心。读音是「ねっしん」。"
+    },
+    {
+      "id": "Q291",
+      "part": "Unit 9",
+      "type": "語彙",
+      "prompt": "このまま（　）にいけば、作業は9月下旬に終わります。 選択肢：1 完全 / 2 順調 / 3 正常 / 4 純粋",
+      "answer": "2",
+      "explanation": "词汇点：順調（じゅんちょう）：顺利。"
+    },
+    {
+      "id": "Q292",
+      "part": "Unit 9",
+      "type": "語彙",
+      "prompt": "試験のことが心配で、一晩中（　）。 選択肢：1 きまれなかった / 2 つもれなかった / 3 たためなかった / 4 ねむれなかった",
+      "answer": "4",
+      "explanation": "词汇点：ねむれなかった。该词/表达最符合句意。"
+    },
+    {
+      "id": "Q293",
+      "part": "Unit 9",
+      "type": "文法",
+      "prompt": "ちょうど出かけよう（　）ときに、友だちが訪ねてきました。 選択肢：1 にする / 2 とする / 3 にした / 4 とした",
+      "answer": "4",
+      "explanation": "文法点：～ようとしたとき。表示“正要……的时候”。"
+    },
+    {
+      "id": "Q294",
+      "part": "Unit 9",
+      "type": "文法",
+      "prompt": "3歳の息子が歯磨きを（　）、毎日大変だ。 選択肢：1 嫌がちで / 2 嫌がって / 3 嫌ぎみで / 4 嫌きって",
+      "answer": "2",
+      "explanation": "文法点：～がる。用于表示第三人称显露出的感觉或情绪。"
+    },
+    {
+      "id": "Q295",
+      "part": "Unit 9",
+      "type": "文字",
+      "prompt": "あの人はいつも**偉そう**な態度を取っていますね。 選択肢：1 つよそう / 2 わかそう / 3 せまそう / 4 えらそう",
+      "answer": "4",
+      "explanation": "考点：偉そう。读音是「えらそう」。"
+    },
+    {
+      "id": "Q296",
+      "part": "Unit 9",
+      "type": "文字",
+      "prompt": "帰宅**途中**、携帯電話を失くした。 選択肢：1 ずちゅう / 2 ずじゅう / 3 とちゅう / 4 とじゅう",
+      "answer": "3",
+      "explanation": "考点：途中。读音是「とちゅう」。"
+    },
+    {
+      "id": "Q297",
+      "part": "Unit 9",
+      "type": "語彙",
+      "prompt": "大気汚染はますます（　）になっています。 選択肢：1 深刻 / 2 発生 / 3 普通 / 4 自然",
+      "answer": "1",
+      "explanation": "词汇点：深刻（しんこく）：深刻。"
+    },
+    {
+      "id": "Q298",
+      "part": "Unit 9",
+      "type": "語彙",
+      "prompt": "明日は（　）雨が降るだろう。 選択肢：1 だいたい / 2 しばらく / 3 おそらく / 4 はやめに",
+      "answer": "3",
+      "explanation": "词汇点：おそらく（おそらく）：恐怕。"
+    },
+    {
+      "id": "Q299",
+      "part": "Unit 9",
+      "type": "文法",
+      "prompt": "A「どうして美術館に行かないの?」B「（　）、興味がないんだもん。」 選択肢：1 そんな / 2 でも / 3 だって / 4 ただ",
+      "answer": "3",
+      "explanation": "文法点：だって。口语中用于说明理由，相当于“因为……”。"
+    },
+    {
+      "id": "Q300",
+      "part": "Unit 9",
+      "type": "文法",
+      "prompt": "学生なら学生（　）勉強や部活を頑張るべきです。 選択肢：1 のように / 2 っぽく / 3 みたいに / 4 らしく",
+      "answer": "4",
+      "explanation": "文法点：～らしい。表示“符合……身份/样子”。"
+    },
+    {
+      "id": "Q301",
+      "part": "Unit 9",
+      "type": "文字",
+      "prompt": "わたしは**刺身**定食にします。 選択肢：1 しみ / 2 さしみ / 3 ししん / 4 さしじん",
+      "answer": "2",
+      "explanation": "考点：刺身。读音是「さしみ」。"
+    },
+    {
+      "id": "Q302",
+      "part": "Unit 9",
+      "type": "文字",
+      "prompt": "こんなことをしたら、またみんなに**誤解**されるだろう。 選択肢：1 ぐかい / 2 ぐがい / 3 ごかい / 4 ごがい",
+      "answer": "3",
+      "explanation": "考点：誤解。读音是「ごかい」。词条读音：ごかい；含义：误解。"
+    },
+    {
+      "id": "Q303",
+      "part": "Unit 9",
+      "type": "語彙",
+      "prompt": "夫は子どもたちを（　）公園に出かけました。 選択肢：1 まけて / 2 つれて / 3 もれて / 4 わけて",
+      "answer": "2",
+      "explanation": "词汇点：つれて。该词/表达最符合句意。"
+    },
+    {
+      "id": "Q304",
+      "part": "Unit 9",
+      "type": "語彙",
+      "prompt": "あの若い（　）はとてもお似合いです。 選択肢：1 エンジン / 2 キャンプ / 3 アドレス / 4 カップル",
+      "answer": "4",
+      "explanation": "词汇点：カップル。该词/表达最符合句意。"
+    },
+    {
+      "id": "Q305",
+      "part": "Unit 9",
+      "type": "文法",
+      "prompt": "彼女はよく勉強している（　）には、成績があまりよくありません。 選択肢：1 わり / 2 だけ / 3 わけ / 4 ところ",
+      "answer": "1",
+      "explanation": "文法点：～わりに。表示“虽然……但是相对来说……”。"
+    },
+    {
+      "id": "Q306",
+      "part": "Unit 9",
+      "type": "文法",
+      "prompt": "この言葉を自分の座右の銘（　）胸に刻み込んでいます。 選択肢：1 といって / 2 として / 3 にとって / 4 にして",
+      "answer": "2",
+      "explanation": "文法点：～として。表示“作为……”。"
+    },
+    {
+      "id": "Q307",
+      "part": "Unit 9",
+      "type": "文字",
+      "prompt": "帰り道にバイクに乗った男にかばんを**奪われた**。 選択肢：1 くわれた / 2 うばわれた / 3 おおわれた / 4 うたがわれた",
+      "answer": "2",
+      "explanation": "考点：奪われた。读音是「うばわれた」。"
+    },
+    {
+      "id": "Q308",
+      "part": "Unit 9",
+      "type": "文字",
+      "prompt": "この資料は**拡大**コピーでお願いします。 選択肢：1 こうたい / 2 こうだい / 3 かくたい / 4 かくだい",
+      "answer": "4",
+      "explanation": "考点：拡大。读音是「かくだい」。词条读音：かくだい；含义：扩大。"
+    },
+    {
+      "id": "Q309",
+      "part": "Unit 9",
+      "type": "語彙",
+      "prompt": "彼に何度も嘘をつかれて、（　）できなくなった。 選択肢：1 信用 / 2 請求 / 3 成長 / 4 調節",
+      "answer": "1",
+      "explanation": "词汇点：信用する。表示“信任、相信”。"
+    },
+    {
+      "id": "Q310",
+      "part": "Unit 9",
+      "type": "語彙",
+      "prompt": "姉はヨガで鍛えられて体が（　）です。 選択肢：1 おそろしい / 2 やわらかい / 3 なつかしい / 4 しかたない",
+      "answer": "2",
+      "explanation": "词汇点：やわらかい。该词/表达最符合句意。"
+    },
+    {
+      "id": "Q311",
+      "part": "Unit 9",
+      "type": "文法",
+      "prompt": "先月まで試験（　）卒業論文（　）でたいへん忙しかったです。 選択肢：1 やら/やら / 2 にしろ/にしろ / 3 や/や / 4 にしても/にしても",
+      "answer": "1",
+      "explanation": "文法点：～やら～やら。表示“又是……又是……”。"
+    },
+    {
+      "id": "Q312",
+      "part": "Unit 9",
+      "type": "文法",
+      "prompt": "これからの人生に（　）、いろいろと考えました。 選択肢：1 くらべて / 2 おいて / 3 かわって / 4 ついて",
+      "answer": "4",
+      "explanation": "文法点：～について/についての。关于……。"
+    },
+    {
+      "id": "Q313",
+      "part": "Unit 9",
+      "type": "文字",
+      "prompt": "駅前の**喫茶店**で待っています。 選択肢：1 きっちゃてん / 2 きっさてん / 3 けっちゃてん / 4 けっさてん",
+      "answer": "2",
+      "explanation": "考点：喫茶店。读音是「きっさてん」。"
+    },
+    {
+      "id": "Q314",
+      "part": "Unit 9",
+      "type": "文字",
+      "prompt": "みんなの意見を聞いてから、**観光**コースを決めましょう。 選択肢：1 かんこう / 2 かんごう / 3 けんこう / 4 けんごう",
+      "answer": "1",
+      "explanation": "考点：観光。读音是「かんこう」。词条读音：かんこう；含义：游览。"
+    },
+    {
+      "id": "Q315",
+      "part": "Unit 9",
+      "type": "語彙",
+      "prompt": "どんな理由があっても、人を（　）いけない。 選択肢：1 なおしては / 2 くぎっては / 3 なぐっては / 4 けずっては",
+      "answer": "3",
+      "explanation": "词汇点：殴る（なぐる）。表示“打、殴打”。"
+    },
+    {
+      "id": "Q316",
+      "part": "Unit 9",
+      "type": "語彙",
+      "prompt": "ここからは富士山が（　）と見えますよ。 選択肢：1 ちっとも / 2 びっくり / 3 うっとり / 4 はっきり",
+      "answer": "4",
+      "explanation": "词汇点：はっきり。该词/表达最符合句意。"
+    },
+    {
+      "id": "Q317",
+      "part": "Unit 9",
+      "type": "文法",
+      "prompt": "先生に教えられた（　）答えればいいです。 選択肢：1 どおりで / 2 どおりに / 3 とおりで / 4 とおりに",
+      "answer": "4",
+      "explanation": "文法点：～とおりに。表示“按照……”。"
+    },
+    {
+      "id": "Q318",
+      "part": "Unit 9",
+      "type": "文法",
+      "prompt": "この漢字は難しくて、大人（　）よく読み間違えます。 選択肢：1 にも / 2 ぐらい / 3 でも / 4 むきに",
+      "answer": "3",
+      "explanation": "文法点：～ても/でも。即使……也……。"
+    },
+    {
+      "id": "Q319",
+      "part": "Unit 9",
+      "type": "文字",
+      "prompt": "**宇宙**の中で、地球は小さな存在です。 選択肢：1 うじゅう / 2 うちゅう / 3 おじゅう / 4 おちゅう",
+      "answer": "2",
+      "explanation": "考点：宇宙。读音是「うちゅう」。词条读音：うちゅう；含义：宇宙。"
+    },
+    {
+      "id": "Q320",
+      "part": "Unit 9",
+      "type": "文字",
+      "prompt": "将来は中学校の**美術**教師になりたいです。 選択肢：1 びしゅつ / 2 みしゅつ / 3 びじゅつ / 4 みじゅつ",
+      "answer": "3",
+      "explanation": "考点：美術。读音是「びじゅつ」。词条读音：びじゅつ；含义：美术。"
+    },
+    {
+      "id": "Q321",
+      "part": "Unit 9",
+      "type": "語彙",
+      "prompt": "卒業後の（　）について、いろいろと考えました。 選択肢：1 進路 / 2 資格 / 3 進出 / 4 資料",
+      "answer": "1",
+      "explanation": "词汇点：進路。该词/表达最符合句意。"
+    },
+    {
+      "id": "Q322",
+      "part": "Unit 9",
+      "type": "語彙",
+      "prompt": "彼は（　）な視点からこの文章を分析しました。 選択肢：1 ハッピー / 2 ハンサム / 3 シンプル / 4 ユニーク",
+      "answer": "4",
+      "explanation": "词汇点：ユニーク。该词/表达最符合句意。"
+    },
+    {
+      "id": "Q323",
+      "part": "Unit 9",
+      "type": "文法",
+      "prompt": "これから食事に（　）と思いますが、よかったら一緒に行きませんか。 選択肢：1 行こう / 2 行ってみる / 3 行った / 4 行ったんだ",
+      "answer": "1",
+      "explanation": "文法点：意向形＋と思います。表示说话人的打算或意向。"
+    },
+    {
+      "id": "Q324",
+      "part": "Unit 9",
+      "type": "文法",
+      "prompt": "先輩方の卒業論文を（　）、たいへん勉強になりました。 選択肢：1 見られて / 2 拝啓して / 3 見せられて / 4 拝見して",
+      "answer": "4",
+      "explanation": "文法点：拝見する。「見る」的自谦语。"
+    }
+  ]
+}

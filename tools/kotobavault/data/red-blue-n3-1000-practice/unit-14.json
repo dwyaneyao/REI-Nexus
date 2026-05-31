@@ -1,0 +1,353 @@
+{
+  "schemaVersion": 1,
+  "unit": {
+    "id": "red-blue-n3-1000-practice-unit-14",
+    "title": "红蓝宝书1000题 - Unit 14",
+    "type": "practice_unit",
+    "status": "manual-reviewed-draft",
+    "tags": [
+      "jlpt",
+      "n3",
+      "practice",
+      "vocabulary",
+      "grammar",
+      "red-blue-1000",
+      "manual-entry"
+    ],
+    "sourceId": "source-red-blue-n3-1000-practice",
+    "sourcePages": [
+      164,
+      175
+    ],
+    "created": "2026-05-26",
+    "updated": "2026-05-26",
+    "scope": {
+      "Question range": "Q469-Q504",
+      "Source pages": "PDF pages 164-175",
+      "Page-image cache": "`.cache/ocr/red-blue-n3-1000-practice/`"
+    },
+    "contentPath": "content/items/red-blue-n3-1000-practice/unit-14.md"
+  },
+  "vocabulary": [],
+  "reviewCards": [],
+  "sourceTestPages": [
+    {
+      "kind": "questions",
+      "title": "原书练习题",
+      "bookPages": "157-167",
+      "pdfPages": "164-174",
+      "images": [
+        ".cache/ocr/red-blue-n3-1000-practice/images/page_164.jpg",
+        ".cache/ocr/red-blue-n3-1000-practice/images/page_166.jpg",
+        ".cache/ocr/red-blue-n3-1000-practice/images/page_168.jpg",
+        ".cache/ocr/red-blue-n3-1000-practice/images/page_170.jpg",
+        ".cache/ocr/red-blue-n3-1000-practice/images/page_172.jpg",
+        ".cache/ocr/red-blue-n3-1000-practice/images/page_174.jpg"
+      ]
+    },
+    {
+      "kind": "answers",
+      "title": "原书答案解析",
+      "bookPages": "158-168",
+      "pdfPages": "165-175",
+      "images": [
+        ".cache/ocr/red-blue-n3-1000-practice/images/page_165.jpg",
+        ".cache/ocr/red-blue-n3-1000-practice/images/page_167.jpg",
+        ".cache/ocr/red-blue-n3-1000-practice/images/page_169.jpg",
+        ".cache/ocr/red-blue-n3-1000-practice/images/page_171.jpg",
+        ".cache/ocr/red-blue-n3-1000-practice/images/page_173.jpg",
+        ".cache/ocr/red-blue-n3-1000-practice/images/page_175.jpg"
+      ]
+    }
+  ],
+  "sourceTextTests": [
+    {
+      "id": "Q469",
+      "part": "Unit 14",
+      "type": "文字",
+      "prompt": "お知らせのメールが**届きました**。 選択肢：1 たきました / 2 とどきました / 3 さきました / 4 たたきました",
+      "answer": "2",
+      "explanation": "詞彙點：届く（とどく）。表示「到达、送到」。"
+    },
+    {
+      "id": "Q470",
+      "part": "Unit 14",
+      "type": "文字",
+      "prompt": "彼女は僕の**理想**のタイプです。 選択肢：1 りしょ / 2 りしょう / 3 りそ / 4 りそう",
+      "answer": "4",
+      "explanation": "詞彙點：理想（りそう）。表示「理想」。"
+    },
+    {
+      "id": "Q471",
+      "part": "Unit 14",
+      "type": "語彙",
+      "prompt": "冗談を言ったのに、彼女は（　）で怒りました。 選択肢：1 本物 / 2 本当 / 3 本部 / 4 本気",
+      "answer": "4",
+      "explanation": "詞彙點：本気（ほんき）。表示「认真、当真」。"
+    },
+    {
+      "id": "Q472",
+      "part": "Unit 14",
+      "type": "語彙",
+      "prompt": "携帯電話は生活に（　）ものとなっています。 選択肢：1 こぼせない / 2 かかせない / 3 ながせない / 4 おかせない",
+      "answer": "2",
+      "explanation": "詞彙點：欠かせない（かかせない）。表示「不可缺少」。"
+    },
+    {
+      "id": "Q473",
+      "part": "Unit 14",
+      "type": "文法",
+      "prompt": "小さい頃、空を飛んでいる飛行機を（　）喜んでいました。 選択肢：1 見ては / 2 見られては / 3 見ても / 4 見られても",
+      "answer": "1",
+      "explanation": "語法點：動詞て形＋は。表示动作反复发生时的情况。"
+    },
+    {
+      "id": "Q474",
+      "part": "Unit 14",
+      "type": "文法",
+      "prompt": "ボランティア活動がきっかけ（　）、彼と知り合った。 選択肢：1 と / 2 に / 3 を / 4 で",
+      "answer": "4",
+      "explanation": "語法點：名詞＋がきっかけで。表示「以……为契机」。"
+    },
+    {
+      "id": "Q475",
+      "part": "Unit 14",
+      "type": "文字",
+      "prompt": "生活がより**豊か**になりました。 選択肢：1 ゆたか / 2 さわやか / 3 たしか / 4 にぎやか",
+      "answer": "1",
+      "explanation": "詞彙點：豊か（ゆたか）。表示「富裕、丰富」。"
+    },
+    {
+      "id": "Q476",
+      "part": "Unit 14",
+      "type": "文字",
+      "prompt": "明日10時に**出発**します。 選択肢：1 しゅはつ / 2 しゅっぱつ / 3 しょはつ / 4 しょっぱつ",
+      "answer": "2",
+      "explanation": "詞彙點：出発（しゅっぱつ）。表示「出发」。"
+    },
+    {
+      "id": "Q477",
+      "part": "Unit 14",
+      "type": "語彙",
+      "prompt": "これらの料理を試食して、それぞれに（　）をつけてください。 選択肢：1 味見 / 2 分別 / 3 性質 / 4 点数",
+      "answer": "4",
+      "explanation": "詞彙點：点数（てんすう）。表示「分数」。"
+    },
+    {
+      "id": "Q478",
+      "part": "Unit 14",
+      "type": "語彙",
+      "prompt": "朝食を（　）食べないと、体によくないですよ。 選択肢：1 ちゃんと / 2 もっとも / 3 そんなに / 4 いそいで",
+      "answer": "1",
+      "explanation": "詞彙點：ちゃんと。表示「好好地、规规矩矩地」。"
+    },
+    {
+      "id": "Q479",
+      "part": "Unit 14",
+      "type": "文法",
+      "prompt": "夕べ、隣の部屋の人に夜遅くまで（　）、ぜんぜん眠れませんでした。 選択肢：1 騒いで / 2 騒がれて / 3 騒がせて / 4 騒がされて",
+      "answer": "2",
+      "explanation": "語法點：受身形。表示受到他人行为带来的影响。"
+    },
+    {
+      "id": "Q480",
+      "part": "Unit 14",
+      "type": "文法",
+      "prompt": "「映画館でタバコを吸う（　）。」 選択肢：1 んじゃないか / 2 のではないか / 3 んじゃない / 4 のではないだろうか",
+      "answer": "3",
+      "explanation": "語法點：動詞辞書形＋んじゃない。表示禁止或责备「不要……」。"
+    },
+    {
+      "id": "Q481",
+      "part": "Unit 14",
+      "type": "文字",
+      "prompt": "目が痛くて、**目薬**をさす。 選択肢：1 もくやく / 2 めやく / 3 もっくすり / 4 めぐすり",
+      "answer": "4",
+      "explanation": "詞彙點：目薬（めぐすり）。表示「眼药水」。"
+    },
+    {
+      "id": "Q482",
+      "part": "Unit 14",
+      "type": "文字",
+      "prompt": "一流大学の入学試験は**競争**が激しい。 選択肢：1 きょうそう / 2 きょうぞう / 3 けいそう / 4 けいぞう",
+      "answer": "1",
+      "explanation": "詞彙點：競争（きょうそう）。表示「竞争」。"
+    },
+    {
+      "id": "Q483",
+      "part": "Unit 14",
+      "type": "語彙",
+      "prompt": "今朝、電車に傘を（　）。 選択肢：1 いい忘れた / 2 おき忘れた / 3 かき忘れた / 4 きき忘れた",
+      "answer": "2",
+      "explanation": "詞彙點：置き忘れる（おきわすれる）。表示「遗忘、落下物品」。"
+    },
+    {
+      "id": "Q484",
+      "part": "Unit 14",
+      "type": "語彙",
+      "prompt": "田中さんもチームの（　）に加わりました。 選択肢：1 リーダー / 2 メモリー / 3 メンバー / 4 クッキー",
+      "answer": "3",
+      "explanation": "詞彙點：メンバー。表示「成员」。"
+    },
+    {
+      "id": "Q485",
+      "part": "Unit 14",
+      "type": "文法",
+      "prompt": "コーヒーを（　）と、体に悪影響を及ぼす恐れがあります。 選択肢：1 飲みきれる / 2 飲みすぎる / 3 飲んでいる / 4 飲んでくる",
+      "answer": "2",
+      "explanation": "語法點：動詞ます形＋すぎる。表示「过度……」。"
+    },
+    {
+      "id": "Q486",
+      "part": "Unit 14",
+      "type": "文法",
+      "prompt": "信用という（　）は一度失ったらそう簡単には取り戻せません。 選択肢：1 もの / 2 より / 3 こと / 4 の",
+      "answer": "1",
+      "explanation": "語法點：名詞＋というものは。用于提出一般性说明。"
+    },
+    {
+      "id": "Q487",
+      "part": "Unit 14",
+      "type": "文字",
+      "prompt": "この本は練習問題に**加えて**、解説が入っています。 選択肢：1 つたえて / 2 くわえて / 3 うったえて / 4 かんがえて",
+      "answer": "2",
+      "explanation": "詞彙點：加える（くわえる）。表示「加上、追加」。"
+    },
+    {
+      "id": "Q488",
+      "part": "Unit 14",
+      "type": "文字",
+      "prompt": "夜中に大声を出すのは**近所**迷惑だ。 選択肢：1 きんしょ / 2 ちかしょ / 3 きんじょ / 4 ちかじょ",
+      "answer": "3",
+      "explanation": "詞彙點：近所（きんじょ）。表示「附近、邻里」。"
+    },
+    {
+      "id": "Q489",
+      "part": "Unit 14",
+      "type": "語彙",
+      "prompt": "クラスで一番（　）器用な人はわたしでした。 選択肢：1 不 / 2 非 / 3 未 / 4 否",
+      "answer": "1",
+      "explanation": "詞彙點：不器用（ぶきよう）。表示「笨拙、不灵巧」。"
+    },
+    {
+      "id": "Q490",
+      "part": "Unit 14",
+      "type": "語彙",
+      "prompt": "今回の地震で多くの住宅が（　）。 選択肢：1 おそれてしまった / 2 崩れてしまった / 3 ひかえてしまった / 4 砕けてしまった",
+      "answer": "2",
+      "explanation": "詞彙點：崩れる（くずれる）。表示「倒塌、崩塌」。"
+    },
+    {
+      "id": "Q491",
+      "part": "Unit 14",
+      "type": "文法",
+      "prompt": "この仕事は実際に（　）と、とても難しかったです。 選択肢：1 やらせない / 2 やらせる / 3 やってみない / 4 やってみる",
+      "answer": "4",
+      "explanation": "語法點：動詞て形＋みると。表示「试着……之后发现……」。"
+    },
+    {
+      "id": "Q492",
+      "part": "Unit 14",
+      "type": "文法",
+      "prompt": "留学するか（　）、両親と相談してから決めます。 選択肢：1 しょうか / 2 あるか / 3 しないか / 4 ないか",
+      "answer": "3",
+      "explanation": "語法點：動詞辞書形＋か＋ない形＋か。表示「是否……」。"
+    },
+    {
+      "id": "Q493",
+      "part": "Unit 14",
+      "type": "文字",
+      "prompt": "『高慢と偏見』はわたしの**愛読書**です。 選択肢：1 あいよみしょ / 2 あいどくしょ / 3 あいよみじょ / 4 あいどくじょ",
+      "answer": "2",
+      "explanation": "詞彙點：愛読書（あいどくしょ）。表示「爱读的书」。"
+    },
+    {
+      "id": "Q494",
+      "part": "Unit 14",
+      "type": "文字",
+      "prompt": "祖母の**お葬式**に参加するために故郷に帰りました。 選択肢：1 しょうしき / 2 しょうじき / 3 そうしき / 4 そうじき",
+      "answer": "3",
+      "explanation": "詞彙點：葬式（そうしき）。表示「葬礼」。"
+    },
+    {
+      "id": "Q495",
+      "part": "Unit 14",
+      "type": "語彙",
+      "prompt": "こんなに（　）なパーティーにご招待いただき、ありがとうございました。 選択肢：1 自然 / 2 大幅 / 3 邪魔 / 4 素敵",
+      "answer": "4",
+      "explanation": "詞彙點：素敵（すてき）。表示「极好、出色」。"
+    },
+    {
+      "id": "Q496",
+      "part": "Unit 14",
+      "type": "語彙",
+      "prompt": "1年間絶交していたあの二人は（　）仲直りしました。 選択肢：1 ついに / 2 たまに / 3 つねに / 4 とくに",
+      "answer": "1",
+      "explanation": "詞彙點：ついに。表示「终于、最终」。"
+    },
+    {
+      "id": "Q497",
+      "part": "Unit 14",
+      "type": "文法",
+      "prompt": "パーティーの準備は終わった。あとはみんなが来るのを待つ（　）だ。 選択肢：1 だけ / 2 まで / 3 ほど / 4 きり",
+      "answer": "1",
+      "explanation": "語法點：あとは〜だけだ。表示「剩下只要……」。"
+    },
+    {
+      "id": "Q498",
+      "part": "Unit 14",
+      "type": "文法",
+      "prompt": "高血圧はお年寄りに（　）がちな病気です。 選択肢：1 ある / 2 あって / 3 あり / 4 あった",
+      "answer": "3",
+      "explanation": "語法點：動詞ます形＋がち。表示「容易……、常常……」。"
+    },
+    {
+      "id": "Q499",
+      "part": "Unit 14",
+      "type": "文字",
+      "prompt": "鈴木さんは**卓球**が上手です。 選択肢：1 たっきゅう / 2 たくぎゅう / 3 だっきゅう / 4 だくぎゅう",
+      "answer": "1",
+      "explanation": "詞彙點：卓球（たっきゅう）。表示「乒乓球」。"
+    },
+    {
+      "id": "Q500",
+      "part": "Unit 14",
+      "type": "文字",
+      "prompt": "大気**汚染**が大きな問題になっている。 選択肢：1 よごせん / 2 おせん / 3 よごじみ / 4 おじみ",
+      "answer": "2",
+      "explanation": "詞彙點：汚染（おせん）。表示「污染」。"
+    },
+    {
+      "id": "Q501",
+      "part": "Unit 14",
+      "type": "語彙",
+      "prompt": "彼はいつもハンカチを（　）に入れています。 選択肢：1 スリッパ / 2 ストーブ / 3 ポケット / 4 ボーナス",
+      "answer": "3",
+      "explanation": "詞彙點：ポケット。表示「口袋」。"
+    },
+    {
+      "id": "Q502",
+      "part": "Unit 14",
+      "type": "語彙",
+      "prompt": "親に（　）をかけたくなかったので、本当のことを言わなかった。 選択肢：1 感心 / 2 心配 / 3 関心 / 4 心理",
+      "answer": "2",
+      "explanation": "詞彙點：心配をかける。表示「让人担心」。"
+    },
+    {
+      "id": "Q503",
+      "part": "Unit 14",
+      "type": "文法",
+      "prompt": "親が子どもを思う気持ちは（　）わかる。 選択肢：1 言わないで / 2 言わずに / 3 言わなくては / 4 言わずとも",
+      "answer": "4",
+      "explanation": "語法點：動詞ない形＋ずとも。表示「即使不……也……」。"
+    },
+    {
+      "id": "Q504",
+      "part": "Unit 14",
+      "type": "文法",
+      "prompt": "今日、田中会長が久しぶりに本社に（　）。 選択肢：1 お召しになりました / 2 ご覧になりました / 3 お見えになりました / 4 お目にかけました",
+      "answer": "3",
+      "explanation": "語法點：お見えになる。「来る」的尊敬语。"
+    }
+  ]
+}

@@ -1,0 +1,353 @@
+{
+  "schemaVersion": 1,
+  "unit": {
+    "id": "red-blue-n3-1000-practice-unit-15",
+    "title": "红蓝宝书1000题 - Unit 15",
+    "type": "practice_unit",
+    "status": "manual-reviewed-draft",
+    "tags": [
+      "jlpt",
+      "n3",
+      "practice",
+      "vocabulary",
+      "grammar",
+      "red-blue-1000",
+      "manual-entry"
+    ],
+    "sourceId": "source-red-blue-n3-1000-practice",
+    "sourcePages": [
+      176,
+      187
+    ],
+    "created": "2026-05-26",
+    "updated": "2026-05-26",
+    "scope": {
+      "Question range": "Q505-Q540",
+      "Source pages": "PDF pages 176-187",
+      "Page-image cache": "`.cache/ocr/red-blue-n3-1000-practice/`"
+    },
+    "contentPath": "content/items/red-blue-n3-1000-practice/unit-15.md"
+  },
+  "vocabulary": [],
+  "reviewCards": [],
+  "sourceTestPages": [
+    {
+      "kind": "questions",
+      "title": "原书练习题",
+      "bookPages": "169-179",
+      "pdfPages": "176-186",
+      "images": [
+        ".cache/ocr/red-blue-n3-1000-practice/images/page_176.jpg",
+        ".cache/ocr/red-blue-n3-1000-practice/images/page_178.jpg",
+        ".cache/ocr/red-blue-n3-1000-practice/images/page_180.jpg",
+        ".cache/ocr/red-blue-n3-1000-practice/images/page_182.jpg",
+        ".cache/ocr/red-blue-n3-1000-practice/images/page_184.jpg",
+        ".cache/ocr/red-blue-n3-1000-practice/images/page_186.jpg"
+      ]
+    },
+    {
+      "kind": "answers",
+      "title": "原书答案解析",
+      "bookPages": "170-180",
+      "pdfPages": "177-187",
+      "images": [
+        ".cache/ocr/red-blue-n3-1000-practice/images/page_177.jpg",
+        ".cache/ocr/red-blue-n3-1000-practice/images/page_179.jpg",
+        ".cache/ocr/red-blue-n3-1000-practice/images/page_181.jpg",
+        ".cache/ocr/red-blue-n3-1000-practice/images/page_183.jpg",
+        ".cache/ocr/red-blue-n3-1000-practice/images/page_185.jpg",
+        ".cache/ocr/red-blue-n3-1000-practice/images/page_187.jpg"
+      ]
+    }
+  ],
+  "sourceTextTests": [
+    {
+      "id": "Q505",
+      "part": "Unit 15",
+      "type": "文字",
+      "prompt": "**離れて**いても、家族の心はつながっています。 選択肢：1 つかれて / 2 おくれて / 3 わすれて / 4 はなれて",
+      "answer": "4",
+      "explanation": "詞彙點：離れる（はなれる）。表示「离开、分离」。"
+    },
+    {
+      "id": "Q506",
+      "part": "Unit 15",
+      "type": "文字",
+      "prompt": "風邪薬を買いに**薬局**に行きました。 選択肢：1 くすりきょく / 2 くすりぎょく / 3 やっきょく / 4 やくぎょく",
+      "answer": "3",
+      "explanation": "詞彙點：薬局（やっきょく）。表示「药店、药房」。"
+    },
+    {
+      "id": "Q507",
+      "part": "Unit 15",
+      "type": "語彙",
+      "prompt": "今日は（　）のお好み焼きを食べて大満足です。 選択肢：1 発売 / 2 本場 / 3 発達 / 4 本人",
+      "answer": "2",
+      "explanation": "詞彙點：本場（ほんば）。表示「原产地、正宗」。"
+    },
+    {
+      "id": "Q508",
+      "part": "Unit 15",
+      "type": "語彙",
+      "prompt": "来週は家族（　）温泉旅行に行く予定です。 選択肢：1 そろって / 2 とがって / 3 とまって / 4 におって",
+      "answer": "1",
+      "explanation": "詞彙點：そろって。表示「一起、全都」。"
+    },
+    {
+      "id": "Q509",
+      "part": "Unit 15",
+      "type": "文法",
+      "prompt": "感謝の気持ち（　）込めて先生に花束を渡しました。 選択肢：1 を / 2 と / 3 に / 4 が",
+      "answer": "1",
+      "explanation": "語法點：名詞＋を込めて。表示「充满、怀着……」。"
+    },
+    {
+      "id": "Q510",
+      "part": "Unit 15",
+      "type": "文法",
+      "prompt": "この話は（　）ことにしてください。 選択肢：1 聞く / 2 聞いている / 3 聞かない / 4 聞かなかった",
+      "answer": "4",
+      "explanation": "語法點：動詞た形＋ことにする。表示「就当作……」。"
+    },
+    {
+      "id": "Q511",
+      "part": "Unit 15",
+      "type": "文字",
+      "prompt": "うちの息子は魚が**嫌い**です。 選択肢：1 きれい / 2 きらい / 3 にがい / 4 ひろい",
+      "answer": "2",
+      "explanation": "詞彙點：嫌い（きらい）。表示「讨厌、不喜欢」。"
+    },
+    {
+      "id": "Q512",
+      "part": "Unit 15",
+      "type": "文字",
+      "prompt": "美術館にはいろいろな**彫刻**があります。 選択肢：1 しゅうこく / 2 しゅうごく / 3 ちょうこく / 4 ちょうごく",
+      "answer": "3",
+      "explanation": "詞彙點：彫刻（ちょうこく）。表示「雕刻」。"
+    },
+    {
+      "id": "Q513",
+      "part": "Unit 15",
+      "type": "語彙",
+      "prompt": "わたしは料理を作るのが（　）です。 選択肢：1 豊富 / 2 微妙 / 3 見事 / 4 苦手",
+      "answer": "4",
+      "explanation": "詞彙點：苦手（にがて）。表示「不擅长」。"
+    },
+    {
+      "id": "Q514",
+      "part": "Unit 15",
+      "type": "語彙",
+      "prompt": "（　）彼が本当に来るとは思わなかった。 選択肢：1 すこし / 2 まさか / 3 もしも / 4 わざと",
+      "answer": "2",
+      "explanation": "詞彙點：まさか。表示「没想到、难道」。"
+    },
+    {
+      "id": "Q515",
+      "part": "Unit 15",
+      "type": "文法",
+      "prompt": "山田さんは来月名古屋支社に転勤するんだ（　）。 選択肢：1 っけ / 2 って / 3 の / 4 か",
+      "answer": "2",
+      "explanation": "語法點：普通形＋って。表示传闻或引用。"
+    },
+    {
+      "id": "Q516",
+      "part": "Unit 15",
+      "type": "文法",
+      "prompt": "一方の言い訳を聞いただけでは、本当のことは（　）。 選択肢：1 わかります / 2 わかりません / 3 わかりました / 4 わかっています",
+      "answer": "2",
+      "explanation": "語法點：〜だけでは。表示「仅凭……的话」。"
+    },
+    {
+      "id": "Q517",
+      "part": "Unit 15",
+      "type": "文字",
+      "prompt": "**夜空**には星が輝いている。 選択肢：1 やくう / 2 やぞら / 3 よくう / 4 よぞら",
+      "answer": "4",
+      "explanation": "詞彙點：夜空（よぞら）。表示「夜空」。"
+    },
+    {
+      "id": "Q518",
+      "part": "Unit 15",
+      "type": "文字",
+      "prompt": "先月に比べ、野菜の**価格**が下がった。 選択肢：1 かかく / 2 かがく / 3 がかく / 4 ががく",
+      "answer": "1",
+      "explanation": "詞彙點：価格（かかく）。表示「价格」。"
+    },
+    {
+      "id": "Q519",
+      "part": "Unit 15",
+      "type": "語彙",
+      "prompt": "わたしは彼を（　）つもりはありません。 選択肢：1 うなる / 2 わかす / 3 だます / 4 ぬれる",
+      "answer": "3",
+      "explanation": "詞彙點：だます。表示「欺骗」。"
+    },
+    {
+      "id": "Q520",
+      "part": "Unit 15",
+      "type": "語彙",
+      "prompt": "（　）でスケジュール表を送りました。 選択肢：1 グラウンド / 2 ファックス / 3 プレゼント / 4 アクション",
+      "answer": "2",
+      "explanation": "詞彙點：ファックス。表示「传真」。"
+    },
+    {
+      "id": "Q521",
+      "part": "Unit 15",
+      "type": "文法",
+      "prompt": "今年に入ってから、わが社の売上げは伸びる（　）です。 選択肢：1 一方 / 2 ばかり / 3 最中 / 4 つもり",
+      "answer": "1",
+      "explanation": "語法點：動詞辞書形＋一方だ。表示「不断……」。"
+    },
+    {
+      "id": "Q522",
+      "part": "Unit 15",
+      "type": "文法",
+      "prompt": "10年もバイオリンを習っている彼がこの曲を弾けない（　）。 選択肢：1 というわけだ / 2 わけがない / 3 わけだから / 4 わけでもない",
+      "answer": "2",
+      "explanation": "語法點：〜わけがない。表示「不可能……」。"
+    },
+    {
+      "id": "Q523",
+      "part": "Unit 15",
+      "type": "文字",
+      "prompt": "大きな松の木が湖面に**影**を落としている。 選択肢：1 えき / 2 かげ / 3 さけ / 4 あわ",
+      "answer": "2",
+      "explanation": "詞彙點：影（かげ）。表示「影子」。"
+    },
+    {
+      "id": "Q524",
+      "part": "Unit 15",
+      "type": "文字",
+      "prompt": "自分のミスを深く**反省**しました。 選択肢：1 はんしょう / 2 はんしん / 3 はんせい / 4 はんせん",
+      "answer": "3",
+      "explanation": "詞彙點：反省（はんせい）。表示「反省」。"
+    },
+    {
+      "id": "Q525",
+      "part": "Unit 15",
+      "type": "語彙",
+      "prompt": "事故に関する詳しい（　）はまだ入っていません。 選択肢：1 程度 / 2 新聞 / 3 通知 / 4 情報",
+      "answer": "4",
+      "explanation": "詞彙點：情報（じょうほう）。表示「信息、情报」。"
+    },
+    {
+      "id": "Q526",
+      "part": "Unit 15",
+      "type": "語彙",
+      "prompt": "森を抜けると、（　）限りの白い雪原が目の前に広がった。 選択肢：1 見わたす / 2 見あげる / 3 見おくる / 4 見かける",
+      "answer": "1",
+      "explanation": "詞彙點：見渡す限り。表示「放眼望去所及之处」。"
+    },
+    {
+      "id": "Q527",
+      "part": "Unit 15",
+      "type": "文法",
+      "prompt": "これから（　）頑張っても今年の試験合格は無理です。 選択肢：1 いくつ / 2 どうも / 3 いくら / 4 まるで",
+      "answer": "3",
+      "explanation": "語法點：いくら〜ても。表示「无论多么……也……」。"
+    },
+    {
+      "id": "Q528",
+      "part": "Unit 15",
+      "type": "文法",
+      "prompt": "先生（　）そんな言い方は失礼だ。 選択肢：1 に対して / 2 にとっては / 3 に対する / 4 にとっても",
+      "answer": "1",
+      "explanation": "語法點：名詞＋に対して。表示「对……」。"
+    },
+    {
+      "id": "Q529",
+      "part": "Unit 15",
+      "type": "文字",
+      "prompt": "大輔くんは廊下に膝を**抱えて**座っている。 選択肢：1 はやめて / 2 はじめて / 3 かかえて / 4 ふかめて",
+      "answer": "3",
+      "explanation": "詞彙點：抱える（かかえる）。表示「抱、夹在腋下」。"
+    },
+    {
+      "id": "Q530",
+      "part": "Unit 15",
+      "type": "文字",
+      "prompt": "父はもうすぐ**定年**を迎えます。 選択肢：1 ていねん / 2 じょうねん / 3 ていとし / 4 じょうとし",
+      "answer": "1",
+      "explanation": "詞彙點：定年（ていねん）。表示「退休年龄」。"
+    },
+    {
+      "id": "Q531",
+      "part": "Unit 15",
+      "type": "語彙",
+      "prompt": "車酔いで（　）がする。 選択肢：1 しびれ / 2 はきけ / 3 かんじ / 4 さむけ",
+      "answer": "2",
+      "explanation": "詞彙點：吐き気（はきけ）がする。表示「感到恶心」。"
+    },
+    {
+      "id": "Q532",
+      "part": "Unit 15",
+      "type": "語彙",
+      "prompt": "授業を（　）遊びに行った。 選択肢：1 ダブって / 2 受けて / 3 サボって / 4 上げて",
+      "answer": "3",
+      "explanation": "詞彙點：サボる。表示「逃课、偷懒」。"
+    },
+    {
+      "id": "Q533",
+      "part": "Unit 15",
+      "type": "文法",
+      "prompt": "病院では大声で話すべき（　）。 選択肢：1 はない / 2 ではない / 3 がない / 4 はしない",
+      "answer": "2",
+      "explanation": "語法點：動詞辞書形＋べきではない。表示「不应该……」。"
+    },
+    {
+      "id": "Q534",
+      "part": "Unit 15",
+      "type": "文法",
+      "prompt": "この料理は辛いが、食べられない（　）ほどでもない。 選択肢：1 ような / 2 までの / 3 という / 4 とおりの",
+      "answer": "3",
+      "explanation": "語法點：〜というほどでもない。表示「并没有到……程度」。"
+    },
+    {
+      "id": "Q535",
+      "part": "Unit 15",
+      "type": "文字",
+      "prompt": "台風のため、運動会は来週に**延期**された。 選択肢：1 えんき / 2 えんぎ / 3 やんき / 4 やんぎ",
+      "answer": "1",
+      "explanation": "詞彙點：延期（えんき）。表示「延期」。"
+    },
+    {
+      "id": "Q536",
+      "part": "Unit 15",
+      "type": "文字",
+      "prompt": "妻は**実家**に帰りました。 選択肢：1 じつや / 2 じっか / 3 みのや / 4 みのか",
+      "answer": "2",
+      "explanation": "詞彙點：実家（じっか）。表示「娘家、父母家」。"
+    },
+    {
+      "id": "Q537",
+      "part": "Unit 15",
+      "type": "語彙",
+      "prompt": "時間がありましたら、（　）会場に来てください。 選択肢：1 より / 2 なお / 3 やく / 4 ぜひ",
+      "answer": "4",
+      "explanation": "詞彙點：ぜひ。表示「一定、务必」。"
+    },
+    {
+      "id": "Q538",
+      "part": "Unit 15",
+      "type": "語彙",
+      "prompt": "子どもが生まれて生活の（　）が変わった。 選択肢：1 コスト / 2 サイズ / 3 グラブ / 4 リズム",
+      "answer": "4",
+      "explanation": "詞彙點：リズム。表示「节奏」。"
+    },
+    {
+      "id": "Q539",
+      "part": "Unit 15",
+      "type": "文法",
+      "prompt": "レポートを正式に提出する前に、先生に指摘された部分を（　）直した。 選択肢：1 書く / 2 書き / 3 書け / 4 書か",
+      "answer": "2",
+      "explanation": "語法點：動詞ます形＋直す。表示「重新……」。"
+    },
+    {
+      "id": "Q540",
+      "part": "Unit 15",
+      "type": "文法",
+      "prompt": "「お客様、かばん売り場は2階に（　）。」 選択肢：1 ございます / 2 おります / 3 なさいます / 4 存じます",
+      "answer": "1",
+      "explanation": "語法點：ございます。「あります」的礼貌语。"
+    }
+  ]
+}

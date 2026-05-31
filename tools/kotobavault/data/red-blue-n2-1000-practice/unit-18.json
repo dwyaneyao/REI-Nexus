@@ -1,0 +1,353 @@
+{
+  "schemaVersion": 1,
+  "unit": {
+    "id": "red-blue-n2-1000-practice-unit-18",
+    "title": "红蓝宝书1000题 - N2 Unit 18",
+    "type": "practice_unit",
+    "status": "manual-reviewed-draft",
+    "tags": [
+      "jlpt",
+      "n2",
+      "practice",
+      "vocabulary",
+      "grammar",
+      "red-blue-1000",
+      "manual-entry"
+    ],
+    "sourceId": "source-red-blue-n2-1000-practice",
+    "sourcePages": [
+      211,
+      222
+    ],
+    "created": "2026-05-27",
+    "updated": "2026-05-27",
+    "scope": {
+      "Question range": "Q613-Q648",
+      "Source pages": "PDF pages 211-222",
+      "Page-image cache": "`.cache/ocr/red-blue-n2-1000-practice/`"
+    },
+    "contentPath": "content/items/red-blue-n2-1000-practice/unit-18.md"
+  },
+  "vocabulary": [],
+  "reviewCards": [],
+  "sourceTestPages": [
+    {
+      "kind": "questions",
+      "title": "练习题",
+      "bookPages": "205-215",
+      "pdfPages": "211-221",
+      "images": [
+        ".cache/ocr/red-blue-n2-1000-practice/images/page_211.jpg",
+        ".cache/ocr/red-blue-n2-1000-practice/images/page_213.jpg",
+        ".cache/ocr/red-blue-n2-1000-practice/images/page_215.jpg",
+        ".cache/ocr/red-blue-n2-1000-practice/images/page_217.jpg",
+        ".cache/ocr/red-blue-n2-1000-practice/images/page_219.jpg",
+        ".cache/ocr/red-blue-n2-1000-practice/images/page_221.jpg"
+      ]
+    },
+    {
+      "kind": "answers",
+      "title": "答案解析",
+      "bookPages": "206-216",
+      "pdfPages": "212-222",
+      "images": [
+        ".cache/ocr/red-blue-n2-1000-practice/images/page_212.jpg",
+        ".cache/ocr/red-blue-n2-1000-practice/images/page_214.jpg",
+        ".cache/ocr/red-blue-n2-1000-practice/images/page_216.jpg",
+        ".cache/ocr/red-blue-n2-1000-practice/images/page_218.jpg",
+        ".cache/ocr/red-blue-n2-1000-practice/images/page_220.jpg",
+        ".cache/ocr/red-blue-n2-1000-practice/images/page_222.jpg"
+      ]
+    }
+  ],
+  "sourceTextTests": [
+    {
+      "id": "Q613",
+      "part": "N2 Unit 18",
+      "type": "文字",
+      "prompt": "検索履歴を**消去**するにはここをクリックします。 選択肢：1 しょきょ / 2 しょうきょ / 3 しょさ / 4 しょうさ",
+      "answer": "2",
+      "explanation": "考点：消去。读音是「しょうきょ」。"
+    },
+    {
+      "id": "Q614",
+      "part": "N2 Unit 18",
+      "type": "文字",
+      "prompt": "外はマイナス20度の寒さで手足が**凍えて**動けない。 選択肢：1 こごえて / 2 ひかえて / 3 ふるえて / 4 くわえて",
+      "answer": "1",
+      "explanation": "考点：凍えて。读音是「こごえて」。"
+    },
+    {
+      "id": "Q615",
+      "part": "N2 Unit 18",
+      "type": "語彙",
+      "prompt": "明美ちゃんは（　）で足も長いし、モデルにふさわしい。 選択肢：1 スカート / 2 スケート / 3 スマート / 4 スタート",
+      "answer": "3",
+      "explanation": "词汇点：スマート。该词/表达最符合句意。"
+    },
+    {
+      "id": "Q616",
+      "part": "N2 Unit 18",
+      "type": "語彙",
+      "prompt": "「ポケットが（　）いるけど、何が入っているの？」 選択肢：1 にぎって / 2 積んで / 3 ふさがって / 4 膨らんで",
+      "answer": "4",
+      "explanation": "词汇点：膨らんで。该词/表达最符合句意。"
+    },
+    {
+      "id": "Q617",
+      "part": "N2 Unit 18",
+      "type": "文法",
+      "prompt": "何しろ結婚生活10年の（　）、お互いの気持ちは言わずともわかる。 選択肢：1 夫婦でも / 2 夫婦だけ / 3 夫婦だから / 4 夫婦でさえ",
+      "answer": "3",
+      "explanation": "文法点：夫婦だから。该形式符合句子的接续和语义。"
+    },
+    {
+      "id": "Q618",
+      "part": "N2 Unit 18",
+      "type": "文法",
+      "prompt": "そんなにやりたくないのなら、はっきり断れば（　）。 選択肢：1 いいのに / 2 よかったので / 3 いいものの / 4 よかったものの",
+      "answer": "1",
+      "explanation": "文法点：いいのに。该形式符合句子的接续和语义。"
+    },
+    {
+      "id": "Q619",
+      "part": "N2 Unit 18",
+      "type": "文字",
+      "prompt": "勝てるはずの試合が、**悔しく**引き分けに終わった。 選択肢：1 すずしく / 2 うれしく / 3 くやしく / 4 くるしく",
+      "answer": "3",
+      "explanation": "考点：悔しく。读音是「くやしく」。"
+    },
+    {
+      "id": "Q620",
+      "part": "N2 Unit 18",
+      "type": "文字",
+      "prompt": "この新書の**著者**はあの有名な村上さんだ。 選択肢：1 ちょしゃ / 2 ちょうしゃ / 3 ちょじゃ / 4 ちょうじゃ",
+      "answer": "1",
+      "explanation": "考点：著者。读音是「ちょしゃ」。"
+    },
+    {
+      "id": "Q621",
+      "part": "N2 Unit 18",
+      "type": "語彙",
+      "prompt": "日本語の平仮名を入力して漢字に（　）する。 選択肢：1 交換 / 2 変更 / 3 転換 / 4 変換",
+      "answer": "4",
+      "explanation": "词汇点：変換。该词/表达最符合句意。"
+    },
+    {
+      "id": "Q622",
+      "part": "N2 Unit 18",
+      "type": "語彙",
+      "prompt": "海外留学は異文化に（　）いい機会だ。 選択肢：1 さわる / 2 ふれる / 3 あたる / 4 ぶつかる",
+      "answer": "2",
+      "explanation": "词汇点：ふれる。该词/表达最符合句意。"
+    },
+    {
+      "id": "Q623",
+      "part": "N2 Unit 18",
+      "type": "文法",
+      "prompt": "家を出ようとしたところ（　）、電話が鳴り出した。 選択肢：1 に / 2 を / 3 が / 4 で",
+      "answer": "1",
+      "explanation": "文法点：に。该形式符合句子的接续和语义。"
+    },
+    {
+      "id": "Q624",
+      "part": "N2 Unit 18",
+      "type": "文法",
+      "prompt": "まだ習っていない内容を質問されても、（　）っこないよ。 選択肢：1 できる / 2 する / 3 でき / 4 した",
+      "answer": "3",
+      "explanation": "文法点：でき。该形式符合句子的接续和语义。"
+    },
+    {
+      "id": "Q625",
+      "part": "N2 Unit 18",
+      "type": "文字",
+      "prompt": "**昨今**の経済情勢の下、若者の就職状況はかなり厳しい。 選択肢：1 さくこん / 2 さっこん / 3 さくきょ / 4 さいきん",
+      "answer": "2",
+      "explanation": "考点：昨今。读音是「さっこん」。"
+    },
+    {
+      "id": "Q626",
+      "part": "N2 Unit 18",
+      "type": "文字",
+      "prompt": "姉は職場を離れて、子育てに**奮闘**している。 選択肢：1 ふんど / 2 ふんどう / 3 ふんと / 4 ふんとう",
+      "answer": "4",
+      "explanation": "考点：奮闘。读音是「ふんとう」。"
+    },
+    {
+      "id": "Q627",
+      "part": "N2 Unit 18",
+      "type": "語彙",
+      "prompt": "このドラマの主人公は実際に存在しない（　）の人物だ。 選択肢：1 架空 / 2 空想 / 3 想像 / 4 理想",
+      "answer": "1",
+      "explanation": "词汇点：架空。该词/表达最符合句意。"
+    },
+    {
+      "id": "Q628",
+      "part": "N2 Unit 18",
+      "type": "語彙",
+      "prompt": "今回の体験はこれからの人生に（　）になる。 選択肢：1 プラス / 2 セット / 3 ボーナス / 4 ラッキー",
+      "answer": "1",
+      "explanation": "词汇点：プラス。该词/表达最符合句意。"
+    },
+    {
+      "id": "Q629",
+      "part": "N2 Unit 18",
+      "type": "文法",
+      "prompt": "新発売の携帯電話は、今までのもの（　）、画面がかなり大きくなった。 選択肢：1 に関して / 2 に反して / 3 と比べて / 4 に対して",
+      "answer": "3",
+      "explanation": "文法点：と比べて。该形式符合句子的接续和语义。"
+    },
+    {
+      "id": "Q630",
+      "part": "N2 Unit 18",
+      "type": "文法",
+      "prompt": "食べ放題というのは、好きなだけたくさん食べていい（　）です。 選択肢：1 ということ / 2 というもの / 3 というところ / 4 といういみ",
+      "answer": "1",
+      "explanation": "文法点：ということ。该形式符合句子的接续和语义。"
+    },
+    {
+      "id": "Q631",
+      "part": "N2 Unit 18",
+      "type": "文字",
+      "prompt": "この書類は**日付**が間違っている。 選択肢：1 にちづけ / 2 にっぷ / 3 ひづけ / 4 ひっぷ",
+      "answer": "3",
+      "explanation": "考点：日付。读音是「ひづけ」。"
+    },
+    {
+      "id": "Q632",
+      "part": "N2 Unit 18",
+      "type": "文字",
+      "prompt": "「建前ではなく、**本音**を聞かせてください。」 選択肢：1 ほんおと / 2 もとおん / 3 もとね / 4 ほんね",
+      "answer": "4",
+      "explanation": "考点：本音。读音是「ほんね」。"
+    },
+    {
+      "id": "Q633",
+      "part": "N2 Unit 18",
+      "type": "語彙",
+      "prompt": "祖父の（　）話はもううんざりだ。 選択肢：1 にぶい / 2 くどい / 3 おそい / 4 あらい",
+      "answer": "2",
+      "explanation": "词汇点：くどい。该词/表达最符合句意。"
+    },
+    {
+      "id": "Q634",
+      "part": "N2 Unit 18",
+      "type": "語彙",
+      "prompt": "彼は、国際ピアノコンクールでの優勝を（　）、毎日遅くまで練習している。 選択肢：1 とらえて / 2 みまもって / 3 めざして / 4 あわせて",
+      "answer": "3",
+      "explanation": "词汇点：めざして。该词/表达最符合句意。"
+    },
+    {
+      "id": "Q635",
+      "part": "N2 Unit 18",
+      "type": "文法",
+      "prompt": "今回の交渉は当初の予想（　）、順調に進んでいる。 選択肢：1 とは反対に / 2 ながらも / 3 とともに / 4 を問わず",
+      "answer": "1",
+      "explanation": "文法点：とは反対に。该形式符合句子的接续和语义。"
+    },
+    {
+      "id": "Q636",
+      "part": "N2 Unit 18",
+      "type": "文法",
+      "prompt": "大学院を（　）以来、指導教授の江藤先生には一度も会っていない。 選択肢：1 卒業し / 2 卒業する / 3 卒業した / 4 卒業して",
+      "answer": "4",
+      "explanation": "文法点：卒業して。该形式符合句子的接续和语义。"
+    },
+    {
+      "id": "Q637",
+      "part": "N2 Unit 18",
+      "type": "文字",
+      "prompt": "二人はテーブルを**隔てて**向かい合わせに座っていた。 選択肢：1 へだてて / 2 あてて / 3 たてて / 4 あわてて",
+      "answer": "1",
+      "explanation": "考点：隔てて。读音是「へだてて」。"
+    },
+    {
+      "id": "Q638",
+      "part": "N2 Unit 18",
+      "type": "文字",
+      "prompt": "クーラーが効きすぎて、**上着**を着ないと寒い。 選択肢：1 じょうぎ / 2 うえぎ / 3 うわぎ / 4 うわき",
+      "answer": "3",
+      "explanation": "考点：上着。读音是「うわぎ」。"
+    },
+    {
+      "id": "Q639",
+      "part": "N2 Unit 18",
+      "type": "語彙",
+      "prompt": "「そんなばかなことは、（　）やめなさい。」 選択肢：1 ことに / 2 じかに / 3 しきりに / 4 ただちに",
+      "answer": "4",
+      "explanation": "词汇点：ただちに。该词/表达最符合句意。"
+    },
+    {
+      "id": "Q640",
+      "part": "N2 Unit 18",
+      "type": "語彙",
+      "prompt": "面接には（　）な服装で行ったほうがいいだろう。 選択肢：1 無地 / 2 無難 / 3 無限 / 4 無事",
+      "answer": "2",
+      "explanation": "词汇点：無難。该词/表达最符合句意。"
+    },
+    {
+      "id": "Q641",
+      "part": "N2 Unit 18",
+      "type": "文法",
+      "prompt": "この通りには和風の屋敷があるか（　）、おしゃれな洋館も多い。 選択肢：1 と言えば / 2 と言ったら / 3 と思えば / 4 と思ったら",
+      "answer": "3",
+      "explanation": "文法点：と思えば。该形式符合句子的接续和语义。"
+    },
+    {
+      "id": "Q642",
+      "part": "N2 Unit 18",
+      "type": "文法",
+      "prompt": "帰り道にぼんやり歩いていて、危うく電柱に（　）。 選択肢：1 ぶつかるところだ / 2 ぶつかるところだった / 3 ぶつかったところだ / 4 ぶつからなかったところだった",
+      "answer": "2",
+      "explanation": "文法点：ぶつかるところだった。该形式符合句子的接续和语义。"
+    },
+    {
+      "id": "Q643",
+      "part": "N2 Unit 18",
+      "type": "文字",
+      "prompt": "中村さんはようやく事件の**始終**を語った。 選択肢：1 じしゅ / 2 じじゅう / 3 しじゅ / 4 しじゅう",
+      "answer": "4",
+      "explanation": "考点：始終。读音是「しじゅう」。"
+    },
+    {
+      "id": "Q644",
+      "part": "N2 Unit 18",
+      "type": "文字",
+      "prompt": "彼はチンパンジーのまねをして、**滑稽**な顔をした。 選択肢：1 こつけい / 2 こっけい / 3 かつけい / 4 かっけい",
+      "answer": "2",
+      "explanation": "考点：滑稽。读音是「こっけい」。"
+    },
+    {
+      "id": "Q645",
+      "part": "N2 Unit 18",
+      "type": "語彙",
+      "prompt": "佐藤くんはよく頭痛を（　）に、授業をサボる。 選択肢：1 言い訳 / 2 言い合い / 3 言い伝え / 4 言い分",
+      "answer": "1",
+      "explanation": "词汇点：言い訳。该词/表达最符合句意。"
+    },
+    {
+      "id": "Q646",
+      "part": "N2 Unit 18",
+      "type": "語彙",
+      "prompt": "期限までに授業料を（　）と、入学できない。 選択肢：1 すませない / 2 かぞえない / 3 おさめない / 4 あずけない",
+      "answer": "3",
+      "explanation": "词汇点：おさめない。该词/表达最符合句意。"
+    },
+    {
+      "id": "Q647",
+      "part": "N2 Unit 18",
+      "type": "文法",
+      "prompt": "子どもたちの気持ちも考えて（　）。 選択肢：1 あげてください / 2 さしあげてください / 3 もらってください / 4 いただいてください",
+      "answer": "1",
+      "explanation": "文法点：あげてください。该形式符合句子的接续和语义。"
+    },
+    {
+      "id": "Q648",
+      "part": "N2 Unit 18",
+      "type": "文法",
+      "prompt": "「この問題について、会長のお考えを（　）。」 選択肢：1 お聞き差し上げませんか / 2 お聞きしてくださいませんか / 3 お聞かせ申し上げますか / 4 お聞かせ願えないでしょうか",
+      "answer": "4",
+      "explanation": "文法点：お聞かせ願えないでしょうか。该形式符合句子的接续和语义。"
+    }
+  ]
+}

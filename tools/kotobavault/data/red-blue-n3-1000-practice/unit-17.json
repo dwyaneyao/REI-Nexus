@@ -1,0 +1,353 @@
+{
+  "schemaVersion": 1,
+  "unit": {
+    "id": "red-blue-n3-1000-practice-unit-17",
+    "title": "红蓝宝书1000题 - Unit 17",
+    "type": "practice_unit",
+    "status": "manual-reviewed-draft",
+    "tags": [
+      "jlpt",
+      "n3",
+      "practice",
+      "vocabulary",
+      "grammar",
+      "red-blue-1000",
+      "manual-entry"
+    ],
+    "sourceId": "source-red-blue-n3-1000-practice",
+    "sourcePages": [
+      200,
+      211
+    ],
+    "created": "2026-05-26",
+    "updated": "2026-05-26",
+    "scope": {
+      "Question range": "Q577-Q612",
+      "Source pages": "PDF pages 200-211",
+      "Page-image cache": "`.cache/ocr/red-blue-n3-1000-practice/`"
+    },
+    "contentPath": "content/items/red-blue-n3-1000-practice/unit-17.md"
+  },
+  "vocabulary": [],
+  "reviewCards": [],
+  "sourceTestPages": [
+    {
+      "kind": "questions",
+      "title": "原书练习题",
+      "bookPages": "193-203",
+      "pdfPages": "200-210",
+      "images": [
+        ".cache/ocr/red-blue-n3-1000-practice/images/page_200.jpg",
+        ".cache/ocr/red-blue-n3-1000-practice/images/page_202.jpg",
+        ".cache/ocr/red-blue-n3-1000-practice/images/page_204.jpg",
+        ".cache/ocr/red-blue-n3-1000-practice/images/page_206.jpg",
+        ".cache/ocr/red-blue-n3-1000-practice/images/page_208.jpg",
+        ".cache/ocr/red-blue-n3-1000-practice/images/page_210.jpg"
+      ]
+    },
+    {
+      "kind": "answers",
+      "title": "原书答案解析",
+      "bookPages": "194-204",
+      "pdfPages": "201-211",
+      "images": [
+        ".cache/ocr/red-blue-n3-1000-practice/images/page_201.jpg",
+        ".cache/ocr/red-blue-n3-1000-practice/images/page_203.jpg",
+        ".cache/ocr/red-blue-n3-1000-practice/images/page_205.jpg",
+        ".cache/ocr/red-blue-n3-1000-practice/images/page_207.jpg",
+        ".cache/ocr/red-blue-n3-1000-practice/images/page_209.jpg",
+        ".cache/ocr/red-blue-n3-1000-practice/images/page_211.jpg"
+      ]
+    }
+  ],
+  "sourceTextTests": [
+    {
+      "id": "Q577",
+      "part": "Unit 17",
+      "type": "文字",
+      "prompt": "若い人たちが仕事を**求めて**都会に行きます。 選択肢：1 むかえて / 2 ほめて / 3 もとめて / 4 やめて",
+      "answer": "3",
+      "explanation": "詞彙點：求める（もとめる）。表示「寻求」。"
+    },
+    {
+      "id": "Q578",
+      "part": "Unit 17",
+      "type": "文字",
+      "prompt": "天ぷらはわたしの**大好物**です。 選択肢：1 おおすきもの / 2 だいこうぶつ / 3 おおこうぶつ / 4 だいすきもの",
+      "answer": "2",
+      "explanation": "詞彙點：大好物（だいこうぶつ）。表示「最喜欢的东西」。"
+    },
+    {
+      "id": "Q579",
+      "part": "Unit 17",
+      "type": "語彙",
+      "prompt": "料理教室に通って、料理の（　）を磨く。 選択肢：1 頭 / 2 胸 / 3 腕 / 4 足",
+      "answer": "3",
+      "explanation": "詞彙點：腕を磨く。表示「提高技艺」。"
+    },
+    {
+      "id": "Q580",
+      "part": "Unit 17",
+      "type": "語彙",
+      "prompt": "彼は校則違反をして学校を（　）そうです。 選択肢：1 やめさせられた / 2 のびさせられた / 3 いれさせられた / 4 よせさせられた",
+      "answer": "1",
+      "explanation": "詞彙點：やめさせられる。表示「被迫退学/辞职」。"
+    },
+    {
+      "id": "Q581",
+      "part": "Unit 17",
+      "type": "文法",
+      "prompt": "祖父の病状は悪化する一方で、来年の春まで（　）。 選択肢：1 持ちそうです / 2 持ちそうにありません / 3 持つそうです / 4 持つそうにありません",
+      "answer": "2",
+      "explanation": "語法點：動詞ます形＋そうにない。表示「看起来不会……」。"
+    },
+    {
+      "id": "Q582",
+      "part": "Unit 17",
+      "type": "文法",
+      "prompt": "そんな危ないところには（　）ほうがいいと思います。 選択肢：1 近づく / 2 近づかない / 3 近づいた / 4 近づかなかった",
+      "answer": "2",
+      "explanation": "語法點：動詞ない形＋ほうがいい。表示建议「最好不要……」。"
+    },
+    {
+      "id": "Q583",
+      "part": "Unit 17",
+      "type": "文字",
+      "prompt": "事故の原因はまだ**明らか**ではない。 選択肢：1 ほがらか / 2 やわらか / 3 なだらか / 4 あきらか",
+      "answer": "4",
+      "explanation": "詞彙點：明らか（あきらか）。表示「明显、清楚」。"
+    },
+    {
+      "id": "Q584",
+      "part": "Unit 17",
+      "type": "文字",
+      "prompt": "日本語を**基礎**からしっかり勉強したいです。 選択肢：1 きそ / 2 きそう / 3 けそ / 4 けそう",
+      "answer": "1",
+      "explanation": "詞彙點：基礎（きそ）。表示「基础」。"
+    },
+    {
+      "id": "Q585",
+      "part": "Unit 17",
+      "type": "語彙",
+      "prompt": "風邪を引かないよう（　）する。 選択肢：1 用意 / 2 用心 / 3 世話 / 4 喧嘩",
+      "answer": "2",
+      "explanation": "詞彙點：用心（ようじん）する。表示「小心、注意」。"
+    },
+    {
+      "id": "Q586",
+      "part": "Unit 17",
+      "type": "語彙",
+      "prompt": "買い物に行った（　）図書館の本を返した。 選択肢：1 たしかに / 2 互いに / 3 ついでに / 4 試しに",
+      "answer": "3",
+      "explanation": "詞彙點：ついでに。表示「顺便」。"
+    },
+    {
+      "id": "Q587",
+      "part": "Unit 17",
+      "type": "文法",
+      "prompt": "歌舞伎に興味を持っていますが、一度も（　）。 選択肢：1 見ることがあります / 2 見たことがありません / 3 見るものがあります / 4 見たものがありません",
+      "answer": "2",
+      "explanation": "語法點：動詞た形＋ことがありません。表示「没有……过」。"
+    },
+    {
+      "id": "Q588",
+      "part": "Unit 17",
+      "type": "文法",
+      "prompt": "事前に注意事項を教えてくれたらよかった（　）。 選択肢：1 かな / 2 はず / 3 から / 4 のに",
+      "answer": "4",
+      "explanation": "語法點：〜のに。表示遗憾、责备或与预想相反。"
+    },
+    {
+      "id": "Q589",
+      "part": "Unit 17",
+      "type": "文字",
+      "prompt": "中村さん、とても素敵な**着物**ですね。 選択肢：1 ちゃっぷく / 2 きふく / 3 ちゃくもの / 4 きもの",
+      "answer": "4",
+      "explanation": "詞彙點：着物（きもの）。表示「和服」。"
+    },
+    {
+      "id": "Q590",
+      "part": "Unit 17",
+      "type": "文字",
+      "prompt": "田中さんに**速達**で書類を届けてもらいました。 選択肢：1 そくたつ / 2 そくだつ / 3 はやたつ / 4 はやだつ",
+      "answer": "1",
+      "explanation": "詞彙點：速達（そくたつ）。表示「快递、速递」。"
+    },
+    {
+      "id": "Q591",
+      "part": "Unit 17",
+      "type": "語彙",
+      "prompt": "彼は授業中に気を失って（　）。 選択肢：1 ひかれました / 2 倒れました / 3 たとえました / 4 潰れました",
+      "answer": "2",
+      "explanation": "詞彙點：倒れる（たおれる）。表示「倒下」。"
+    },
+    {
+      "id": "Q592",
+      "part": "Unit 17",
+      "type": "語彙",
+      "prompt": "栄養（　）のいい食事を取ることが大事です。 選択肢：1 マラソン / 2 システム / 3 バランス / 4 アクセル",
+      "answer": "3",
+      "explanation": "詞彙點：バランス。表示「平衡、均衡」。"
+    },
+    {
+      "id": "Q593",
+      "part": "Unit 17",
+      "type": "文法",
+      "prompt": "「鈴木くん、友だちに中華街を案内してやって（　）。」 選択肢：1 くれないか / 2 あげないか / 3 こないか / 4 みないか",
+      "answer": "1",
+      "explanation": "語法點：〜てくれないか。表示请求对方做某事。"
+    },
+    {
+      "id": "Q594",
+      "part": "Unit 17",
+      "type": "文法",
+      "prompt": "日本語が上手になる秘訣があるなら、ぜひ聞きたい（　）。 選択肢：1 ことだ / 2 わけだ / 3 ものだ / 4 べきだ",
+      "answer": "3",
+      "explanation": "語法點：動詞ます形＋たいものだ。表示强烈愿望。"
+    },
+    {
+      "id": "Q595",
+      "part": "Unit 17",
+      "type": "文字",
+      "prompt": "どの靴を買うか**迷って**います。 選択肢：1 はしって / 2 まよって / 3 そろって / 4 むかって",
+      "answer": "2",
+      "explanation": "詞彙點：迷う（まよう）。表示「犹豫、迷路」。"
+    },
+    {
+      "id": "Q596",
+      "part": "Unit 17",
+      "type": "文字",
+      "prompt": "ここでは酒類の**販売**は禁止されています。 選択肢：1 はんうり / 2 ばんうり / 3 はんばい / 4 ばんばい",
+      "answer": "3",
+      "explanation": "詞彙點：販売（はんばい）。表示「销售」。"
+    },
+    {
+      "id": "Q597",
+      "part": "Unit 17",
+      "type": "語彙",
+      "prompt": "祖母はアルバムを見ながら（　）に浸っています。 選択肢：1 お辞儀 / 2 行き先 / 3 お願い / 4 思い出",
+      "answer": "4",
+      "explanation": "詞彙點：思い出に浸る。表示「沉浸在回忆中」。"
+    },
+    {
+      "id": "Q598",
+      "part": "Unit 17",
+      "type": "語彙",
+      "prompt": "家に帰ってシャワーを浴びたら（　）しました。 選択肢：1 さっぱり / 2 せっせと / 3 じっくり / 4 さっさと",
+      "answer": "1",
+      "explanation": "詞彙點：さっぱりする。表示「清爽」。"
+    },
+    {
+      "id": "Q599",
+      "part": "Unit 17",
+      "type": "文法",
+      "prompt": "うちの息子（　）、親の言うことをまったく聞かないんです。 選択肢：1 ったら / 2 とは / 3 から / 4 だったら",
+      "answer": "1",
+      "explanation": "語法點：名詞＋ったら。表示提起话题并带有责备、亲昵等语气。"
+    },
+    {
+      "id": "Q600",
+      "part": "Unit 17",
+      "type": "文法",
+      "prompt": "今度こそ絶対合格して（　）。 選択肢：1 みる / 2 みせる / 3 ごらん / 4 みえる",
+      "answer": "2",
+      "explanation": "語法點：動詞て形＋みせる。表示强烈决心「一定要……」。"
+    },
+    {
+      "id": "Q601",
+      "part": "Unit 17",
+      "type": "文字",
+      "prompt": "将来は新聞社の**記者**になりたいです。 選択肢：1 ししゃ / 2 しじゃ / 3 きしゃ / 4 きじゃ",
+      "answer": "3",
+      "explanation": "詞彙點：記者（きしゃ）。表示「记者」。"
+    },
+    {
+      "id": "Q602",
+      "part": "Unit 17",
+      "type": "文字",
+      "prompt": "**財布**を家に忘れて、出てきてしまった。 選択肢：1 さいふ / 2 さいぶ / 3 ざいふ / 4 ざいぶ",
+      "answer": "1",
+      "explanation": "詞彙點：財布（さいふ）。表示「钱包」。"
+    },
+    {
+      "id": "Q603",
+      "part": "Unit 17",
+      "type": "語彙",
+      "prompt": "りこちゃんには白いワンピースがよく（　）。 選択肢：1 転がります / 2 にあいます / 3 挟まります / 4 であいます",
+      "answer": "2",
+      "explanation": "詞彙點：似合う（にあう）。表示「适合、相称」。"
+    },
+    {
+      "id": "Q604",
+      "part": "Unit 17",
+      "type": "語彙",
+      "prompt": "彼女は（　）品にあまり興味がないみたいです。 選択肢：1 カーテン / 2 エプロン / 3 イコール / 4 ブランド",
+      "answer": "4",
+      "explanation": "詞彙點：ブランド品。表示「名牌商品」。"
+    },
+    {
+      "id": "Q605",
+      "part": "Unit 17",
+      "type": "文法",
+      "prompt": "電池不足のせいか、腕時計の針が（　）している。 選択肢：1 進んで戻って / 2 進んだり戻ったり / 3 進めて戻して / 4 進めたり戻したり",
+      "answer": "2",
+      "explanation": "語法點：〜たり〜たりする。表示动作反复或列举。"
+    },
+    {
+      "id": "Q606",
+      "part": "Unit 17",
+      "type": "文法",
+      "prompt": "来週、大事な試験があるので、のんびり（　）。 選択肢：1 してしかたない / 2 しておかない / 3 してはいられない / 4 してはたまらない",
+      "answer": "3",
+      "explanation": "語法點：〜てはいられない。表示「不能继续……」。"
+    },
+    {
+      "id": "Q607",
+      "part": "Unit 17",
+      "type": "文字",
+      "prompt": "彼は高い所から落ちて**意識**を失った。 選択肢：1 いしき / 2 いしぎ / 3 いしょく / 4 いじょく",
+      "answer": "1",
+      "explanation": "詞彙點：意識（いしき）。表示「意识」。"
+    },
+    {
+      "id": "Q608",
+      "part": "Unit 17",
+      "type": "文字",
+      "prompt": "では、**遠慮**なくいただきます。 選択肢：1 えんしょ / 2 えんしょう / 3 えんりょ / 4 えんりょう",
+      "answer": "3",
+      "explanation": "詞彙點：遠慮（えんりょ）。表示「客气、顾虑」。"
+    },
+    {
+      "id": "Q609",
+      "part": "Unit 17",
+      "type": "語彙",
+      "prompt": "赤（　）は「止まれ」の意味です。 選択肢：1 電灯 / 2 電球 / 3 受信 / 4 信号",
+      "answer": "4",
+      "explanation": "詞彙點：信号（しんごう）。表示「信号、红绿灯」。"
+    },
+    {
+      "id": "Q610",
+      "part": "Unit 17",
+      "type": "語彙",
+      "prompt": "ボーナスは50%カットになったが、もらえないよりは（　）だ。 選択肢：1 いや / 2 まし / 3 そん / 4 とく",
+      "answer": "2",
+      "explanation": "詞彙點：まし。表示「好一些、胜过」。"
+    },
+    {
+      "id": "Q611",
+      "part": "Unit 17",
+      "type": "文法",
+      "prompt": "どんな理由があっても、自分の人生を（　）ならない。 選択肢：1 あきらめて / 2 あきらめては / 3 あきらめた / 4 あきらめたら",
+      "answer": "2",
+      "explanation": "語法點：〜てはならない。表示禁止「不能……」。"
+    },
+    {
+      "id": "Q612",
+      "part": "Unit 17",
+      "type": "文法",
+      "prompt": "すみませんが、高木さんの電話番号は（　）。 選択肢：1 承知しますか / 2 いらっしゃいますか / 3 ご存知ですか / 4 ご覧に入れますか",
+      "answer": "3",
+      "explanation": "語法點：ご存知ですか。「知っていますか」的尊敬表达。"
+    }
+  ]
+}

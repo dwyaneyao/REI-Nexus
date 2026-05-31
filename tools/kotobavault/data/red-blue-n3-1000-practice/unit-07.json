@@ -1,0 +1,353 @@
+{
+  "schemaVersion": 1,
+  "unit": {
+    "id": "red-blue-n3-1000-practice-unit-07",
+    "title": "红蓝宝书1000题 - Unit 7",
+    "type": "practice_unit",
+    "status": "manual-reviewed-draft",
+    "tags": [
+      "jlpt",
+      "n3",
+      "practice",
+      "vocabulary",
+      "grammar",
+      "red-blue-1000",
+      "manual-entry"
+    ],
+    "sourceId": "source-red-blue-n3-1000-practice",
+    "sourcePages": [
+      80,
+      91
+    ],
+    "created": "2026-05-26",
+    "updated": "2026-05-26",
+    "scope": {
+      "Question range": "Q217-Q252",
+      "Source pages": "PDF pages 80-91",
+      "Page-image cache": "`.cache/ocr/red-blue-n3-1000-practice/`"
+    },
+    "contentPath": "content/items/red-blue-n3-1000-practice/unit-07.md"
+  },
+  "vocabulary": [],
+  "reviewCards": [],
+  "sourceTestPages": [
+    {
+      "kind": "questions",
+      "title": "原书练习题",
+      "bookPages": "73-83",
+      "pdfPages": "80-90",
+      "images": [
+        ".cache/ocr/red-blue-n3-1000-practice/images/page_080.jpg",
+        ".cache/ocr/red-blue-n3-1000-practice/images/page_082.jpg",
+        ".cache/ocr/red-blue-n3-1000-practice/images/page_084.jpg",
+        ".cache/ocr/red-blue-n3-1000-practice/images/page_086.jpg",
+        ".cache/ocr/red-blue-n3-1000-practice/images/page_088.jpg",
+        ".cache/ocr/red-blue-n3-1000-practice/images/page_090.jpg"
+      ]
+    },
+    {
+      "kind": "answers",
+      "title": "原书答案解析",
+      "bookPages": "74-84",
+      "pdfPages": "81-91",
+      "images": [
+        ".cache/ocr/red-blue-n3-1000-practice/images/page_081.jpg",
+        ".cache/ocr/red-blue-n3-1000-practice/images/page_083.jpg",
+        ".cache/ocr/red-blue-n3-1000-practice/images/page_085.jpg",
+        ".cache/ocr/red-blue-n3-1000-practice/images/page_087.jpg",
+        ".cache/ocr/red-blue-n3-1000-practice/images/page_089.jpg",
+        ".cache/ocr/red-blue-n3-1000-practice/images/page_091.jpg"
+      ]
+    }
+  ],
+  "sourceTextTests": [
+    {
+      "id": "Q217",
+      "part": "Unit 7",
+      "type": "文字",
+      "prompt": "この4つの中から好きなものを1つ**選んで**ください。 選択肢：1 えらんで / 2 きざんで / 3 うらんで / 4 ちぢんで",
+      "answer": "1",
+      "explanation": "考点：選んで。读音是「えらんで」。"
+    },
+    {
+      "id": "Q218",
+      "part": "Unit 7",
+      "type": "文字",
+      "prompt": "わたしは沖縄**出身**です。 選択肢：1 しゅしん / 2 しゅっしん / 3 しゅじん / 4 しゅうしん",
+      "answer": "2",
+      "explanation": "考点：出身。读音是「しゅっしん」。词条读音：しゅっしん；含义：籍贯。"
+    },
+    {
+      "id": "Q219",
+      "part": "Unit 7",
+      "type": "語彙",
+      "prompt": "優秀な人材であれば、男女の（　）なく採用します。 選択肢：1 比較 / 2 表示 / 3 組合 / 4 区別",
+      "answer": "4",
+      "explanation": "词汇点：区別（くべつ）：区别。"
+    },
+    {
+      "id": "Q220",
+      "part": "Unit 7",
+      "type": "語彙",
+      "prompt": "夜が（　）、山小屋を出発する予定です。 選択肢：1 しめたら / 2 さめたら / 3 あけたら / 4 のせたら",
+      "answer": "3",
+      "explanation": "词汇点：明ける（あける）。这里表示“天亮”。"
+    },
+    {
+      "id": "Q221",
+      "part": "Unit 7",
+      "type": "文法",
+      "prompt": "目標を達成するには、個人の努力（　）、チーム全員の協力も大切だ。 選択肢：1 だけでは / 2 だけでなく / 3 だけでも / 4 だけなら",
+      "answer": "2",
+      "explanation": "文法点：～だけでなく。不仅……而且……。"
+    },
+    {
+      "id": "Q222",
+      "part": "Unit 7",
+      "type": "文法",
+      "prompt": "授業が（　）後で、一緒に映画を見に行きませんか。 選択肢：1 終わる / 2 終わって / 3 終わり / 4 終わった",
+      "answer": "4",
+      "explanation": "文法点：動詞た形＋後で。表示“……之后”。"
+    },
+    {
+      "id": "Q223",
+      "part": "Unit 7",
+      "type": "文字",
+      "prompt": "友だちから**悲しい**お話を聞きました。 選択肢：1 したしい / 2 くるしい / 3 やさしい / 4 かなしい",
+      "answer": "4",
+      "explanation": "考点：悲しい。读音是「かなしい」。"
+    },
+    {
+      "id": "Q224",
+      "part": "Unit 7",
+      "type": "文字",
+      "prompt": "**空港**へ友だちを迎えに行きました。 選択肢：1 くこう / 2 くうこ / 3 くうこう / 4 とごう",
+      "answer": "3",
+      "explanation": "考点：空港。读音是「くうこう」。"
+    },
+    {
+      "id": "Q225",
+      "part": "Unit 7",
+      "type": "語彙",
+      "prompt": "あの二人は（　）に暮らしています。 選択肢：1 でこぼこ / 2 しあわせ / 3 さわやか / 4 いたずら",
+      "answer": "2",
+      "explanation": "词汇点：しあわせ。表示“幸福”。"
+    },
+    {
+      "id": "Q226",
+      "part": "Unit 7",
+      "type": "語彙",
+      "prompt": "この靴は足に（　）合っている。 選択肢：1 すっきり / 2 そっくり / 3 やっぱり / 4 ぴったり",
+      "answer": "4",
+      "explanation": "词汇点：ぴったり。这里表示鞋子“正合适”。"
+    },
+    {
+      "id": "Q227",
+      "part": "Unit 7",
+      "type": "文法",
+      "prompt": "済んだことを今さら後悔し（　）。 選択肢：1 ても始まらない / 2 ても終わらない / 3 ては始まらない / 4 ては終わらない",
+      "answer": "1",
+      "explanation": "文法点：～ても始まらない。即使……也无济于事。"
+    },
+    {
+      "id": "Q228",
+      "part": "Unit 7",
+      "type": "文法",
+      "prompt": "日本に（　）ばかりの頃は、日本語がまったく話せませんでした。 選択肢：1 行く / 2 行っている / 3 行った / 4 行っていた",
+      "answer": "3",
+      "explanation": "文法点：動詞た形＋ばかり。表示“刚刚……”。"
+    },
+    {
+      "id": "Q229",
+      "part": "Unit 7",
+      "type": "文字",
+      "prompt": "我が校は150年の歴史と**伝統**のある大学です。 選択肢：1 でんとう / 2 でんどう / 3 うんとう / 4 うんどう",
+      "answer": "1",
+      "explanation": "考点：伝統。读音是「でんとう」。词条读音：でんとう；含义：传统。"
+    },
+    {
+      "id": "Q230",
+      "part": "Unit 7",
+      "type": "文字",
+      "prompt": "情報通信**技術**は大きく発展した。 選択肢：1 きしゅつ / 2 きじゅつ / 3 ぎしゅつ / 4 ぎじゅつ",
+      "answer": "4",
+      "explanation": "考点：技術。读音是「ぎじゅつ」。"
+    },
+    {
+      "id": "Q231",
+      "part": "Unit 7",
+      "type": "語彙",
+      "prompt": "箱の中に何が入っているか（　）ください。 選択肢：1 貸して / 2 解けて / 3 あてて / 4 つめて",
+      "answer": "3",
+      "explanation": "词汇点：当てる（あてる）。这里表示“猜中、猜出来”。"
+    },
+    {
+      "id": "Q232",
+      "part": "Unit 7",
+      "type": "語彙",
+      "prompt": "被災地の悲惨な（　）は忘れられない。 選択肢：1 光景 / 2 風景 / 3 景気 / 4 景色",
+      "answer": "1",
+      "explanation": "词汇点：光景。表示“场面、情景”。"
+    },
+    {
+      "id": "Q233",
+      "part": "Unit 7",
+      "type": "文法",
+      "prompt": "日本へ旅行に行く（　）、お金を貯めています。 選択肢：1 ためか / 2 ために / 3 ためで / 4 ためは",
+      "answer": "2",
+      "explanation": "文法点：～ために。表示目的，“为了……”。"
+    },
+    {
+      "id": "Q234",
+      "part": "Unit 7",
+      "type": "文法",
+      "prompt": "こんな生活はいつまで続く（　）。 選択肢：1 のだろうか / 2 んじゃないか / 3 つもりだろう / 4 ことだろう",
+      "answer": "1",
+      "explanation": "文法点：～だろうか。会不会……呢；是否……。"
+    },
+    {
+      "id": "Q235",
+      "part": "Unit 7",
+      "type": "文字",
+      "prompt": "心の**傷**は治りにくい。 選択肢：1 きず / 2 くず / 3 きく / 4 すみ",
+      "answer": "1",
+      "explanation": "考点：傷。读音是「きず」。词条读音：きず；含义：伤。"
+    },
+    {
+      "id": "Q236",
+      "part": "Unit 7",
+      "type": "文字",
+      "prompt": "次の連休は、**温泉**に行こうと思っています。 選択肢：1 うんせん / 2 うんぜん / 3 おんせん / 4 おんぜん",
+      "answer": "3",
+      "explanation": "考点：温泉。读音是「おんせん」。词条读音：おんせん；含义：温泉。"
+    },
+    {
+      "id": "Q237",
+      "part": "Unit 7",
+      "type": "語彙",
+      "prompt": "拾った財布を（　）に届けました。 選択肢：1 冷房 / 2 交番 / 3 床屋 / 4 単位",
+      "answer": "2",
+      "explanation": "词汇点：交番。该词/表达最符合句意。"
+    },
+    {
+      "id": "Q238",
+      "part": "Unit 7",
+      "type": "語彙",
+      "prompt": "試験中に（　）をして、先生に厳しく叱られた。 選択肢：1 ピーマン / 2 アンケート / 3 ストップ / 4 カンニング",
+      "answer": "4",
+      "explanation": "词汇点：カンニング（カンニング）：作弊。"
+    },
+    {
+      "id": "Q239",
+      "part": "Unit 7",
+      "type": "文法",
+      "prompt": "明日の会議は何時からでした（　）。 選択肢：1 って / 2 っけ / 3 った / 4 か",
+      "answer": "2",
+      "explanation": "文法点：～っけ。……来着？。"
+    },
+    {
+      "id": "Q240",
+      "part": "Unit 7",
+      "type": "文法",
+      "prompt": "友だちからチケットをもらったので、（　）。 選択肢：1 買って済んだ / 2 買わずには済まない / 3 買わずに済んだ / 4 買って済まない",
+      "answer": "3",
+      "explanation": "文法点：～ずに済む。表示“不用……也可以解决”。"
+    },
+    {
+      "id": "Q241",
+      "part": "Unit 7",
+      "type": "文字",
+      "prompt": "**太陽**の日差しが暖かい。 選択肢：1 たいよん / 2 だいよん / 3 たいよう / 4 だいよう",
+      "answer": "3",
+      "explanation": "考点：太陽。读音是「たいよう」。"
+    },
+    {
+      "id": "Q242",
+      "part": "Unit 7",
+      "type": "文字",
+      "prompt": "好きな女の子に**告白**した。 選択肢：1 こくはく / 2 ごくはく / 3 こくばく / 4 ごくばく",
+      "answer": "1",
+      "explanation": "考点：告白。读音是「こくはく」。"
+    },
+    {
+      "id": "Q243",
+      "part": "Unit 7",
+      "type": "語彙",
+      "prompt": "お腹が（　）で、我慢できない。 選択肢：1 まあまあ / 2 ぺこぺこ / 3 とうとう / 4 たびたび",
+      "answer": "2",
+      "explanation": "词汇点：ぺこぺこ。这里表示“肚子饿得厉害”。"
+    },
+    {
+      "id": "Q244",
+      "part": "Unit 7",
+      "type": "語彙",
+      "prompt": "突然のことで頭が（　）した。 選択肢：1 故障 / 2 困難 / 3 混雑 / 4 混乱",
+      "answer": "4",
+      "explanation": "词汇点：混乱（こんらん）：混乱。"
+    },
+    {
+      "id": "Q245",
+      "part": "Unit 7",
+      "type": "文法",
+      "prompt": "大学を卒業して（　）、一度も図書館に行ったことがありません。 選択肢：1 みると / 2 以来 / 3 みたら / 4 ご覧",
+      "answer": "2",
+      "explanation": "文法点：～以来。表示“自从……以来”。"
+    },
+    {
+      "id": "Q246",
+      "part": "Unit 7",
+      "type": "文法",
+      "prompt": "病気になって（　）健康の大切さがわかりました。 選択肢：1 はじめて / 2 こそ / 3 もらって / 4 みせて",
+      "answer": "1",
+      "explanation": "文法点：～てはじめて。在……之后才第一次……。"
+    },
+    {
+      "id": "Q247",
+      "part": "Unit 7",
+      "type": "文字",
+      "prompt": "今日覚えた英単語を**復習**する。 選択肢：1 ふくしゅ / 2 ふっしゅ / 3 ふくしゅう / 4 ふっしゅう",
+      "answer": "3",
+      "explanation": "考点：復習。读音是「ふくしゅう」。"
+    },
+    {
+      "id": "Q248",
+      "part": "Unit 7",
+      "type": "文字",
+      "prompt": "バーベキューの**材料**を買ってきました。 選択肢：1 さいりょ / 2 さいりょう / 3 ざいりょ / 4 ざいりょう",
+      "answer": "4",
+      "explanation": "考点：材料。读音是「ざいりょう」。"
+    },
+    {
+      "id": "Q249",
+      "part": "Unit 7",
+      "type": "語彙",
+      "prompt": "（　）で線を引く。 選択肢：1 順番 / 2 定規 / 3 順序 / 4 勘定",
+      "answer": "2",
+      "explanation": "词汇点：定規（じょうぎ）：尺。"
+    },
+    {
+      "id": "Q250",
+      "part": "Unit 7",
+      "type": "語彙",
+      "prompt": "今日の最高気温は38度を（　）。 選択肢：1 超えました / 2 広めました / 3 生えました / 4 上りました",
+      "answer": "1",
+      "explanation": "词汇点：超える。这里表示温度“超过”38度。"
+    },
+    {
+      "id": "Q251",
+      "part": "Unit 7",
+      "type": "文法",
+      "prompt": "お酒はいけない（　）、ビール一杯くらいなら大丈夫でしょう。 選択肢：1 というと / 2 といっても / 3 といえば / 4 といったら",
+      "answer": "2",
+      "explanation": "文法点：～といっても。表示“虽说……但是……”。"
+    },
+    {
+      "id": "Q252",
+      "part": "Unit 7",
+      "type": "文法",
+      "prompt": "この機械の使い方について、わたしがご説明（　）。 選択肢：1 いたします / 2 願います / 3 になります / 4 されます",
+      "answer": "1",
+      "explanation": "文法点：ご説明いたします。「説明する」的自谦表达。"
+    }
+  ]
+}

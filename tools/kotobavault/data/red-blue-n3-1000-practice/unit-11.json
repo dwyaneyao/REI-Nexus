@@ -1,0 +1,353 @@
+{
+  "schemaVersion": 1,
+  "unit": {
+    "id": "red-blue-n3-1000-practice-unit-11",
+    "title": "红蓝宝书1000题 - Unit 11",
+    "type": "practice_unit",
+    "status": "manual-reviewed-draft",
+    "tags": [
+      "jlpt",
+      "n3",
+      "practice",
+      "vocabulary",
+      "grammar",
+      "red-blue-1000",
+      "manual-entry"
+    ],
+    "sourceId": "source-red-blue-n3-1000-practice",
+    "sourcePages": [
+      128,
+      139
+    ],
+    "created": "2026-05-26",
+    "updated": "2026-05-26",
+    "scope": {
+      "Question range": "Q361-Q396",
+      "Source pages": "PDF pages 128-139",
+      "Page-image cache": "`.cache/ocr/red-blue-n3-1000-practice/`"
+    },
+    "contentPath": "content/items/red-blue-n3-1000-practice/unit-11.md"
+  },
+  "vocabulary": [],
+  "reviewCards": [],
+  "sourceTestPages": [
+    {
+      "kind": "questions",
+      "title": "原书练习题",
+      "bookPages": "121-131",
+      "pdfPages": "128-138",
+      "images": [
+        ".cache/ocr/red-blue-n3-1000-practice/images/page_128.jpg",
+        ".cache/ocr/red-blue-n3-1000-practice/images/page_130.jpg",
+        ".cache/ocr/red-blue-n3-1000-practice/images/page_132.jpg",
+        ".cache/ocr/red-blue-n3-1000-practice/images/page_134.jpg",
+        ".cache/ocr/red-blue-n3-1000-practice/images/page_136.jpg",
+        ".cache/ocr/red-blue-n3-1000-practice/images/page_138.jpg"
+      ]
+    },
+    {
+      "kind": "answers",
+      "title": "原书答案解析",
+      "bookPages": "122-132",
+      "pdfPages": "129-139",
+      "images": [
+        ".cache/ocr/red-blue-n3-1000-practice/images/page_129.jpg",
+        ".cache/ocr/red-blue-n3-1000-practice/images/page_131.jpg",
+        ".cache/ocr/red-blue-n3-1000-practice/images/page_133.jpg",
+        ".cache/ocr/red-blue-n3-1000-practice/images/page_135.jpg",
+        ".cache/ocr/red-blue-n3-1000-practice/images/page_137.jpg",
+        ".cache/ocr/red-blue-n3-1000-practice/images/page_139.jpg"
+      ]
+    }
+  ],
+  "sourceTextTests": [
+    {
+      "id": "Q361",
+      "part": "Unit 11",
+      "type": "文字",
+      "prompt": "包装紙でプレゼントを**包む**。 選択肢：1 やすむ / 2 ぬすむ / 3 つつむ / 4 へこみ",
+      "answer": "3",
+      "explanation": "词汇点：包む（つつむ）。表示“包、包裹”。"
+    },
+    {
+      "id": "Q362",
+      "part": "Unit 11",
+      "type": "文字",
+      "prompt": "今日はわたしが**食器**を洗いました。 選択肢：1 しょくぎ / 2 しょっき / 3 しょうき / 4 しょうぎ",
+      "answer": "2",
+      "explanation": "考点：食器。读音是「しょっき」。词条读音：しょっき；含义：食器。"
+    },
+    {
+      "id": "Q363",
+      "part": "Unit 11",
+      "type": "語彙",
+      "prompt": "相手の（　）に立って考える。 選択肢：1 立場 / 2 位置 / 3 関係 / 4 角度",
+      "answer": "1",
+      "explanation": "词汇点：立場。表示“立场、处境”。"
+    },
+    {
+      "id": "Q364",
+      "part": "Unit 11",
+      "type": "語彙",
+      "prompt": "最近、こういうファッションが（　）らしい。 選択肢：1 ゆずっている / 2 ふとっている / 3 くぎっている / 4 はやっている",
+      "answer": "4",
+      "explanation": "词汇点：流行る（はやる）。表示“流行”。"
+    },
+    {
+      "id": "Q365",
+      "part": "Unit 11",
+      "type": "文法",
+      "prompt": "ここ数年、物価は（　）一方だが、給料はなかなか上がらない。 選択肢：1 上がる / 2 上がっている / 3 上がり / 4 上がっていた",
+      "answer": "1",
+      "explanation": "文法点：～一方だ。表示某种变化持续朝一个方向发展。"
+    },
+    {
+      "id": "Q366",
+      "part": "Unit 11",
+      "type": "文法",
+      "prompt": "オリンピックは4年（　）開かれる。 選択肢：1 ことに / 2 のことに / 3 ごとに / 4 のごとに",
+      "answer": "3",
+      "explanation": "文法点：～ごとに。每……；每当……。"
+    },
+    {
+      "id": "Q367",
+      "part": "Unit 11",
+      "type": "文字",
+      "prompt": "夕べは**怖い**夢を見た。 選択肢：1 こわい / 2 いたい / 3 やすい / 4 おそい",
+      "answer": "1",
+      "explanation": "考点：怖い。读音是「こわい」。"
+    },
+    {
+      "id": "Q368",
+      "part": "Unit 11",
+      "type": "文字",
+      "prompt": "祖父から**お年玉**をもらいました。 選択肢：1 ねんぎょく / 2 としだま / 3 ねんだま / 4 としぎょく",
+      "answer": "2",
+      "explanation": "考点：お年玉。读音是「としだま」。词条读音：おとしだま；含义：新年礼物。"
+    },
+    {
+      "id": "Q369",
+      "part": "Unit 11",
+      "type": "語彙",
+      "prompt": "彼女は目標を（　）するために一生懸命努力しています。 選択肢：1 完成 / 2 達成 / 3 成果 / 4 成功",
+      "answer": "2",
+      "explanation": "词汇点：達成する。表示“达成目标”。"
+    },
+    {
+      "id": "Q370",
+      "part": "Unit 11",
+      "type": "語彙",
+      "prompt": "窓ガラスを（　）に磨く。 選択肢：1 すやすや / 2 なかなか / 3 ぴかぴか / 4 くねくね",
+      "answer": "3",
+      "explanation": "词汇点：ぴかぴか。表示“闪亮、锃亮”。"
+    },
+    {
+      "id": "Q371",
+      "part": "Unit 11",
+      "type": "文法",
+      "prompt": "台風の影響で、局地的に非常に激しい雨が降る恐れ（　）。 選択肢：1 がします / 2 になります / 3 にされます / 4 があります",
+      "answer": "4",
+      "explanation": "文法点：～恐れがある。表示“有……的危险/可能”。"
+    },
+    {
+      "id": "Q372",
+      "part": "Unit 11",
+      "type": "文法",
+      "prompt": "暑いから、アイスクリームか（　）冷たいものを食べたいです。 選択肢：1 何の / 2 何か / 3 何を / 4 何が",
+      "answer": "2",
+      "explanation": "文法点：何か。表示“不特定的某物”。"
+    },
+    {
+      "id": "Q373",
+      "part": "Unit 11",
+      "type": "文字",
+      "prompt": "人は見た目も**中身**も大事だと思います。 選択肢：1 ちゅうしん / 2 ちゅうみ / 3 なかしん / 4 なかみ",
+      "answer": "4",
+      "explanation": "考点：中身。读音是「なかみ」。"
+    },
+    {
+      "id": "Q374",
+      "part": "Unit 11",
+      "type": "文字",
+      "prompt": "**平日**は観光客が少ないようです。 選択肢：1 へいにち / 2 びょうにち / 3 へいじつ / 4 びょうじつ",
+      "answer": "3",
+      "explanation": "考点：平日。读音是「へいじつ」。词条读音：へいじつ；含义：平时；平常；普通日子；平日。"
+    },
+    {
+      "id": "Q375",
+      "part": "Unit 11",
+      "type": "語彙",
+      "prompt": "電車の扉が（　）と、たくさんの人が降りてきた。 選択肢：1 このむ / 2 ひらく / 3 みまう / 4 とじる",
+      "answer": "2",
+      "explanation": "词汇点：開く（ひらく）。这里表示“门打开”。"
+    },
+    {
+      "id": "Q376",
+      "part": "Unit 11",
+      "type": "語彙",
+      "prompt": "花粉症予防に、（　）をする人が多い。 選択肢：1 マスク / 2 タオル / 3 ラップ / 4 コート",
+      "answer": "1",
+      "explanation": "词汇点：マスク。该词/表达最符合句意。"
+    },
+    {
+      "id": "Q377",
+      "part": "Unit 11",
+      "type": "文法",
+      "prompt": "せっかくの5連休（　）、どこか旅行に行きたいです。 選択肢：1 ですが / 2 なのに / 3 ですから / 4 のせいで",
+      "answer": "3",
+      "explanation": "文法点：ですから。表示原因、理由。"
+    },
+    {
+      "id": "Q378",
+      "part": "Unit 11",
+      "type": "文法",
+      "prompt": "彼の成績（　）言えば、国立大学に入るのは難しいと思います。 選択肢：1 ては / 2 には / 3 とは / 4 から",
+      "answer": "4",
+      "explanation": "文法点：～から言えば。表示“从……来看”。"
+    },
+    {
+      "id": "Q379",
+      "part": "Unit 11",
+      "type": "文字",
+      "prompt": "リビングに花を**飾って**みました。 選択肢：1 かわって / 2 かざって / 3 かえって / 4 かたって",
+      "answer": "2",
+      "explanation": "考点：飾って。读音是「かざって」。"
+    },
+    {
+      "id": "Q380",
+      "part": "Unit 11",
+      "type": "文字",
+      "prompt": "インターネットを使って新製品を**宣伝**します。 選択肢：1 せいてん / 2 ぜいてん / 3 せんでん / 4 ぜんてん",
+      "answer": "3",
+      "explanation": "考点：宣伝。读音是「せんでん」。词条读音：せんでん；含义：宣传。"
+    },
+    {
+      "id": "Q381",
+      "part": "Unit 11",
+      "type": "語彙",
+      "prompt": "買い物をして、領収（　）をもらう。 選択肢：1 票 / 2 便 / 3 条 / 4 書",
+      "answer": "4",
+      "explanation": "词汇点：領収書。表示“收据”。"
+    },
+    {
+      "id": "Q382",
+      "part": "Unit 11",
+      "type": "語彙",
+      "prompt": "人前で歌うのは（　）。 選択肢：1 はずかしい / 2 めずらしい / 3 さわがしい / 4 しおからい",
+      "answer": "1",
+      "explanation": "词汇点：恥ずかしい（はずかしい）。表示“害羞、难为情”。"
+    },
+    {
+      "id": "Q383",
+      "part": "Unit 11",
+      "type": "文法",
+      "prompt": "不思議なこと（　）、2階から落ちた彼はまったくけががなかった。 選択肢：1 て / 2 に / 3 は / 4 が",
+      "answer": "2",
+      "explanation": "文法点：～ことに。表示“令人……的是”。"
+    },
+    {
+      "id": "Q384",
+      "part": "Unit 11",
+      "type": "文法",
+      "prompt": "インターネットによって、世界中の人々と交流すること（　）。 選択肢：1 があります / 2 になります / 3 ができます / 4 にします",
+      "answer": "3",
+      "explanation": "文法点：～ことができる。表示“能够……”。"
+    },
+    {
+      "id": "Q385",
+      "part": "Unit 11",
+      "type": "文字",
+      "prompt": "友だちの**結婚披露宴**に招待されました。 選択肢：1 ひろえん / 2 ひろうえん / 3 ひろんえん / 4 ひろんえん",
+      "answer": "2",
+      "explanation": "考点：結婚披露宴。读音是「ひろうえん」。"
+    },
+    {
+      "id": "Q386",
+      "part": "Unit 11",
+      "type": "文字",
+      "prompt": "兄は**植物**に詳しいです。 選択肢：1 しょうぶつ / 2 しょうもつ / 3 しょくぶつ / 4 しょくもつ",
+      "answer": "3",
+      "explanation": "考点：植物。读音是「しょくぶつ」。"
+    },
+    {
+      "id": "Q387",
+      "part": "Unit 11",
+      "type": "語彙",
+      "prompt": "手袋を（　）雪かきをする。 選択肢：1 かぶって / 2 しめて / 3 まぜて / 4 はめて",
+      "answer": "4",
+      "explanation": "词汇点：はめる。这里表示“戴上手套”。"
+    },
+    {
+      "id": "Q388",
+      "part": "Unit 11",
+      "type": "語彙",
+      "prompt": "レポートでは、（　）な表現を使わない。 選択肢：1 あいまい / 2 気がかり / 3 さまざま / 4 当たり前",
+      "answer": "1",
+      "explanation": "词汇点：あいまい。该词/表达最符合句意。"
+    },
+    {
+      "id": "Q389",
+      "part": "Unit 11",
+      "type": "文法",
+      "prompt": "健康な体さえ（　）、何とかなりますよ。 選択肢：1 あったら / 2 あるが / 3 あるなら / 4 あれば",
+      "answer": "4",
+      "explanation": "文法点：さえ～ば。表示“只要……就……”。"
+    },
+    {
+      "id": "Q390",
+      "part": "Unit 11",
+      "type": "文法",
+      "prompt": "今朝、寝坊をして朝食も（　）学校に行った。 選択肢：1 食べずに / 2 食べられて / 3 食べたら / 4 食べなくても",
+      "answer": "1",
+      "explanation": "文法点：～ずに。表示“不……而……”。"
+    },
+    {
+      "id": "Q391",
+      "part": "Unit 11",
+      "type": "文字",
+      "prompt": "旅行の**費用**は自分で負担します。 選択肢：1 ひよう / 2 ひつよう / 3 ひよん / 4 ひつよん",
+      "answer": "1",
+      "explanation": "考点：費用。读音是「ひよう」。词条读音：ひよう；含义：费用；开支；费。"
+    },
+    {
+      "id": "Q392",
+      "part": "Unit 11",
+      "type": "文字",
+      "prompt": "父は**散歩**に出かけました。 選択肢：1 さんぼ / 2 さんぽ / 3 さんぼう / 4 さんぽう",
+      "answer": "2",
+      "explanation": "考点：散歩。读音是「さんぽ」。词条读音：さんぽ；含义：散步。"
+    },
+    {
+      "id": "Q393",
+      "part": "Unit 11",
+      "type": "語彙",
+      "prompt": "研究は最終（　）に入った。 選択肢：1 階段 / 2 期間 / 3 段階 / 4 時期",
+      "answer": "3",
+      "explanation": "词汇点：段階（だんかい）：阶段。"
+    },
+    {
+      "id": "Q394",
+      "part": "Unit 11",
+      "type": "語彙",
+      "prompt": "暑いから、（　）をつけます。 選択肢：1 テキスト / 2 ポイント / 3 プレゼン / 4 エアコン",
+      "answer": "4",
+      "explanation": "词汇点：エアコン（エアコン）：空调。"
+    },
+    {
+      "id": "Q395",
+      "part": "Unit 11",
+      "type": "文法",
+      "prompt": "彼（　）仕事熱心な人は少ないと思います。 選択肢：1 みたいに / 2 らしく / 3 みたいで / 4 らしい",
+      "answer": "1",
+      "explanation": "文法点：～みたいに。表示“像……一样”。"
+    },
+    {
+      "id": "Q396",
+      "part": "Unit 11",
+      "type": "文法",
+      "prompt": "どうぞご遠慮なく果物を（　）。 選択肢：1 いただきます / 2 召し上がってください / 3 いらっしゃいます / 4 ご覧ください",
+      "answer": "2",
+      "explanation": "文法点：召し上がる。「食べる/飲む」的尊敬语。"
+    }
+  ]
+}

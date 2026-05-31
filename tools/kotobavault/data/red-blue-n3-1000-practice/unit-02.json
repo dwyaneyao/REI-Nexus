@@ -1,0 +1,353 @@
+{
+  "schemaVersion": 1,
+  "unit": {
+    "id": "red-blue-n3-1000-practice-unit-02",
+    "title": "红蓝宝书1000题 - Unit 2",
+    "type": "practice_unit",
+    "status": "manual-reviewed-draft",
+    "tags": [
+      "jlpt",
+      "n3",
+      "practice",
+      "vocabulary",
+      "grammar",
+      "red-blue-1000",
+      "manual-entry"
+    ],
+    "sourceId": "source-red-blue-n3-1000-practice",
+    "sourcePages": [
+      20,
+      31
+    ],
+    "created": "2026-05-26",
+    "updated": "2026-05-26",
+    "scope": {
+      "Question range": "Q037-Q072",
+      "Source pages": "PDF pages 20-31",
+      "Page-image cache": "`.cache/ocr/red-blue-n3-1000-practice/`"
+    },
+    "contentPath": "content/items/red-blue-n3-1000-practice/unit-02.md"
+  },
+  "vocabulary": [],
+  "reviewCards": [],
+  "sourceTestPages": [
+    {
+      "kind": "questions",
+      "title": "原书练习题",
+      "bookPages": "13-23",
+      "pdfPages": "20-30",
+      "images": [
+        ".cache/ocr/red-blue-n3-1000-practice/images/page_020.jpg",
+        ".cache/ocr/red-blue-n3-1000-practice/images/page_022.jpg",
+        ".cache/ocr/red-blue-n3-1000-practice/images/page_024.jpg",
+        ".cache/ocr/red-blue-n3-1000-practice/images/page_026.jpg",
+        ".cache/ocr/red-blue-n3-1000-practice/images/page_028.jpg",
+        ".cache/ocr/red-blue-n3-1000-practice/images/page_030.jpg"
+      ]
+    },
+    {
+      "kind": "answers",
+      "title": "原书答案解析",
+      "bookPages": "14-24",
+      "pdfPages": "21-31",
+      "images": [
+        ".cache/ocr/red-blue-n3-1000-practice/images/page_021.jpg",
+        ".cache/ocr/red-blue-n3-1000-practice/images/page_023.jpg",
+        ".cache/ocr/red-blue-n3-1000-practice/images/page_025.jpg",
+        ".cache/ocr/red-blue-n3-1000-practice/images/page_027.jpg",
+        ".cache/ocr/red-blue-n3-1000-practice/images/page_029.jpg",
+        ".cache/ocr/red-blue-n3-1000-practice/images/page_031.jpg"
+      ]
+    }
+  ],
+  "sourceTextTests": [
+    {
+      "id": "Q037",
+      "part": "Unit 2",
+      "type": "文字",
+      "prompt": "素直に**謝り**たいです。 選択肢：1 あやまり / 2 かたまり / 3 はじまり / 4 たかまり",
+      "answer": "1",
+      "explanation": "考点：謝り。读音是「あやまり」。"
+    },
+    {
+      "id": "Q038",
+      "part": "Unit 2",
+      "type": "文字",
+      "prompt": "彼の**活躍**を期待しています。 選択肢：1 かつよく / 2 かつやく / 3 いきよく / 4 いきやく",
+      "answer": "2",
+      "explanation": "考点：活躍。读音是「かつやく」。词条读音：かつやく；含义：活跃。"
+    },
+    {
+      "id": "Q039",
+      "part": "Unit 2",
+      "type": "語彙",
+      "prompt": "母の手料理は（　）においしい。 選択肢：1 上品 / 2 最高 / 3 上手 / 4 最新",
+      "answer": "2",
+      "explanation": "词汇点：最高（さいこう）：最高。"
+    },
+    {
+      "id": "Q040",
+      "part": "Unit 2",
+      "type": "語彙",
+      "prompt": "風に吹かれて風車が（　）回る。 選択肢：1 とうとう / 2 ぶらぶら / 3 ぐるぐる / 4 どんどん",
+      "answer": "3",
+      "explanation": "词汇点：ぐるぐる。该词/表达最符合句意。"
+    },
+    {
+      "id": "Q041",
+      "part": "Unit 2",
+      "type": "文法",
+      "prompt": "自分の家に帰った（　）、ゆっくり休んでください。 選択肢：1 ままで / 2 つもりで / 3 もので / 4 ばかりで",
+      "answer": "2",
+      "explanation": "文法点：～たつもりで。就当作……；以……的心情。"
+    },
+    {
+      "id": "Q042",
+      "part": "Unit 2",
+      "type": "文法",
+      "prompt": "弟は自転車を博くんに貸して（　）、自分は歩いて帰りました。 選択肢：1 あげて / 2 くださって / 3 やって / 4 いただいて",
+      "answer": "1",
+      "explanation": "文法点：あげて。该形式符合句子的接续和语义。"
+    },
+    {
+      "id": "Q043",
+      "part": "Unit 2",
+      "type": "文字",
+      "prompt": "**短い**間でしたが、お世話になりました。 選択肢：1 みじかい / 2 ほそい / 3 しつこい / 4 あつい",
+      "answer": "1",
+      "explanation": "考点：短い。读音是「みじかい」。"
+    },
+    {
+      "id": "Q044",
+      "part": "Unit 2",
+      "type": "文字",
+      "prompt": "彼女は毎日バスで**通学**する。 選択肢：1 とおかく / 2 とおがく / 3 つうかく / 4 つうがく",
+      "answer": "4",
+      "explanation": "考点：通学。读音是「つうがく」。词条读音：つうがく；含义：走读。"
+    },
+    {
+      "id": "Q045",
+      "part": "Unit 2",
+      "type": "語彙",
+      "prompt": "雷の音に、昼寝から目を（　）。 選択肢：1 起こした / 2 さました / 3 沸かした / 4 ながした",
+      "answer": "2",
+      "explanation": "词汇点：さました。该词/表达最符合句意。"
+    },
+    {
+      "id": "Q046",
+      "part": "Unit 2",
+      "type": "語彙",
+      "prompt": "健康のために、毎朝30分（　）をします。 選択肢：1 シリーズ / 2 ショッピング / 3 ジョギング / 4 ジュース",
+      "answer": "3",
+      "explanation": "词汇点：ジョギング（ジョギング）：跑步。"
+    },
+    {
+      "id": "Q047",
+      "part": "Unit 2",
+      "type": "文法",
+      "prompt": "自分で決めたことですから、たとえ失敗し（　）、後悔はしません。 選択肢：1 ては / 2 たら / 3 ても / 4 とも",
+      "answer": "3",
+      "explanation": "文法点：～ても/でも。即使……也……。"
+    },
+    {
+      "id": "Q048",
+      "part": "Unit 2",
+      "type": "文法",
+      "prompt": "みんな一人ずつこの和歌を（　）たまえ。 選択肢：1 読む / 2 読んだ / 3 読ん / 4 読み",
+      "answer": "4",
+      "explanation": "文法点：読み。该形式符合句子的接续和语义。"
+    },
+    {
+      "id": "Q049",
+      "part": "Unit 2",
+      "type": "文字",
+      "prompt": "風邪を引いたせいか、**寒気**がする。 選択肢：1 かんき / 2 さむき / 3 かんけ / 4 さむけ",
+      "answer": "4",
+      "explanation": "考点：寒気。读音是「さむけ」。词条读音：さむけ；含义：寒气。"
+    },
+    {
+      "id": "Q050",
+      "part": "Unit 2",
+      "type": "文字",
+      "prompt": "家の近くに小さな**神社**があります。 選択肢：1 しんしゃ / 2 じんしゃ / 3 しんじゃ / 4 じんじゃ",
+      "answer": "4",
+      "explanation": "考点：神社。读音是「じんじゃ」。"
+    },
+    {
+      "id": "Q051",
+      "part": "Unit 2",
+      "type": "語彙",
+      "prompt": "お昼の（　）時間は1時間となっています。 選択肢：1 休暇 / 2 連休 / 3 休憩 / 4 休日",
+      "answer": "3",
+      "explanation": "词汇点：休憩（きゅうけい）：休息。"
+    },
+    {
+      "id": "Q052",
+      "part": "Unit 2",
+      "type": "語彙",
+      "prompt": "彼女は公園のベンチに座って、（　）と空を眺めていた。 選択肢：1 ぼんやり / 2 うっかり / 3 のんびり / 4 がっかり",
+      "answer": "1",
+      "explanation": "词汇点：ぼんやり（ぼんやり）：模糊；不清楚；发呆；精神恍惚。"
+    },
+    {
+      "id": "Q053",
+      "part": "Unit 2",
+      "type": "文法",
+      "prompt": "妹への誕生日プレゼントにおもちゃのピアノを買って（　）どうですか。 選択肢：1 あげると / 2 あげないと / 3 あげたら / 4 あげなかったら",
+      "answer": "3",
+      "explanation": "文法点：あげたら。该形式符合句子的接续和语义。"
+    },
+    {
+      "id": "Q054",
+      "part": "Unit 2",
+      "type": "文法",
+      "prompt": "3日ぶりに愛犬が傷（　）で帰ってきました。 選択肢：1 がかり / 2 ながら / 3 ぐらい / 4 だらけ",
+      "answer": "4",
+      "explanation": "文法点：～だらけ。满是……；到处都是……。"
+    },
+    {
+      "id": "Q055",
+      "part": "Unit 2",
+      "type": "文字",
+      "prompt": "雨がやんで、**虹**が出た。 選択肢：1 はじ / 2 にじ / 3 あじ / 4 さじ",
+      "answer": "2",
+      "explanation": "考点：虹。读音是「にじ」。"
+    },
+    {
+      "id": "Q056",
+      "part": "Unit 2",
+      "type": "文字",
+      "prompt": "田中さんは**楽器**の演奏ができます。 選択肢：1 らくぎ / 2 らっき / 3 がくぎ / 4 がっき",
+      "answer": "4",
+      "explanation": "考点：楽器。读音是「がっき」。"
+    },
+    {
+      "id": "Q057",
+      "part": "Unit 2",
+      "type": "語彙",
+      "prompt": "必死に勉強して、やっと第一志望の大学に（　）。 選択肢：1 あがりました / 2 つかまりました / 3 うかりました / 4 ぶつかりました",
+      "answer": "3",
+      "explanation": "词汇点：うかりました。该词/表达最符合句意。"
+    },
+    {
+      "id": "Q058",
+      "part": "Unit 2",
+      "type": "語彙",
+      "prompt": "（　）ことに、好きなドラマの最終回を見逃した。 選択肢：1 おしい / 2 もったいない / 3 くどい / 4 みっともない",
+      "answer": "1",
+      "explanation": "词汇点：おしい。该词/表达最符合句意。"
+    },
+    {
+      "id": "Q059",
+      "part": "Unit 2",
+      "type": "文法",
+      "prompt": "日本に（　）、あっという間に一年が経ちました。 選択肢：1 来た後で / 2 来てから / 3 来る前に / 4 来るまで",
+      "answer": "2",
+      "explanation": "文法点：来てから。该形式符合句子的接续和语义。"
+    },
+    {
+      "id": "Q060",
+      "part": "Unit 2",
+      "type": "文法",
+      "prompt": "6年も実家に帰っていないので、両親に（　）。 選択肢：1 会いたくなるまい / 2 会いたくてはならない / 3 会いたくてならない / 4 会いたくてはいけない",
+      "answer": "3",
+      "explanation": "文法点：～てならない。非常……；不由得……。"
+    },
+    {
+      "id": "Q061",
+      "part": "Unit 2",
+      "type": "文字",
+      "prompt": "山頂に登ったら、**視野**が広がった。 選択肢：1 しや / 2 しの / 3 みや / 4 みの",
+      "answer": "1",
+      "explanation": "考点：視野。读音是「しや」。"
+    },
+    {
+      "id": "Q062",
+      "part": "Unit 2",
+      "type": "文字",
+      "prompt": "**各国**のサッカーチームが集まった。 選択肢：1 かごく / 2 かこく / 3 かくごく / 4 かっこく",
+      "answer": "4",
+      "explanation": "考点：各国。读音是「かっこく」。词条读音：かっこく；含义：各国。"
+    },
+    {
+      "id": "Q063",
+      "part": "Unit 2",
+      "type": "語彙",
+      "prompt": "母は毎朝5時に起きて食事の（　）をします。 選択肢：1 製作 / 2 支度 / 3 調理 / 4 給食",
+      "answer": "2",
+      "explanation": "词汇点：支度（したく）：准备。"
+    },
+    {
+      "id": "Q064",
+      "part": "Unit 2",
+      "type": "語彙",
+      "prompt": "汗をかいたので、帰宅してすぐ（　）を浴びました。 選択肢：1 シャワー / 2 ツアー / 3 ソファー / 4 シャッター",
+      "answer": "1",
+      "explanation": "词汇点：シャワー（シャワー）：淋浴。"
+    },
+    {
+      "id": "Q065",
+      "part": "Unit 2",
+      "type": "文法",
+      "prompt": "目上の人に対して、敬語を使う（　）。 選択肢：1 わけだ / 2 べきだ / 3 ためだ / 4 はずだ",
+      "answer": "2",
+      "explanation": "文法点：～べき/べきだ/べきではない。应该……；不应该……。"
+    },
+    {
+      "id": "Q066",
+      "part": "Unit 2",
+      "type": "文法",
+      "prompt": "好きな仕事ができるなら、多少給料は（　）かまいません。 選択肢：1 安いほど / 2 安くても / 3 安くては / 4 安いより",
+      "answer": "2",
+      "explanation": "文法点：安くても。该形式符合句子的接续和语义。"
+    },
+    {
+      "id": "Q067",
+      "part": "Unit 2",
+      "type": "文字",
+      "prompt": "面接の**結果**はまだわかりません。 選択肢：1 けつが / 2 けつみ / 3 けっか / 4 けっみ",
+      "answer": "3",
+      "explanation": "考点：結果。读音是「けっか」。词条读音：けっか；含义：结果。"
+    },
+    {
+      "id": "Q068",
+      "part": "Unit 2",
+      "type": "文字",
+      "prompt": "十分な**栄養**を取って休んでください。 選択肢：1 えいよ / 2 えいよう / 3 けいよ / 4 けいよう",
+      "answer": "2",
+      "explanation": "考点：栄養。读音是「えいよう」。词条读音：えいよう；含义：营养。"
+    },
+    {
+      "id": "Q069",
+      "part": "Unit 2",
+      "type": "語彙",
+      "prompt": "皆さん、ここにゴミを（　）いけませんよ。 選択肢：1 いれては / 2 おえては / 3 すてては / 4 へだてては",
+      "answer": "3",
+      "explanation": "词汇点：すてては。该词/表达最符合句意。"
+    },
+    {
+      "id": "Q070",
+      "part": "Unit 2",
+      "type": "語彙",
+      "prompt": "（　）手伝いに来ていただいて、ありがとうございます。 選択肢：1 はらはら / 2 わざわざ / 3 のろのろ / 4 めいめい",
+      "answer": "2",
+      "explanation": "词汇点：わざわざ（わざわざ）：特意，特地；故意地。"
+    },
+    {
+      "id": "Q071",
+      "part": "Unit 2",
+      "type": "文法",
+      "prompt": "桜の美しさ（　）、とても言葉で表現できないほどです。 選択肢：1 から言うと / 2 となると / 3 といったら / 4 からすれば",
+      "answer": "3",
+      "explanation": "文法点：～というと/といえば/といったら。说到……；提起……。"
+    },
+    {
+      "id": "Q072",
+      "part": "Unit 2",
+      "type": "文法",
+      "prompt": "展示品を（　）後、皆様のご意見をお聞かせください。 選択肢：1 ご覧になった / 2 お越しになった / 3 ご覧に入れた / 4 お召しになった",
+      "answer": "1",
+      "explanation": "文法点：ご覧になった。该形式符合句子的接续和语义。"
+    }
+  ]
+}

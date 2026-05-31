@@ -1,0 +1,313 @@
+{
+  "schemaVersion": 1,
+  "unit": {
+    "id": "red-blue-n3-1000-practice-unit-20",
+    "title": "红蓝宝书1000题 - Unit 20",
+    "type": "practice_unit",
+    "status": "manual-reviewed-draft",
+    "tags": [
+      "jlpt",
+      "n3",
+      "practice",
+      "vocabulary",
+      "grammar",
+      "red-blue-1000",
+      "manual-entry"
+    ],
+    "sourceId": "source-red-blue-n3-1000-practice",
+    "sourcePages": [
+      236,
+      247
+    ],
+    "created": "2026-05-26",
+    "updated": "2026-05-26",
+    "scope": {
+      "Question range": "Q680-Q710",
+      "Source pages": "PDF pages 236-247",
+      "Page-image cache": "`.cache/ocr/red-blue-n3-1000-practice/`"
+    },
+    "contentPath": "content/items/red-blue-n3-1000-practice/unit-20.md"
+  },
+  "vocabulary": [],
+  "reviewCards": [],
+  "sourceTestPages": [
+    {
+      "kind": "questions",
+      "title": "原书练习题",
+      "bookPages": "229-239",
+      "pdfPages": "236-246",
+      "images": [
+        ".cache/ocr/red-blue-n3-1000-practice/images/page_236.jpg",
+        ".cache/ocr/red-blue-n3-1000-practice/images/page_238.jpg",
+        ".cache/ocr/red-blue-n3-1000-practice/images/page_240.jpg",
+        ".cache/ocr/red-blue-n3-1000-practice/images/page_242.jpg",
+        ".cache/ocr/red-blue-n3-1000-practice/images/page_244.jpg",
+        ".cache/ocr/red-blue-n3-1000-practice/images/page_246.jpg"
+      ]
+    },
+    {
+      "kind": "answers",
+      "title": "原书答案解析",
+      "bookPages": "230-240",
+      "pdfPages": "237-247",
+      "images": [
+        ".cache/ocr/red-blue-n3-1000-practice/images/page_237.jpg",
+        ".cache/ocr/red-blue-n3-1000-practice/images/page_239.jpg",
+        ".cache/ocr/red-blue-n3-1000-practice/images/page_241.jpg",
+        ".cache/ocr/red-blue-n3-1000-practice/images/page_243.jpg",
+        ".cache/ocr/red-blue-n3-1000-practice/images/page_245.jpg",
+        ".cache/ocr/red-blue-n3-1000-practice/images/page_247.jpg"
+      ]
+    }
+  ],
+  "sourceTextTests": [
+    {
+      "id": "Q680",
+      "part": "Unit 20",
+      "type": "文字",
+      "prompt": "学生である以上、学校の規則を**守る**べきです。 選択肢：1 まいる / 2 ねむる / 3 なおる / 4 まもる",
+      "answer": "4",
+      "explanation": "詞彙點：守る（まもる）。表示「遵守、守护」。"
+    },
+    {
+      "id": "Q681",
+      "part": "Unit 20",
+      "type": "文字",
+      "prompt": "交通事故で道路が**渋滞**しました。 選択肢：1 しゅうたい / 2 しゅうだい / 3 じゅうたい / 4 じゅうだい",
+      "answer": "3",
+      "explanation": "詞彙點：渋滞（じゅうたい）。表示「堵塞、拥堵」。"
+    },
+    {
+      "id": "Q682",
+      "part": "Unit 20",
+      "type": "語彙",
+      "prompt": "彼女は（　）結婚するそうだ。 選択肢：1 別々 / 2 近々 / 3 年々 / 4 少々",
+      "answer": "2",
+      "explanation": "詞彙點：近々（ちかぢか）。表示「不久、近期」。"
+    },
+    {
+      "id": "Q683",
+      "part": "Unit 20",
+      "type": "語彙",
+      "prompt": "万が一に（　）、パスポートを持ち歩く。 選択肢：1 そなえて / 2 かたよって / 3 ちぢめて / 4 たちよって",
+      "answer": "1",
+      "explanation": "詞彙點：備える（そなえる）。表示「准备、防备」。"
+    },
+    {
+      "id": "Q684",
+      "part": "Unit 20",
+      "type": "文法",
+      "prompt": "人間は誰（　）失敗することがある。 選択肢：1 にも / 2 では / 3 まで / 4 だって",
+      "answer": "4",
+      "explanation": "語法點：疑問詞＋だって。表示「无论……都……」。"
+    },
+    {
+      "id": "Q685",
+      "part": "Unit 20",
+      "type": "文法",
+      "prompt": "わたしはあまりカラオケに行かない。（　）、人前で歌うのが苦手だからだ。 選択肢：1 ということで / 2 ということは / 3 というのは / 4 といっても",
+      "answer": "3",
+      "explanation": "語法點：〜というのは。表示说明理由或解释前项。"
+    },
+    {
+      "id": "Q686",
+      "part": "Unit 20",
+      "type": "文字",
+      "prompt": "人間関係に**悩んでいる**人が少なくないです。 選択肢：1 やんでいる / 2 くやんでいる / 3 なやんでいる / 4 やすんでいる",
+      "answer": "3",
+      "explanation": "詞彙點：悩む（なやむ）。表示「烦恼、苦恼」。"
+    },
+    {
+      "id": "Q687",
+      "part": "Unit 20",
+      "type": "文字",
+      "prompt": "この果物は**独特**のにおいがします。 選択肢：1 とくどく / 2 どくとく / 3 とくとく / 4 どくどく",
+      "answer": "2",
+      "explanation": "詞彙點：独特（どくとく）。表示「独特」。"
+    },
+    {
+      "id": "Q688",
+      "part": "Unit 20",
+      "type": "語彙",
+      "prompt": "みんなに理解してもらうには、説明が（　）だ。 選択肢：1 不十分 / 2 不注意 / 3 不思議 / 4 不可能",
+      "answer": "1",
+      "explanation": "詞彙點：不十分（ふじゅうぶん）。表示「不充分」。"
+    },
+    {
+      "id": "Q689",
+      "part": "Unit 20",
+      "type": "文法",
+      "prompt": "中村（　）人知らない。 選択肢：1 など / 2 なんか / 3 なにか / 4 なんて",
+      "answer": "4",
+      "explanation": "語法點：名詞＋なんて。表示轻视或举例。"
+    },
+    {
+      "id": "Q690",
+      "part": "Unit 20",
+      "type": "文法",
+      "prompt": "これから買い物に（　）なんだけど、一緒にどう？ 選択肢：1 行くところ / 2 行ったところ / 3 行っているところ / 4 行かせるところ",
+      "answer": "1",
+      "explanation": "語法點：動詞辞書形＋ところだ。表示正要做某事。"
+    },
+    {
+      "id": "Q691",
+      "part": "Unit 20",
+      "type": "文字",
+      "prompt": "代金は現金で**支払います**。 選択肢：1 しはらいます / 2 しりあいます / 3 にあいます / 4 においます",
+      "answer": "1",
+      "explanation": "詞彙點：支払う（しはらう）。表示「支付」。"
+    },
+    {
+      "id": "Q692",
+      "part": "Unit 20",
+      "type": "文字",
+      "prompt": "博物館での撮影は**禁止**されています。 選択肢：1 きんち / 2 ぎんち / 3 きんし / 4 ぎんし",
+      "answer": "3",
+      "explanation": "詞彙點：禁止（きんし）。表示「禁止」。"
+    },
+    {
+      "id": "Q693",
+      "part": "Unit 20",
+      "type": "語彙",
+      "prompt": "（　）は洗濯機で洗えない物が多い。 選択肢：1 ゼミナール / 2 カーペット / 3 シートベルト / 4 スクリーン",
+      "answer": "2",
+      "explanation": "詞彙點：カーペット。表示「地毯」。"
+    },
+    {
+      "id": "Q694",
+      "part": "Unit 20",
+      "type": "文法",
+      "prompt": "彼女はまた来る（　）言いました。 選択肢：1 を / 2 の / 3 って / 4 っけ",
+      "answer": "3",
+      "explanation": "語法點：普通形＋って。表示引用。"
+    },
+    {
+      "id": "Q695",
+      "part": "Unit 20",
+      "type": "文法",
+      "prompt": "すみませんが、ボールペンを貸して（　）。 選択肢：1 やりませんか / 2 もらいますか / 3 やってみますか / 4 もらえませんか",
+      "answer": "4",
+      "explanation": "語法點：〜てもらえませんか。表示请求对方帮自己做某事。"
+    },
+    {
+      "id": "Q696",
+      "part": "Unit 20",
+      "type": "文字",
+      "prompt": "わからない単語は**字引**を引いて調べます。 選択肢：1 じいん / 2 ないん / 3 じびき / 4 なびき",
+      "answer": "3",
+      "explanation": "詞彙點：字引（じびき）。表示「字典」。"
+    },
+    {
+      "id": "Q697",
+      "part": "Unit 20",
+      "type": "文字",
+      "prompt": "相手の**反応**を見ながら、説明を続けます。 選択肢：1 はんこう / 2 はんこん / 3 はんのう / 4 はんのん",
+      "answer": "3",
+      "explanation": "詞彙點：反応（はんのう）。表示「反应」。"
+    },
+    {
+      "id": "Q698",
+      "part": "Unit 20",
+      "type": "語彙",
+      "prompt": "彼女はすべての問題を（　）と答えました。 選択肢：1 もともと / 2 すらすら / 3 ますます / 4 がらがら",
+      "answer": "2",
+      "explanation": "詞彙點：すらすら。表示「流畅地、顺利地」。"
+    },
+    {
+      "id": "Q699",
+      "part": "Unit 20",
+      "type": "文法",
+      "prompt": "これは子どもからお年寄り（　）喜ばれる人気のクッキーです。 選択肢：1 までを / 2 までに / 3 をまで / 4 にまで",
+      "answer": "4",
+      "explanation": "語法點：〜から〜にまで。表示范围从……到……，连……也。"
+    },
+    {
+      "id": "Q700",
+      "part": "Unit 20",
+      "type": "文法",
+      "prompt": "娘「だって、先生がそう言ってた（　）。」 選択肢：1 もん / 2 の / 3 なあ / 4 ぞ",
+      "answer": "1",
+      "explanation": "語法點：〜もん。口语中表示说明理由或辩解，常与「だって」搭配。"
+    },
+    {
+      "id": "Q701",
+      "part": "Unit 20",
+      "type": "文字",
+      "prompt": "このプリントを中村さんに**渡して**ください。 選択肢：1 のばして / 2 やくして / 3 まわして / 4 わたして",
+      "answer": "4",
+      "explanation": "詞彙點：渡す（わたす）。表示「交给、递给」。"
+    },
+    {
+      "id": "Q702",
+      "part": "Unit 20",
+      "type": "文字",
+      "prompt": "家から学校までの**距離**は近いほうです。 選択肢：1 きょり / 2 きょうり / 3 きゅり / 4 きゅうり",
+      "answer": "1",
+      "explanation": "詞彙點：距離（きょり）。表示「距离」。"
+    },
+    {
+      "id": "Q703",
+      "part": "Unit 20",
+      "type": "語彙",
+      "prompt": "先生からの質問がよく聞こえなかったので（　）。 選択肢：1 引き返しました / 2 払い戻しました / 3 聞き返しました / 4 取り戻しました",
+      "answer": "3",
+      "explanation": "詞彙點：聞き返す（ききかえす）。表示「再问、反问」。"
+    },
+    {
+      "id": "Q704",
+      "part": "Unit 20",
+      "type": "文法",
+      "prompt": "子どもが無料で（　）スポットをご紹介します。 選択肢：1 遊ぶ / 2 遊べる / 3 遊ばれる / 4 遊ばせる",
+      "answer": "2",
+      "explanation": "語法點：遊ぶ的可能形「遊べる」。表示「能玩」。"
+    },
+    {
+      "id": "Q705",
+      "part": "Unit 20",
+      "type": "文法",
+      "prompt": "富士山の姿が雲の中に（　）。 選択肢：1 消えてきました / 2 消えていきました / 3 消してきました / 4 消していきました",
+      "answer": "2",
+      "explanation": "語法點：自動詞「消える」＋ていく。表示逐渐消失。"
+    },
+    {
+      "id": "Q706",
+      "part": "Unit 20",
+      "type": "文字",
+      "prompt": "若者言葉の**特徴**について論文を書きました。 選択肢：1 とくじょう / 2 どくじょう / 3 とくちょう / 4 どくちょう",
+      "answer": "3",
+      "explanation": "詞彙點：特徴（とくちょう）。表示「特征」。"
+    },
+    {
+      "id": "Q707",
+      "part": "Unit 20",
+      "type": "文字",
+      "prompt": "床暖房のおかげで、冬も**快適**に暮らすことができます。 選択肢：1 かいてつ / 2 かいてき / 3 けいてつ / 4 けいてき",
+      "answer": "2",
+      "explanation": "詞彙點：快適（かいてき）。表示「舒适」。"
+    },
+    {
+      "id": "Q708",
+      "part": "Unit 20",
+      "type": "語彙",
+      "prompt": "そのワンピースを（　）したら、サイズが合わなかったです。 選択肢：1 試着 / 2 採用 / 3 試用 / 4 試験",
+      "answer": "1",
+      "explanation": "詞彙點：試着（しちゃく）。表示「试穿」。"
+    },
+    {
+      "id": "Q709",
+      "part": "Unit 20",
+      "type": "文法",
+      "prompt": "就職活動で忙しくなる（　）と思って、アルバイトを辞めました。 選択肢：1 らしい / 2 つもり / 3 だろう / 4 そうだ",
+      "answer": "3",
+      "explanation": "語法點：〜だろうと思う。表示说话人的推测。"
+    },
+    {
+      "id": "Q710",
+      "part": "Unit 20",
+      "type": "文法",
+      "prompt": "先輩のますますのご活躍を期待して（　）。 選択肢：1 なります / 2 されます / 3 申します / 4 おります",
+      "answer": "4",
+      "explanation": "語法點：〜ております。「〜ている」的自谦语。"
+    }
+  ]
+}

@@ -1,0 +1,353 @@
+{
+  "schemaVersion": 1,
+  "unit": {
+    "id": "red-blue-n3-1000-practice-unit-06",
+    "title": "红蓝宝书1000题 - Unit 6",
+    "type": "practice_unit",
+    "status": "manual-reviewed-draft",
+    "tags": [
+      "jlpt",
+      "n3",
+      "practice",
+      "vocabulary",
+      "grammar",
+      "red-blue-1000",
+      "manual-entry"
+    ],
+    "sourceId": "source-red-blue-n3-1000-practice",
+    "sourcePages": [
+      68,
+      79
+    ],
+    "created": "2026-05-26",
+    "updated": "2026-05-26",
+    "scope": {
+      "Question range": "Q181-Q216",
+      "Source pages": "PDF pages 68-79",
+      "Page-image cache": "`.cache/ocr/red-blue-n3-1000-practice/`"
+    },
+    "contentPath": "content/items/red-blue-n3-1000-practice/unit-06.md"
+  },
+  "vocabulary": [],
+  "reviewCards": [],
+  "sourceTestPages": [
+    {
+      "kind": "questions",
+      "title": "原书练习题",
+      "bookPages": "61-71",
+      "pdfPages": "68-78",
+      "images": [
+        ".cache/ocr/red-blue-n3-1000-practice/images/page_068.jpg",
+        ".cache/ocr/red-blue-n3-1000-practice/images/page_070.jpg",
+        ".cache/ocr/red-blue-n3-1000-practice/images/page_072.jpg",
+        ".cache/ocr/red-blue-n3-1000-practice/images/page_074.jpg",
+        ".cache/ocr/red-blue-n3-1000-practice/images/page_076.jpg",
+        ".cache/ocr/red-blue-n3-1000-practice/images/page_078.jpg"
+      ]
+    },
+    {
+      "kind": "answers",
+      "title": "原书答案解析",
+      "bookPages": "62-72",
+      "pdfPages": "69-79",
+      "images": [
+        ".cache/ocr/red-blue-n3-1000-practice/images/page_069.jpg",
+        ".cache/ocr/red-blue-n3-1000-practice/images/page_071.jpg",
+        ".cache/ocr/red-blue-n3-1000-practice/images/page_073.jpg",
+        ".cache/ocr/red-blue-n3-1000-practice/images/page_075.jpg",
+        ".cache/ocr/red-blue-n3-1000-practice/images/page_077.jpg",
+        ".cache/ocr/red-blue-n3-1000-practice/images/page_079.jpg"
+      ]
+    }
+  ],
+  "sourceTextTests": [
+    {
+      "id": "Q181",
+      "part": "Unit 6",
+      "type": "文字",
+      "prompt": "この服は**汚れ**やすい。 選択肢：1 はずれ / 2 かくれ / 3 こわれ / 4 よごれ",
+      "answer": "4",
+      "explanation": "考点：汚れ。读音是「よごれ」。词条读音：よごれ；含义：污垢，肮脏之处。"
+    },
+    {
+      "id": "Q182",
+      "part": "Unit 6",
+      "type": "文字",
+      "prompt": "彼は**借金**を全部返しました。 選択肢：1 しゃきん / 2 しゃっきん / 3 しゃぎん / 4 しゃくきん",
+      "answer": "2",
+      "explanation": "考点：借金。读音是「しゃっきん」。词条读音：しゃっきん；含义：借钱。"
+    },
+    {
+      "id": "Q183",
+      "part": "Unit 6",
+      "type": "語彙",
+      "prompt": "このシャツは（　）が薄くて涼しそうです。 選択肢：1 無地 / 2 部品 / 3 生地 / 4 部分",
+      "answer": "3",
+      "explanation": "词汇点：生地（きじ）：布料。"
+    },
+    {
+      "id": "Q184",
+      "part": "Unit 6",
+      "type": "語彙",
+      "prompt": "テストの問題用紙をみんなに（　）。 選択肢：1 しぼりました / 2 ほうりました / 3 つかりました / 4 くばりました",
+      "answer": "4",
+      "explanation": "词汇点：配る（くばる）。表示“分发、分配”。"
+    },
+    {
+      "id": "Q185",
+      "part": "Unit 6",
+      "type": "文法",
+      "prompt": "社長のスピーチの（　）、居眠りをしてしまった。 選択肢：1 ところ / 2 うちに / 3 あいだ / 4 たびに",
+      "answer": "3",
+      "explanation": "文法点：～のあいだ。表示“在……期间”。"
+    },
+    {
+      "id": "Q186",
+      "part": "Unit 6",
+      "type": "文法",
+      "prompt": "両親とよく相談（　）決めたいと思います。 選択肢：1 する上に / 2 する上で / 3 した上に / 4 した上で",
+      "answer": "4",
+      "explanation": "文法点：～た上で。表示“在……之后，再……”。"
+    },
+    {
+      "id": "Q187",
+      "part": "Unit 6",
+      "type": "文字",
+      "prompt": "彼は**冷たい**目でわたしを見ていた。 選択肢：1 つめたい / 2 めてたい / 3 ねむたい / 4 けむたい",
+      "answer": "1",
+      "explanation": "考点：冷たい。读音是「つめたい」。"
+    },
+    {
+      "id": "Q188",
+      "part": "Unit 6",
+      "type": "文字",
+      "prompt": "今日はちょっと**都合**が悪いんですが。 選択肢：1 つご / 2 つごう / 3 とこ / 4 とごう",
+      "answer": "2",
+      "explanation": "考点：都合。读音是「つごう」。词条读音：つごう；含义：(某种)情况。"
+    },
+    {
+      "id": "Q189",
+      "part": "Unit 6",
+      "type": "語彙",
+      "prompt": "お支払いは後日でも（　）です。 選択肢：1 不足 / 2 十分 / 3 満足 / 4 結構",
+      "answer": "4",
+      "explanation": "词汇点：結構。这里表示“可以、没关系”。"
+    },
+    {
+      "id": "Q190",
+      "part": "Unit 6",
+      "type": "語彙",
+      "prompt": "（　）目が覚めると、電車を乗り越していた。 選択肢：1 つい / 2 ほっと / 3 ふと / 4 きっと",
+      "answer": "3",
+      "explanation": "词汇点：ふと（ふと）：偶然；一下；突然。"
+    },
+    {
+      "id": "Q191",
+      "part": "Unit 6",
+      "type": "文法",
+      "prompt": "あの人にはどこかで会ったような気（　）。 選択肢：1 があります / 2 がします / 3 になります / 4 にします",
+      "answer": "2",
+      "explanation": "文法点：～気がする。表示“觉得……、有……的感觉”。"
+    },
+    {
+      "id": "Q192",
+      "part": "Unit 6",
+      "type": "文法",
+      "prompt": "姉が母のかわり（　）、洗濯や食事の支度をします。 選択肢：1 を / 2 で / 3 に / 4 と",
+      "answer": "3",
+      "explanation": "文法点：～かわりに。表示“代替……”。"
+    },
+    {
+      "id": "Q193",
+      "part": "Unit 6",
+      "type": "文字",
+      "prompt": "パソコンの使いすぎで**手首**が痛い。 選択肢：1 しゅじゅ / 2 しゅくび / 3 てしゅ / 4 てくび",
+      "answer": "4",
+      "explanation": "考点：手首。读音是「てくび」。词条读音：てくび；含义：手腕。"
+    },
+    {
+      "id": "Q194",
+      "part": "Unit 6",
+      "type": "文字",
+      "prompt": "車の運転**免許**を持っていますか。 選択肢：1 めいきょ / 2 めいぎょ / 3 めんきょ / 4 めんぎょ",
+      "answer": "3",
+      "explanation": "考点：免許。读音是「めんきょ」。词条读音：めんきょ；含义：批准；许可；许可证；执照。"
+    },
+    {
+      "id": "Q195",
+      "part": "Unit 6",
+      "type": "語彙",
+      "prompt": "うちのワンちゃんはなかなか（　）。 選択肢：1 かっこいい / 2 かしこい / 3 すっぱい / 4 あやしい",
+      "answer": "2",
+      "explanation": "词汇点：かしこい。表示“聪明、伶俐”。"
+    },
+    {
+      "id": "Q196",
+      "part": "Unit 6",
+      "type": "語彙",
+      "prompt": "先輩から面接の（　）を受けました。 選択肢：1 アドバイス / 2 アナウンス / 3 アクセント / 4 アレルギー",
+      "answer": "1",
+      "explanation": "词汇点：アドバイス（アドバイス）：建议。"
+    },
+    {
+      "id": "Q197",
+      "part": "Unit 6",
+      "type": "文法",
+      "prompt": "さすがプロの通訳ですね。英語の発音（　）違います。 選択肢：1 からすれば / 2 からして / 3 からすると / 4 からしたら",
+      "answer": "2",
+      "explanation": "文法点：～からして。单从……来看；连……都。"
+    },
+    {
+      "id": "Q198",
+      "part": "Unit 6",
+      "type": "文法",
+      "prompt": "あの人はいつも文句が多い。自分は何もしない（　）。 選択肢：1 うちに / 2 ことに / 3 だけに / 4 くせに",
+      "answer": "4",
+      "explanation": "文法点：～くせに。明明……却……。"
+    },
+    {
+      "id": "Q199",
+      "part": "Unit 6",
+      "type": "文字",
+      "prompt": "一万円**札**をくずしていただけませんか。 選択肢：1 へい / 2 ふた / 3 さつ / 4 ふで",
+      "answer": "3",
+      "explanation": "考点：札。读音是「さつ」。词条读音：さつ；含义：纸币。"
+    },
+    {
+      "id": "Q200",
+      "part": "Unit 6",
+      "type": "文字",
+      "prompt": "皆様のご協力に心より**感謝**いたします。 選択肢：1 かんしゃ / 2 かんじゃ / 3 がんしゃ / 4 がんじゃ",
+      "answer": "1",
+      "explanation": "考点：感謝。读音是「かんしゃ」。词条读音：かんしゃ；含义：感谢。"
+    },
+    {
+      "id": "Q201",
+      "part": "Unit 6",
+      "type": "語彙",
+      "prompt": "祖父は母校に5万冊の書物を（　）しました。 選択肢：1 貢献 / 2 寄付 / 3 内緒 / 4 入力",
+      "answer": "2",
+      "explanation": "词汇点：寄付（きふ）：捐助。"
+    },
+    {
+      "id": "Q202",
+      "part": "Unit 6",
+      "type": "語彙",
+      "prompt": "電話の向こうで喜ぶ母の顔が目に（　）。 選択肢：1 すませた / 2 現われた / 3 むかえた / 4 浮かんだ",
+      "answer": "4",
+      "explanation": "词汇点：浮かぶ。这里表示“浮现在眼前/脑海中”。"
+    },
+    {
+      "id": "Q203",
+      "part": "Unit 6",
+      "type": "文法",
+      "prompt": "仕事が忙しいときは、たまに会社に（　）こともあります。 選択肢：1 泊まる / 2 泊まった / 3 泊まっている / 4 泊まっていた",
+      "answer": "1",
+      "explanation": "文法点：動詞辞書形＋ことがある。表示“有时会……”。"
+    },
+    {
+      "id": "Q204",
+      "part": "Unit 6",
+      "type": "文法",
+      "prompt": "来月から、学校の授業は朝8時に始まる（　）になりました。 選択肢：1 はず / 2 こと / 3 べき / 4 もの",
+      "answer": "2",
+      "explanation": "文法点：～ことになる。表示客观决定或规定变成“……”。"
+    },
+    {
+      "id": "Q205",
+      "part": "Unit 6",
+      "type": "文字",
+      "prompt": "引っ越しの**荷物**をまとめる。 選択肢：1 にぶつ / 2 にもつ / 3 かぶつ / 4 かもつ",
+      "answer": "2",
+      "explanation": "考点：荷物。读音是「にもつ」。"
+    },
+    {
+      "id": "Q206",
+      "part": "Unit 6",
+      "type": "文字",
+      "prompt": "故郷にも高速列車が**開通**しました。 選択肢：1 かいつう / 2 かいとう / 3 けいつう / 4 けいとう",
+      "answer": "1",
+      "explanation": "考点：開通。读音是「かいつう」。词条读音：かいつう；含义：开通。"
+    },
+    {
+      "id": "Q207",
+      "part": "Unit 6",
+      "type": "語彙",
+      "prompt": "今日はもう遅いので、（　）帰ります。 選択肢：1 ぎりぎり / 2 そろそろ / 3 うろうろ / 4 いよいよ",
+      "answer": "2",
+      "explanation": "词汇点：そろそろ。这里表示“差不多该……”。"
+    },
+    {
+      "id": "Q208",
+      "part": "Unit 6",
+      "type": "語彙",
+      "prompt": "勝手に人の部屋に入って寝るなんて（　）やつだね。 選択肢：1 騒々しい / 2 たりない / 3 図々しい / 4 すまない",
+      "answer": "3",
+      "explanation": "词汇点：図々しい（ずうずうしい）：厚颜无耻。"
+    },
+    {
+      "id": "Q209",
+      "part": "Unit 6",
+      "type": "文法",
+      "prompt": "授業の（　）、突然お腹が痛くなってきました。 選択肢：1 最中で / 2 最中を / 3 最中に / 4 最中が",
+      "answer": "3",
+      "explanation": "文法点：～最中に。正在……的时候。"
+    },
+    {
+      "id": "Q210",
+      "part": "Unit 6",
+      "type": "文法",
+      "prompt": "いろいろ考えた（　）、大学に行かないことにした。 選択肢：1 うえに / 2 すえに / 3 ように / 4 までに",
+      "answer": "2",
+      "explanation": "文法点：～た末に。表示“经过……之后，最终……”。"
+    },
+    {
+      "id": "Q211",
+      "part": "Unit 6",
+      "type": "文字",
+      "prompt": "兄は**撮影**が得意です。 選択肢：1 さつえい / 2 さつけい / 3 ざつえい / 4 ざっけい",
+      "answer": "1",
+      "explanation": "考点：撮影。读音是「さつえい」。词条读音：さつえい；含义：摄影。"
+    },
+    {
+      "id": "Q212",
+      "part": "Unit 6",
+      "type": "文字",
+      "prompt": "休みの日はもっと**有意義**に過ごしたいです。 選択肢：1 ゆいき / 2 ゆういき / 3 ゆいぎ / 4 ゆういぎ",
+      "answer": "4",
+      "explanation": "考点：有意義。读音是「ゆういぎ」。"
+    },
+    {
+      "id": "Q213",
+      "part": "Unit 6",
+      "type": "語彙",
+      "prompt": "北海道出身の彼女は（　）が上手です。 選択肢：1 スマート / 2 スケート / 3 スピーチ / 4 スカート",
+      "answer": "2",
+      "explanation": "词汇点：スケート。表示“滑冰”。"
+    },
+    {
+      "id": "Q214",
+      "part": "Unit 6",
+      "type": "語彙",
+      "prompt": "詳しい連絡（　）を教えてください。 選択肢：1 地 / 2 所 / 3 先 / 4 場",
+      "answer": "3",
+      "explanation": "词汇点：連絡先。表示“联系方式、联系地址”。"
+    },
+    {
+      "id": "Q215",
+      "part": "Unit 6",
+      "type": "文法",
+      "prompt": "最近、暑さの（　）、あまり食欲がないです。 選択肢：1 せいが / 2 せいに / 3 せいを / 4 せいか",
+      "answer": "4",
+      "explanation": "文法点：～せいで/せいだ/せいか。都怪……；由于……不良原因。"
+    },
+    {
+      "id": "Q216",
+      "part": "Unit 6",
+      "type": "文法",
+      "prompt": "先生はお元気で（　）。 選択肢：1 くださいませんか / 2 いただけますか / 3 いらっしゃいますか / 4 ございますか",
+      "answer": "3",
+      "explanation": "文法点：いらっしゃる。「いる/行く/来る」の尊敬語。"
+    }
+  ]
+}

@@ -1,0 +1,353 @@
+{
+  "schemaVersion": 1,
+  "unit": {
+    "id": "red-blue-n3-1000-practice-unit-18",
+    "title": "红蓝宝书1000题 - Unit 18",
+    "type": "practice_unit",
+    "status": "manual-reviewed-draft",
+    "tags": [
+      "jlpt",
+      "n3",
+      "practice",
+      "vocabulary",
+      "grammar",
+      "red-blue-1000",
+      "manual-entry"
+    ],
+    "sourceId": "source-red-blue-n3-1000-practice",
+    "sourcePages": [
+      212,
+      223
+    ],
+    "created": "2026-05-26",
+    "updated": "2026-05-26",
+    "scope": {
+      "Question range": "Q613-Q648",
+      "Source pages": "PDF pages 212-223",
+      "Page-image cache": "`.cache/ocr/red-blue-n3-1000-practice/`"
+    },
+    "contentPath": "content/items/red-blue-n3-1000-practice/unit-18.md"
+  },
+  "vocabulary": [],
+  "reviewCards": [],
+  "sourceTestPages": [
+    {
+      "kind": "questions",
+      "title": "原书练习题",
+      "bookPages": "205-215",
+      "pdfPages": "212-222",
+      "images": [
+        ".cache/ocr/red-blue-n3-1000-practice/images/page_212.jpg",
+        ".cache/ocr/red-blue-n3-1000-practice/images/page_214.jpg",
+        ".cache/ocr/red-blue-n3-1000-practice/images/page_216.jpg",
+        ".cache/ocr/red-blue-n3-1000-practice/images/page_218.jpg",
+        ".cache/ocr/red-blue-n3-1000-practice/images/page_220.jpg",
+        ".cache/ocr/red-blue-n3-1000-practice/images/page_222.jpg"
+      ]
+    },
+    {
+      "kind": "answers",
+      "title": "原书答案解析",
+      "bookPages": "206-216",
+      "pdfPages": "213-223",
+      "images": [
+        ".cache/ocr/red-blue-n3-1000-practice/images/page_213.jpg",
+        ".cache/ocr/red-blue-n3-1000-practice/images/page_215.jpg",
+        ".cache/ocr/red-blue-n3-1000-practice/images/page_217.jpg",
+        ".cache/ocr/red-blue-n3-1000-practice/images/page_219.jpg",
+        ".cache/ocr/red-blue-n3-1000-practice/images/page_221.jpg",
+        ".cache/ocr/red-blue-n3-1000-practice/images/page_223.jpg"
+      ]
+    }
+  ],
+  "sourceTextTests": [
+    {
+      "id": "Q613",
+      "part": "Unit 18",
+      "type": "文字",
+      "prompt": "彼は一人で荷物を**運んで**いきました。 選択肢：1 たのんで / 2 まなんで / 3 にらんで / 4 はこんで",
+      "answer": "4",
+      "explanation": "詞彙點：運ぶ（はこぶ）。表示「搬运、运送」。"
+    },
+    {
+      "id": "Q614",
+      "part": "Unit 18",
+      "type": "文字",
+      "prompt": "ゆきちゃんは**活発**な女の子です。 選択肢：1 かつばつ / 2 かっぱつ / 3 いきはつ / 4 いきばつ",
+      "answer": "2",
+      "explanation": "詞彙點：活発（かっぱつ）。表示「活泼、活跃」。"
+    },
+    {
+      "id": "Q615",
+      "part": "Unit 18",
+      "type": "語彙",
+      "prompt": "わたしの（　）は心配性なところです。 選択肢：1 短所 / 2 長所 / 3 小柄 / 4 大柄",
+      "answer": "1",
+      "explanation": "詞彙點：短所（たんしょ）。表示「缺点、短处」。"
+    },
+    {
+      "id": "Q616",
+      "part": "Unit 18",
+      "type": "語彙",
+      "prompt": "夜はパジャマに（　）寝ます。 選択肢：1 とりかえて / 2 うけとって / 3 きがえて / 4 かきとって",
+      "answer": "3",
+      "explanation": "詞彙點：着替える（きがえる）。表示「换衣服」。"
+    },
+    {
+      "id": "Q617",
+      "part": "Unit 18",
+      "type": "文法",
+      "prompt": "天気予報によると、来週はまた台風が来る（　）。 選択肢：1 ということだ / 2 とされている / 3 ようだ / 4 みたいだ",
+      "answer": "1",
+      "explanation": "語法點：〜ということだ。表示传闻或结论。"
+    },
+    {
+      "id": "Q618",
+      "part": "Unit 18",
+      "type": "文法",
+      "prompt": "工業の発達（　）、環境問題も深刻になってきました。 選択肢：1 と反対に / 2 どおりに / 3 とともに / 4 ながらも",
+      "answer": "3",
+      "explanation": "語法點：名詞＋とともに。表示「随着……」。"
+    },
+    {
+      "id": "Q619",
+      "part": "Unit 18",
+      "type": "文字",
+      "prompt": "あの人は新人のくせに**生意気**ですね。 選択肢：1 せいいき / 2 せいいぎ / 3 なまいき / 4 なまいぎ",
+      "answer": "3",
+      "explanation": "詞彙點：生意気（なまいき）。表示「傲慢、自大」。"
+    },
+    {
+      "id": "Q620",
+      "part": "Unit 18",
+      "type": "文字",
+      "prompt": "ここから見える**景色**はすばらしいです。 選択肢：1 けいしょく / 2 けしょく / 3 けいしき / 4 けしき",
+      "answer": "4",
+      "explanation": "詞彙點：景色（けしき）。表示「景色、风景」。"
+    },
+    {
+      "id": "Q621",
+      "part": "Unit 18",
+      "type": "語彙",
+      "prompt": "銀行で新しい（　）を開きました。 選択肢：1 口数 / 2 口座 / 3 通帳 / 4 手帳",
+      "answer": "2",
+      "explanation": "詞彙點：口座（こうざ）。表示「账户」。"
+    },
+    {
+      "id": "Q622",
+      "part": "Unit 18",
+      "type": "語彙",
+      "prompt": "空港で高校の先生と（　）と出会った。 選択肢：1 ばったり / 2 ずいぶん / 3 たっぷり / 4 だいぶ",
+      "answer": "1",
+      "explanation": "詞彙點：ばったり。表示「偶然、突然」。"
+    },
+    {
+      "id": "Q623",
+      "part": "Unit 18",
+      "type": "文法",
+      "prompt": "出張先で小学校の同級生に（　）なんて、思いもよらなかった。 選択肢：1 会う / 2 会った / 3 会わせる / 4 会わせた",
+      "answer": "1",
+      "explanation": "語法點：動詞普通形＋なんて。表示惊讶或意外。"
+    },
+    {
+      "id": "Q624",
+      "part": "Unit 18",
+      "type": "文法",
+      "prompt": "消防服には燃え（　）素材が使われている。 選択肢：1 づらい / 2 がたい / 3 づよい / 4 にくい",
+      "answer": "4",
+      "explanation": "語法點：動詞ます形＋にくい。表示「不容易……」。"
+    },
+    {
+      "id": "Q625",
+      "part": "Unit 18",
+      "type": "文字",
+      "prompt": "ロングヘアからショートヘアに**髪型**を変えました。 選択肢：1 かみけい / 2 はつけい / 3 かみがた / 4 はっかた",
+      "answer": "3",
+      "explanation": "詞彙點：髪型（かみがた）。表示「发型」。"
+    },
+    {
+      "id": "Q626",
+      "part": "Unit 18",
+      "type": "文字",
+      "prompt": "今日、**舞台**に立って歌を歌いました。 選択肢：1 ぶだい / 2 ぶたい / 3 ぷだい / 4 ぷたい",
+      "answer": "2",
+      "explanation": "詞彙點：舞台（ぶたい）。表示「舞台」。"
+    },
+    {
+      "id": "Q627",
+      "part": "Unit 18",
+      "type": "語彙",
+      "prompt": "籠に（　）見ると、中にかわいい子犬がいました。 選択肢：1 通りかかって / 2 たちよって / 3 通りすぎて / 4 ちかよって",
+      "answer": "4",
+      "explanation": "詞彙點：近寄る（ちかよる）。表示「靠近」。"
+    },
+    {
+      "id": "Q628",
+      "part": "Unit 18",
+      "type": "語彙",
+      "prompt": "場内に入る前に、荷物を（　）に預けた。 選択肢：1 ロッカー / 2 サークル / 3 メニュー / 4 レコード",
+      "answer": "1",
+      "explanation": "詞彙點：ロッカー。表示「寄存柜」。"
+    },
+    {
+      "id": "Q629",
+      "part": "Unit 18",
+      "type": "文法",
+      "prompt": "この黒いボタンを押す（　）でおいしいコーヒーが出来上がります。 選択肢：1 しか / 2 なら / 3 だけ / 4 まま",
+      "answer": "3",
+      "explanation": "語法點：〜だけで。表示「只要……就……」。"
+    },
+    {
+      "id": "Q630",
+      "part": "Unit 18",
+      "type": "文法",
+      "prompt": "用事で欠席した社長に（　）、副社長が忘年会で挨拶をしました。 選択肢：1 かわって / 2 限らず / 3 かえて / 4 関して",
+      "answer": "1",
+      "explanation": "語法點：〜にかわって。表示「代替……」。"
+    },
+    {
+      "id": "Q631",
+      "part": "Unit 18",
+      "type": "文字",
+      "prompt": "ニュースでテロ事件を知って**驚きました**。 選択肢：1 おどろきました / 2 ひらきました / 3 はたらきました / 4 かわきました",
+      "answer": "1",
+      "explanation": "詞彙點：驚く（おどろく）。表示「吃惊」。"
+    },
+    {
+      "id": "Q632",
+      "part": "Unit 18",
+      "type": "文字",
+      "prompt": "おかげさまで**元気**に暮らしています。 選択肢：1 がんき / 2 がんぎ / 3 げんき / 4 げんぎ",
+      "answer": "3",
+      "explanation": "詞彙點：元気（げんき）。表示「健康、有精神」。"
+    },
+    {
+      "id": "Q633",
+      "part": "Unit 18",
+      "type": "語彙",
+      "prompt": "子どものころ、毎日1時間書道の（　）をした。 選択肢：1 寸法 / 2 稽古 / 3 清書 / 4 隙間",
+      "answer": "2",
+      "explanation": "詞彙點：稽古（けいこ）。表示「练习、排练」。"
+    },
+    {
+      "id": "Q634",
+      "part": "Unit 18",
+      "type": "語彙",
+      "prompt": "喉が渇いたので、ジュースを（　）飲み干した。 選択肢：1 同時に / 2 一般に / 3 順々に / 4 一気に",
+      "answer": "4",
+      "explanation": "詞彙點：一気に（いっきに）。表示「一口气」。"
+    },
+    {
+      "id": "Q635",
+      "part": "Unit 18",
+      "type": "文法",
+      "prompt": "去年（　）比べて、今年の冬はずっと寒いです。 選択肢：1 を / 2 で / 3 は / 4 に",
+      "answer": "4",
+      "explanation": "語法點：名詞＋に比べて。表示「与……相比」。"
+    },
+    {
+      "id": "Q636",
+      "part": "Unit 18",
+      "type": "文法",
+      "prompt": "明日までにこの仕事を終わらせ（　）ならない。 選択肢：1 には / 2 ずに / 3 ねば / 4 れば",
+      "answer": "3",
+      "explanation": "語法點：〜ねばならない。表示「必须……」。"
+    },
+    {
+      "id": "Q637",
+      "part": "Unit 18",
+      "type": "文字",
+      "prompt": "女性だから昇進できないというのは**不公平**です。 選択肢：1 ふこうびょう / 2 ふこうへい / 3 ぶこうびょう / 4 ぶこうへい",
+      "answer": "2",
+      "explanation": "詞彙點：不公平（ふこうへい）。表示「不公平」。"
+    },
+    {
+      "id": "Q638",
+      "part": "Unit 18",
+      "type": "文字",
+      "prompt": "あの方はフランスの有名な**歌手**だそうです。 選択肢：1 うたて / 2 かて / 3 うたしゅ / 4 かしゅ",
+      "answer": "4",
+      "explanation": "詞彙點：歌手（かしゅ）。表示「歌手」。"
+    },
+    {
+      "id": "Q639",
+      "part": "Unit 18",
+      "type": "語彙",
+      "prompt": "同僚の（　）を羨ましく思う。 選択肢：1 出品 / 2 出世 / 3 世間 / 4 世帯",
+      "answer": "2",
+      "explanation": "詞彙點：出世（しゅっせ）。表示「晋升、出人头地」。"
+    },
+    {
+      "id": "Q640",
+      "part": "Unit 18",
+      "type": "語彙",
+      "prompt": "面接のときはあまり（　）格好のほうがいい。 選択肢：1 きづかない / 2 あまらない / 3 めだたない / 4 わらわない",
+      "answer": "3",
+      "explanation": "詞彙點：目立つ（めだつ）。「目立たない」表示「不起眼」。"
+    },
+    {
+      "id": "Q641",
+      "part": "Unit 18",
+      "type": "文法",
+      "prompt": "「いつもプレゼントをもらう（　）で、申し訳ないです。」 選択肢：1 ほど / 2 ばかり / 3 だけ / 4 ぐらい",
+      "answer": "2",
+      "explanation": "語法點：〜ばかり。表示「总是、光是……」。"
+    },
+    {
+      "id": "Q642",
+      "part": "Unit 18",
+      "type": "文法",
+      "prompt": "この映画を制作するのに、5年（　）かかったそうです。 選択肢：1 で / 2 を / 3 か / 4 も",
+      "answer": "4",
+      "explanation": "語法點：数量詞＋も。强调数量多或程度高。"
+    },
+    {
+      "id": "Q643",
+      "part": "Unit 18",
+      "type": "文字",
+      "prompt": "また桜の咲く**季節**になりました。 選択肢：1 きせつ / 2 きぜつ / 3 きせき / 4 きぜき",
+      "answer": "1",
+      "explanation": "詞彙點：季節（きせつ）。表示「季节」。"
+    },
+    {
+      "id": "Q644",
+      "part": "Unit 18",
+      "type": "文字",
+      "prompt": "この機械の**寿命**は5年です。 選択肢：1 じゅめい / 2 じゅうめい / 3 じゅみょう / 4 じゅうみょう",
+      "answer": "3",
+      "explanation": "詞彙點：寿命（じゅみょう）。表示「寿命」。"
+    },
+    {
+      "id": "Q645",
+      "part": "Unit 18",
+      "type": "語彙",
+      "prompt": "彼は親からの（　）で生活しています。 選択肢：1 出来上がり / 2 仕送り / 3 仕上がり / 4 見送り",
+      "answer": "2",
+      "explanation": "詞彙點：仕送り（しおくり）。表示「汇寄生活费、补贴」。"
+    },
+    {
+      "id": "Q646",
+      "part": "Unit 18",
+      "type": "語彙",
+      "prompt": "日曜日は一日中家で（　）していた。 選択肢：1 すべすべ / 2 ごろごろ / 3 ざあざあ / 4 ざらざら",
+      "answer": "2",
+      "explanation": "詞彙點：ごろごろする。表示「无所事事、闲着」。"
+    },
+    {
+      "id": "Q647",
+      "part": "Unit 18",
+      "type": "文法",
+      "prompt": "高校時代の友だちと8年（　）再会して、本当にうれしかったです。 選択肢：1 ぶりに / 2 ぶりの / 3 ぶりで / 4 ぶりを",
+      "answer": "1",
+      "explanation": "語法點：名詞＋ぶりに。表示「时隔……之后又……」。"
+    },
+    {
+      "id": "Q648",
+      "part": "Unit 18",
+      "type": "文法",
+      "prompt": "今日は湯川先生に（　）ことができまして、とても光栄です。 選択肢：1 会われる / 2 お目にかかる / 3 お会いになる / 4 お目にかける",
+      "answer": "2",
+      "explanation": "語法點：お目にかかる。表示「见到」的自谦语。"
+    }
+  ]
+}

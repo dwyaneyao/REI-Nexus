@@ -1,0 +1,353 @@
+{
+  "schemaVersion": 1,
+  "unit": {
+    "id": "red-blue-n3-1000-practice-unit-08",
+    "title": "红蓝宝书1000题 - Unit 8",
+    "type": "practice_unit",
+    "status": "manual-reviewed-draft",
+    "tags": [
+      "jlpt",
+      "n3",
+      "practice",
+      "vocabulary",
+      "grammar",
+      "red-blue-1000",
+      "manual-entry"
+    ],
+    "sourceId": "source-red-blue-n3-1000-practice",
+    "sourcePages": [
+      92,
+      103
+    ],
+    "created": "2026-05-26",
+    "updated": "2026-05-26",
+    "scope": {
+      "Question range": "Q253-Q288",
+      "Source pages": "PDF pages 92-103",
+      "Page-image cache": "`.cache/ocr/red-blue-n3-1000-practice/`"
+    },
+    "contentPath": "content/items/red-blue-n3-1000-practice/unit-08.md"
+  },
+  "vocabulary": [],
+  "reviewCards": [],
+  "sourceTestPages": [
+    {
+      "kind": "questions",
+      "title": "原书练习题",
+      "bookPages": "85-95",
+      "pdfPages": "92-102",
+      "images": [
+        ".cache/ocr/red-blue-n3-1000-practice/images/page_092.jpg",
+        ".cache/ocr/red-blue-n3-1000-practice/images/page_094.jpg",
+        ".cache/ocr/red-blue-n3-1000-practice/images/page_096.jpg",
+        ".cache/ocr/red-blue-n3-1000-practice/images/page_098.jpg",
+        ".cache/ocr/red-blue-n3-1000-practice/images/page_100.jpg",
+        ".cache/ocr/red-blue-n3-1000-practice/images/page_102.jpg"
+      ]
+    },
+    {
+      "kind": "answers",
+      "title": "原书答案解析",
+      "bookPages": "86-96",
+      "pdfPages": "93-103",
+      "images": [
+        ".cache/ocr/red-blue-n3-1000-practice/images/page_093.jpg",
+        ".cache/ocr/red-blue-n3-1000-practice/images/page_095.jpg",
+        ".cache/ocr/red-blue-n3-1000-practice/images/page_097.jpg",
+        ".cache/ocr/red-blue-n3-1000-practice/images/page_099.jpg",
+        ".cache/ocr/red-blue-n3-1000-practice/images/page_101.jpg",
+        ".cache/ocr/red-blue-n3-1000-practice/images/page_103.jpg"
+      ]
+    }
+  ],
+  "sourceTextTests": [
+    {
+      "id": "Q253",
+      "part": "Unit 8",
+      "type": "文字",
+      "prompt": "日本は海に**囲まれて**いる。 選択肢：1 いたまれて / 2 ふくまれて / 3 しずまれて / 4 かこまれて",
+      "answer": "4",
+      "explanation": "考点：囲まれて。读音是「かこまれて」。"
+    },
+    {
+      "id": "Q254",
+      "part": "Unit 8",
+      "type": "文字",
+      "prompt": "わたしは**納豆**が好きでよく食べます。 選択肢：1 なとう / 2 なっとう / 3 などう / 4 なつどう",
+      "answer": "2",
+      "explanation": "考点：納豆。读音是「なっとう」。词条读音：なっとう；含义：纳豆。"
+    },
+    {
+      "id": "Q255",
+      "part": "Unit 8",
+      "type": "語彙",
+      "prompt": "外国語の（　）に、近道はありません。 選択肢：1 実験 / 2 上達 / 3 実用 / 4 配達",
+      "answer": "2",
+      "explanation": "词汇点：上達（じょうたつ）：长进。"
+    },
+    {
+      "id": "Q256",
+      "part": "Unit 8",
+      "type": "語彙",
+      "prompt": "人前で子どもを（　）のはよくないと思います。 選択肢：1 しかる / 2 あらう / 3 とおる / 4 つかう",
+      "answer": "1",
+      "explanation": "词汇点：叱る（しかる）。表示“训斥、责备”。"
+    },
+    {
+      "id": "Q257",
+      "part": "Unit 8",
+      "type": "文法",
+      "prompt": "もし太陽がなくなる（　）、誰一人も生きていけません。 選択肢：1 としては / 2 としたら / 3 としても / 4 とともに",
+      "answer": "2",
+      "explanation": "文法点：～としたら/とすれば。如果……的话；既然……的话。"
+    },
+    {
+      "id": "Q258",
+      "part": "Unit 8",
+      "type": "文法",
+      "prompt": "「ねえ、誠へのお土産なんだけど、これ（　）どうかな。」 選択肢：1 なんか / 2 なにか / 3 など / 4 なんて",
+      "answer": "1",
+      "explanation": "文法点：～など/なんか/なんて。……之类；……什么的。"
+    },
+    {
+      "id": "Q259",
+      "part": "Unit 8",
+      "type": "文字",
+      "prompt": "**危ない**ところに行かないでください。 選択肢：1 あぶない / 2 いけない / 3 すまない / 4 すくない",
+      "answer": "1",
+      "explanation": "考点：危ない。读音是「あぶない」。"
+    },
+    {
+      "id": "Q260",
+      "part": "Unit 8",
+      "type": "文字",
+      "prompt": "結婚の**条件**は仕事を続けさせてくれることです。 選択肢：1 しょけん / 2 しょうけん / 3 じょけん / 4 じょうけん",
+      "answer": "4",
+      "explanation": "考点：条件。读音是「じょうけん」。词条读音：じょうけん；含义：条件。"
+    },
+    {
+      "id": "Q261",
+      "part": "Unit 8",
+      "type": "語彙",
+      "prompt": "娘はアメリカで経済学の修士課程を（　）しました。 選択肢：1 完了 / 2 修了 / 3 完成 / 4 終了",
+      "answer": "2",
+      "explanation": "词汇点：修了。该词/表达最符合句意。"
+    },
+    {
+      "id": "Q262",
+      "part": "Unit 8",
+      "type": "語彙",
+      "prompt": "電車で小さい女の子が（　）わたしを見つめていた。 選択肢：1 ぐっと / 2 まったく / 3 じっと / 4 かえって",
+      "answer": "3",
+      "explanation": "词汇点：じっと（じっと）：一动不动。"
+    },
+    {
+      "id": "Q263",
+      "part": "Unit 8",
+      "type": "文法",
+      "prompt": "会社に（　）女性社員の比率は年々高まっている。 選択肢：1 つれる / 2 おける / 3 つれて / 4 おいて",
+      "answer": "2",
+      "explanation": "文法点：～において/における。在……；于……。"
+    },
+    {
+      "id": "Q264",
+      "part": "Unit 8",
+      "type": "文法",
+      "prompt": "母からの手紙を（　）うちに、涙が出てきました。 選択肢：1 読もう / 2 読んでいる / 3 読んだ / 4 読んでいた",
+      "answer": "2",
+      "explanation": "文法点：～ているうちに。表示“正在……的过程中”。"
+    },
+    {
+      "id": "Q265",
+      "part": "Unit 8",
+      "type": "文字",
+      "prompt": "妹の誕生日プレゼントに**手袋**を買っておいた。 選択肢：1 しゅだい / 2 しゅぶくろ / 3 てだい / 4 てぶくろ",
+      "answer": "4",
+      "explanation": "考点：手袋。读音是「てぶくろ」。词条读音：てぶくろ；含义：手套。"
+    },
+    {
+      "id": "Q266",
+      "part": "Unit 8",
+      "type": "文字",
+      "prompt": "わたしは**絵画**に興味があります。 選択肢：1 えが / 2 えがく / 3 かいが / 4 かいがく",
+      "answer": "3",
+      "explanation": "考点：絵画。读音是「かいが」。词条读音：かいが；含义：绘画。"
+    },
+    {
+      "id": "Q267",
+      "part": "Unit 8",
+      "type": "語彙",
+      "prompt": "息子は5歳を（　）から、絵を描くのが好きになりました。 選択肢：1 みせて / 2 すぎて / 3 ゆでて / 4 おきて",
+      "answer": "2",
+      "explanation": "词汇点：過ぎる（すぎる）。这里表示“过了5岁之后”。"
+    },
+    {
+      "id": "Q268",
+      "part": "Unit 8",
+      "type": "語彙",
+      "prompt": "また（　）な事件が発生した。 選択肢：1 あらた / 2 ななめ / 3 たいら / 4 のんき",
+      "answer": "1",
+      "explanation": "词汇点：新た（あらた）。表示“新的、重新的”。"
+    },
+    {
+      "id": "Q269",
+      "part": "Unit 8",
+      "type": "文法",
+      "prompt": "この宿題は来週の金曜日（　）出さなければならない。 選択肢：1 まえに / 2 までに / 3 にまえ / 4 にまで",
+      "answer": "2",
+      "explanation": "文法点：～までに。表示“在……之前完成”。"
+    },
+    {
+      "id": "Q270",
+      "part": "Unit 8",
+      "type": "文法",
+      "prompt": "ラフィター（　）会社を聞いたことがありますか。 選択肢：1 という / 2 といった / 3 よりも / 4 ような",
+      "answer": "1",
+      "explanation": "文法点：～という。叫作……的；所谓……。"
+    },
+    {
+      "id": "Q271",
+      "part": "Unit 8",
+      "type": "文字",
+      "prompt": "お店の**壁**にポスターが貼ってあります。 選択肢：1 かべ / 2 ゆか / 3 さき / 4 てき",
+      "answer": "1",
+      "explanation": "考点：壁。读音是「かべ」。"
+    },
+    {
+      "id": "Q272",
+      "part": "Unit 8",
+      "type": "文字",
+      "prompt": "きのう、新しい**家具**を買いました。 選択肢：1 かく / 2 かぐ / 3 がく / 4 がぐ",
+      "answer": "2",
+      "explanation": "考点：家具。读音是「かぐ」。词条读音：かぐ；含义：家具。"
+    },
+    {
+      "id": "Q273",
+      "part": "Unit 8",
+      "type": "語彙",
+      "prompt": "今度こそ真剣に（　）しよう。 選択肢：1 勝利 / 2 勝負 / 3 勝手 / 4 優勝",
+      "answer": "2",
+      "explanation": "词汇点：勝負（しょうぶ）：胜负。"
+    },
+    {
+      "id": "Q274",
+      "part": "Unit 8",
+      "type": "語彙",
+      "prompt": "ここは有名な（　）によって設計された建物です。 選択肢：1 エネルギー / 2 オークション / 3 カレンダー / 4 デザイナー",
+      "answer": "4",
+      "explanation": "词汇点：デザイナー。该词/表达最符合句意。"
+    },
+    {
+      "id": "Q275",
+      "part": "Unit 8",
+      "type": "文法",
+      "prompt": "「お父さん、今日、早く帰って（　）かな。」 選択肢：1 しまう / 2 しまった / 3 こない / 4 いる",
+      "answer": "3",
+      "explanation": "文法点：～てこないかな。表示期待对方回来/过来。"
+    },
+    {
+      "id": "Q276",
+      "part": "Unit 8",
+      "type": "文法",
+      "prompt": "面接の結果は今週中にメール（　）お知らせします。 選択肢：1 とは / 2 には / 3 とも / 4 にて",
+      "answer": "4",
+      "explanation": "文法点：～にて。在……；用……。"
+    },
+    {
+      "id": "Q277",
+      "part": "Unit 8",
+      "type": "文字",
+      "prompt": "友だちがかわいい**人形**を送ってくれました。 選択肢：1 じんぎょう / 2 にんぎょう / 3 じんけい / 4 にんけい",
+      "answer": "2",
+      "explanation": "考点：人形。读音是「にんぎょう」。"
+    },
+    {
+      "id": "Q278",
+      "part": "Unit 8",
+      "type": "文字",
+      "prompt": "これは二人だけの**秘密**ですよ。 選択肢：1 ひみつ / 2 ひつみつ / 3 みひっ / 4 みつびつ",
+      "answer": "1",
+      "explanation": "考点：秘密。读音是「ひみつ」。词条读音：ひみつ；含义：秘密；机密。"
+    },
+    {
+      "id": "Q279",
+      "part": "Unit 8",
+      "type": "語彙",
+      "prompt": "散歩にでも行って気分（　）しましょう。 選択肢：1 変化 / 2 転換 / 3 変更 / 4 変換",
+      "answer": "2",
+      "explanation": "词汇点：気分転換。表示“转换心情、散心”。"
+    },
+    {
+      "id": "Q280",
+      "part": "Unit 8",
+      "type": "語彙",
+      "prompt": "鈴木先輩が引っ越しを手伝ってくれて本当に（　）。 選択肢：1 あつかった / 2 うかがった / 3 たすかった / 4 ととのった",
+      "answer": "3",
+      "explanation": "词汇点：助かる（たすかる）。表示“帮了大忙、得救”。"
+    },
+    {
+      "id": "Q281",
+      "part": "Unit 8",
+      "type": "文法",
+      "prompt": "祖父の病状は悪化（　）ばかりです。 選択肢：1 する / 2 している / 3 した / 4 していた",
+      "answer": "1",
+      "explanation": "文法点：動詞辞書形＋ばかり。表示“只是一味地……”。"
+    },
+    {
+      "id": "Q282",
+      "part": "Unit 8",
+      "type": "文法",
+      "prompt": "彼は5年もアメリカに住んでいたから、英語がわからない（　）がない。 選択肢：1 こと / 2 はず / 3 もの / 4 べき",
+      "answer": "2",
+      "explanation": "文法点：～はずがない。表示“不可能……”。"
+    },
+    {
+      "id": "Q283",
+      "part": "Unit 8",
+      "type": "文字",
+      "prompt": "公園の**広場**には人がたくさんいます。 選択肢：1 ひろば / 2 ひろじょう / 3 こうば / 4 こうじょう",
+      "answer": "1",
+      "explanation": "考点：広場。读音是「ひろば」。词条读音：ひろば；含义：广场。"
+    },
+    {
+      "id": "Q284",
+      "part": "Unit 8",
+      "type": "文字",
+      "prompt": "ひろし、**包丁**を持ってきてちょうだい。 選択肢：1 ぼうてい / 2 ほうてい / 3 ぼうちょう / 4 ほうちょう",
+      "answer": "4",
+      "explanation": "考点：包丁。读音是「ほうちょう」。词条读音：ほうちょう；含义：菜刀；切菜刀。"
+    },
+    {
+      "id": "Q285",
+      "part": "Unit 8",
+      "type": "語彙",
+      "prompt": "父は家族の意見を（　）して、一人で旅行先を決めた。 選択肢：1 伝達 / 2 無視 / 3 拝啓 / 4 納得",
+      "answer": "2",
+      "explanation": "词汇点：無視する。表示“无视、忽视”。"
+    },
+    {
+      "id": "Q286",
+      "part": "Unit 8",
+      "type": "語彙",
+      "prompt": "一人っ子の彼女は小さい頃から（　）に育った。 選択肢：1 にぎやか / 2 でこぼこ / 3 わがまま / 4 めちゃくちゃ",
+      "answer": "3",
+      "explanation": "词汇点：わがまま（わがまま）：任性；放肆。"
+    },
+    {
+      "id": "Q287",
+      "part": "Unit 8",
+      "type": "文法",
+      "prompt": "彼女（　）きれいな人はいないと思います。 選択肢：1 など / 2 そんな / 3 ほど / 4 なんて",
+      "answer": "3",
+      "explanation": "文法点：～ほど。像……那样；越……越……；没有比……更……。"
+    },
+    {
+      "id": "Q288",
+      "part": "Unit 8",
+      "type": "文法",
+      "prompt": "明日の午後なら、わたしは会社に（　）。 選択肢：1 存じ上げています / 2 おります / 3 いらっしゃいます / 4 みえます",
+      "answer": "2",
+      "explanation": "文法点：おります。「います」的自谦/丁重表达。"
+    }
+  ]
+}

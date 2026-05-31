@@ -1,0 +1,2183 @@
+{
+  "schemaVersion": 1,
+  "unit": {
+    "id": "red-book-n3-vocab-unit-07",
+    "title": "红宝书 N3 文字词汇 - 第7单元",
+    "type": "vocabulary_unit",
+    "status": "ocr-draft",
+    "tags": [
+      "jlpt",
+      "n3",
+      "vocabulary",
+      "reading-practice",
+      "red-book",
+      "ocr-draft"
+    ],
+    "sourceId": "source-red-book-n3-vocab",
+    "sourcePages": [
+      83,
+      93
+    ],
+    "created": "2026-05-25",
+    "updated": "2026-05-25",
+    "scope": {
+      "Vocabulary range": "entries 0721-0840",
+      "Vocabulary pages": "PDF pages 83-90",
+      "Practice pages": "PDF pages 91-93",
+      "OCR cache": "`.cache/ocr/red-book-n3-vocab/`"
+    },
+    "contentPath": "content/items/red-book-n3-vocab/unit-07.md"
+  },
+  "vocabulary": [
+    {
+      "id": "0721",
+      "term": "煙",
+      "reading": "けむり",
+      "partOfSpeech": "名",
+      "meaningHint": "烟; 烟状物",
+      "examples": [
+        {
+          "japanese": "煙突から煙が出る。",
+          "meaning": "从烟筒冒烟。"
+        }
+      ]
+    },
+    {
+      "id": "0722",
+      "term": "蹴る",
+      "reading": "ける",
+      "partOfSpeech": "他動1",
+      "meaningHint": "踢",
+      "examples": [
+        {
+          "japanese": "ボールを蹴る。",
+          "meaning": "踢球。"
+        },
+        {
+          "japanese": "馬に蹴られた。",
+          "meaning": "被马踢了。"
+        }
+      ]
+    },
+    {
+      "id": "0723",
+      "term": "険しい",
+      "reading": "けわしい",
+      "partOfSpeech": "イ形",
+      "meaningHint": "险峻; 陡峭; 严厉; 可怕",
+      "examples": [
+        {
+          "japanese": "険しい山道",
+          "meaning": "陡峭的山路"
+        },
+        {
+          "japanese": "険しい目つき",
+          "meaning": "严厉的目光"
+        }
+      ]
+    },
+    {
+      "id": "0724",
+      "term": "喧嘩",
+      "reading": "けんか",
+      "partOfSpeech": "名/自動3",
+      "meaningHint": "吵嘴; 吵架; 打架",
+      "examples": [
+        {
+          "japanese": "人と喧嘩をする。",
+          "meaning": "跟人打架。"
+        },
+        {
+          "japanese": "喧嘩を売る。",
+          "meaning": "找碴吵嘴、打架。"
+        }
+      ]
+    },
+    {
+      "id": "0725",
+      "term": "謙虚",
+      "reading": "けんきょ",
+      "partOfSpeech": "名/ナ形",
+      "meaningHint": "谦和; 谦虚",
+      "examples": [
+        {
+          "japanese": "謙虚な態度。",
+          "meaning": "谦和的态度。"
+        },
+        {
+          "japanese": "人の話を謙虚に聞く。",
+          "meaning": "谦虚地听取别人的意见。"
+        }
+      ]
+    },
+    {
+      "id": "0726",
+      "term": "現金",
+      "reading": "げんきん",
+      "partOfSpeech": "名",
+      "meaningHint": "现金; 现款",
+      "examples": [
+        {
+          "japanese": "現金の持ち合わせがない。",
+          "meaning": "手里没有现金。"
+        },
+        {
+          "japanese": "現金で買う。",
+          "meaning": "用现金购买。"
+        }
+      ]
+    },
+    {
+      "id": "0727",
+      "term": "言語学",
+      "reading": "げんごがく",
+      "partOfSpeech": "名",
+      "meaningHint": "语言学",
+      "examples": [
+        {
+          "japanese": "言語学を学ぶ。",
+          "meaning": "学习语言学。"
+        }
+      ]
+    },
+    {
+      "id": "0728",
+      "term": "検査",
+      "reading": "けんさ",
+      "partOfSpeech": "名/他動3",
+      "meaningHint": "检查; 检验",
+      "examples": [
+        {
+          "japanese": "身体検査",
+          "meaning": "身体检查"
+        },
+        {
+          "japanese": "検査が通る。",
+          "meaning": "通过检验。"
+        }
+      ]
+    },
+    {
+      "id": "0729",
+      "term": "現在",
+      "reading": "げんざい",
+      "partOfSpeech": "名",
+      "meaningHint": "现在; 目前",
+      "examples": [
+        {
+          "japanese": "現在地",
+          "meaning": "现在的所在地"
+        },
+        {
+          "japanese": "現在の気温",
+          "meaning": "目前的气温"
+        }
+      ]
+    },
+    {
+      "id": "0730",
+      "term": "現実",
+      "reading": "げんじつ",
+      "partOfSpeech": "名",
+      "meaningHint": "现实; 实际",
+      "examples": [
+        {
+          "japanese": "厳しい現実",
+          "meaning": "严酷的现实"
+        },
+        {
+          "japanese": "その計画は現実離れしている。",
+          "meaning": "那个计划脱离现实。"
+        }
+      ]
+    },
+    {
+      "id": "0731",
+      "term": "研修",
+      "reading": "けんしゅう",
+      "partOfSpeech": "名/他動3",
+      "meaningHint": "研究; 钻研; 培训; 进修",
+      "examples": [
+        {
+          "japanese": "言語研修センター",
+          "meaning": "语言进修中心"
+        },
+        {
+          "japanese": "研修制度",
+          "meaning": "培训制度"
+        }
+      ]
+    },
+    {
+      "id": "0732",
+      "term": "謙譲",
+      "reading": "けんじょう",
+      "partOfSpeech": "名/ナ形",
+      "meaningHint": "谦让; 谦逊",
+      "examples": [
+        {
+          "japanese": "謙譲の美徳",
+          "meaning": "谦让的美德"
+        },
+        {
+          "japanese": "謙譲な態度",
+          "meaning": "谦逊的态度"
+        }
+      ]
+    },
+    {
+      "id": "0733",
+      "term": "現象",
+      "reading": "げんしょう",
+      "partOfSpeech": "名",
+      "meaningHint": "现象",
+      "examples": [
+        {
+          "japanese": "自然の現象",
+          "meaning": "自然现象"
+        },
+        {
+          "japanese": "社会現象",
+          "meaning": "社会现象"
+        }
+      ]
+    },
+    {
+      "id": "0734",
+      "term": "減少",
+      "reading": "げんしょう",
+      "partOfSpeech": "名/自他動3",
+      "meaningHint": "减少",
+      "examples": [
+        {
+          "japanese": "減少傾向を示す。",
+          "meaning": "呈现减少趋势。"
+        }
+      ]
+    },
+    {
+      "id": "0735",
+      "term": "謙遜",
+      "reading": "けんそん",
+      "partOfSpeech": "名/ナ形/自動3",
+      "meaningHint": "谦逊; 谦虚; 谦让",
+      "examples": [
+        {
+          "japanese": "謙遜な態度を取る。",
+          "meaning": "采取谦逊的态度。"
+        },
+        {
+          "japanese": "彼は謙遜して黙っているのだ。",
+          "meaning": "他因为谦虚才没有讲话。"
+        },
+        {
+          "japanese": "またそんなご謙遜を。",
+          "meaning": "您又谦虚起来了。"
+        }
+      ]
+    },
+    {
+      "id": "0736",
+      "term": "現代",
+      "reading": "げんだい",
+      "partOfSpeech": "名",
+      "meaningHint": "现代; 如今; 当代",
+      "examples": [
+        {
+          "japanese": "現代における重要な問題",
+          "meaning": "现代的重要问题"
+        },
+        {
+          "japanese": "現代の日本",
+          "meaning": "现代日本"
+        }
+      ]
+    },
+    {
+      "id": "0737",
+      "term": "建築",
+      "reading": "けんちく",
+      "partOfSpeech": "名/他動3",
+      "meaningHint": "建筑物; 建筑; 修筑; 建造",
+      "examples": [
+        {
+          "japanese": "立派な建築",
+          "meaning": "宏伟的建筑"
+        },
+        {
+          "japanese": "校舎を建築する。",
+          "meaning": "建筑校舍。"
+        }
+      ]
+    },
+    {
+      "id": "0738",
+      "term": "検討",
+      "reading": "けんとう",
+      "partOfSpeech": "名/他動3",
+      "meaningHint": "讨论; 探讨研究",
+      "examples": [
+        {
+          "japanese": "検討を重ねる。",
+          "meaning": "反复讨论。"
+        },
+        {
+          "japanese": "更に検討を要する。",
+          "meaning": "需要进一步探讨研究。"
+        }
+      ]
+    },
+    {
+      "id": "0739",
+      "term": "懸命",
+      "reading": "けんめい",
+      "partOfSpeech": "名/ナ形",
+      "meaningHint": "拼命; 奋力; 竭尽全力",
+      "examples": [
+        {
+          "japanese": "懸命に働く。",
+          "meaning": "拼命工作。"
+        },
+        {
+          "japanese": "懸命に努力すれば必ず道は開ける。",
+          "meaning": "努力奋斗必有前途。"
+        }
+      ]
+    },
+    {
+      "id": "0740",
+      "term": "原料",
+      "reading": "げんりょう",
+      "partOfSpeech": "名",
+      "meaningHint": "原料",
+      "examples": [
+        {
+          "japanese": "原料を加工する。",
+          "meaning": "加工原料。"
+        },
+        {
+          "japanese": "葡萄酒は葡萄を原料にして作る。",
+          "meaning": "葡萄酒是以葡萄为原料酿造的。"
+        }
+      ]
+    },
+    {
+      "id": "0741",
+      "term": "濃い",
+      "reading": "こい",
+      "partOfSpeech": "イ形",
+      "meaningHint": "深; 浓; 烈; 浓密; 黏稠",
+      "examples": [
+        {
+          "japanese": "化粧が濃い。",
+          "meaning": "浓妆打扮。"
+        },
+        {
+          "japanese": "お茶が濃くて飲めない。",
+          "meaning": "茶水太浓，不能喝。"
+        },
+        {
+          "japanese": "髪の毛が濃い。",
+          "meaning": "头发浓密。"
+        }
+      ]
+    },
+    {
+      "id": "0742",
+      "term": "恋",
+      "reading": "こい",
+      "partOfSpeech": "名",
+      "meaningHint": "恋爱; 爱情",
+      "examples": [
+        {
+          "japanese": "恋をする。",
+          "meaning": "恋爱。"
+        },
+        {
+          "japanese": "恋に落ちる。",
+          "meaning": "坠入情网。"
+        }
+      ]
+    },
+    {
+      "id": "0743",
+      "term": "こいつ",
+      "reading": "こいつ",
+      "partOfSpeech": "代",
+      "meaningHint": "这个东西; 这个家伙; 这小子",
+      "examples": [
+        {
+          "japanese": "こいつにしよう。",
+          "meaning": "我要这个。"
+        },
+        {
+          "japanese": "こいつが悪いんだ。",
+          "meaning": "是这个家伙不好。"
+        }
+      ]
+    },
+    {
+      "id": "0744",
+      "term": "恋人",
+      "reading": "こいびと",
+      "partOfSpeech": "名",
+      "meaningHint": "恋人",
+      "examples": [
+        {
+          "japanese": "恋人ができた。",
+          "meaning": "有了恋人。"
+        },
+        {
+          "japanese": "永遠の恋人",
+          "meaning": "永远的恋人"
+        }
+      ]
+    },
+    {
+      "id": "0745",
+      "term": "コイン",
+      "reading": "コイン",
+      "partOfSpeech": "名",
+      "meaningHint": "硬币; 货币",
+      "examples": [
+        {
+          "japanese": "コイン投入口",
+          "meaning": "硬币投入口"
+        },
+        {
+          "japanese": "コインロッカー",
+          "meaning": "投币保管箱"
+        }
+      ]
+    },
+    {
+      "id": "0746",
+      "term": "コインランドリー",
+      "reading": "コインランドリー",
+      "partOfSpeech": "名",
+      "meaningHint": "投币式干燥机",
+      "examples": [
+        {
+          "japanese": "洗った服をコインランドリーに入れる。",
+          "meaning": "将洗过的衣服放入投币式干燥机。"
+        }
+      ]
+    },
+    {
+      "id": "0747",
+      "term": "高〜",
+      "reading": "こう〜",
+      "partOfSpeech": "接頭",
+      "meaningHint": "高...",
+      "examples": [
+        {
+          "japanese": "高温",
+          "meaning": "高温"
+        },
+        {
+          "japanese": "高収入",
+          "meaning": "高收入"
+        }
+      ]
+    },
+    {
+      "id": "0748",
+      "term": "〜校",
+      "reading": "〜こう",
+      "partOfSpeech": "接尾",
+      "meaningHint": "...校",
+      "examples": [
+        {
+          "japanese": "出身校",
+          "meaning": "母校"
+        }
+      ]
+    },
+    {
+      "id": "0749",
+      "term": "〜号",
+      "reading": "〜ごう",
+      "partOfSpeech": "接尾",
+      "meaningHint": "号; 期",
+      "examples": [
+        {
+          "japanese": "3号車",
+          "meaning": "三号车厢"
+        },
+        {
+          "japanese": "創刊号",
+          "meaning": "创刊号"
+        }
+      ]
+    },
+    {
+      "id": "0750",
+      "term": "こういう",
+      "reading": "こういう",
+      "partOfSpeech": "連体",
+      "meaningHint": "这种; 这样",
+      "examples": [
+        {
+          "japanese": "こういうこと",
+          "meaning": "这种事"
+        },
+        {
+          "japanese": "こういうふうに",
+          "meaning": "这样地"
+        }
+      ]
+    },
+    {
+      "id": "0751",
+      "term": "効果",
+      "reading": "こうか",
+      "partOfSpeech": "名",
+      "meaningHint": "效果; 功效; 成效",
+      "examples": [
+        {
+          "japanese": "効果が現れる。",
+          "meaning": "见效。"
+        },
+        {
+          "japanese": "すばらしい効果を収める。",
+          "meaning": "获得惊人的成效。"
+        }
+      ]
+    },
+    {
+      "id": "0752",
+      "term": "硬貨",
+      "reading": "こうか",
+      "partOfSpeech": "名",
+      "meaningHint": "硬币; 金属货币",
+      "examples": []
+    },
+    {
+      "id": "0753",
+      "term": "公開",
+      "reading": "こうかい",
+      "partOfSpeech": "名/他動3",
+      "meaningHint": "公开; 开放",
+      "examples": [
+        {
+          "japanese": "公開裁判",
+          "meaning": "公开审判"
+        },
+        {
+          "japanese": "秘密を公開する。",
+          "meaning": "把秘密公开出来。"
+        }
+      ]
+    },
+    {
+      "id": "0754",
+      "term": "公害",
+      "reading": "こうがい",
+      "partOfSpeech": "名",
+      "meaningHint": "公害",
+      "examples": [
+        {
+          "japanese": "公害を予防する。",
+          "meaning": "预防公害。"
+        },
+        {
+          "japanese": "騒音公害",
+          "meaning": "噪声公害; 噪声污染"
+        }
+      ]
+    },
+    {
+      "id": "0755",
+      "term": "高学年",
+      "reading": "こうがくねん",
+      "partOfSpeech": "名",
+      "meaningHint": "小学高年级",
+      "examples": [
+        {
+          "japanese": "高学年の学生",
+          "meaning": "小学高年级学生"
+        }
+      ]
+    },
+    {
+      "id": "0756",
+      "term": "交換",
+      "reading": "こうかん",
+      "partOfSpeech": "名/他動3",
+      "meaningHint": "交换; 互换",
+      "examples": [
+        {
+          "japanese": "交換条件",
+          "meaning": "交换条件"
+        },
+        {
+          "japanese": "名刺を交換する。",
+          "meaning": "互换名片。"
+        }
+      ]
+    },
+    {
+      "id": "0757",
+      "term": "後期",
+      "reading": "こうき",
+      "partOfSpeech": "名",
+      "meaningHint": "后期; 后半期",
+      "examples": [
+        {
+          "japanese": "後期の授業",
+          "meaning": "后半期的课"
+        }
+      ]
+    },
+    {
+      "id": "0758",
+      "term": "講義",
+      "reading": "こうぎ",
+      "partOfSpeech": "名/自動3",
+      "meaningHint": "讲义; 讲学; 授课",
+      "examples": [
+        {
+          "japanese": "中国史の講義",
+          "meaning": "中国历史的讲学"
+        }
+      ]
+    },
+    {
+      "id": "0759",
+      "term": "高級",
+      "reading": "こうきゅう",
+      "partOfSpeech": "名/ナ形",
+      "meaningHint": "高级; 档次高的",
+      "examples": [
+        {
+          "japanese": "高級品",
+          "meaning": "高级品"
+        },
+        {
+          "japanese": "高級な料理",
+          "meaning": "高级料理"
+        }
+      ]
+    },
+    {
+      "id": "0760",
+      "term": "公共",
+      "reading": "こうきょう",
+      "partOfSpeech": "名",
+      "meaningHint": "公共",
+      "examples": [
+        {
+          "japanese": "公共の福祉",
+          "meaning": "公共福利"
+        },
+        {
+          "japanese": "公共のものを大切にする。",
+          "meaning": "爱护公物。"
+        }
+      ]
+    },
+    {
+      "id": "0761",
+      "term": "航空機",
+      "reading": "こうくうき",
+      "partOfSpeech": "名",
+      "meaningHint": "飞机; 飞船",
+      "examples": [
+        {
+          "japanese": "航空機に乗る。",
+          "meaning": "乘坐飞机。"
+        }
+      ]
+    },
+    {
+      "id": "0762",
+      "term": "合計",
+      "reading": "ごうけい",
+      "partOfSpeech": "名/他動3",
+      "meaningHint": "共计; 合计; 总计",
+      "examples": [
+        {
+          "japanese": "合計得点",
+          "meaning": "合计得分"
+        }
+      ]
+    },
+    {
+      "id": "0763",
+      "term": "講座",
+      "reading": "こうざ",
+      "partOfSpeech": "名",
+      "meaningHint": "讲座; 讲习班",
+      "examples": [
+        {
+          "japanese": "講座を開く。",
+          "meaning": "开讲座。"
+        },
+        {
+          "japanese": "テレビの日本語講座",
+          "meaning": "电视日语讲座"
+        }
+      ]
+    },
+    {
+      "id": "0764",
+      "term": "交際",
+      "reading": "こうさい",
+      "partOfSpeech": "名/自動3",
+      "meaningHint": "交际; 交往; 应酬",
+      "examples": [
+        {
+          "japanese": "交際が広い。",
+          "meaning": "交际广。"
+        },
+        {
+          "japanese": "交際がうまい。",
+          "meaning": "善于应酬。"
+        }
+      ]
+    },
+    {
+      "id": "0765",
+      "term": "講師",
+      "reading": "こうし",
+      "partOfSpeech": "名",
+      "meaningHint": "讲师; 演讲者",
+      "examples": [
+        {
+          "japanese": "専任講師",
+          "meaning": "专任讲师"
+        },
+        {
+          "japanese": "有名な作家に講師を依頼する。",
+          "meaning": "聘请有名的作家演讲。"
+        }
+      ]
+    },
+    {
+      "id": "0766",
+      "term": "こうした",
+      "reading": "こうした",
+      "partOfSpeech": "連体",
+      "meaningHint": "这样的; 这种的",
+      "examples": [
+        {
+          "japanese": "こうした問題は難しくない。",
+          "meaning": "这样的问题不难。"
+        }
+      ]
+    },
+    {
+      "id": "0767",
+      "term": "こうして",
+      "reading": "こうして",
+      "partOfSpeech": "連語",
+      "meaningHint": "这样; 如此",
+      "examples": [
+        {
+          "japanese": "それではこうしてください。",
+          "meaning": "那么就请这样办吧。"
+        }
+      ]
+    },
+    {
+      "id": "0768",
+      "term": "構成",
+      "reading": "こうせい",
+      "partOfSpeech": "名/他動3",
+      "meaningHint": "构成; 结构",
+      "examples": [
+        {
+          "japanese": "社会を構成する。",
+          "meaning": "构成社会。"
+        },
+        {
+          "japanese": "文章の構成が悪い。",
+          "meaning": "文章的结构不好。"
+        }
+      ]
+    },
+    {
+      "id": "0769",
+      "term": "構造",
+      "reading": "こうぞう",
+      "partOfSpeech": "名",
+      "meaningHint": "构造; 结构",
+      "examples": [
+        {
+          "japanese": "家の構造",
+          "meaning": "房子的构造"
+        },
+        {
+          "japanese": "構造が簡単である。",
+          "meaning": "结构简单。"
+        }
+      ]
+    },
+    {
+      "id": "0770",
+      "term": "高速",
+      "reading": "こうそく",
+      "partOfSpeech": "名",
+      "meaningHint": "高速",
+      "examples": [
+        {
+          "japanese": "高速道路",
+          "meaning": "高速公路"
+        }
+      ]
+    },
+    {
+      "id": "0771",
+      "term": "交通機関",
+      "reading": "こうつうきかん",
+      "partOfSpeech": "名",
+      "meaningHint": "交通工具; 交通机构",
+      "examples": [
+        {
+          "japanese": "交通機関が混乱する。",
+          "meaning": "交通机构处于混乱状态。"
+        }
+      ]
+    },
+    {
+      "id": "0772",
+      "term": "行動",
+      "reading": "こうどう",
+      "partOfSpeech": "名/自動3",
+      "meaningHint": "行动; 行为",
+      "examples": [
+        {
+          "japanese": "行動に出る。",
+          "meaning": "采取行动。"
+        },
+        {
+          "japanese": "慎重な行動を取る。",
+          "meaning": "采取谨慎的行动。"
+        }
+      ]
+    },
+    {
+      "id": "0773",
+      "term": "強盗",
+      "reading": "ごうとう",
+      "partOfSpeech": "名",
+      "meaningHint": "强盗; 抢劫",
+      "examples": [
+        {
+          "japanese": "強盗を捕まえる。",
+          "meaning": "抓住强盗。"
+        },
+        {
+          "japanese": "強盗を働く。",
+          "meaning": "进行抢劫。"
+        }
+      ]
+    },
+    {
+      "id": "0774",
+      "term": "購入",
+      "reading": "こうにゅう",
+      "partOfSpeech": "名/他動3",
+      "meaningHint": "购买; 购置; 采购",
+      "examples": [
+        {
+          "japanese": "机を購入する。",
+          "meaning": "购买书桌。"
+        },
+        {
+          "japanese": "一括購入",
+          "meaning": "统一购置"
+        }
+      ]
+    },
+    {
+      "id": "0775",
+      "term": "後輩",
+      "reading": "こうはい",
+      "partOfSpeech": "名",
+      "meaningHint": "晚辈; 学校的低年级同学",
+      "examples": [
+        {
+          "japanese": "後輩を指導する。",
+          "meaning": "指导晚辈。"
+        }
+      ]
+    },
+    {
+      "id": "0776",
+      "term": "幸福",
+      "reading": "こうふく",
+      "partOfSpeech": "名/ナ形",
+      "meaningHint": "幸福",
+      "examples": [
+        {
+          "japanese": "幸福に暮らす。",
+          "meaning": "幸福地生活。"
+        }
+      ]
+    },
+    {
+      "id": "0777",
+      "term": "公平",
+      "reading": "こうへい",
+      "partOfSpeech": "名/ナ形",
+      "meaningHint": "公平; 公道",
+      "examples": [
+        {
+          "japanese": "公平を欠く。",
+          "meaning": "有失公平。"
+        },
+        {
+          "japanese": "公平な判断を下す。",
+          "meaning": "做出公平的判断。"
+        }
+      ]
+    },
+    {
+      "id": "0778",
+      "term": "項目",
+      "reading": "こうもく",
+      "partOfSpeech": "名",
+      "meaningHint": "项目",
+      "examples": [
+        {
+          "japanese": "報告書をいくつかの項目に分ける。",
+          "meaning": "把报告书分为若干项目。"
+        },
+        {
+          "japanese": "項目をあげる。",
+          "meaning": "列出项目。"
+        }
+      ]
+    },
+    {
+      "id": "0779",
+      "term": "効率",
+      "reading": "こうりつ",
+      "partOfSpeech": "名",
+      "meaningHint": "效率",
+      "examples": [
+        {
+          "japanese": "生産の効率を高める。",
+          "meaning": "提高生产效率。"
+        }
+      ]
+    },
+    {
+      "id": "0780",
+      "term": "公立",
+      "reading": "こうりつ",
+      "partOfSpeech": "名",
+      "meaningHint": "公立",
+      "examples": [
+        {
+          "japanese": "公立学校",
+          "meaning": "公立学校"
+        }
+      ]
+    },
+    {
+      "id": "0781",
+      "term": "交流",
+      "reading": "こうりゅう",
+      "partOfSpeech": "名/自動3",
+      "meaningHint": "交流; 往来",
+      "examples": [
+        {
+          "japanese": "文化の交流を図る。",
+          "meaning": "促进文化交流。"
+        },
+        {
+          "japanese": "人事交流",
+          "meaning": "人事交流"
+        }
+      ]
+    },
+    {
+      "id": "0782",
+      "term": "〜声",
+      "reading": "〜ごえ",
+      "partOfSpeech": "接尾",
+      "meaningHint": "...声音",
+      "examples": [
+        {
+          "japanese": "大声",
+          "meaning": "大声; 高声"
+        },
+        {
+          "japanese": "鼻声",
+          "meaning": "鼻音"
+        },
+        {
+          "japanese": "笑い声",
+          "meaning": "笑声"
+        }
+      ]
+    },
+    {
+      "id": "0783",
+      "term": "越える",
+      "reading": "こえる",
+      "partOfSpeech": "他動2",
+      "meaningHint": "越过; 渡过; 超过; 超出; 胜过; 超越; 跳过",
+      "examples": [
+        {
+          "japanese": "国境を越える。",
+          "meaning": "越过国境。"
+        },
+        {
+          "japanese": "限度を越える。",
+          "meaning": "超过限度。"
+        },
+        {
+          "japanese": "常人を越える。",
+          "meaning": "胜过一般人。"
+        },
+        {
+          "japanese": "順序を越える。",
+          "meaning": "跳过顺序。"
+        }
+      ]
+    },
+    {
+      "id": "0784",
+      "term": "コース",
+      "reading": "コース",
+      "partOfSpeech": "名",
+      "meaningHint": "路线; 课程; 学科",
+      "examples": [
+        {
+          "japanese": "ハイキングコース",
+          "meaning": "徒步旅行路线"
+        },
+        {
+          "japanese": "大学進学コース",
+          "meaning": "为进大学所设的课程"
+        }
+      ]
+    },
+    {
+      "id": "0785",
+      "term": "コーチ",
+      "reading": "コーチ",
+      "partOfSpeech": "名/他動3",
+      "meaningHint": "教练; 指导",
+      "examples": [
+        {
+          "japanese": "野球チームのコーチ",
+          "meaning": "棒球队教练"
+        },
+        {
+          "japanese": "卓球チームをコーチする。",
+          "meaning": "指导乒乓球队。"
+        }
+      ]
+    },
+    {
+      "id": "0786",
+      "term": "コーチャー",
+      "reading": "コーチャー",
+      "partOfSpeech": "名",
+      "meaningHint": "教练员",
+      "examples": [
+        {
+          "japanese": "コーチャーの指示に従う。",
+          "meaning": "遵照教练员的指示。"
+        }
+      ]
+    },
+    {
+      "id": "0787",
+      "term": "コート",
+      "reading": "コート",
+      "partOfSpeech": "名",
+      "meaningHint": "大衣; 外套",
+      "examples": [
+        {
+          "japanese": "コートを着る。",
+          "meaning": "穿上大衣。"
+        }
+      ]
+    },
+    {
+      "id": "0788",
+      "term": "ゴール",
+      "reading": "ゴール",
+      "partOfSpeech": "名",
+      "meaningHint": "终点; 决胜点; 球门",
+      "examples": [
+        {
+          "japanese": "ゴールに飛び込む。",
+          "meaning": "跑到终点。"
+        },
+        {
+          "japanese": "ゴールに蹴り込む。",
+          "meaning": "踢进球门。"
+        }
+      ]
+    },
+    {
+      "id": "0789",
+      "term": "氷",
+      "reading": "こおり",
+      "partOfSpeech": "名",
+      "meaningHint": "冰",
+      "examples": [
+        {
+          "japanese": "かき氷",
+          "meaning": "刨冰"
+        },
+        {
+          "japanese": "氷で冷やす。",
+          "meaning": "冰镇。"
+        }
+      ]
+    },
+    {
+      "id": "0790",
+      "term": "凍る",
+      "reading": "こおる",
+      "partOfSpeech": "自動1",
+      "meaningHint": "结冰; 结冻",
+      "examples": [
+        {
+          "japanese": "川が凍る。",
+          "meaning": "河流结冰。"
+        },
+        {
+          "japanese": "道路はカチカチに凍っている。",
+          "meaning": "马路冻得硬邦邦的。"
+        }
+      ]
+    },
+    {
+      "id": "0791",
+      "term": "誤解",
+      "reading": "ごかい",
+      "partOfSpeech": "名/自動3",
+      "meaningHint": "误解; 误会",
+      "examples": [
+        {
+          "japanese": "人の誤解を招く。",
+          "meaning": "招惹别人误会。"
+        },
+        {
+          "japanese": "相手の親切を誤解する。",
+          "meaning": "误解对方的好意。"
+        }
+      ]
+    },
+    {
+      "id": "0792",
+      "term": "小型",
+      "reading": "こがた",
+      "partOfSpeech": "名/ナ形",
+      "meaningHint": "小型",
+      "examples": [
+        {
+          "japanese": "小型トラック",
+          "meaning": "小型卡车"
+        }
+      ]
+    },
+    {
+      "id": "0793",
+      "term": "呼吸",
+      "reading": "こきゅう",
+      "partOfSpeech": "名/自他動3",
+      "meaningHint": "呼吸; 步调; 拍节",
+      "examples": [
+        {
+          "japanese": "人工呼吸を施す。",
+          "meaning": "做人工呼吸。"
+        },
+        {
+          "japanese": "呼吸を合わせる。",
+          "meaning": "使步调一致; 使合拍。"
+        }
+      ]
+    },
+    {
+      "id": "0794",
+      "term": "故郷",
+      "reading": "こきょう",
+      "partOfSpeech": "名",
+      "meaningHint": "故乡; 家乡; 老家",
+      "examples": [
+        {
+          "japanese": "故郷に帰る。",
+          "meaning": "回故乡。"
+        },
+        {
+          "japanese": "故郷を離れる。",
+          "meaning": "离开家乡。"
+        }
+      ]
+    },
+    {
+      "id": "0795",
+      "term": "〜国",
+      "reading": "〜こく",
+      "partOfSpeech": "接尾",
+      "meaningHint": "...国",
+      "examples": [
+        {
+          "japanese": "理想国",
+          "meaning": "理想国"
+        },
+        {
+          "japanese": "天国",
+          "meaning": "天堂"
+        }
+      ]
+    },
+    {
+      "id": "0796",
+      "term": "国語",
+      "reading": "こくご",
+      "partOfSpeech": "名",
+      "meaningHint": "国语; 母语; 本国语言",
+      "examples": [
+        {
+          "japanese": "3カ国語を自由に操る。",
+          "meaning": "熟练使用三国语言。"
+        }
+      ]
+    },
+    {
+      "id": "0797",
+      "term": "国籍",
+      "reading": "こくせき",
+      "partOfSpeech": "名",
+      "meaningHint": "国籍",
+      "examples": [
+        {
+          "japanese": "国籍に入れる。",
+          "meaning": "入国籍。"
+        },
+        {
+          "japanese": "二重国籍",
+          "meaning": "双重国籍"
+        }
+      ]
+    },
+    {
+      "id": "0798",
+      "term": "国民",
+      "reading": "こくみん",
+      "partOfSpeech": "名",
+      "meaningHint": "国民",
+      "examples": [
+        {
+          "japanese": "国民の義務",
+          "meaning": "国民的义务"
+        },
+        {
+          "japanese": "国民運動",
+          "meaning": "国民运动"
+        }
+      ]
+    },
+    {
+      "id": "0799",
+      "term": "国立",
+      "reading": "こくりつ",
+      "partOfSpeech": "名",
+      "meaningHint": "国立",
+      "examples": [
+        {
+          "japanese": "国立大学",
+          "meaning": "国立大学"
+        }
+      ]
+    },
+    {
+      "id": "0800",
+      "term": "焦げる",
+      "reading": "こげる",
+      "partOfSpeech": "自動2",
+      "meaningHint": "焦; 糊; 烤焦",
+      "examples": [
+        {
+          "japanese": "御飯が焦げた。",
+          "meaning": "饭烧糊了。"
+        },
+        {
+          "japanese": "何か焦げるにおいがする。",
+          "meaning": "有什么东西烤焦的味儿。"
+        }
+      ]
+    },
+    {
+      "id": "0801",
+      "term": "凍える",
+      "reading": "こごえる",
+      "partOfSpeech": "自動2",
+      "meaningHint": "冻僵",
+      "examples": [
+        {
+          "japanese": "手足が凍えて仕事ができない。",
+          "meaning": "手脚冻僵了，不能工作。"
+        }
+      ]
+    },
+    {
+      "id": "0802",
+      "term": "小雨",
+      "reading": "こさめ",
+      "partOfSpeech": "名",
+      "meaningHint": "小雨",
+      "examples": [
+        {
+          "japanese": "小雨が降りだした。",
+          "meaning": "下起小雨来了。"
+        }
+      ]
+    },
+    {
+      "id": "0803",
+      "term": "腰",
+      "reading": "こし",
+      "partOfSpeech": "名",
+      "meaningHint": "腰; 腰身; 黏度",
+      "examples": [
+        {
+          "japanese": "腰を曲げる。",
+          "meaning": "弯腰。"
+        },
+        {
+          "japanese": "腰を伸ばす。",
+          "meaning": "伸懒腰。"
+        },
+        {
+          "japanese": "この餅は腰が強い。",
+          "meaning": "这年糕很黏。"
+        },
+        {
+          "japanese": "腰が低い。",
+          "meaning": "谦逊; 和蔼。"
+        },
+        {
+          "japanese": "腰を入れる。",
+          "meaning": "认真地做。"
+        },
+        {
+          "japanese": "腰を掛ける。",
+          "meaning": "坐下。"
+        },
+        {
+          "japanese": "腰を抜かす。",
+          "meaning": "非常吃惊。"
+        }
+      ]
+    },
+    {
+      "id": "0804",
+      "term": "腰掛ける",
+      "reading": "こしかける",
+      "partOfSpeech": "自動2",
+      "meaningHint": "坐下",
+      "examples": [
+        {
+          "japanese": "椅子に腰掛ける。",
+          "meaning": "坐在椅子上。"
+        },
+        {
+          "japanese": "どうぞ腰掛けてください。",
+          "meaning": "请坐。"
+        }
+      ]
+    },
+    {
+      "id": "0805",
+      "term": "胡椒",
+      "reading": "こしょう",
+      "partOfSpeech": "名",
+      "meaningHint": "胡椒",
+      "examples": [
+        {
+          "japanese": "胡椒を入れる。",
+          "meaning": "放入胡椒。"
+        },
+        {
+          "japanese": "胡椒の丸呑み",
+          "meaning": "囫囵吞枣"
+        }
+      ]
+    },
+    {
+      "id": "0806",
+      "term": "個人",
+      "reading": "こじん",
+      "partOfSpeech": "名",
+      "meaningHint": "个人",
+      "examples": [
+        {
+          "japanese": "個人の資格で参加する。",
+          "meaning": "以个人资格参加。"
+        },
+        {
+          "japanese": "個人主義",
+          "meaning": "个人主义"
+        }
+      ]
+    },
+    {
+      "id": "0807",
+      "term": "越す",
+      "reading": "こす",
+      "partOfSpeech": "他動1",
+      "meaningHint": "越过; 跨过; 经过; 超过; 胜过; 迁居; 搬家",
+      "examples": [
+        {
+          "japanese": "山を越す。",
+          "meaning": "翻山。"
+        },
+        {
+          "japanese": "年を越す。",
+          "meaning": "过年。"
+        },
+        {
+          "japanese": "30度を越す暑さ",
+          "meaning": "超过三十度的高温"
+        },
+        {
+          "japanese": "新居に越す。",
+          "meaning": "迁入新居。"
+        }
+      ]
+    },
+    {
+      "id": "0808",
+      "term": "コスト",
+      "reading": "コスト",
+      "partOfSpeech": "名",
+      "meaningHint": "成本; 生产费",
+      "examples": [
+        {
+          "japanese": "生産コストを下げる。",
+          "meaning": "降低成本。"
+        }
+      ]
+    },
+    {
+      "id": "0809",
+      "term": "擦る",
+      "reading": "こする",
+      "partOfSpeech": "他動1",
+      "meaningHint": "摩擦; 擦; 揉; 搓",
+      "examples": [
+        {
+          "japanese": "雑巾で擦る。",
+          "meaning": "用抹布擦。"
+        },
+        {
+          "japanese": "目を擦る。",
+          "meaning": "揉眼。"
+        },
+        {
+          "japanese": "タオルで背中を擦る。",
+          "meaning": "用毛巾搓背。"
+        }
+      ]
+    },
+    {
+      "id": "0810",
+      "term": "個性",
+      "reading": "こせい",
+      "partOfSpeech": "名",
+      "meaningHint": "个性",
+      "examples": [
+        {
+          "japanese": "個性が強い人間",
+          "meaning": "个性强的人"
+        }
+      ]
+    },
+    {
+      "id": "0811",
+      "term": "固体",
+      "reading": "こたい",
+      "partOfSpeech": "名",
+      "meaningHint": "固体",
+      "examples": [
+        {
+          "japanese": "液体から固体に変わる。",
+          "meaning": "从液体变为固体。"
+        }
+      ]
+    },
+    {
+      "id": "0812",
+      "term": "国家",
+      "reading": "こっか",
+      "partOfSpeech": "名",
+      "meaningHint": "国家",
+      "examples": [
+        {
+          "japanese": "国家のために尽くす。",
+          "meaning": "为国效力。"
+        },
+        {
+          "japanese": "国家機関",
+          "meaning": "国家机关"
+        }
+      ]
+    },
+    {
+      "id": "0813",
+      "term": "国会",
+      "reading": "こっかい",
+      "partOfSpeech": "名",
+      "meaningHint": "国会; 议会",
+      "examples": [
+        {
+          "japanese": "国会を召集する。",
+          "meaning": "召开国会。"
+        },
+        {
+          "japanese": "国会を解散する。",
+          "meaning": "解散国会。"
+        }
+      ]
+    },
+    {
+      "id": "0814",
+      "term": "小遣い",
+      "reading": "こづかい",
+      "partOfSpeech": "名",
+      "meaningHint": "零钱; 零用钱",
+      "examples": [
+        {
+          "japanese": "子供に小遣いをやる。",
+          "meaning": "给孩子零用钱。"
+        },
+        {
+          "japanese": "小遣いをもらう。",
+          "meaning": "领零用钱。"
+        }
+      ]
+    },
+    {
+      "id": "0815",
+      "term": "骨折",
+      "reading": "こっせつ",
+      "partOfSpeech": "名/自動3",
+      "meaningHint": "骨折",
+      "examples": [
+        {
+          "japanese": "彼は骨折して歩けない。",
+          "meaning": "他骨折了，不能走路。"
+        },
+        {
+          "japanese": "骨が折れる。",
+          "meaning": "费力气; 困难; 棘手。"
+        }
+      ]
+    },
+    {
+      "id": "0816",
+      "term": "こっそり",
+      "reading": "こっそり",
+      "partOfSpeech": "副",
+      "meaningHint": "悄悄; 偷偷; 蹑手蹑脚",
+      "examples": [
+        {
+          "japanese": "こっそりと話をする。",
+          "meaning": "悄悄地说话。"
+        },
+        {
+          "japanese": "こっそりと見る。",
+          "meaning": "偷偷地看。"
+        }
+      ]
+    },
+    {
+      "id": "0817",
+      "term": "小包",
+      "reading": "こづつみ",
+      "partOfSpeech": "名",
+      "meaningHint": "包裹; 邮包",
+      "examples": [
+        {
+          "japanese": "小包を出す。",
+          "meaning": "寄包裹。"
+        },
+        {
+          "japanese": "小包で送る。",
+          "meaning": "用包裹寄去。"
+        }
+      ]
+    },
+    {
+      "id": "0818",
+      "term": "異なる",
+      "reading": "ことなる",
+      "partOfSpeech": "自動1",
+      "meaningHint": "不同; 不一样",
+      "examples": [
+        {
+          "japanese": "人によって意見は異なる。",
+          "meaning": "意见因人而异。"
+        },
+        {
+          "japanese": "性格が異なる。",
+          "meaning": "性格不一样。"
+        }
+      ]
+    },
+    {
+      "id": "0819",
+      "term": "諺",
+      "reading": "ことわざ",
+      "partOfSpeech": "名",
+      "meaningHint": "谚语; 俗语",
+      "examples": [
+        {
+          "japanese": "諺にもあるとおり...",
+          "meaning": "俗话说......"
+        }
+      ]
+    },
+    {
+      "id": "0820",
+      "term": "断る",
+      "reading": "ことわる",
+      "partOfSpeech": "他動1",
+      "meaningHint": "预先通知; 事先请示; 谢绝; 禁止",
+      "examples": [
+        {
+          "japanese": "前もって断っておく。",
+          "meaning": "预先通知。"
+        },
+        {
+          "japanese": "注文を断る。",
+          "meaning": "谢绝订货。"
+        }
+      ]
+    },
+    {
+      "id": "0821",
+      "term": "粉",
+      "reading": "こな",
+      "partOfSpeech": "名",
+      "meaningHint": "粉; 粉末",
+      "examples": [
+        {
+          "japanese": "米の粉",
+          "meaning": "米粉"
+        }
+      ]
+    },
+    {
+      "id": "0822",
+      "term": "こないだ",
+      "reading": "こないだ",
+      "partOfSpeech": "副",
+      "meaningHint": "最近; 前几天; 前些时候",
+      "examples": [
+        {
+          "japanese": "ついこないだまで。",
+          "meaning": "直到最近。"
+        },
+        {
+          "japanese": "ほんのこないだのことだった。",
+          "meaning": "就是前几天的事情。"
+        }
+      ]
+    },
+    {
+      "id": "0823",
+      "term": "好み",
+      "reading": "このみ",
+      "partOfSpeech": "名",
+      "meaningHint": "趣味; 爱好; 希望; 要求; 流行; 时兴",
+      "examples": [
+        {
+          "japanese": "好みは人によって違う。",
+          "meaning": "爱好因人而异。"
+        },
+        {
+          "japanese": "好みに応じる。",
+          "meaning": "根据希望; 按照要求。"
+        },
+        {
+          "japanese": "最近の好み",
+          "meaning": "最近的流行"
+        }
+      ]
+    },
+    {
+      "id": "0824",
+      "term": "零す",
+      "reading": "こぼす",
+      "partOfSpeech": "他動1",
+      "meaningHint": "洒; 泼; 漏; 发牢骚",
+      "examples": [
+        {
+          "japanese": "涙を零す。",
+          "meaning": "洒泪。"
+        },
+        {
+          "japanese": "お茶を零してしまった。",
+          "meaning": "把茶洒了。"
+        },
+        {
+          "japanese": "ぐちを零す。",
+          "meaning": "发牢骚。"
+        }
+      ]
+    },
+    {
+      "id": "0825",
+      "term": "毀れる",
+      "reading": "こぼれる",
+      "partOfSpeech": "自動2",
+      "meaningHint": "坏; 损坏",
+      "examples": [
+        {
+          "japanese": "刃が毀れた。",
+          "meaning": "刀刃钝了。"
+        }
+      ]
+    },
+    {
+      "id": "0826",
+      "term": "コマーシャル",
+      "reading": "コマーシャル",
+      "partOfSpeech": "名",
+      "meaningHint": "商业广告; 广告节目",
+      "examples": [
+        {
+          "japanese": "番組の途中にコマーシャルが入る。",
+          "meaning": "节目中途插入广告。"
+        }
+      ]
+    },
+    {
+      "id": "0827",
+      "term": "コミュニケーション",
+      "reading": "コミュニケーション",
+      "partOfSpeech": "名",
+      "meaningHint": "交流; 传达",
+      "examples": [
+        {
+          "japanese": "コミュニケーションを図る。",
+          "meaning": "谋求交流。"
+        }
+      ]
+    },
+    {
+      "id": "0828",
+      "term": "ゴム",
+      "reading": "ゴム",
+      "partOfSpeech": "名",
+      "meaningHint": "橡胶; 橡皮",
+      "examples": [
+        {
+          "japanese": "ゴム靴",
+          "meaning": "橡胶鞋"
+        },
+        {
+          "japanese": "ゴムタイヤ",
+          "meaning": "橡胶轮胎"
+        }
+      ]
+    },
+    {
+      "id": "0829",
+      "term": "ゴム輪",
+      "reading": "ゴムわ",
+      "partOfSpeech": "名",
+      "meaningHint": "橡皮圈; 橡皮筋",
+      "examples": []
+    },
+    {
+      "id": "0830",
+      "term": "込める",
+      "reading": "こめる",
+      "partOfSpeech": "他動2",
+      "meaningHint": "集中; 倾注; 包括在内",
+      "examples": [
+        {
+          "japanese": "仕事に力を込める。",
+          "meaning": "把精力集中在工作上。"
+        },
+        {
+          "japanese": "税金も込めて4万円になる。",
+          "meaning": "包括税金共4万日元。"
+        }
+      ]
+    },
+    {
+      "id": "0831",
+      "term": "小指",
+      "reading": "こゆび",
+      "partOfSpeech": "名",
+      "meaningHint": "小指头; 小指",
+      "examples": [
+        {
+          "japanese": "小指を立てる。",
+          "meaning": "拉钩(发誓)。"
+        }
+      ]
+    },
+    {
+      "id": "0832",
+      "term": "ご覧",
+      "reading": "ごらん",
+      "partOfSpeech": "名",
+      "meaningHint": "看; 观赏; 试试看",
+      "examples": [
+        {
+          "japanese": "ご覧ください。",
+          "meaning": "请看。"
+        },
+        {
+          "japanese": "ちょっとこれをご覧。",
+          "meaning": "你看看这个。"
+        },
+        {
+          "japanese": "もう一度やってご覧。",
+          "meaning": "再试试看。"
+        }
+      ]
+    },
+    {
+      "id": "0833",
+      "term": "凝る",
+      "reading": "こる",
+      "partOfSpeech": "自動1",
+      "meaningHint": "凝固; 热衷; 入迷; 精心制作; 考究; 肌肉酸痛",
+      "examples": [
+        {
+          "japanese": "油が凝る。",
+          "meaning": "油凝固。"
+        },
+        {
+          "japanese": "野球に凝る。",
+          "meaning": "热衷于棒球。"
+        },
+        {
+          "japanese": "細工が凝っている。",
+          "meaning": "工艺品做工考究。"
+        },
+        {
+          "japanese": "肩が凝る。",
+          "meaning": "肩膀酸痛。"
+        }
+      ]
+    },
+    {
+      "id": "0834",
+      "term": "これくらい/これぐらい",
+      "reading": "これくらい/これぐらい",
+      "partOfSpeech": "名/副",
+      "meaningHint": "这么些; 这个程度",
+      "examples": [
+        {
+          "japanese": "これくらいなんでもない。",
+          "meaning": "这么一点点，算不了什么。"
+        },
+        {
+          "japanese": "これぐらいの大きさ",
+          "meaning": "这点大小"
+        }
+      ]
+    },
+    {
+      "id": "0835",
+      "term": "これほど",
+      "reading": "これほど",
+      "partOfSpeech": "副",
+      "meaningHint": "这样; 这么; 这种程度",
+      "examples": [
+        {
+          "japanese": "これほど頼んでいるのに聞いてくれない。",
+          "meaning": "如此恳求，却不答应。"
+        },
+        {
+          "japanese": "これほどのことはなんでもない。",
+          "meaning": "这点事算不了什么。"
+        }
+      ]
+    },
+    {
+      "id": "0836",
+      "term": "これまで",
+      "reading": "これまで",
+      "partOfSpeech": "副",
+      "meaningHint": "过去; 以往; 迄今; 到这种程度; 到此为止",
+      "examples": [
+        {
+          "japanese": "これまでと同様",
+          "meaning": "一如既往"
+        },
+        {
+          "japanese": "これまでになるには大変だった。",
+          "meaning": "达到这种程度真不容易。"
+        },
+        {
+          "japanese": "今日はこれまでにしておこう。",
+          "meaning": "今天到此为止。"
+        }
+      ]
+    },
+    {
+      "id": "0837",
+      "term": "転がる",
+      "reading": "ころがる",
+      "partOfSpeech": "自動1",
+      "meaningHint": "滚; 转动; 倒下; 躺下",
+      "examples": [
+        {
+          "japanese": "ボールが転がってきた。",
+          "meaning": "球滚过来了。"
+        },
+        {
+          "japanese": "滑って転がる。",
+          "meaning": "滑倒。"
+        },
+        {
+          "japanese": "畳の上に転がって寝る。",
+          "meaning": "躺在榻榻米上睡觉。"
+        }
+      ]
+    },
+    {
+      "id": "0838",
+      "term": "殺す",
+      "reading": "ころす",
+      "partOfSpeech": "他動1",
+      "meaningHint": "杀; 抑制; 忍住; 埋没; 除去; 浪费",
+      "examples": [
+        {
+          "japanese": "鶏を殺す。",
+          "meaning": "杀鸡。"
+        },
+        {
+          "japanese": "笑いを殺す。",
+          "meaning": "忍住笑。"
+        },
+        {
+          "japanese": "臭みを殺す。",
+          "meaning": "除去臭味。"
+        },
+        {
+          "japanese": "時間を殺す。",
+          "meaning": "浪费时间。"
+        }
+      ]
+    },
+    {
+      "id": "0839",
+      "term": "紺",
+      "reading": "こん",
+      "partOfSpeech": "名",
+      "meaningHint": "藏青; 藏蓝",
+      "examples": [
+        {
+          "japanese": "紺色",
+          "meaning": "藏青色"
+        }
+      ]
+    },
+    {
+      "id": "0840",
+      "term": "今学期",
+      "reading": "こんがっき",
+      "partOfSpeech": "名",
+      "meaningHint": "本学期",
+      "examples": [
+        {
+          "japanese": "今学期から頑張る。",
+          "meaning": "从本学期开始加油。"
+        }
+      ]
+    }
+  ],
+  "reviewCards": [
+    {
+      "id": "red-book-n3-vocab-unit-07-card-01",
+      "number": 1,
+      "prompt": "「煙」的读音和核心意思是什么？",
+      "answer": "けむり; 烟; 烟状物"
+    },
+    {
+      "id": "red-book-n3-vocab-unit-07-card-02",
+      "number": 2,
+      "prompt": "「蹴る」的读音和核心意思是什么？",
+      "answer": "ける; 踢"
+    },
+    {
+      "id": "red-book-n3-vocab-unit-07-card-03",
+      "number": 3,
+      "prompt": "「険しい」的读音和核心意思是什么？",
+      "answer": "けわしい; 险峻; 陡峭; 严厉; 可怕"
+    },
+    {
+      "id": "red-book-n3-vocab-unit-07-card-04",
+      "number": 4,
+      "prompt": "「喧嘩」的读音和核心意思是什么？",
+      "answer": "けんか; 吵嘴; 吵架; 打架"
+    },
+    {
+      "id": "red-book-n3-vocab-unit-07-card-05",
+      "number": 5,
+      "prompt": "「謙虚」的读音和核心意思是什么？",
+      "answer": "けんきょ; 谦和; 谦虚"
+    },
+    {
+      "id": "red-book-n3-vocab-unit-07-card-06",
+      "number": 6,
+      "prompt": "「現金」的读音和核心意思是什么？",
+      "answer": "げんきん; 现金; 现款"
+    },
+    {
+      "id": "red-book-n3-vocab-unit-07-card-07",
+      "number": 7,
+      "prompt": "「言語学」的读音和核心意思是什么？",
+      "answer": "げんごがく; 语言学"
+    },
+    {
+      "id": "red-book-n3-vocab-unit-07-card-08",
+      "number": 8,
+      "prompt": "「検査」的读音和核心意思是什么？",
+      "answer": "けんさ; 检查; 检验"
+    },
+    {
+      "id": "red-book-n3-vocab-unit-07-card-09",
+      "number": 9,
+      "prompt": "「現在」的读音和核心意思是什么？",
+      "answer": "げんざい; 现在; 目前"
+    },
+    {
+      "id": "red-book-n3-vocab-unit-07-card-10",
+      "number": 10,
+      "prompt": "「現実」的读音和核心意思是什么？",
+      "answer": "げんじつ; 现实; 实际"
+    },
+    {
+      "id": "red-book-n3-vocab-unit-07-card-11",
+      "number": 11,
+      "prompt": "「研修」的读音和核心意思是什么？",
+      "answer": "けんしゅう; 研究; 钻研; 培训; 进修"
+    },
+    {
+      "id": "red-book-n3-vocab-unit-07-card-12",
+      "number": 12,
+      "prompt": "「謙譲」的读音和核心意思是什么？",
+      "answer": "けんじょう; 谦让; 谦逊"
+    },
+    {
+      "id": "red-book-n3-vocab-unit-07-card-13",
+      "number": 13,
+      "prompt": "「現象」的读音和核心意思是什么？",
+      "answer": "げんしょう; 现象"
+    },
+    {
+      "id": "red-book-n3-vocab-unit-07-card-14",
+      "number": 14,
+      "prompt": "「減少」的读音和核心意思是什么？",
+      "answer": "げんしょう; 减少"
+    },
+    {
+      "id": "red-book-n3-vocab-unit-07-card-15",
+      "number": 15,
+      "prompt": "「謙遜」的读音和核心意思是什么？",
+      "answer": "けんそん; 谦逊; 谦虚; 谦让"
+    },
+    {
+      "id": "red-book-n3-vocab-unit-07-card-16",
+      "number": 16,
+      "prompt": "「現代」的读音和核心意思是什么？",
+      "answer": "げんだい; 现代; 如今; 当代"
+    },
+    {
+      "id": "red-book-n3-vocab-unit-07-card-17",
+      "number": 17,
+      "prompt": "「建築」的读音和核心意思是什么？",
+      "answer": "けんちく; 建筑物; 建筑; 修筑; 建造"
+    },
+    {
+      "id": "red-book-n3-vocab-unit-07-card-18",
+      "number": 18,
+      "prompt": "「検討」的读音和核心意思是什么？",
+      "answer": "けんとう; 讨论; 探讨研究"
+    },
+    {
+      "id": "red-book-n3-vocab-unit-07-card-19",
+      "number": 19,
+      "prompt": "「懸命」的读音和核心意思是什么？",
+      "answer": "けんめい; 拼命; 奋力; 竭尽全力"
+    },
+    {
+      "id": "red-book-n3-vocab-unit-07-card-20",
+      "number": 20,
+      "prompt": "「原料」的读音和核心意思是什么？",
+      "answer": "げんりょう; 原料"
+    },
+    {
+      "id": "red-book-n3-vocab-unit-07-card-21",
+      "number": 21,
+      "prompt": "「濃い」的读音和核心意思是什么？",
+      "answer": "こい; 深; 浓; 烈; 浓密; 黏稠"
+    },
+    {
+      "id": "red-book-n3-vocab-unit-07-card-22",
+      "number": 22,
+      "prompt": "「恋」的读音和核心意思是什么？",
+      "answer": "こい; 恋爱; 爱情"
+    },
+    {
+      "id": "red-book-n3-vocab-unit-07-card-23",
+      "number": 23,
+      "prompt": "「こいつ」的读音和核心意思是什么？",
+      "answer": "こいつ; 这个东西; 这个家伙; 这小子"
+    },
+    {
+      "id": "red-book-n3-vocab-unit-07-card-24",
+      "number": 24,
+      "prompt": "「恋人」的读音和核心意思是什么？",
+      "answer": "こいびと; 恋人"
+    },
+    {
+      "id": "red-book-n3-vocab-unit-07-card-25",
+      "number": 25,
+      "prompt": "「コイン」的读音和核心意思是什么？",
+      "answer": "コイン; 硬币; 货币"
+    },
+    {
+      "id": "red-book-n3-vocab-unit-07-card-26",
+      "number": 26,
+      "prompt": "「コインランドリー」的读音和核心意思是什么？",
+      "answer": "コインランドリー; 投币式干燥机"
+    },
+    {
+      "id": "red-book-n3-vocab-unit-07-card-27",
+      "number": 27,
+      "prompt": "「高〜」的读音和核心意思是什么？",
+      "answer": "こう〜; 高..."
+    },
+    {
+      "id": "red-book-n3-vocab-unit-07-card-28",
+      "number": 28,
+      "prompt": "「〜校」的读音和核心意思是什么？",
+      "answer": "〜こう; ...校"
+    },
+    {
+      "id": "red-book-n3-vocab-unit-07-card-29",
+      "number": 29,
+      "prompt": "「〜号」的读音和核心意思是什么？",
+      "answer": "〜ごう; 号; 期"
+    },
+    {
+      "id": "red-book-n3-vocab-unit-07-card-30",
+      "number": 30,
+      "prompt": "「こういう」的读音和核心意思是什么？",
+      "answer": "こういう; 这种; 这样"
+    }
+  ],
+  "sourceTestPages": [],
+  "sourceTextTests": []
+}

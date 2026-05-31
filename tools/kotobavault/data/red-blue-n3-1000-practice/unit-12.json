@@ -1,0 +1,353 @@
+{
+  "schemaVersion": 1,
+  "unit": {
+    "id": "red-blue-n3-1000-practice-unit-12",
+    "title": "红蓝宝书1000题 - Unit 12",
+    "type": "practice_unit",
+    "status": "manual-reviewed-draft",
+    "tags": [
+      "jlpt",
+      "n3",
+      "practice",
+      "vocabulary",
+      "grammar",
+      "red-blue-1000",
+      "manual-entry"
+    ],
+    "sourceId": "source-red-blue-n3-1000-practice",
+    "sourcePages": [
+      140,
+      151
+    ],
+    "created": "2026-05-26",
+    "updated": "2026-05-26",
+    "scope": {
+      "Question range": "Q397-Q432",
+      "Source pages": "PDF pages 140-151",
+      "Page-image cache": "`.cache/ocr/red-blue-n3-1000-practice/`"
+    },
+    "contentPath": "content/items/red-blue-n3-1000-practice/unit-12.md"
+  },
+  "vocabulary": [],
+  "reviewCards": [],
+  "sourceTestPages": [
+    {
+      "kind": "questions",
+      "title": "原书练习题",
+      "bookPages": "133-143",
+      "pdfPages": "140-150",
+      "images": [
+        ".cache/ocr/red-blue-n3-1000-practice/images/page_140.jpg",
+        ".cache/ocr/red-blue-n3-1000-practice/images/page_142.jpg",
+        ".cache/ocr/red-blue-n3-1000-practice/images/page_144.jpg",
+        ".cache/ocr/red-blue-n3-1000-practice/images/page_146.jpg",
+        ".cache/ocr/red-blue-n3-1000-practice/images/page_148.jpg",
+        ".cache/ocr/red-blue-n3-1000-practice/images/page_150.jpg"
+      ]
+    },
+    {
+      "kind": "answers",
+      "title": "原书答案解析",
+      "bookPages": "134-144",
+      "pdfPages": "141-151",
+      "images": [
+        ".cache/ocr/red-blue-n3-1000-practice/images/page_141.jpg",
+        ".cache/ocr/red-blue-n3-1000-practice/images/page_143.jpg",
+        ".cache/ocr/red-blue-n3-1000-practice/images/page_145.jpg",
+        ".cache/ocr/red-blue-n3-1000-practice/images/page_147.jpg",
+        ".cache/ocr/red-blue-n3-1000-practice/images/page_149.jpg",
+        ".cache/ocr/red-blue-n3-1000-practice/images/page_151.jpg"
+      ]
+    }
+  ],
+  "sourceTextTests": [
+    {
+      "id": "Q397",
+      "part": "Unit 12",
+      "type": "文字",
+      "prompt": "今回だけは**許して**ください。 選択肢：1 ながして / 2 はなして / 3 だまして / 4 ゆるして",
+      "answer": "4",
+      "explanation": "詞彙點：許す（ゆるす）。表示「原谅、允许」。"
+    },
+    {
+      "id": "Q398",
+      "part": "Unit 12",
+      "type": "文字",
+      "prompt": "次のバスは15分後に**発車**します。 選択肢：1 はつじゃ / 2 はっしゃ / 3 はつじゅ / 4 はっしゅ",
+      "answer": "2",
+      "explanation": "詞彙點：発車（はっしゃ）。表示「发车」。"
+    },
+    {
+      "id": "Q399",
+      "part": "Unit 12",
+      "type": "語彙",
+      "prompt": "今回の事件は世間の（　）を集めました。 選択肢：1 注射 / 2 注目 / 3 注文 / 4 注意",
+      "answer": "2",
+      "explanation": "詞彙點：注目を集める。表示「引起关注」。"
+    },
+    {
+      "id": "Q400",
+      "part": "Unit 12",
+      "type": "語彙",
+      "prompt": "先生に（　）うれしかったです。 選択肢：1 わけられて / 2 いやがられて / 3 ほめられて / 4 おこられて",
+      "answer": "3",
+      "explanation": "詞彙點：褒められる。表示「被表扬」。"
+    },
+    {
+      "id": "Q401",
+      "part": "Unit 12",
+      "type": "文法",
+      "prompt": "彼はみんなに嫌われた理由を（　）。 選択肢：1 知りたい / 2 知りたがってみる / 3 知りたそうだ / 4 知りたがっている",
+      "answer": "4",
+      "explanation": "語法點：動詞ます形＋たがる。表示第三人称的愿望。"
+    },
+    {
+      "id": "Q402",
+      "part": "Unit 12",
+      "type": "文法",
+      "prompt": "日が暮れないうちに（　）ほうがいいです。 選択肢：1 帰る / 2 帰った / 3 帰ろうと / 4 帰っていた",
+      "answer": "2",
+      "explanation": "語法點：動詞た形＋ほうがいい。表示建议「最好……」。"
+    },
+    {
+      "id": "Q403",
+      "part": "Unit 12",
+      "type": "文字",
+      "prompt": "蚊に刺されたところが**痒い**。 選択肢：1 ふとい / 2 あらい / 3 かゆい / 4 はやい",
+      "answer": "3",
+      "explanation": "詞彙點：痒い（かゆい）。表示「痒」。"
+    },
+    {
+      "id": "Q404",
+      "part": "Unit 12",
+      "type": "文字",
+      "prompt": "おいしいものをいっぱい食べて、**満足**した。 選択肢：1 まんそく / 2 まんぞく / 3 まんしょく / 4 まんじょく",
+      "answer": "2",
+      "explanation": "詞彙點：満足（まんぞく）。表示「满足」。"
+    },
+    {
+      "id": "Q405",
+      "part": "Unit 12",
+      "type": "語彙",
+      "prompt": "今日はわたしが掃除（　）です。 選択肢：1 担任 / 2 交番 / 3 責任 / 4 当番",
+      "answer": "4",
+      "explanation": "詞彙點：当番（とうばん）。表示「值日、值班」。"
+    },
+    {
+      "id": "Q406",
+      "part": "Unit 12",
+      "type": "語彙",
+      "prompt": "皆様、（　）コンサートが始まります。 選択肢：1 まもなく / 2 なるほど / 3 なんだか / 4 いつでも",
+      "answer": "1",
+      "explanation": "詞彙點：まもなく。表示「不久、马上」。"
+    },
+    {
+      "id": "Q407",
+      "part": "Unit 12",
+      "type": "文法",
+      "prompt": "電話一本で（　）ことだから、わざわざ行かなくてもいいです。 選択肢：1 済む / 2 済まない / 3 済んだ / 4 済まなかった",
+      "answer": "1",
+      "explanation": "語法點：名詞＋で済む。表示「用……就能解决」。"
+    },
+    {
+      "id": "Q408",
+      "part": "Unit 12",
+      "type": "文法",
+      "prompt": "彼は出張（　）、お土産を買ってきてくれます。 選択肢：1 たびに / 2 のたびに / 3 おきに / 4 のおきに",
+      "answer": "2",
+      "explanation": "語法點：名詞＋のたびに。表示「每当……就……」。"
+    },
+    {
+      "id": "Q409",
+      "part": "Unit 12",
+      "type": "文字",
+      "prompt": "わたしは**田舎**に生まれました。 選択肢：1 たしゃ / 2 たなか / 3 いしゃ / 4 いなか",
+      "answer": "4",
+      "explanation": "詞彙點：田舎（いなか）。表示「乡下、农村」。"
+    },
+    {
+      "id": "Q410",
+      "part": "Unit 12",
+      "type": "文字",
+      "prompt": "カメラの写真をパソコンに**保存**した。 選択肢：1 ほそん / 2 ほうそん / 3 ほぞん / 4 ほうぞん",
+      "answer": "3",
+      "explanation": "詞彙點：保存（ほぞん）。表示「保存」。"
+    },
+    {
+      "id": "Q411",
+      "part": "Unit 12",
+      "type": "語彙",
+      "prompt": "賞をとって、やっとみんなに（　）もらった。 選択肢：1 認めて / 2 控えて / 3 答えて / 4 伝えて",
+      "answer": "1",
+      "explanation": "詞彙點：認める（みとめる）。表示「认可、承认」。"
+    },
+    {
+      "id": "Q412",
+      "part": "Unit 12",
+      "type": "語彙",
+      "prompt": "2020年、東京で（　）が開かれる。 選択肢：1 コンクリート / 2 オリンピック / 3 プロジェクト / 4 ガイドブック",
+      "answer": "2",
+      "explanation": "詞彙點：オリンピック。表示「奥运会」。"
+    },
+    {
+      "id": "Q413",
+      "part": "Unit 12",
+      "type": "文法",
+      "prompt": "風邪薬を（　）、熱が下がってきました。 選択肢：1 飲んでは / 2 飲めば / 3 飲むなら / 4 飲んだら",
+      "answer": "4",
+      "explanation": "語法點：動詞た形＋ら。表示某动作之后出现的结果。"
+    },
+    {
+      "id": "Q414",
+      "part": "Unit 12",
+      "type": "文法",
+      "prompt": "リビングの壁には家族の写真が飾って（　）。 選択肢：1 いきます / 2 います / 3 あります / 4 みます",
+      "answer": "3",
+      "explanation": "語法點：他動詞て形＋ある。表示人为动作后的状态存续。"
+    },
+    {
+      "id": "Q415",
+      "part": "Unit 12",
+      "type": "文字",
+      "prompt": "その靴で**氷**の上を歩くのは危険です。 選択肢：1 こな / 2 こし / 3 こおり / 4 ことわざ",
+      "answer": "3",
+      "explanation": "詞彙點：氷（こおり）。表示「冰」。"
+    },
+    {
+      "id": "Q416",
+      "part": "Unit 12",
+      "type": "文字",
+      "prompt": "きのうは**非常**に暑かったです。 選択肢：1 いじょう / 2 いちょう / 3 ひじょう / 4 ひちょう",
+      "answer": "3",
+      "explanation": "詞彙點：非常（ひじょう）。表示「非常」。"
+    },
+    {
+      "id": "Q417",
+      "part": "Unit 12",
+      "type": "語彙",
+      "prompt": "観客からの（　）を浴びながら、彼女は舞台に上がりました。 選択肢：1 需要 / 2 拍手 / 3 信頼 / 4 足音",
+      "answer": "2",
+      "explanation": "詞彙點：拍手を浴びる。表示「受到掌声」。"
+    },
+    {
+      "id": "Q418",
+      "part": "Unit 12",
+      "type": "語彙",
+      "prompt": "父は（　）お茶のほうが好きだ。 選択肢：1 ふかい / 2 あさい / 3 こわい / 4 ぬるい",
+      "answer": "4",
+      "explanation": "詞彙點：ぬるい。表示「微温的、不够热的」。"
+    },
+    {
+      "id": "Q419",
+      "part": "Unit 12",
+      "type": "文法",
+      "prompt": "弟は憧れの大学に合格できて、うれしくて（　）ようです。 選択肢：1 たまる / 2 たまらない / 3 たまれる / 4 たまれない",
+      "answer": "2",
+      "explanation": "語法點：てたまらない。表示感情或感觉强烈到「不得了」。"
+    },
+    {
+      "id": "Q420",
+      "part": "Unit 12",
+      "type": "文法",
+      "prompt": "国（　）、文化や風習などが異なる。 選択肢：1 には / 2 とは / 3 によって / 4 によると",
+      "answer": "3",
+      "explanation": "語法點：名詞＋によって。表示「根据……而不同」。"
+    },
+    {
+      "id": "Q421",
+      "part": "Unit 12",
+      "type": "文字",
+      "prompt": "この映画は何度も見る**価値**があります。 選択肢：1 かち / 2 がち / 3 かしょく / 4 かじょく",
+      "answer": "1",
+      "explanation": "詞彙點：価値（かち）。表示「价值」。"
+    },
+    {
+      "id": "Q422",
+      "part": "Unit 12",
+      "type": "文字",
+      "prompt": "携帯電話は全国に**普及**しました。 選択肢：1 ふきゅ / 2 ふきゅう / 3 ふっきゅ / 4 ふっきゅう",
+      "answer": "2",
+      "explanation": "詞彙點：普及（ふきゅう）。表示「普及」。"
+    },
+    {
+      "id": "Q423",
+      "part": "Unit 12",
+      "type": "語彙",
+      "prompt": "バスから地下鉄に（　）、大学に行く。 選択肢：1 引き受けて / 2 のりかえて / 3 持ち上げて / 4 ひきかえして",
+      "answer": "2",
+      "explanation": "詞彙點：乗り換える（のりかえる）。表示「换乘」。"
+    },
+    {
+      "id": "Q424",
+      "part": "Unit 12",
+      "type": "語彙",
+      "prompt": "今年は去年より合格（　）が下がった。 選択肢：1 割 / 2 比 / 3 率 / 4 倍",
+      "answer": "3",
+      "explanation": "詞彙點：合格率（ごうかくりつ）。表示「合格率」。"
+    },
+    {
+      "id": "Q425",
+      "part": "Unit 12",
+      "type": "文法",
+      "prompt": "「石井さん、ちょっと教えて（　）ことがあります。」 選択肢：1 みる / 2 ほしい / 3 くる / 4 おいた",
+      "answer": "2",
+      "explanation": "語法點：てほしい。表示希望对方或他人为自己做某事。"
+    },
+    {
+      "id": "Q426",
+      "part": "Unit 12",
+      "type": "文法",
+      "prompt": "このボタンを押せば、カーテンが自動的に（　）。 選択肢：1 開きます / 2 開きそうです / 3 開きました / 4 開こうとします",
+      "answer": "1",
+      "explanation": "語法點：～ば。表示恒定条件「一……就……」。"
+    },
+    {
+      "id": "Q427",
+      "part": "Unit 12",
+      "type": "文字",
+      "prompt": "杉本さんはわたしの高校時代の**先輩**です。 選択肢：1 せいはい / 2 せいばい / 3 せんはい / 4 せんぱい",
+      "answer": "4",
+      "explanation": "詞彙點：先輩（せんぱい）。表示「前辈、学长」。"
+    },
+    {
+      "id": "Q428",
+      "part": "Unit 12",
+      "type": "文字",
+      "prompt": "彼女に本当のことを話す**勇気**がありません。 選択肢：1 ゆうき / 2 ゆうぎ / 3 ようき / 4 ようぎ",
+      "answer": "1",
+      "explanation": "詞彙點：勇気（ゆうき）。表示「勇气」。"
+    },
+    {
+      "id": "Q429",
+      "part": "Unit 12",
+      "type": "語彙",
+      "prompt": "この学校は女子学生の割合が全体の80（　）を占めている。 選択肢：1 ボーリング / 2 アルコール / 3 パーセント / 4 スニーカー",
+      "answer": "3",
+      "explanation": "詞彙點：パーセント。表示「百分比」。"
+    },
+    {
+      "id": "Q430",
+      "part": "Unit 12",
+      "type": "語彙",
+      "prompt": "彼はいつも自信に（　）いますね。 選択肢：1 あずけて / 2 溢れて / 3 あばれて / 4 溺れて",
+      "answer": "2",
+      "explanation": "詞彙點：自信に溢れる。表示「充满自信」。"
+    },
+    {
+      "id": "Q431",
+      "part": "Unit 12",
+      "type": "文法",
+      "prompt": "これはリーダー（　）責任だと思います。 選択肢：1 とする / 2 としての / 3 とした / 4 とされる",
+      "answer": "2",
+      "explanation": "語法點：名詞＋としての＋名詞。表示「作为……的……」。"
+    },
+    {
+      "id": "Q432",
+      "part": "Unit 12",
+      "type": "文法",
+      "prompt": "もしよろしければ、お電話番号を（　）。 選択肢：1 教えてあげますか / 2 教えさせていただきませんか / 3 教えてやりますか / 4 教えていただけませんか",
+      "answer": "4",
+      "explanation": "語法點：ていただけませんか。表示委婉地请求对方做某事。"
+    }
+  ]
+}

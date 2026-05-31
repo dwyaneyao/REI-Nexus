@@ -1,0 +1,353 @@
+{
+  "schemaVersion": 1,
+  "unit": {
+    "id": "red-blue-n3-1000-practice-unit-04",
+    "title": "红蓝宝书1000题 - Unit 4",
+    "type": "practice_unit",
+    "status": "manual-reviewed-draft",
+    "tags": [
+      "jlpt",
+      "n3",
+      "practice",
+      "vocabulary",
+      "grammar",
+      "red-blue-1000",
+      "manual-entry"
+    ],
+    "sourceId": "source-red-blue-n3-1000-practice",
+    "sourcePages": [
+      44,
+      55
+    ],
+    "created": "2026-05-26",
+    "updated": "2026-05-26",
+    "scope": {
+      "Question range": "Q109-Q144",
+      "Source pages": "PDF pages 44-55",
+      "Page-image cache": "`.cache/ocr/red-blue-n3-1000-practice/`"
+    },
+    "contentPath": "content/items/red-blue-n3-1000-practice/unit-04.md"
+  },
+  "vocabulary": [],
+  "reviewCards": [],
+  "sourceTestPages": [
+    {
+      "kind": "questions",
+      "title": "原书练习题",
+      "bookPages": "37-47",
+      "pdfPages": "44-54",
+      "images": [
+        ".cache/ocr/red-blue-n3-1000-practice/images/page_044.jpg",
+        ".cache/ocr/red-blue-n3-1000-practice/images/page_046.jpg",
+        ".cache/ocr/red-blue-n3-1000-practice/images/page_048.jpg",
+        ".cache/ocr/red-blue-n3-1000-practice/images/page_050.jpg",
+        ".cache/ocr/red-blue-n3-1000-practice/images/page_052.jpg",
+        ".cache/ocr/red-blue-n3-1000-practice/images/page_054.jpg"
+      ]
+    },
+    {
+      "kind": "answers",
+      "title": "原书答案解析",
+      "bookPages": "38-48",
+      "pdfPages": "45-55",
+      "images": [
+        ".cache/ocr/red-blue-n3-1000-practice/images/page_045.jpg",
+        ".cache/ocr/red-blue-n3-1000-practice/images/page_047.jpg",
+        ".cache/ocr/red-blue-n3-1000-practice/images/page_049.jpg",
+        ".cache/ocr/red-blue-n3-1000-practice/images/page_051.jpg",
+        ".cache/ocr/red-blue-n3-1000-practice/images/page_053.jpg",
+        ".cache/ocr/red-blue-n3-1000-practice/images/page_055.jpg"
+      ]
+    }
+  ],
+  "sourceTextTests": [
+    {
+      "id": "Q109",
+      "part": "Unit 4",
+      "type": "文字",
+      "prompt": "星がきらきらと**輝いて**いる。 選択肢：1 かかやいて / 2 がかやいて / 3 かがやいて / 4 ががやいて",
+      "answer": "3",
+      "explanation": "考点：輝いて。读音是「かがやいて」。"
+    },
+    {
+      "id": "Q110",
+      "part": "Unit 4",
+      "type": "文字",
+      "prompt": "おいしい料理を作るために、いろいろと**工夫**しています。 選択肢：1 こうふ / 2 こふう / 3 くうふ / 4 くふう",
+      "answer": "4",
+      "explanation": "考点：工夫。读音是「くふう」。词条读音：くふう；含义：办法。"
+    },
+    {
+      "id": "Q111",
+      "part": "Unit 4",
+      "type": "語彙",
+      "prompt": "新人研修会で、（　）交換の仕方を教えてもらった。 選択肢：1 名前 / 2 名刺 / 3 人手 / 4 判子",
+      "answer": "2",
+      "explanation": "词汇点：名刺。该词/表达最符合句意。"
+    },
+    {
+      "id": "Q112",
+      "part": "Unit 4",
+      "type": "語彙",
+      "prompt": "髪型によって（　）は大きく変わります。 選択肢：1 アパート / 2 クーラー / 3 イメージ / 4 タクシー",
+      "answer": "3",
+      "explanation": "词汇点：イメージ（イメージ）：印象。"
+    },
+    {
+      "id": "Q113",
+      "part": "Unit 4",
+      "type": "文法",
+      "prompt": "名前も電話番号もわからないので、連絡（　）。 選択肢：1 しょうがない / 2 しようがない / 3 するしかない / 4 するにすぎない",
+      "answer": "2",
+      "explanation": "文法点：動詞ます形＋ようがない。表示“没有办法……/无法……”。"
+    },
+    {
+      "id": "Q114",
+      "part": "Unit 4",
+      "type": "文法",
+      "prompt": "毎日練習をして、やっと自転車に乗れる（　）。 選択肢：1 ようになりました / 2 ように思えます / 3 ようになっています / 4 ようと思っています",
+      "answer": "1",
+      "explanation": "文法点：ようになりました。该形式符合句子的接续和语义。"
+    },
+    {
+      "id": "Q115",
+      "part": "Unit 4",
+      "type": "文字",
+      "prompt": "わざと靴の紐を**緩く**結んだ。 選択肢：1 ふるく / 2 ゆるく / 3 かるく / 4 わるく",
+      "answer": "2",
+      "explanation": "考点：緩く。读音是「ゆるく」。"
+    },
+    {
+      "id": "Q116",
+      "part": "Unit 4",
+      "type": "文字",
+      "prompt": "お盆休みは京都へ**見物**に行きます。 選択肢：1 けんぶつ / 2 けんもつ / 3 げんぶつ / 4 げんもつ",
+      "answer": "1",
+      "explanation": "考点：見物。读音是「けんぶつ」。"
+    },
+    {
+      "id": "Q117",
+      "part": "Unit 4",
+      "type": "語彙",
+      "prompt": "子どものころ、田中先生にピアノを（　）ことがあります。 選択肢：1 ことなった / 2 まねた / 3 おそわった / 4 ふれた",
+      "answer": "3",
+      "explanation": "词汇点：おそわった。该词/表达最符合句意。"
+    },
+    {
+      "id": "Q118",
+      "part": "Unit 4",
+      "type": "語彙",
+      "prompt": "食事の前に、手を（　）洗いましょう。 選択肢：1 きれいに / 2 じつに / 3 ためしに / 4 おもに",
+      "answer": "1",
+      "explanation": "词汇点：きれいに。该词/表达最符合句意。"
+    },
+    {
+      "id": "Q119",
+      "part": "Unit 4",
+      "type": "文法",
+      "prompt": "絶対に行くって約束したから、行かない（　）。 選択肢：1 ものですから / 2 ものではない / 3 わけではない / 4 わけにはいかない",
+      "answer": "4",
+      "explanation": "文法点：～わけにはいかない。不能……；不能不……。"
+    },
+    {
+      "id": "Q120",
+      "part": "Unit 4",
+      "type": "文法",
+      "prompt": "地下鉄の駅を中心（　）オフィスビルやマンションが多く建てられている。 選択肢：1 に / 2 と / 3 で / 4 は",
+      "answer": "1",
+      "explanation": "文法点：～に。在……；向……；为了……。"
+    },
+    {
+      "id": "Q121",
+      "part": "Unit 4",
+      "type": "文字",
+      "prompt": "**足元**に気をつけてください。 選択肢：1 そくげん / 2 あしげん / 3 そくもと / 4 あしもと",
+      "answer": "4",
+      "explanation": "考点：足元。读音是「あしもと」。"
+    },
+    {
+      "id": "Q122",
+      "part": "Unit 4",
+      "type": "文字",
+      "prompt": "彼は日本の近代文学を**研究**している。 選択肢：1 けんきゅ / 2 けんきゅう / 3 げんきゅ / 4 げんきゅう",
+      "answer": "2",
+      "explanation": "考点：研究。读音是「けんきゅう」。"
+    },
+    {
+      "id": "Q123",
+      "part": "Unit 4",
+      "type": "語彙",
+      "prompt": "金曜日までにレポートを（　）しなければなりません。 選択肢：1 説明 / 2 提供 / 3 証明 / 4 提出",
+      "answer": "4",
+      "explanation": "词汇点：提出（ていしゅつ）：提出。"
+    },
+    {
+      "id": "Q124",
+      "part": "Unit 4",
+      "type": "語彙",
+      "prompt": "時間は（　）ありますから、安心してください。 選択肢：1 たっぷり / 2 こっそり / 3 ばったり / 4 すっきり",
+      "answer": "1",
+      "explanation": "词汇点：たっぷり。该词/表达最符合句意。"
+    },
+    {
+      "id": "Q125",
+      "part": "Unit 4",
+      "type": "文法",
+      "prompt": "秋の天気は春と似ていて、変わり（　）のが特徴です。 選択肢：1 すぎる / 2 がたい / 3 たがる / 4 やすい",
+      "answer": "4",
+      "explanation": "文法点：～やすい。容易……；好……。"
+    },
+    {
+      "id": "Q126",
+      "part": "Unit 4",
+      "type": "文法",
+      "prompt": "いくら（　）、こんなやり方はひどすぎる。 選択肢：1 どうでも / 2 どうだろう / 3 なんでも / 4 なんだろう",
+      "answer": "3",
+      "explanation": "文法点：いくらなんでも。表示“再怎么说也……/无论如何也……”。"
+    },
+    {
+      "id": "Q127",
+      "part": "Unit 4",
+      "type": "文字",
+      "prompt": "あの雲はハートの**形**をしている。 選択肢：1 ほうき / 2 うさぎ / 3 かたち / 4 たから",
+      "answer": "3",
+      "explanation": "考点：形。读音是「かたち」。"
+    },
+    {
+      "id": "Q128",
+      "part": "Unit 4",
+      "type": "文字",
+      "prompt": "彼女は登山中に**骨折**してしまった。 選択肢：1 こせつ / 2 こっせつ / 3 こぜつ / 4 こっぜつ",
+      "answer": "2",
+      "explanation": "考点：骨折。读音是「こっせつ」。词条读音：こっせつ；含义：骨折。"
+    },
+    {
+      "id": "Q129",
+      "part": "Unit 4",
+      "type": "語彙",
+      "prompt": "妹はわたしより（　）が高いです。 選択肢：1 背 / 2 肩 / 3 首 / 4 腰",
+      "answer": "1",
+      "explanation": "词汇点：背。该词/表达最符合句意。"
+    },
+    {
+      "id": "Q130",
+      "part": "Unit 4",
+      "type": "語彙",
+      "prompt": "残念ながら、その映画の（　）は売り切れました。 選択肢：1 チャンス / 2 チケット / 3 テーブル / 4 ユーモア",
+      "answer": "2",
+      "explanation": "词汇点：チケット（チケット）：票。"
+    },
+    {
+      "id": "Q131",
+      "part": "Unit 4",
+      "type": "文法",
+      "prompt": "明日雨が降った（　）、運動会は予定どおりに行います。 選択肢：1 にとっては / 2 にとっても / 3 としては / 4 としても",
+      "answer": "4",
+      "explanation": "文法点：～としても。表示“即使……也……”。"
+    },
+    {
+      "id": "Q132",
+      "part": "Unit 4",
+      "type": "文法",
+      "prompt": "テレビが故障したので、修理屋さん（　）直してもらった。 選択肢：1 は / 2 を / 3 に / 4 で",
+      "answer": "3",
+      "explanation": "文法点：～に。在……；向……；为了……。"
+    },
+    {
+      "id": "Q133",
+      "part": "Unit 4",
+      "type": "文字",
+      "prompt": "弊店は朝7時から**営業**します。 選択肢：1 えいきょ / 2 えいきょう / 3 えいぎょ / 4 えいぎょう",
+      "answer": "4",
+      "explanation": "考点：営業。读音是「えいぎょう」。词条读音：えいぎょう；含义：营业。"
+    },
+    {
+      "id": "Q134",
+      "part": "Unit 4",
+      "type": "文字",
+      "prompt": "何か好きなテレビ**番組**はありますか。 選択肢：1 ばんくみ / 2 ばんぐみ / 3 はんくみ / 4 はんぐみ",
+      "answer": "2",
+      "explanation": "考点：番組。读音是「ばんぐみ」。"
+    },
+    {
+      "id": "Q135",
+      "part": "Unit 4",
+      "type": "語彙",
+      "prompt": "先日かなり安い値段で（　）バイクを買いました。 選択肢：1 中心 / 2 中古 / 3 中級 / 4 中年",
+      "answer": "2",
+      "explanation": "词汇点：中古（ちゅうこ）：半旧半新。"
+    },
+    {
+      "id": "Q136",
+      "part": "Unit 4",
+      "type": "語彙",
+      "prompt": "この薬はいくら飲んでも、全然（　）。 選択肢：1 効きません / 2 動きません / 3 立ちません / 4 咲きません",
+      "answer": "1",
+      "explanation": "词汇点：効きません。该词/表达最符合句意。"
+    },
+    {
+      "id": "Q137",
+      "part": "Unit 4",
+      "type": "文法",
+      "prompt": "田中さんが戻ったら、すぐ会議室に来る（　）伝えてください。 選択肢：1 ものを / 2 そうに / 3 ことを / 4 ように",
+      "answer": "4",
+      "explanation": "文法点：Vるように伝える。表示“转告/嘱咐某人做某事”。"
+    },
+    {
+      "id": "Q138",
+      "part": "Unit 4",
+      "type": "文法",
+      "prompt": "このままだと、終電に間に合わないかも（　）。 選択肢：1 しれない / 2 しらない / 3 いけない / 4 いかない",
+      "answer": "1",
+      "explanation": "文法点：～かもしれない。也许……；可能……。"
+    },
+    {
+      "id": "Q139",
+      "part": "Unit 4",
+      "type": "文字",
+      "prompt": "『赤と黒』はフランスの**作家**スタンダールの長編小説です。 選択肢：1 さか / 2 さっか / 3 しゃか / 4 しゃっか",
+      "answer": "2",
+      "explanation": "考点：作家。读音是「さっか」。词条读音：さっか；含义：作家。"
+    },
+    {
+      "id": "Q140",
+      "part": "Unit 4",
+      "type": "文字",
+      "prompt": "すみません、お**勘定**をお願いします。 選択肢：1 かんてい / 2 がんてい / 3 かんじょう / 4 がんじょう",
+      "answer": "3",
+      "explanation": "考点：勘定。读音是「かんじょう」。词条读音：かんじょう；含义：计数。"
+    },
+    {
+      "id": "Q141",
+      "part": "Unit 4",
+      "type": "語彙",
+      "prompt": "その提案に（　）する人が多いようです。 選択肢：1 相手 / 2 対象 / 3 反対 / 4 反抗",
+      "answer": "3",
+      "explanation": "词汇点：反対。该词/表达最符合句意。"
+    },
+    {
+      "id": "Q142",
+      "part": "Unit 4",
+      "type": "語彙",
+      "prompt": "文書では漢語や（　）表現をよく使います。 選択肢：1 かたい / 2 だるい / 3 かゆい / 4 たかい",
+      "answer": "1",
+      "explanation": "词汇点：かたい。该词/表达最符合句意。"
+    },
+    {
+      "id": "Q143",
+      "part": "Unit 4",
+      "type": "文法",
+      "prompt": "わたしは今『1リットルの涙』という小説を（　）ところです。 選択肢：1 読む / 2 読んでいる / 3 読んだ / 4 読んでいた",
+      "answer": "2",
+      "explanation": "文法点：～ているところだ。表示动作正在进行中。"
+    },
+    {
+      "id": "Q144",
+      "part": "Unit 4",
+      "type": "文法",
+      "prompt": "いい先生になれるよう、これからも努力して（　）。 選択肢：1 います / 2 ございます / 3 みます / 4 まいります",
+      "answer": "4",
+      "explanation": "文法点：～てまいります。「行く/来る」的自谦表达，也可用于郑重表示今后继续做某事。"
+    }
+  ]
+}

@@ -1,0 +1,353 @@
+{
+  "schemaVersion": 1,
+  "unit": {
+    "id": "red-blue-n2-1000-practice-unit-11",
+    "title": "红蓝宝书1000题 - N2 Unit 11",
+    "type": "practice_unit",
+    "status": "manual-reviewed-draft",
+    "tags": [
+      "jlpt",
+      "n2",
+      "practice",
+      "vocabulary",
+      "grammar",
+      "red-blue-1000",
+      "manual-entry"
+    ],
+    "sourceId": "source-red-blue-n2-1000-practice",
+    "sourcePages": [
+      127,
+      138
+    ],
+    "created": "2026-05-27",
+    "updated": "2026-05-27",
+    "scope": {
+      "Question range": "Q361-Q396",
+      "Source pages": "PDF pages 127-138",
+      "Page-image cache": "`.cache/ocr/red-blue-n2-1000-practice/`"
+    },
+    "contentPath": "content/items/red-blue-n2-1000-practice/unit-11.md"
+  },
+  "vocabulary": [],
+  "reviewCards": [],
+  "sourceTestPages": [
+    {
+      "kind": "questions",
+      "title": "练习题",
+      "bookPages": "121-131",
+      "pdfPages": "127-137",
+      "images": [
+        ".cache/ocr/red-blue-n2-1000-practice/images/page_127.jpg",
+        ".cache/ocr/red-blue-n2-1000-practice/images/page_129.jpg",
+        ".cache/ocr/red-blue-n2-1000-practice/images/page_131.jpg",
+        ".cache/ocr/red-blue-n2-1000-practice/images/page_133.jpg",
+        ".cache/ocr/red-blue-n2-1000-practice/images/page_135.jpg",
+        ".cache/ocr/red-blue-n2-1000-practice/images/page_137.jpg"
+      ]
+    },
+    {
+      "kind": "answers",
+      "title": "答案解析",
+      "bookPages": "122-132",
+      "pdfPages": "128-138",
+      "images": [
+        ".cache/ocr/red-blue-n2-1000-practice/images/page_128.jpg",
+        ".cache/ocr/red-blue-n2-1000-practice/images/page_130.jpg",
+        ".cache/ocr/red-blue-n2-1000-practice/images/page_132.jpg",
+        ".cache/ocr/red-blue-n2-1000-practice/images/page_134.jpg",
+        ".cache/ocr/red-blue-n2-1000-practice/images/page_136.jpg",
+        ".cache/ocr/red-blue-n2-1000-practice/images/page_138.jpg"
+      ]
+    }
+  ],
+  "sourceTextTests": [
+    {
+      "id": "Q361",
+      "part": "N2 Unit 11",
+      "type": "文字",
+      "prompt": "二人は結婚式で永遠の愛を**誓った**。 選択肢：1 ちがった / 2 ちかった / 3 ぬぐった / 4 すくった",
+      "answer": "2",
+      "explanation": "考点：誓った。读音是「ちかった」。"
+    },
+    {
+      "id": "Q362",
+      "part": "N2 Unit 11",
+      "type": "文字",
+      "prompt": "彼は田舎の**貧乏**な家に生まれたそうだ。 選択肢：1 ひんほう / 2 ひんぼう / 3 びんほう / 4 びんぼう",
+      "answer": "4",
+      "explanation": "考点：貧乏。读音是「びんぼう」。"
+    },
+    {
+      "id": "Q363",
+      "part": "N2 Unit 11",
+      "type": "語彙",
+      "prompt": "課長に見てもらって、企画書を（　）した。 選択肢：1 修正 / 2 修了 / 3 修繕 / 4 修得",
+      "answer": "1",
+      "explanation": "词汇点：修正。该词/表达最符合句意。"
+    },
+    {
+      "id": "Q364",
+      "part": "N2 Unit 11",
+      "type": "語彙",
+      "prompt": "（　）彼の実家にご挨拶に伺います。 選択肢：1 のろのろ / 2 続々 / 3 近々 / 4 たちまち",
+      "answer": "3",
+      "explanation": "词汇点：近々。该词/表达最符合句意。"
+    },
+    {
+      "id": "Q365",
+      "part": "N2 Unit 11",
+      "type": "文法",
+      "prompt": "サッカーの試合を（　）最中に、突然停電になった。 選択肢：1 見る / 2 見ようとする / 3 見ていた / 4 見ている",
+      "answer": "4",
+      "explanation": "文法点：見ている。该形式符合句子的接续和语义。"
+    },
+    {
+      "id": "Q366",
+      "part": "N2 Unit 11",
+      "type": "文法",
+      "prompt": "20年ぶりに母校を訪れると、感慨深い（　）がある。 選択肢：1 もの / 2 こと / 3 はず / 4 わけ",
+      "answer": "1",
+      "explanation": "文法点：もの。该形式符合句子的接续和语义。"
+    },
+    {
+      "id": "Q367",
+      "part": "N2 Unit 11",
+      "type": "文字",
+      "prompt": "雨が降っても、試合は**決行**すると決まった。 選択肢：1 けつこう / 2 けっこう / 3 けつぎょう / 4 けっきょう",
+      "answer": "2",
+      "explanation": "考点：決行。读音是「けっこう」。"
+    },
+    {
+      "id": "Q368",
+      "part": "N2 Unit 11",
+      "type": "文字",
+      "prompt": "大学のキャンパスでドラマの**撮影**が行われた。 選択肢：1 さつえい / 2 さつかげ / 3 さつしん / 4 さつしゃ",
+      "answer": "1",
+      "explanation": "考点：撮影。读音是「さつえい」。"
+    },
+    {
+      "id": "Q369",
+      "part": "N2 Unit 11",
+      "type": "語彙",
+      "prompt": "一人暮らしを始めるので、家電を（　）した。 選択肢：1 イメージ / 2 ハンサム / 3 レンタル / 4 チェンジ",
+      "answer": "3",
+      "explanation": "词汇点：レンタル。该词/表达最符合句意。"
+    },
+    {
+      "id": "Q370",
+      "part": "N2 Unit 11",
+      "type": "語彙",
+      "prompt": "彼女は弁護士として成功するまで、多くの困難を（　）きた。 選択肢：1 乗り遅れて / 2 乗り越して / 3 乗り込んで / 4 乗り越えて",
+      "answer": "4",
+      "explanation": "词汇点：乗り越えて。该词/表达最符合句意。"
+    },
+    {
+      "id": "Q371",
+      "part": "N2 Unit 11",
+      "type": "文法",
+      "prompt": "明日の試合は、絶対勝た（　）ならぬ。 選択肢：1 なら / 2 ねば / 3 には / 4 ない",
+      "answer": "2",
+      "explanation": "文法点：ねば。该形式符合句子的接续和语义。"
+    },
+    {
+      "id": "Q372",
+      "part": "N2 Unit 11",
+      "type": "文法",
+      "prompt": "「のど、渇いたね、ジュースか（　）飲もうか。」 選択肢：1 なにか / 2 どうか / 3 ないか / 4 いなか",
+      "answer": "1",
+      "explanation": "文法点：なにか。该形式符合句子的接续和语义。"
+    },
+    {
+      "id": "Q373",
+      "part": "N2 Unit 11",
+      "type": "文字",
+      "prompt": "祖父は**競馬**が趣味でよく競馬場に連れていってもらった。 選択肢：1 きょううま / 2 きょうば / 3 けいうま / 4 けいば",
+      "answer": "4",
+      "explanation": "考点：競馬。读音是「けいば」。"
+    },
+    {
+      "id": "Q374",
+      "part": "N2 Unit 11",
+      "type": "文字",
+      "prompt": "日本の地域別人口**分布**について調べる。 選択肢：1 ぶんぶ / 2 ぶんふう / 3 ぶんぷ / 4 ぶんぷう",
+      "answer": "3",
+      "explanation": "考点：分布。读音是「ぶんぷ」。"
+    },
+    {
+      "id": "Q375",
+      "part": "N2 Unit 11",
+      "type": "語彙",
+      "prompt": "シェア拡大を図って、A社とB社は（　）を行った。 選択肢：1 合併 / 2 一致 / 3 合同 / 4 連合",
+      "answer": "1",
+      "explanation": "词汇点：合併。该词/表达最符合句意。"
+    },
+    {
+      "id": "Q376",
+      "part": "N2 Unit 11",
+      "type": "語彙",
+      "prompt": "この箱は高温に（　）材料で作られている。 選択肢：1 生ける / 2 退ける / 3 馴れる / 4 耐える",
+      "answer": "4",
+      "explanation": "词汇点：耐える。该词/表达最符合句意。"
+    },
+    {
+      "id": "Q377",
+      "part": "N2 Unit 11",
+      "type": "文法",
+      "prompt": "社会に出て（　）、学校で学ぶ基礎知識の大切さがわかった。 選択肢：1 ても / 2 はじめて / 3 まで / 4 からでないと",
+      "answer": "2",
+      "explanation": "文法点：はじめて。该形式符合句子的接续和语义。"
+    },
+    {
+      "id": "Q378",
+      "part": "N2 Unit 11",
+      "type": "文法",
+      "prompt": "佐藤さんとは共通の友だち（　）通じて知り合った。 選択肢：1 も / 2 に / 3 を / 4 が",
+      "answer": "3",
+      "explanation": "文法点：を。该形式符合句子的接续和语义。"
+    },
+    {
+      "id": "Q379",
+      "part": "N2 Unit 11",
+      "type": "文字",
+      "prompt": "隣の部屋で急に大きな**物音**がした。 選択肢：1 ものおと / 2 ものこえ / 3 ぶつおん / 4 ぶつこえ",
+      "answer": "1",
+      "explanation": "考点：物音。读音是「ものおと」。"
+    },
+    {
+      "id": "Q380",
+      "part": "N2 Unit 11",
+      "type": "文字",
+      "prompt": "彼女は飛行機の墜落事故に遭ったが、**奇跡**的に助かった。 選択肢：1 くせき / 2 くあと / 3 きせき / 4 きあと",
+      "answer": "3",
+      "explanation": "考点：奇跡。读音是「きせき」。"
+    },
+    {
+      "id": "Q381",
+      "part": "N2 Unit 11",
+      "type": "語彙",
+      "prompt": "もっと頑張って働いて、年収と生活（　）をあげたい。 選択肢：1 水平 / 2 水準 / 3 基準 / 4 標準",
+      "answer": "2",
+      "explanation": "词汇点：水準。该词/表达最符合句意。"
+    },
+    {
+      "id": "Q382",
+      "part": "N2 Unit 11",
+      "type": "語彙",
+      "prompt": "こんな（　）成績ではどこにも就職できないだろう。 選択肢：1 たまらない / 2 かなしい / 3 くだらない / 4 なさけない",
+      "answer": "4",
+      "explanation": "词汇点：なさけない。该词/表达最符合句意。"
+    },
+    {
+      "id": "Q383",
+      "part": "N2 Unit 11",
+      "type": "文法",
+      "prompt": "（　）にわたる陸上競技大会が今日で無事終了しました。 選択肢：1 ただ一日 / 2 一回きり / 3 7日間 / 4 遠距離",
+      "answer": "3",
+      "explanation": "文法点：7日間。该形式符合句子的接续和语义。"
+    },
+    {
+      "id": "Q384",
+      "part": "N2 Unit 11",
+      "type": "文法",
+      "prompt": "彼はまたお腹が痛い（　）で、学校を休んだ。 選択肢：1 とか / 2 って / 3 うえ / 4 のか",
+      "answer": "1",
+      "explanation": "文法点：とか。该形式符合句子的接续和语义。"
+    },
+    {
+      "id": "Q385",
+      "part": "N2 Unit 11",
+      "type": "文字",
+      "prompt": "観光客が増えて、この町は**繁盛**している。 選択肢：1 はんしょう / 2 はんじょう / 3 はんしょ / 4 はんじょ",
+      "answer": "2",
+      "explanation": "考点：繁盛。读音是「はんじょう」。"
+    },
+    {
+      "id": "Q386",
+      "part": "N2 Unit 11",
+      "type": "文字",
+      "prompt": "今住んでいるアパートは駅から**徒歩**10分のところにある。 選択肢：1 とうほ / 2 とっぽう / 3 とほ / 4 とほう",
+      "answer": "3",
+      "explanation": "考点：徒歩。读音是「とほ」。"
+    },
+    {
+      "id": "Q387",
+      "part": "N2 Unit 11",
+      "type": "語彙",
+      "prompt": "日々の努力が将来の成功に（　）。 選択肢：1 すすめる / 2 助かる / 3 強まる / 4 つながる",
+      "answer": "4",
+      "explanation": "词汇点：つながる。该词/表达最符合句意。"
+    },
+    {
+      "id": "Q388",
+      "part": "N2 Unit 11",
+      "type": "語彙",
+      "prompt": "来月まで予定が（　）詰まっていて、旅行に行く時間がない。 選択肢：1 どっさり / 2 ぎっしり / 3 のんびり / 4 くっきり",
+      "answer": "2",
+      "explanation": "词汇点：ぎっしり。该词/表达最符合句意。"
+    },
+    {
+      "id": "Q389",
+      "part": "N2 Unit 11",
+      "type": "文法",
+      "prompt": "お手洗いはただいま清掃中（　）、ご利用になれません。 選択肢：1 につき / 2 のすえに / 3 につけ / 4 のもので",
+      "answer": "1",
+      "explanation": "文法点：につき。该形式符合句子的接续和语义。"
+    },
+    {
+      "id": "Q390",
+      "part": "N2 Unit 11",
+      "type": "文法",
+      "prompt": "今度こそ司法試験に合格して（　）。 選択肢：1 みる / 2 くる / 3 みせる / 4 ある",
+      "answer": "3",
+      "explanation": "文法点：みせる。该形式符合句子的接续和语义。"
+    },
+    {
+      "id": "Q391",
+      "part": "N2 Unit 11",
+      "type": "文字",
+      "prompt": "警察は汚職事件の確かな**証拠**をつかんだ。 選択肢：1 しょうこ / 2 しょうこう / 3 せいきょ / 4 こんきょ",
+      "answer": "1",
+      "explanation": "考点：証拠。读音是「しょうこ」。"
+    },
+    {
+      "id": "Q392",
+      "part": "N2 Unit 11",
+      "type": "文字",
+      "prompt": "アメリカの駐日**大使**が記者会見を開いた。 選択肢：1 だいし / 2 だいじ / 3 たいじ / 4 たいし",
+      "answer": "4",
+      "explanation": "考点：大使。读音是「たいし」。"
+    },
+    {
+      "id": "Q393",
+      "part": "N2 Unit 11",
+      "type": "語彙",
+      "prompt": "決勝戦を前に、チームの（　）を強めよう。 選択肢：1 結構 / 2 結成 / 3 結合 / 4 結束",
+      "answer": "4",
+      "explanation": "词汇点：結束。该词/表达最符合句意。"
+    },
+    {
+      "id": "Q394",
+      "part": "N2 Unit 11",
+      "type": "語彙",
+      "prompt": "この本には交渉を有利に（　）ポイントが書いてある。 選択肢：1 もたらす / 2 引き起こす / 3 みちびく / 4 満たす",
+      "answer": "3",
+      "explanation": "词汇点：みちびく。该词/表达最符合句意。"
+    },
+    {
+      "id": "Q395",
+      "part": "N2 Unit 11",
+      "type": "文法",
+      "prompt": "うちの子は（　）、何をやっても長続きしない。 選択肢：1 飽きがちで / 2 飽きっぽくて / 3 飽きぎみで / 4 飽きるらしくて",
+      "answer": "2",
+      "explanation": "文法点：飽きっぽくて。该形式符合句子的接续和语义。"
+    },
+    {
+      "id": "Q396",
+      "part": "N2 Unit 11",
+      "type": "文法",
+      "prompt": "「鈴木様、お待ちして（　）。こちらへどうぞ。」 選択肢：1 おりました / 2 まいりました / 3 あがりました / 4 くださいました",
+      "answer": "1",
+      "explanation": "文法点：おりました。该形式符合句子的接续和语义。"
+    }
+  ]
+}

@@ -1,0 +1,353 @@
+{
+  "schemaVersion": 1,
+  "unit": {
+    "id": "red-blue-n3-1000-practice-unit-05",
+    "title": "红蓝宝书1000题 - Unit 5",
+    "type": "practice_unit",
+    "status": "manual-reviewed-draft",
+    "tags": [
+      "jlpt",
+      "n3",
+      "practice",
+      "vocabulary",
+      "grammar",
+      "red-blue-1000",
+      "manual-entry"
+    ],
+    "sourceId": "source-red-blue-n3-1000-practice",
+    "sourcePages": [
+      56,
+      67
+    ],
+    "created": "2026-05-26",
+    "updated": "2026-05-26",
+    "scope": {
+      "Question range": "Q145-Q180",
+      "Source pages": "PDF pages 56-67",
+      "Page-image cache": "`.cache/ocr/red-blue-n3-1000-practice/`"
+    },
+    "contentPath": "content/items/red-blue-n3-1000-practice/unit-05.md"
+  },
+  "vocabulary": [],
+  "reviewCards": [],
+  "sourceTestPages": [
+    {
+      "kind": "questions",
+      "title": "原书练习题",
+      "bookPages": "49-59",
+      "pdfPages": "56-66",
+      "images": [
+        ".cache/ocr/red-blue-n3-1000-practice/images/page_056.jpg",
+        ".cache/ocr/red-blue-n3-1000-practice/images/page_058.jpg",
+        ".cache/ocr/red-blue-n3-1000-practice/images/page_060.jpg",
+        ".cache/ocr/red-blue-n3-1000-practice/images/page_062.jpg",
+        ".cache/ocr/red-blue-n3-1000-practice/images/page_064.jpg",
+        ".cache/ocr/red-blue-n3-1000-practice/images/page_066.jpg"
+      ]
+    },
+    {
+      "kind": "answers",
+      "title": "原书答案解析",
+      "bookPages": "50-60",
+      "pdfPages": "57-67",
+      "images": [
+        ".cache/ocr/red-blue-n3-1000-practice/images/page_057.jpg",
+        ".cache/ocr/red-blue-n3-1000-practice/images/page_059.jpg",
+        ".cache/ocr/red-blue-n3-1000-practice/images/page_061.jpg",
+        ".cache/ocr/red-blue-n3-1000-practice/images/page_063.jpg",
+        ".cache/ocr/red-blue-n3-1000-practice/images/page_065.jpg",
+        ".cache/ocr/red-blue-n3-1000-practice/images/page_067.jpg"
+      ]
+    }
+  ],
+  "sourceTextTests": [
+    {
+      "id": "Q145",
+      "part": "Unit 5",
+      "type": "文字",
+      "prompt": "せっかくのチャンスを**失って**しまった。 選択肢：1 あらそって / 2 うしなって / 3 まちがって / 4 あつかって",
+      "answer": "2",
+      "explanation": "考点：失って。读音是「うしなって」。"
+    },
+    {
+      "id": "Q146",
+      "part": "Unit 5",
+      "type": "文字",
+      "prompt": "福袋を求めて長い**行列**ができている。 選択肢：1 こうれつ / 2 こうれき / 3 ぎょうれつ / 4 ぎょうれき",
+      "answer": "3",
+      "explanation": "考点：行列。读音是「ぎょうれつ」。词条读音：ぎょうれつ；含义：行列。"
+    },
+    {
+      "id": "Q147",
+      "part": "Unit 5",
+      "type": "語彙",
+      "prompt": "いろいろ頑張ったが、（　）だめだった。 選択肢：1 最後 / 2 結局 / 3 最終 / 4 結果",
+      "answer": "2",
+      "explanation": "词汇点：結局（けっきょく）：结局。"
+    },
+    {
+      "id": "Q148",
+      "part": "Unit 5",
+      "type": "語彙",
+      "prompt": "お口に（　）かどうかわかりませんが、どうぞ召し上がってください。 選択肢：1 あう / 2 きる / 3 いる / 4 はる",
+      "answer": "1",
+      "explanation": "词汇点：あう。该词/表达最符合句意。"
+    },
+    {
+      "id": "Q149",
+      "part": "Unit 5",
+      "type": "文法",
+      "prompt": "この雨はしばらく止み（　）ですね。 選択肢：1 そうがない / 2 そうではない / 3 そうにない / 4 そうになかった",
+      "answer": "3",
+      "explanation": "文法点：～そうにない/そうもない/そうではない。看起来不会……；不像会……。"
+    },
+    {
+      "id": "Q150",
+      "part": "Unit 5",
+      "type": "文法",
+      "prompt": "こんな大きなミスを犯してしまったなんて、謝って（　）。 選択肢：1 済むことではない / 2 済まないことではない / 3 済むことだ / 4 済んだことだ",
+      "answer": "1",
+      "explanation": "文法点：～て済むことではない。表示“不是……就能解决的”。"
+    },
+    {
+      "id": "Q151",
+      "part": "Unit 5",
+      "type": "文字",
+      "prompt": "**汚い**手で触らないで。 選択肢：1 きたない / 2 くどい / 3 みにくい / 4 のろい",
+      "answer": "1",
+      "explanation": "考点：汚い。读音是「きたない」。"
+    },
+    {
+      "id": "Q152",
+      "part": "Unit 5",
+      "type": "文字",
+      "prompt": "どうなるかわかりませんが、**一応**行ってみましょう。 選択肢：1 いちお / 2 いちおう / 3 いちの / 4 いちのう",
+      "answer": "2",
+      "explanation": "考点：一応。读音是「いちおう」。词条读音：いちおう；含义：大致。"
+    },
+    {
+      "id": "Q153",
+      "part": "Unit 5",
+      "type": "語彙",
+      "prompt": "コーヒーとサンドイッチのセットを（　）。 選択肢：1 あまりました / 2 すすりました / 3 たのみました / 4 はかりました",
+      "answer": "3",
+      "explanation": "词汇点：たのみました。该词/表达最符合句意。"
+    },
+    {
+      "id": "Q154",
+      "part": "Unit 5",
+      "type": "語彙",
+      "prompt": "（電話で）「（　）ですが、母は出かけておりません。」 選択肢：1 さっそく / 2 せっかく / 3 なるべく / 4 あいにく",
+      "answer": "4",
+      "explanation": "词汇点：あいにく（あいにく）：不凑巧。"
+    },
+    {
+      "id": "Q155",
+      "part": "Unit 5",
+      "type": "文法",
+      "prompt": "この本は読む（　）読んだが、まだ理解できていないところが多い。 選択肢：1 には / 2 ように / 3 のに / 4 ために",
+      "answer": "1",
+      "explanation": "文法点：VるにはVたが。表示“做是做了，但是……”。"
+    },
+    {
+      "id": "Q156",
+      "part": "Unit 5",
+      "type": "文法",
+      "prompt": "早くしないとまた学校に遅刻する（　）。 選択肢：1 か / 2 の / 3 ぞ / 4 な",
+      "answer": "3",
+      "explanation": "文法点：～ぞ。……啊；……哦。"
+    },
+    {
+      "id": "Q157",
+      "part": "Unit 5",
+      "type": "文字",
+      "prompt": "図書館で**大声**で話してはいけません。 選択肢：1 おおこえ / 2 おおごえ / 3 だいこえ / 4 だいごえ",
+      "answer": "2",
+      "explanation": "考点：大声。读音是「おおごえ」。"
+    },
+    {
+      "id": "Q158",
+      "part": "Unit 5",
+      "type": "文字",
+      "prompt": "**化粧**を落としてから寝ます。 選択肢：1 かしょ / 2 かしょう / 3 けしょ / 4 けしょう",
+      "answer": "4",
+      "explanation": "考点：化粧。读音是「けしょう」。词条读音：けしょう；含义：化妆。"
+    },
+    {
+      "id": "Q159",
+      "part": "Unit 5",
+      "type": "語彙",
+      "prompt": "学生を3つの（　）に分けて、ゲームをやります。 選択肢：1 カタログ / 2 ハンカチ / 3 グループ / 4 ハンサム",
+      "answer": "3",
+      "explanation": "词汇点：グループ（グループ）：群。"
+    },
+    {
+      "id": "Q160",
+      "part": "Unit 5",
+      "type": "語彙",
+      "prompt": "犬は人間より嗅覚が何倍も（　）。 選択肢：1 するどい / 2 黒っぽい / 3 しつこい / 4 騒々しい",
+      "answer": "1",
+      "explanation": "词汇点：するどい。该词/表达最符合句意。"
+    },
+    {
+      "id": "Q161",
+      "part": "Unit 5",
+      "type": "文法",
+      "prompt": "彼はアメリカへ行った（　）、何の連絡もない。 選択肢：1 すら / 2 より / 3 から / 4 きり",
+      "answer": "4",
+      "explanation": "文法点：～きり。表示“自从……之后就一直没有变化/没有后续”。"
+    },
+    {
+      "id": "Q162",
+      "part": "Unit 5",
+      "type": "文法",
+      "prompt": "ハトはオリーブとともに平和の象徴と（　）。 選択肢：1 しています / 2 させています / 3 されています / 4 させられています",
+      "answer": "3",
+      "explanation": "文法点：～とされている。表示“一般被认为……”。"
+    },
+    {
+      "id": "Q163",
+      "part": "Unit 5",
+      "type": "文字",
+      "prompt": "鈴木さんは今**席**を外しております。 選択肢：1 せき / 2 きり / 3 あせ / 4 おに",
+      "answer": "1",
+      "explanation": "考点：席。读音是「せき」。词条读音：せき；含义：座位。"
+    },
+    {
+      "id": "Q164",
+      "part": "Unit 5",
+      "type": "文字",
+      "prompt": "このバッグは**本物**とそっくりだ。 選択肢：1 ほんぶつ / 2 ほんもの / 3 ぼんぶつ / 4 ぼんもの",
+      "answer": "2",
+      "explanation": "考点：本物。读音是「ほんもの」。词条读音：ほんもの；含义：真东西；真货；真品。"
+    },
+    {
+      "id": "Q165",
+      "part": "Unit 5",
+      "type": "語彙",
+      "prompt": "近年、子どもたちの基礎学力が低下（　）にある。 選択肢：1 統計 / 2 印象 / 3 特色 / 4 傾向",
+      "answer": "4",
+      "explanation": "词汇点：傾向（けいこう）：倾向。"
+    },
+    {
+      "id": "Q166",
+      "part": "Unit 5",
+      "type": "語彙",
+      "prompt": "買ってきた花を花瓶に（　）。 選択肢：1 たてる / 2 もてる / 3 いける / 4 はいる",
+      "answer": "3",
+      "explanation": "词汇点：いける。该词/表达最符合句意。"
+    },
+    {
+      "id": "Q167",
+      "part": "Unit 5",
+      "type": "文法",
+      "prompt": "最近ちょっと（　）気味ですから、明日は家でゆっくり休みたいです。 選択肢：1 疲れ / 2 疲れていた / 3 疲れた / 4 疲れよう",
+      "answer": "1",
+      "explanation": "文法点：名詞/動詞ます形＋気味。表示“有点……倾向”。"
+    },
+    {
+      "id": "Q168",
+      "part": "Unit 5",
+      "type": "文法",
+      "prompt": "まさか彼がこんな忙しい時に（　）思わなかった。 選択肢：1 来たら / 2 来るとは / 3 来ては / 4 来るなら",
+      "answer": "2",
+      "explanation": "文法点：～とは思わなかった。表示“没想到竟然……”。"
+    },
+    {
+      "id": "Q169",
+      "part": "Unit 5",
+      "type": "文字",
+      "prompt": "**浴衣**を着て花火を見に行きます。 選択肢：1 よくい / 2 よかた / 3 ゆくい / 4 ゆかた",
+      "answer": "4",
+      "explanation": "考点：浴衣。读音是「ゆかた」。词条读音：ゆかた；含义：夏季穿的单衣，浴衣。"
+    },
+    {
+      "id": "Q170",
+      "part": "Unit 5",
+      "type": "文字",
+      "prompt": "飲酒運転の危険性を**強調**する。 選択肢：1 きょうちょ / 2 きょうちょう / 3 ごうちょ / 4 こうちょう",
+      "answer": "2",
+      "explanation": "考点：強調。读音是「きょうちょう」。词条读音：きょうちょう；含义：强调。"
+    },
+    {
+      "id": "Q171",
+      "part": "Unit 5",
+      "type": "語彙",
+      "prompt": "田中くんは自分の作品をみんなに（　）した。 選択肢：1 想像 / 2 精算 / 3 自慢 / 4 敏感",
+      "answer": "3",
+      "explanation": "词汇点：自慢（じまん）：自夸。"
+    },
+    {
+      "id": "Q172",
+      "part": "Unit 5",
+      "type": "語彙",
+      "prompt": "彼はピアノの国際（　）で優勝しました。 選択肢：1 スケジュール / 2 コンクール / 3 パンフレット / 4 リサイクル",
+      "answer": "2",
+      "explanation": "词汇点：コンクール（コンクール）：竞赛会。"
+    },
+    {
+      "id": "Q173",
+      "part": "Unit 5",
+      "type": "文法",
+      "prompt": "友だちの結婚祝い（　）何がいいかな。 選択肢：1 の / 2 に / 3 で / 4 を",
+      "answer": "2",
+      "explanation": "文法点：名詞＋に。这里表示用途或目的，“作为……”。"
+    },
+    {
+      "id": "Q174",
+      "part": "Unit 5",
+      "type": "文法",
+      "prompt": "レポートの締め切りは来週の月曜日です。つまり、今週中に提出したほうがいい（　）。 選択肢：1 というのです / 2 というものです / 3 というだけです / 4 というわけです",
+      "answer": "4",
+      "explanation": "文法点：～というわけだ。表示“也就是说……/因此……”。"
+    },
+    {
+      "id": "Q175",
+      "part": "Unit 5",
+      "type": "文字",
+      "prompt": "このワンピースはちょっと**地味**です。 選択肢：1 じみ / 2 じあじ / 3 ちみ / 4 ちあじ",
+      "answer": "1",
+      "explanation": "考点：地味。读音是「じみ」。词条读音：じみ；含义：素净。"
+    },
+    {
+      "id": "Q176",
+      "part": "Unit 5",
+      "type": "文字",
+      "prompt": "忘年会に参加する**人数**を調べる。 選択肢：1 じんすう / 2 じんずう / 3 にんすう / 4 にんずう",
+      "answer": "4",
+      "explanation": "考点：人数。读音是「にんずう」。词条读音：にんずう；含义：人数；人数众多。"
+    },
+    {
+      "id": "Q177",
+      "part": "Unit 5",
+      "type": "語彙",
+      "prompt": "子どもたちは皆（　）座って、先生の話を聞いています。 選択肢：1 ものすごく / 2 おとなしく / 3 さわがしく / 4 ばからしく",
+      "answer": "2",
+      "explanation": "词汇点：おとなしく。该词/表达最符合句意。"
+    },
+    {
+      "id": "Q178",
+      "part": "Unit 5",
+      "type": "語彙",
+      "prompt": "外出中に携帯電話の電池が（　）。 選択肢：1 切れてしまった / 2 終わってしまった / 3 断ってしまった / 4 消えてしまった",
+      "answer": "1",
+      "explanation": "词汇点：切れてしまった。该词/表达最符合句意。"
+    },
+    {
+      "id": "Q179",
+      "part": "Unit 5",
+      "type": "文法",
+      "prompt": "経済の成長につれて、人々の生活も豊かに（　）。 選択肢：1 なってきました / 2 なっていきました / 3 してきました / 4 していきました",
+      "answer": "1",
+      "explanation": "文法点：～てくる。表示变化从过去持续到现在。"
+    },
+    {
+      "id": "Q180",
+      "part": "Unit 5",
+      "type": "文法",
+      "prompt": "この問題について、皆さんのお知恵を（　）のですが。 選択肢：1 お目にかけたい / 2 拝借したい / 3 承りたい / 4 拝読したい",
+      "answer": "2",
+      "explanation": "文法点：拝借する。「借りる」的自谦语。"
+    }
+  ]
+}

@@ -1,0 +1,353 @@
+{
+  "schemaVersion": 1,
+  "unit": {
+    "id": "red-blue-n3-1000-practice-unit-13",
+    "title": "红蓝宝书1000题 - Unit 13",
+    "type": "practice_unit",
+    "status": "manual-reviewed-draft",
+    "tags": [
+      "jlpt",
+      "n3",
+      "practice",
+      "vocabulary",
+      "grammar",
+      "red-blue-1000",
+      "manual-entry"
+    ],
+    "sourceId": "source-red-blue-n3-1000-practice",
+    "sourcePages": [
+      152,
+      163
+    ],
+    "created": "2026-05-26",
+    "updated": "2026-05-26",
+    "scope": {
+      "Question range": "Q433-Q468",
+      "Source pages": "PDF pages 152-163",
+      "Page-image cache": "`.cache/ocr/red-blue-n3-1000-practice/`"
+    },
+    "contentPath": "content/items/red-blue-n3-1000-practice/unit-13.md"
+  },
+  "vocabulary": [],
+  "reviewCards": [],
+  "sourceTestPages": [
+    {
+      "kind": "questions",
+      "title": "原书练习题",
+      "bookPages": "145-155",
+      "pdfPages": "152-162",
+      "images": [
+        ".cache/ocr/red-blue-n3-1000-practice/images/page_152.jpg",
+        ".cache/ocr/red-blue-n3-1000-practice/images/page_154.jpg",
+        ".cache/ocr/red-blue-n3-1000-practice/images/page_156.jpg",
+        ".cache/ocr/red-blue-n3-1000-practice/images/page_158.jpg",
+        ".cache/ocr/red-blue-n3-1000-practice/images/page_160.jpg",
+        ".cache/ocr/red-blue-n3-1000-practice/images/page_162.jpg"
+      ]
+    },
+    {
+      "kind": "answers",
+      "title": "原书答案解析",
+      "bookPages": "146-156",
+      "pdfPages": "153-163",
+      "images": [
+        ".cache/ocr/red-blue-n3-1000-practice/images/page_153.jpg",
+        ".cache/ocr/red-blue-n3-1000-practice/images/page_155.jpg",
+        ".cache/ocr/red-blue-n3-1000-practice/images/page_157.jpg",
+        ".cache/ocr/red-blue-n3-1000-practice/images/page_159.jpg",
+        ".cache/ocr/red-blue-n3-1000-practice/images/page_161.jpg",
+        ".cache/ocr/red-blue-n3-1000-practice/images/page_163.jpg"
+      ]
+    }
+  ],
+  "sourceTextTests": [
+    {
+      "id": "Q433",
+      "part": "Unit 13",
+      "type": "文字",
+      "prompt": "まだ時間があるので、**慌てる**必要はありません。 選択肢：1 たてる / 2 もてる / 3 あわてる / 4 そだてる",
+      "answer": "3",
+      "explanation": "詞彙點：慌てる（あわてる）。表示「慌张、着急」。"
+    },
+    {
+      "id": "Q434",
+      "part": "Unit 13",
+      "type": "文字",
+      "prompt": "**本棚**に絵本がたくさんあります。 選択肢：1 ほんたな / 2 ほんだな / 3 もとたな / 4 もとだな",
+      "answer": "2",
+      "explanation": "詞彙點：本棚（ほんだな）。表示「书架」。"
+    },
+    {
+      "id": "Q435",
+      "part": "Unit 13",
+      "type": "語彙",
+      "prompt": "最近、仕事が増えてきて（　）が足りない。 選択肢：1 人口 / 2 人物 / 3 人工 / 4 人手",
+      "answer": "4",
+      "explanation": "詞彙點：人手（ひとで）。表示「人手、劳动力」。"
+    },
+    {
+      "id": "Q436",
+      "part": "Unit 13",
+      "type": "語彙",
+      "prompt": "わたしは『風立ちぬ』というアニメに心を（　）。 選択肢：1 動かされた / 2 くまれた / 3 感じられた / 4 とられた",
+      "answer": "1",
+      "explanation": "詞彙點：心を動かされる。表示「被打动、受感动」。"
+    },
+    {
+      "id": "Q437",
+      "part": "Unit 13",
+      "type": "文法",
+      "prompt": "残念（　）、今日の試合は負けてしまった。 選択肢：1 なので / 2 ながら / 3 みたい / 4 よりも",
+      "answer": "2",
+      "explanation": "語法點：残念ながら。表示「很遗憾……」。"
+    },
+    {
+      "id": "Q438",
+      "part": "Unit 13",
+      "type": "文法",
+      "prompt": "（　）初恋だったから、そう簡単には忘れられない。 選択肢：1 なにしろ / 2 なんだろう / 3 なにより / 4 なんでも",
+      "answer": "1",
+      "explanation": "語法點：なにしろ～から。表示「毕竟因为……」。"
+    },
+    {
+      "id": "Q439",
+      "part": "Unit 13",
+      "type": "文字",
+      "prompt": "一点差で相手に負けて**悔しい**。 選択肢：1 くやしい / 2 おしい / 3 すずしい / 4 むずかしい",
+      "answer": "1",
+      "explanation": "詞彙點：悔しい（くやしい）。表示「懊悔、不甘心」。"
+    },
+    {
+      "id": "Q440",
+      "part": "Unit 13",
+      "type": "文字",
+      "prompt": "ここ20年、**医療**技術は大きく進歩した。 選択肢：1 いりゅ / 2 いりょ / 3 いりゅう / 4 いりょう",
+      "answer": "4",
+      "explanation": "詞彙點：医療（いりょう）。表示「医疗」。"
+    },
+    {
+      "id": "Q441",
+      "part": "Unit 13",
+      "type": "語彙",
+      "prompt": "給料が安いので、海外旅行に行く（　）がない。 選択肢：1 余所 / 2 残業 / 3 余裕 / 4 残念",
+      "answer": "3",
+      "explanation": "詞彙點：余裕（よゆう）。表示「富余、余力」。"
+    },
+    {
+      "id": "Q442",
+      "part": "Unit 13",
+      "type": "語彙",
+      "prompt": "今回のことは（　）調査を行う必要がある。 選択肢：1 たぶん / 2 さらに / 3 なんで / 4 おもに",
+      "answer": "2",
+      "explanation": "詞彙點：さらに。表示「进一步、更加」。"
+    },
+    {
+      "id": "Q443",
+      "part": "Unit 13",
+      "type": "文法",
+      "prompt": "妹は明るくて活発なの（　）、姉は内向的な性格です。 選択肢：1 に対して / 2 とすれば / 3 において / 4 とともに",
+      "answer": "1",
+      "explanation": "語法點：～に対して。表示对比「与……相对」。"
+    },
+    {
+      "id": "Q444",
+      "part": "Unit 13",
+      "type": "文法",
+      "prompt": "「ねえ、あなた、ちょっと部屋の掃除を（　）ちょうだい。」 選択肢：1 手伝い / 2 手伝おう / 3 手伝う / 4 手伝って",
+      "answer": "4",
+      "explanation": "語法點：動詞て形＋ちょうだい。表示亲近语气的请求。"
+    },
+    {
+      "id": "Q445",
+      "part": "Unit 13",
+      "type": "文字",
+      "prompt": "秋葉原まで**片道**600円です。 選択肢：1 へんどう / 2 かたどう / 3 へんみち / 4 かたみち",
+      "answer": "4",
+      "explanation": "詞彙點：片道（かたみち）。表示「单程」。"
+    },
+    {
+      "id": "Q446",
+      "part": "Unit 13",
+      "type": "文字",
+      "prompt": "最後の段落で**筆者**の思いが表れている。 選択肢：1 ひしゃ / 2 ひっしゃ / 3 ひじゃ / 4 ひつじゃ",
+      "answer": "2",
+      "explanation": "詞彙點：筆者（ひっしゃ）。表示「作者、笔者」。"
+    },
+    {
+      "id": "Q447",
+      "part": "Unit 13",
+      "type": "語彙",
+      "prompt": "風鈴が風に（　）きれいな音を出す。 選択肢：1 ぬけて / 2 のべて / 3 ゆれて / 4 はねて",
+      "answer": "3",
+      "explanation": "詞彙點：揺れる（ゆれる）。表示「摇动、摇摆」。"
+    },
+    {
+      "id": "Q448",
+      "part": "Unit 13",
+      "type": "語彙",
+      "prompt": "杉下さんは（　）を弾くことができます。 選択肢：1 バイオリン / 2 ダイビング / 3 モノレール / 4 グローバル",
+      "answer": "1",
+      "explanation": "詞彙點：バイオリン。表示「小提琴」。"
+    },
+    {
+      "id": "Q449",
+      "part": "Unit 13",
+      "type": "文法",
+      "prompt": "就職したばかりのわたし（　）とって、マイホームなんて夢の夢です。 選択肢：1 に / 2 を / 3 で / 4 が",
+      "answer": "1",
+      "explanation": "語法點：～にとって。表示「对……来说」。"
+    },
+    {
+      "id": "Q450",
+      "part": "Unit 13",
+      "type": "文法",
+      "prompt": "今日は日曜日ですから、先生は学校に（　）はずです。 選択肢：1 いる / 2 いない / 3 いた / 4 いなかった",
+      "answer": "2",
+      "explanation": "語法點：～はずだ。表示基于常识或情况的推测。"
+    },
+    {
+      "id": "Q451",
+      "part": "Unit 13",
+      "type": "文字",
+      "prompt": "お皿をテーブルに**重ねて**おく。 選択肢：1 はねて / 2 たずねて / 3 ひねて / 4 かさねて",
+      "answer": "4",
+      "explanation": "詞彙點：重ねる（かさねる）。表示「叠放、重叠」。"
+    },
+    {
+      "id": "Q452",
+      "part": "Unit 13",
+      "type": "文字",
+      "prompt": "コンビニで浴室用の**洗剤**を買ってきた。 選択肢：1 せんさい / 2 せんざい / 3 ぜんさい / 4 ぜんざい",
+      "answer": "2",
+      "explanation": "詞彙點：洗剤（せんざい）。表示「洗涤剂」。"
+    },
+    {
+      "id": "Q453",
+      "part": "Unit 13",
+      "type": "語彙",
+      "prompt": "妹が名門大学に合格して、わたしも（　）が高いです。 選択肢：1 鼻 / 2 額 / 3 目 / 4 耳",
+      "answer": "1",
+      "explanation": "詞彙點：鼻が高い。表示「骄傲、自豪」。"
+    },
+    {
+      "id": "Q454",
+      "part": "Unit 13",
+      "type": "語彙",
+      "prompt": "毎晩、母は台所をきちんと（　）から寝ます。 選択肢：1 でむかえて / 2 取り替えて / 3 かたづけて / 4 組み立てて",
+      "answer": "3",
+      "explanation": "詞彙點：片付ける（かたづける）。表示「收拾、整理」。"
+    },
+    {
+      "id": "Q455",
+      "part": "Unit 13",
+      "type": "文法",
+      "prompt": "健康のために、1日3食をきちんと食べる（　）しています。 選択肢：1 ように / 2 ようで / 3 ようと / 4 ようを",
+      "answer": "1",
+      "explanation": "語法點：動詞辞書形＋ようにする。表示「设法做到……」。"
+    },
+    {
+      "id": "Q456",
+      "part": "Unit 13",
+      "type": "文法",
+      "prompt": "四国地方は7日夜から8日朝（　）大雨となる見込みです。 選択肢：1 にかける / 2 までに / 3 にかけて / 4 までの",
+      "answer": "3",
+      "explanation": "語法點：〜から〜にかけて。表示「从……到……一带/期间」。"
+    },
+    {
+      "id": "Q457",
+      "part": "Unit 13",
+      "type": "文字",
+      "prompt": "グラスの中の無色の**液体**は振ると青色に変わる。 選択肢：1 けつたい / 2 けったい / 3 えきたい / 4 えきだい",
+      "answer": "3",
+      "explanation": "詞彙點：液体（えきたい）。表示「液体」。"
+    },
+    {
+      "id": "Q458",
+      "part": "Unit 13",
+      "type": "文字",
+      "prompt": "一年の計は**元旦**にあり。 選択肢：1 かんたん / 2 がんたん / 3 かんだん / 4 がんだん",
+      "answer": "2",
+      "explanation": "詞彙點：元旦（がんたん）。表示「元旦」。"
+    },
+    {
+      "id": "Q459",
+      "part": "Unit 13",
+      "type": "語彙",
+      "prompt": "届いた手紙の（　）は1月5日だった。 選択肢：1 日付 / 2 日にち / 3 日記 / 4 日時",
+      "answer": "1",
+      "explanation": "詞彙點：日付（ひづけ）。表示「日期」。"
+    },
+    {
+      "id": "Q460",
+      "part": "Unit 13",
+      "type": "語彙",
+      "prompt": "近年、健康（　）で自然食品がよく売れます。 選択肢：1 カーブ / 2 マーク / 3 パワー / 4 ブーム",
+      "answer": "4",
+      "explanation": "詞彙點：ブーム。表示「热潮、流行」。"
+    },
+    {
+      "id": "Q461",
+      "part": "Unit 13",
+      "type": "文法",
+      "prompt": "辞書を（　）結果、自分が読み方を間違えて覚えていたことがわかった。 選択肢：1 調べる / 2 調べた / 3 調べよう / 4 調べていた",
+      "answer": "2",
+      "explanation": "語法點：動詞た形＋結果。表示「由于……，结果……」。"
+    },
+    {
+      "id": "Q462",
+      "part": "Unit 13",
+      "type": "文法",
+      "prompt": "子どもの頃、よくこの川で（　）ものだ。 選択肢：1 泳ぐ / 2 泳いだ / 3 泳いでいる / 4 泳いでいた",
+      "answer": "2",
+      "explanation": "語法點：動詞た形＋ものだ。表示回忆过去常做的事。"
+    },
+    {
+      "id": "Q463",
+      "part": "Unit 13",
+      "type": "文字",
+      "prompt": "**必死**に勉強してやっと資格をとった。 選択肢：1 ひっし / 2 ひつじ / 3 びっし / 4 びつじ",
+      "answer": "1",
+      "explanation": "詞彙點：必死（ひっし）。表示「拼命、竭尽全力」。"
+    },
+    {
+      "id": "Q464",
+      "part": "Unit 13",
+      "type": "文字",
+      "prompt": "お祭りには**大勢**の人々が集まる。 選択肢：1 だいせい / 2 だいぜい / 3 おおせい / 4 おおぜい",
+      "answer": "4",
+      "explanation": "詞彙點：大勢（おおぜい）。表示「很多人」。"
+    },
+    {
+      "id": "Q465",
+      "part": "Unit 13",
+      "type": "語彙",
+      "prompt": "弟は部屋を（　）まま出かけた。 選択肢：1 おいこした / 2 ちらかした / 3 みなおした / 4 ひきだした",
+      "answer": "2",
+      "explanation": "詞彙點：散らかす（ちらかす）。表示「弄乱」。"
+    },
+    {
+      "id": "Q466",
+      "part": "Unit 13",
+      "type": "語彙",
+      "prompt": "それは根も葉もない（　）ですよ。 選択肢：1 たのみ / 2 ながれ / 3 うわさ / 4 なやみ",
+      "answer": "3",
+      "explanation": "詞彙點：根も葉もないうわさ。表示「毫无根据的传言」。"
+    },
+    {
+      "id": "Q467",
+      "part": "Unit 13",
+      "type": "文法",
+      "prompt": "面接に遅刻（　）ように、目覚まし時計を3つセットしました。 選択肢：1 しない / 2 しなかった / 3 させない / 4 させなかった",
+      "answer": "1",
+      "explanation": "語法點：動詞ない形＋ように。表示「为了不……」。"
+    },
+    {
+      "id": "Q468",
+      "part": "Unit 13",
+      "type": "文法",
+      "prompt": "どうか皆様のご理解をいただきたいと（　）。 選択肢：1 おっしゃいます / 2 いらっしゃいます / 3 存じます / 4 存じております",
+      "answer": "3",
+      "explanation": "語法點：存じます。「思う」的自谦语。"
+    }
+  ]
+}

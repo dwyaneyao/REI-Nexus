@@ -1,0 +1,353 @@
+{
+  "schemaVersion": 1,
+  "unit": {
+    "id": "red-blue-n2-1000-practice-unit-08",
+    "title": "红蓝宝书1000题 - N2 Unit 8",
+    "type": "practice_unit",
+    "status": "manual-reviewed-draft",
+    "tags": [
+      "jlpt",
+      "n2",
+      "practice",
+      "vocabulary",
+      "grammar",
+      "red-blue-1000",
+      "manual-entry"
+    ],
+    "sourceId": "source-red-blue-n2-1000-practice",
+    "sourcePages": [
+      91,
+      102
+    ],
+    "created": "2026-05-27",
+    "updated": "2026-05-27",
+    "scope": {
+      "Question range": "Q253-Q288",
+      "Source pages": "PDF pages 91-102",
+      "Page-image cache": "`.cache/ocr/red-blue-n2-1000-practice/`"
+    },
+    "contentPath": "content/items/red-blue-n2-1000-practice/unit-08.md"
+  },
+  "vocabulary": [],
+  "reviewCards": [],
+  "sourceTestPages": [
+    {
+      "kind": "questions",
+      "title": "练习题",
+      "bookPages": "85-95",
+      "pdfPages": "91-101",
+      "images": [
+        ".cache/ocr/red-blue-n2-1000-practice/images/page_091.jpg",
+        ".cache/ocr/red-blue-n2-1000-practice/images/page_093.jpg",
+        ".cache/ocr/red-blue-n2-1000-practice/images/page_095.jpg",
+        ".cache/ocr/red-blue-n2-1000-practice/images/page_097.jpg",
+        ".cache/ocr/red-blue-n2-1000-practice/images/page_099.jpg",
+        ".cache/ocr/red-blue-n2-1000-practice/images/page_101.jpg"
+      ]
+    },
+    {
+      "kind": "answers",
+      "title": "答案解析",
+      "bookPages": "86-96",
+      "pdfPages": "92-102",
+      "images": [
+        ".cache/ocr/red-blue-n2-1000-practice/images/page_092.jpg",
+        ".cache/ocr/red-blue-n2-1000-practice/images/page_094.jpg",
+        ".cache/ocr/red-blue-n2-1000-practice/images/page_096.jpg",
+        ".cache/ocr/red-blue-n2-1000-practice/images/page_098.jpg",
+        ".cache/ocr/red-blue-n2-1000-practice/images/page_100.jpg",
+        ".cache/ocr/red-blue-n2-1000-practice/images/page_102.jpg"
+      ]
+    }
+  ],
+  "sourceTextTests": [
+    {
+      "id": "Q253",
+      "part": "N2 Unit 8",
+      "type": "文字",
+      "prompt": "彼女の無神経さには**呆れ**てしまう。 選択肢：1 あきれて / 2 あばれて / 3 くずれて / 4 やぶれて",
+      "answer": "1",
+      "explanation": "考点：呆れ。读音是「あきれて」。"
+    },
+    {
+      "id": "Q254",
+      "part": "N2 Unit 8",
+      "type": "文字",
+      "prompt": "中田さんは子どものような**純粋**な心を持っている人だ。 選択肢：1 しゅんすい / 2 しゅんずい / 3 じゅんすい / 4 じゅんずい",
+      "answer": "3",
+      "explanation": "考点：純粋。读音是「じゅんすい」。"
+    },
+    {
+      "id": "Q255",
+      "part": "N2 Unit 8",
+      "type": "語彙",
+      "prompt": "大臣であっても（　）を働いたことは許されない。 選択肢：1 不満 / 2 不正 / 3 不安 / 4 不調",
+      "answer": "2",
+      "explanation": "词汇点：不正。该词/表达最符合句意。"
+    },
+    {
+      "id": "Q256",
+      "part": "N2 Unit 8",
+      "type": "語彙",
+      "prompt": "家族が増えて、収納（　）が足りなくなった。 選択肢：1 ニーズ / 2 スライド / 3 スペース / 4 サンプル",
+      "answer": "3",
+      "explanation": "词汇点：スペース。该词/表达最符合句意。"
+    },
+    {
+      "id": "Q257",
+      "part": "N2 Unit 8",
+      "type": "文法",
+      "prompt": "カップラーメン（　）、毎日食べるのは健康によくない。 選択肢：1 とか / 2 とは / 3 ぐらい / 4 なんて",
+      "answer": "4",
+      "explanation": "文法点：なんて。该形式符合句子的接续和语义。"
+    },
+    {
+      "id": "Q258",
+      "part": "N2 Unit 8",
+      "type": "文法",
+      "prompt": "新作映画の一般公開に（　）、特別試写会が行われた。 選択肢：1 前にして / 2 先立ち / 3 応えて / 4 際し",
+      "answer": "2",
+      "explanation": "文法点：先立ち。该形式符合句子的接续和语义。"
+    },
+    {
+      "id": "Q259",
+      "part": "N2 Unit 8",
+      "type": "文字",
+      "prompt": "これは人気商品で、**在庫**が不足している。 選択肢：1 ざいこ / 2 ざいご / 3 だいこ / 4 だいご",
+      "answer": "1",
+      "explanation": "考点：在庫。读音是「ざいこ」。"
+    },
+    {
+      "id": "Q260",
+      "part": "N2 Unit 8",
+      "type": "文字",
+      "prompt": "田中先輩はできない新人にも**根気**よく教えた。 選択肢：1 ねけ / 2 ねき / 3 こんけ / 4 こんき",
+      "answer": "4",
+      "explanation": "考点：根気。读音是「こんき」。"
+    },
+    {
+      "id": "Q261",
+      "part": "N2 Unit 8",
+      "type": "語彙",
+      "prompt": "あの人の説明を聞いたら、（　）わからなくなった。 選択肢：1 まして / 2 かえって / 3 むしろ / 4 せめて",
+      "answer": "2",
+      "explanation": "词汇点：かえって。该词/表达最符合句意。"
+    },
+    {
+      "id": "Q262",
+      "part": "N2 Unit 8",
+      "type": "語彙",
+      "prompt": "彼には今のすべてを捨ててでも、（　）たい夢があるみたい。 選択肢：1 追いかけ / 2 追い出し / 3 追いつき / 4 追い越し",
+      "answer": "1",
+      "explanation": "词汇点：追いかけ。该词/表达最符合句意。"
+    },
+    {
+      "id": "Q263",
+      "part": "N2 Unit 8",
+      "type": "文法",
+      "prompt": "自分のお店を持てたら、どんなにうれしい（　）。 選択肢：1 ものか / 2 そうか / 3 ことか / 4 のみか",
+      "answer": "3",
+      "explanation": "文法点：ことか。该形式符合句子的接续和语义。"
+    },
+    {
+      "id": "Q264",
+      "part": "N2 Unit 8",
+      "type": "文法",
+      "prompt": "ドレス姿で現れた彼女はまるで別人の（　）。 選択肢：1 ように見る / 2 ように見える / 3 ように思う / 4 ように思える",
+      "answer": "2",
+      "explanation": "文法点：ように見える。该形式符合句子的接续和语义。"
+    },
+    {
+      "id": "Q265",
+      "part": "N2 Unit 8",
+      "type": "文字",
+      "prompt": "祖母の病気は**悪化**するばかりだ。 選択肢：1 あくか / 2 あっか / 3 わうか / 4 あしか",
+      "answer": "2",
+      "explanation": "考点：悪化。读音是「あっか」。"
+    },
+    {
+      "id": "Q266",
+      "part": "N2 Unit 8",
+      "type": "文字",
+      "prompt": "会社のトップには、**保守的**な重役が多い。 選択肢：1 ぼしゅ / 2 ぼうしゅ / 3 ほしゅ / 4 ほうしゅ",
+      "answer": "3",
+      "explanation": "考点：保守的。读音是「ほしゅ」。"
+    },
+    {
+      "id": "Q267",
+      "part": "N2 Unit 8",
+      "type": "語彙",
+      "prompt": "爆発事件が今朝の新聞の1面に（　）された。 選択肢：1 提出 / 2 発表 / 3 警告 / 4 掲載",
+      "answer": "4",
+      "explanation": "词汇点：掲載。该词/表达最符合句意。"
+    },
+    {
+      "id": "Q268",
+      "part": "N2 Unit 8",
+      "type": "語彙",
+      "prompt": "子どもたちがおもちゃを（　）遊んでいる。 選択肢：1 散らばって / 2 ちらして / 3 散らかして / 4 ちぎって",
+      "answer": "3",
+      "explanation": "词汇点：散らかして。该词/表达最符合句意。"
+    },
+    {
+      "id": "Q269",
+      "part": "N2 Unit 8",
+      "type": "文法",
+      "prompt": "このところ、（　）天気が続いて気分も晴れない。 選択肢：1 曇りがちの / 2 曇りぎみな / 3 曇りらしい / 4 曇りっぽい",
+      "answer": "1",
+      "explanation": "文法点：曇りがちの。该形式符合句子的接续和语义。"
+    },
+    {
+      "id": "Q270",
+      "part": "N2 Unit 8",
+      "type": "文法",
+      "prompt": "祖父は毎日トレーニングしている（　）、80歳でも健康だ。 選択肢：1 ことなら / 2 だけあって / 3 ことだから / 4 以上は",
+      "answer": "2",
+      "explanation": "文法点：だけあって。该形式符合句子的接续和语义。"
+    },
+    {
+      "id": "Q271",
+      "part": "N2 Unit 8",
+      "type": "文字",
+      "prompt": "A社は設立して以来、**著しい**発展を遂げた。 選択肢：1 いちじるしい / 2 はなはだしい / 3 やかましい / 4 はなばなしい",
+      "answer": "1",
+      "explanation": "考点：著しい。读音是「いちじるしい」。"
+    },
+    {
+      "id": "Q272",
+      "part": "N2 Unit 8",
+      "type": "文字",
+      "prompt": "期日どおりに**納品**しないと、信用を失う。 選択肢：1 けいひん / 2 へんびん / 3 おさひん / 4 のうひん",
+      "answer": "4",
+      "explanation": "考点：納品。读音是「のうひん」。"
+    },
+    {
+      "id": "Q273",
+      "part": "N2 Unit 8",
+      "type": "語彙",
+      "prompt": "この本棚はなかなか（　）にできている。 選択肢：1 頑丈 / 2 頑固 / 3 固執 / 4 固定",
+      "answer": "1",
+      "explanation": "词汇点：頑丈。该词/表达最符合句意。"
+    },
+    {
+      "id": "Q274",
+      "part": "N2 Unit 8",
+      "type": "語彙",
+      "prompt": "バスケットボールの試合中に（　）が起きた。 選択肢：1 クレーム / 2 ハンドル / 3 トラブル / 4 ドライブ",
+      "answer": "3",
+      "explanation": "词汇点：トラブル。该词/表达最符合句意。"
+    },
+    {
+      "id": "Q275",
+      "part": "N2 Unit 8",
+      "type": "文法",
+      "prompt": "今や、漫画やアニメは日本国内（　）、世界中で評価されている。 選択肢：1 の限らず / 2 に限らず / 3 の限り / 4 に限り",
+      "answer": "2",
+      "explanation": "文法点：に限らず。该形式符合句子的接续和语义。"
+    },
+    {
+      "id": "Q276",
+      "part": "N2 Unit 8",
+      "type": "文法",
+      "prompt": "困ったときこそ援助の手を差し出すのが真の友情という（　）。 選択肢：1 ことだ / 2 ところだ / 3 はなしだ / 4 ものだ",
+      "answer": "4",
+      "explanation": "文法点：ものだ。该形式符合句子的接续和语义。"
+    },
+    {
+      "id": "Q277",
+      "part": "N2 Unit 8",
+      "type": "文字",
+      "prompt": "犬は飼い主の気持ちがわかる**利口**な動物だ。 選択肢：1 りくち / 2 りぐち / 3 りこう / 4 りごう",
+      "answer": "3",
+      "explanation": "考点：利口。读音是「りこう」。"
+    },
+    {
+      "id": "Q278",
+      "part": "N2 Unit 8",
+      "type": "文字",
+      "prompt": "桜の花びらが**吹雪**のように乱れ散る。 選択肢：1 ふっせつ / 2 ふくゆき / 3 ふくせつ / 4 ふぶき",
+      "answer": "4",
+      "explanation": "考点：吹雪。读音是「ふぶき」。"
+    },
+    {
+      "id": "Q279",
+      "part": "N2 Unit 8",
+      "type": "語彙",
+      "prompt": "このコンピュータは一度に大量のデータが（　）できる。 選択肢：1 処分 / 2 処理 / 3 対処 / 4 処置",
+      "answer": "2",
+      "explanation": "词汇点：処理。该词/表达最符合句意。"
+    },
+    {
+      "id": "Q280",
+      "part": "N2 Unit 8",
+      "type": "語彙",
+      "prompt": "海外旅行で券売機の使い方がわからず（　）した。 選択肢：1 まごまご / 2 うとうと / 3 ごろごろ / 4 いらいら",
+      "answer": "1",
+      "explanation": "词汇点：まごまご。该词/表达最符合句意。"
+    },
+    {
+      "id": "Q281",
+      "part": "N2 Unit 8",
+      "type": "文法",
+      "prompt": "悪いと（　）、カンニングをしてしまった。 選択肢：1 知っては / 2 知っていては / 3 知りつつも / 4 知っているつつも",
+      "answer": "3",
+      "explanation": "文法点：知りつつも。该形式符合句子的接续和语义。"
+    },
+    {
+      "id": "Q282",
+      "part": "N2 Unit 8",
+      "type": "文法",
+      "prompt": "田中先輩は会う（　）面白い話を聞かせてくれる。 選択肢：1 ことに / 2 たびに / 3 だけに / 4 なかに",
+      "answer": "2",
+      "explanation": "文法点：たびに。该形式符合句子的接续和语义。"
+    },
+    {
+      "id": "Q283",
+      "part": "N2 Unit 8",
+      "type": "文字",
+      "prompt": "マイホームを持つという**念願**がやっとかなった。 選択肢：1 ねんかん / 2 ねんがん / 3 ねんほう / 4 ねんぼう",
+      "answer": "2",
+      "explanation": "考点：念願。读音是「ねんがん」。"
+    },
+    {
+      "id": "Q284",
+      "part": "N2 Unit 8",
+      "type": "文字",
+      "prompt": "これは私の一番好きな**模様**のスカートです。 選択肢：1 もよう / 2 もうよ / 3 もさま / 4 もうさま",
+      "answer": "1",
+      "explanation": "考点：模様。读音是「もよう」。"
+    },
+    {
+      "id": "Q285",
+      "part": "N2 Unit 8",
+      "type": "語彙",
+      "prompt": "犯人は建物の（　）から逃げた。 選択肢：1 表面 / 2 裏切り / 3 裏口 / 4 表通り",
+      "answer": "3",
+      "explanation": "词汇点：裏口。该词/表达最符合句意。"
+    },
+    {
+      "id": "Q286",
+      "part": "N2 Unit 8",
+      "type": "語彙",
+      "prompt": "今日は体調が（　）ないので、早めに帰りたい。 選択肢：1 崩れ / 2 疲れ / 3 現れ / 4 優れ",
+      "answer": "4",
+      "explanation": "词汇点：優れ。该词/表达最符合句意。"
+    },
+    {
+      "id": "Q287",
+      "part": "N2 Unit 8",
+      "type": "文法",
+      "prompt": "「週末、遊園地に（　）かわりに、おいしい料理を作ってあげるわ。」 選択肢：1 連れていってあげる / 2 連れていってもらう / 3 連れてきてくれる / 4 連れてきてやる",
+      "answer": "2",
+      "explanation": "文法点：連れていってもらう。该形式符合句子的接续和语义。"
+    },
+    {
+      "id": "Q288",
+      "part": "N2 Unit 8",
+      "type": "文法",
+      "prompt": "「課長、企画書についてご意見を（　）たいんですが、お時間よろしいですか。」 選択肢：1 お訪ねし / 2 ご覧に入れ / 3 うかがい / 4 おいでになり",
+      "answer": "3",
+      "explanation": "文法点：うかがい。该形式符合句子的接续和语义。"
+    }
+  ]
+}

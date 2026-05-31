@@ -1,0 +1,353 @@
+{
+  "schemaVersion": 1,
+  "unit": {
+    "id": "red-blue-n3-1000-practice-unit-16",
+    "title": "红蓝宝书1000题 - Unit 16",
+    "type": "practice_unit",
+    "status": "manual-reviewed-draft",
+    "tags": [
+      "jlpt",
+      "n3",
+      "practice",
+      "vocabulary",
+      "grammar",
+      "red-blue-1000",
+      "manual-entry"
+    ],
+    "sourceId": "source-red-blue-n3-1000-practice",
+    "sourcePages": [
+      188,
+      199
+    ],
+    "created": "2026-05-26",
+    "updated": "2026-05-26",
+    "scope": {
+      "Question range": "Q541-Q576",
+      "Source pages": "PDF pages 188-199",
+      "Page-image cache": "`.cache/ocr/red-blue-n3-1000-practice/`"
+    },
+    "contentPath": "content/items/red-blue-n3-1000-practice/unit-16.md"
+  },
+  "vocabulary": [],
+  "reviewCards": [],
+  "sourceTestPages": [
+    {
+      "kind": "questions",
+      "title": "原书练习题",
+      "bookPages": "181-191",
+      "pdfPages": "188-198",
+      "images": [
+        ".cache/ocr/red-blue-n3-1000-practice/images/page_188.jpg",
+        ".cache/ocr/red-blue-n3-1000-practice/images/page_190.jpg",
+        ".cache/ocr/red-blue-n3-1000-practice/images/page_192.jpg",
+        ".cache/ocr/red-blue-n3-1000-practice/images/page_194.jpg",
+        ".cache/ocr/red-blue-n3-1000-practice/images/page_196.jpg",
+        ".cache/ocr/red-blue-n3-1000-practice/images/page_198.jpg"
+      ]
+    },
+    {
+      "kind": "answers",
+      "title": "原书答案解析",
+      "bookPages": "182-192",
+      "pdfPages": "189-199",
+      "images": [
+        ".cache/ocr/red-blue-n3-1000-practice/images/page_189.jpg",
+        ".cache/ocr/red-blue-n3-1000-practice/images/page_191.jpg",
+        ".cache/ocr/red-blue-n3-1000-practice/images/page_193.jpg",
+        ".cache/ocr/red-blue-n3-1000-practice/images/page_195.jpg",
+        ".cache/ocr/red-blue-n3-1000-practice/images/page_197.jpg",
+        ".cache/ocr/red-blue-n3-1000-practice/images/page_199.jpg"
+      ]
+    }
+  ],
+  "sourceTextTests": [
+    {
+      "id": "Q541",
+      "part": "Unit 16",
+      "type": "文字",
+      "prompt": "先日、友だちを**誘って**映画を見に行きました。 選択肢：1 つかって / 2 あらって / 3 さそって / 4 おわって",
+      "answer": "3",
+      "explanation": "詞彙點：誘う（さそう）。表示「邀请」。"
+    },
+    {
+      "id": "Q542",
+      "part": "Unit 16",
+      "type": "文字",
+      "prompt": "東京までの新幹線の**切符**を2枚お願いします。 選択肢：1 きふ / 2 きっぷ / 3 せふ / 4 せっぷ",
+      "answer": "2",
+      "explanation": "詞彙點：切符（きっぷ）。表示「票」。"
+    },
+    {
+      "id": "Q543",
+      "part": "Unit 16",
+      "type": "語彙",
+      "prompt": "旅行の費用は4人で（　）にしました。 選択肢：1 割り勘 / 2 割合 / 3 割り算 / 4 割引",
+      "answer": "1",
+      "explanation": "詞彙點：割り勘（わりかん）。表示「AA制、分摊费用」。"
+    },
+    {
+      "id": "Q544",
+      "part": "Unit 16",
+      "type": "語彙",
+      "prompt": "この地域ではよく野菜を雪の下に（　）。 選択肢：1 かりる / 2 にる / 3 そる / 4 うめる",
+      "answer": "4",
+      "explanation": "詞彙點：埋める（うめる）。表示「埋、填」。"
+    },
+    {
+      "id": "Q545",
+      "part": "Unit 16",
+      "type": "文法",
+      "prompt": "この薬は1日3回、8時間（　）飲んでください。 選択肢：1 おきに / 2 おきで / 3 むきに / 4 むきで",
+      "answer": "1",
+      "explanation": "語法點：時間＋おきに。表示「每隔……」。"
+    },
+    {
+      "id": "Q546",
+      "part": "Unit 16",
+      "type": "文法",
+      "prompt": "友だちの話では、そのお店の料理はあまり（　）です。 選択肢：1 おいしいそう / 2 おいしくないそう / 3 おいしそう / 4 おいしくなさそう",
+      "answer": "2",
+      "explanation": "語法點：普通形＋そうだ。表示传闻「听说……」。"
+    },
+    {
+      "id": "Q547",
+      "part": "Unit 16",
+      "type": "文字",
+      "prompt": "**薄暗い**ところで本を読むと目に悪いよ。 選択肢：1 うすくらい / 2 はくくらい / 3 うすぐらい / 4 はくぐらい",
+      "answer": "3",
+      "explanation": "詞彙點：薄暗い（うすぐらい）。表示「昏暗」。"
+    },
+    {
+      "id": "Q548",
+      "part": "Unit 16",
+      "type": "文字",
+      "prompt": "きのう、**劇場**で歌舞伎を見ました。 選択肢：1 げじょう / 2 げきじょう / 3 ぎっじょう / 4 ぎじょう",
+      "answer": "2",
+      "explanation": "詞彙點：劇場（げきじょう）。表示「剧场」。"
+    },
+    {
+      "id": "Q549",
+      "part": "Unit 16",
+      "type": "語彙",
+      "prompt": "今日の試合で太田さんは大きな（　）を果たした。 選択肢：1 機能 / 2 役割 / 3 勤務 / 4 効果",
+      "answer": "2",
+      "explanation": "詞彙點：役割（やくわり）を果たす。表示「发挥作用、完成职责」。"
+    },
+    {
+      "id": "Q550",
+      "part": "Unit 16",
+      "type": "語彙",
+      "prompt": "（　）東大卒のエリートですね。 選択肢：1 さすが / 2 いかに / 3 いずれ / 4 たとえ",
+      "answer": "1",
+      "explanation": "詞彙點：さすが。表示「不愧是」。"
+    },
+    {
+      "id": "Q551",
+      "part": "Unit 16",
+      "type": "文法",
+      "prompt": "新しい家庭教師の（　）、成績が上がってきました。 選択肢：1 せいで / 2 おかげで / 3 うえで / 4 ばかりで",
+      "answer": "2",
+      "explanation": "語法點：〜おかげで。表示「多亏……」。"
+    },
+    {
+      "id": "Q552",
+      "part": "Unit 16",
+      "type": "文法",
+      "prompt": "サイズが合うか（　）、試着してみます。 選択肢：1 するか / 2 しないか / 3 どうか / 4 ないか",
+      "answer": "3",
+      "explanation": "語法點：〜かどうか。表示「是否……」。"
+    },
+    {
+      "id": "Q553",
+      "part": "Unit 16",
+      "type": "文字",
+      "prompt": "母の日にカーネーションの**花束**を贈りました。 選択肢：1 はなばた / 2 はなたば / 3 かそく / 4 かぞく",
+      "answer": "2",
+      "explanation": "詞彙點：花束（はなたば）。表示「花束」。"
+    },
+    {
+      "id": "Q554",
+      "part": "Unit 16",
+      "type": "文字",
+      "prompt": "あの問題はまだ**解決**していない。 選択肢：1 がいけつ / 2 かいきめ / 3 かいけつ / 4 がいきめ",
+      "answer": "3",
+      "explanation": "詞彙點：解決（かいけつ）。表示「解决」。"
+    },
+    {
+      "id": "Q555",
+      "part": "Unit 16",
+      "type": "語彙",
+      "prompt": "彼女は泣きながら自分の苦しみを（　）。 選択肢：1 聞き取りました / 2 ひっかえしました / 3 言い直しました / 4 うったえました",
+      "answer": "4",
+      "explanation": "詞彙點：訴える（うったえる）。表示「诉说、申诉」。"
+    },
+    {
+      "id": "Q556",
+      "part": "Unit 16",
+      "type": "語彙",
+      "prompt": "その映画は（　）おもしろかったです。 選択肢：1 すごく / 2 ふかく / 3 えらく / 4 にがく",
+      "answer": "1",
+      "explanation": "詞彙點：すごく。表示「非常」。"
+    },
+    {
+      "id": "Q557",
+      "part": "Unit 16",
+      "type": "文法",
+      "prompt": "いくら忙しいと言っても、メール（　）はできるだろう。 選択肢：1 ほど / 2 ぐらい / 3 など / 4 なんて",
+      "answer": "2",
+      "explanation": "語法點：名詞＋ぐらい。表示「至少……这点程度」。"
+    },
+    {
+      "id": "Q558",
+      "part": "Unit 16",
+      "type": "文法",
+      "prompt": "外国人のわたし（　）、日本の食文化は本当にすごいです。 選択肢：1 から見れば / 2 を見れば / 3 からすれば / 4 をすれば",
+      "answer": "1",
+      "explanation": "語法點：名詞＋から見れば。表示「从……来看」。"
+    },
+    {
+      "id": "Q559",
+      "part": "Unit 16",
+      "type": "文字",
+      "prompt": "靴ひもをきつく**結びました**。 選択肢：1 とびました / 2 むすびました / 3 よびました / 4 よろこびました",
+      "answer": "2",
+      "explanation": "詞彙點：結ぶ（むすぶ）。表示「系、结」。"
+    },
+    {
+      "id": "Q560",
+      "part": "Unit 16",
+      "type": "文字",
+      "prompt": "**質問**があれば、手をあげてください。 選択肢：1 しもん / 2 しつもん / 3 ちもん / 4 ちつもん",
+      "answer": "2",
+      "explanation": "詞彙點：質問（しつもん）。表示「问题、提问」。"
+    },
+    {
+      "id": "Q561",
+      "part": "Unit 16",
+      "type": "語彙",
+      "prompt": "母に叱られると思ったから、（　）をついた。 選択肢：1 しも / 2 かわ / 3 うそ / 4 くだ",
+      "answer": "3",
+      "explanation": "詞彙點：うそをつく。表示「撒谎」。"
+    },
+    {
+      "id": "Q562",
+      "part": "Unit 16",
+      "type": "語彙",
+      "prompt": "明日は休みを取って、（　）してくださいね。 選択肢：1 リラックス / 2 コンクリート / 3 フレックス / 4 カレーライス",
+      "answer": "1",
+      "explanation": "詞彙點：リラックスする。表示「放松」。"
+    },
+    {
+      "id": "Q563",
+      "part": "Unit 16",
+      "type": "文法",
+      "prompt": "皆さんの熱い応援が（　）こそ、最後まで走りきることができたのです。 選択肢：1 ある / 2 あれば / 3 あり / 4 あって",
+      "answer": "2",
+      "explanation": "語法點：〜ばこそ。表示「正因为……才……」。"
+    },
+    {
+      "id": "Q564",
+      "part": "Unit 16",
+      "type": "文法",
+      "prompt": "両親と相談した結果、大学院に進学する（　）。 選択肢：1 ようになっています / 2 ようにしました / 3 ことになっています / 4 ことにしました",
+      "answer": "4",
+      "explanation": "語法點：動詞辞書形＋ことにする。表示说话人的决定。"
+    },
+    {
+      "id": "Q565",
+      "part": "Unit 16",
+      "type": "文字",
+      "prompt": "このゲームは**若者**の間で人気が高いそうだ。 選択肢：1 じゃくしゃ / 2 じゃくもの / 3 わかしゃ / 4 わかもの",
+      "answer": "4",
+      "explanation": "詞彙點：若者（わかもの）。表示「年轻人」。"
+    },
+    {
+      "id": "Q566",
+      "part": "Unit 16",
+      "type": "文字",
+      "prompt": "先生、このご恩は**一生**忘れません。 選択肢：1 いっせい / 2 いっしょう / 3 ひとせい / 4 ひとしょう",
+      "answer": "2",
+      "explanation": "詞彙點：一生（いっしょう）。表示「一辈子」。"
+    },
+    {
+      "id": "Q567",
+      "part": "Unit 16",
+      "type": "語彙",
+      "prompt": "時間がなかったので、注文した料理を（　）。 選択肢：1 持ち歩きました / 2 持ち上げました / 3 持ち帰りました / 4 持ち出しました",
+      "answer": "3",
+      "explanation": "詞彙點：持ち帰る（もちかえる）。表示「带回去」。"
+    },
+    {
+      "id": "Q568",
+      "part": "Unit 16",
+      "type": "語彙",
+      "prompt": "わたしが到着したときには、（　）試合は始まっていた。 選択肢：1 すでに / 2 べつに / 3 わりに / 4 じつに",
+      "answer": "1",
+      "explanation": "詞彙點：すでに。表示「已经」。"
+    },
+    {
+      "id": "Q569",
+      "part": "Unit 16",
+      "type": "文法",
+      "prompt": "この展覧会は招待状を持っている人しか（　）。 選択肢：1 入ります / 2 入りません / 3 入れます / 4 入れません",
+      "answer": "4",
+      "explanation": "語法點：〜しか〜ない。表示「只有……才……」。"
+    },
+    {
+      "id": "Q570",
+      "part": "Unit 16",
+      "type": "文法",
+      "prompt": "彼女は卒業して半年も（　）うちに結婚しました。 選択肢：1 ない / 2 ならない / 3 しない / 4 できない",
+      "answer": "3",
+      "explanation": "語法點：〜もしないうちに。表示「还没过……就……」。"
+    },
+    {
+      "id": "Q571",
+      "part": "Unit 16",
+      "type": "文字",
+      "prompt": "**腕時計**をはずして机に置いた。 選択肢：1 うでとけい / 2 うでどけい / 3 わんとけい / 4 わんどけい",
+      "answer": "2",
+      "explanation": "詞彙點：腕時計（うでどけい）。表示「手表」。"
+    },
+    {
+      "id": "Q572",
+      "part": "Unit 16",
+      "type": "文字",
+      "prompt": "彼女は明るい**性格**です。 選択肢：1 せいかく / 2 せいがく / 3 しょうかく / 4 しょうがく",
+      "answer": "1",
+      "explanation": "詞彙點：性格（せいかく）。表示「性格」。"
+    },
+    {
+      "id": "Q573",
+      "part": "Unit 16",
+      "type": "語彙",
+      "prompt": "消防（　）は交通の便のいいところにある。 選択肢：1 場 / 2 社 / 3 院 / 4 署",
+      "answer": "4",
+      "explanation": "詞彙點：消防署（しょうぼうしょ）。表示「消防署」。"
+    },
+    {
+      "id": "Q574",
+      "part": "Unit 16",
+      "type": "語彙",
+      "prompt": "食事の（　）は国によって違う。 選択肢：1 ケース / 2 カバー / 3 コース / 4 マナー",
+      "answer": "4",
+      "explanation": "詞彙點：マナー。表示「礼仪、规矩」。"
+    },
+    {
+      "id": "Q575",
+      "part": "Unit 16",
+      "type": "文法",
+      "prompt": "この写真は楽しかった留学生活を（　）くれます。 選択肢：1 思い出して / 2 思い出させて / 3 思い出せて / 4 思い出されて",
+      "answer": "2",
+      "explanation": "語法點：動詞使役形＋てくれる。表示「使我想起……」。"
+    },
+    {
+      "id": "Q576",
+      "part": "Unit 16",
+      "type": "文法",
+      "prompt": "この絵を担任の石岡先生に（　）。 選択肢：1 さしあげます / 2 いただきます / 3 お願いします / 4 くださいます",
+      "answer": "1",
+      "explanation": "語法點：さしあげます。「あげます」的自谦语。"
+    }
+  ]
+}

@@ -1,0 +1,353 @@
+{
+  "schemaVersion": 1,
+  "unit": {
+    "id": "red-blue-n3-1000-practice-unit-01",
+    "title": "红蓝宝书1000题 - Unit 1",
+    "type": "practice_unit",
+    "status": "manual-reviewed-draft",
+    "tags": [
+      "jlpt",
+      "n3",
+      "practice",
+      "vocabulary",
+      "grammar",
+      "red-blue-1000",
+      "manual-entry"
+    ],
+    "sourceId": "source-red-blue-n3-1000-practice",
+    "sourcePages": [
+      8,
+      19
+    ],
+    "created": "2026-05-26",
+    "updated": "2026-05-26",
+    "scope": {
+      "Question range": "Q001-Q036",
+      "Source pages": "PDF pages 8-19",
+      "Page-image cache": "`.cache/ocr/red-blue-n3-1000-practice/`"
+    },
+    "contentPath": "content/items/red-blue-n3-1000-practice/unit-01.md"
+  },
+  "vocabulary": [],
+  "reviewCards": [],
+  "sourceTestPages": [
+    {
+      "kind": "questions",
+      "title": "原书练习题",
+      "bookPages": "1-11",
+      "pdfPages": "8-18",
+      "images": [
+        ".cache/ocr/red-blue-n3-1000-practice/images/page_008.jpg",
+        ".cache/ocr/red-blue-n3-1000-practice/images/page_010.jpg",
+        ".cache/ocr/red-blue-n3-1000-practice/images/page_012.jpg",
+        ".cache/ocr/red-blue-n3-1000-practice/images/page_014.jpg",
+        ".cache/ocr/red-blue-n3-1000-practice/images/page_016.jpg",
+        ".cache/ocr/red-blue-n3-1000-practice/images/page_018.jpg"
+      ]
+    },
+    {
+      "kind": "answers",
+      "title": "原书答案解析",
+      "bookPages": "2-12",
+      "pdfPages": "9-19",
+      "images": [
+        ".cache/ocr/red-blue-n3-1000-practice/images/page_009.jpg",
+        ".cache/ocr/red-blue-n3-1000-practice/images/page_011.jpg",
+        ".cache/ocr/red-blue-n3-1000-practice/images/page_013.jpg",
+        ".cache/ocr/red-blue-n3-1000-practice/images/page_015.jpg",
+        ".cache/ocr/red-blue-n3-1000-practice/images/page_017.jpg",
+        ".cache/ocr/red-blue-n3-1000-practice/images/page_019.jpg"
+      ]
+    }
+  ],
+  "sourceTextTests": [
+    {
+      "id": "Q001",
+      "part": "Unit 1",
+      "type": "文字",
+      "prompt": "お店の前に人が**並んで**います。 選択肢：1 あそんで / 2 ならんで / 3 はさんて / 4 さけんで",
+      "answer": "2",
+      "explanation": "考点：並んで。读音是「ならんで」。"
+    },
+    {
+      "id": "Q002",
+      "part": "Unit 1",
+      "type": "文字",
+      "prompt": "日本は**物価**が高いと言われている。 選択肢：1 ふつが / 2 もつが / 3 ぶつか / 4 もっか",
+      "answer": "3",
+      "explanation": "考点：物価。读音是「ぶつか」。词条读音：ぶっか；含义：物价；行情。"
+    },
+    {
+      "id": "Q003",
+      "part": "Unit 1",
+      "type": "語彙",
+      "prompt": "すみませんが、（　）ができたので、お先に失礼します。 選択肢：1 緊急 / 2 急用 / 3 緊張 / 4 急行",
+      "answer": "2",
+      "explanation": "词汇点：急用。该词/表达最符合句意。"
+    },
+    {
+      "id": "Q004",
+      "part": "Unit 1",
+      "type": "語彙",
+      "prompt": "携帯電話を見ながら階段を（　）のは危険だ。 選択肢：1 おりる / 2 さわぐ / 3 われる / 4 おちる",
+      "answer": "1",
+      "explanation": "词汇点：おりる。该词/表达最符合句意。"
+    },
+    {
+      "id": "Q005",
+      "part": "Unit 1",
+      "type": "文法",
+      "prompt": "わたしが（　）間に、父は出張から帰ってきました。 選択肢：1 寝る / 2 寝ている / 3 寝た / 4 寝ていた",
+      "answer": "2",
+      "explanation": "文法点：寝ている。该形式符合句子的接续和语义。"
+    },
+    {
+      "id": "Q006",
+      "part": "Unit 1",
+      "type": "文法",
+      "prompt": "この学校の学生である（　）、校則を守らなければならない。 選択肢：1 以上に / 2 以上で / 3 以上の / 4 以上は",
+      "answer": "4",
+      "explanation": "文法点：～以上(は)。既然……就……。"
+    },
+    {
+      "id": "Q007",
+      "part": "Unit 1",
+      "type": "文字",
+      "prompt": "この川は思ったより**浅い**ですね。 選択肢：1 あわい / 2 あおい / 3 あかい / 4 あさい",
+      "answer": "4",
+      "explanation": "考点：浅い。读音是「あさい」。"
+    },
+    {
+      "id": "Q008",
+      "part": "Unit 1",
+      "type": "文字",
+      "prompt": "自分は人の**影響**を受けやすいタイプです。 選択肢：1 えいきよ / 2 えいきよう / 3 えんきよ / 4 えんきよう",
+      "answer": "2",
+      "explanation": "考点：影響。读音是「えいきよう」。"
+    },
+    {
+      "id": "Q009",
+      "part": "Unit 1",
+      "type": "語彙",
+      "prompt": "運動会で転んで足を（　）してしまった。 選択肢：1 がまん / 2 けが / 3 もんく / 4 くび",
+      "answer": "2",
+      "explanation": "词汇点：けが。该词/表达最符合句意。"
+    },
+    {
+      "id": "Q010",
+      "part": "Unit 1",
+      "type": "語彙",
+      "prompt": "来週の海外旅行のことを考えるだけで、（　）する。 選択肢：1 わくわく / 2 ぎりぎり / 3 ふらふら / 4 どきどき",
+      "answer": "1",
+      "explanation": "词汇点：わくわく。该词/表达最符合句意。"
+    },
+    {
+      "id": "Q011",
+      "part": "Unit 1",
+      "type": "文法",
+      "prompt": "もち米で作ったものなので、（　）うちに食べたほうがいいと思います。 選択肢：1 冷める / 2 冷めている / 3 冷めない / 4 冷めなかった",
+      "answer": "3",
+      "explanation": "文法点：冷めない。该形式符合句子的接续和语义。"
+    },
+    {
+      "id": "Q012",
+      "part": "Unit 1",
+      "type": "文法",
+      "prompt": "この組織は6つの部門から（　）。 選択肢：1 なっています / 2 なられています / 3 しています / 4 されています",
+      "answer": "1",
+      "explanation": "文法点：なっています。该形式符合句子的接续和语义。"
+    },
+    {
+      "id": "Q013",
+      "part": "Unit 1",
+      "type": "文字",
+      "prompt": "春になって、**昼間**の時間が長くなりました。 選択肢：1 ひるま / 2 ひるかん / 3 ちゅうま / 4 ちゅうかん",
+      "answer": "1",
+      "explanation": "考点：昼間。读音是「ひるま」。"
+    },
+    {
+      "id": "Q014",
+      "part": "Unit 1",
+      "type": "文字",
+      "prompt": "パスポートの有効**期限**が切れた。 選択肢：1 きかん / 2 ぎかん / 3 きげん / 4 ぎげん",
+      "answer": "3",
+      "explanation": "考点：期限。读音是「きげん」。词条读音：きげん；含义：期限。"
+    },
+    {
+      "id": "Q015",
+      "part": "Unit 1",
+      "type": "語彙",
+      "prompt": "人から（　）を言われるのは嫌だ。 選択肢：1 口癖 / 2 利口 / 3 悪者 / 4 悪口",
+      "answer": "4",
+      "explanation": "词汇点：悪口（わるくち）：坏话，说人坏话，骂人。"
+    },
+    {
+      "id": "Q016",
+      "part": "Unit 1",
+      "type": "語彙",
+      "prompt": "これ、（　）ものですが、どうぞ。 選択肢：1 ありがたい / 2 つまらない / 3 うらやましい / 4 くだらない",
+      "answer": "2",
+      "explanation": "词汇点：つまらない。该词/表达最符合句意。"
+    },
+    {
+      "id": "Q017",
+      "part": "Unit 1",
+      "type": "文法",
+      "prompt": "一人では（　）から、友だちと一緒に食べました。 選択肢：1 食べきれる / 2 食べきれた / 3 食べきれない / 4 食べきれなかった",
+      "answer": "3",
+      "explanation": "文法点：～きる/きれる/きれない。完全……；能全部……；不能全部……。"
+    },
+    {
+      "id": "Q018",
+      "part": "Unit 1",
+      "type": "文法",
+      "prompt": "本気で痩せたいなら、油っこい料理を食べない（　）。 選択肢：1 からだ / 2 ことだ / 3 ものだ / 4 までだ",
+      "answer": "2",
+      "explanation": "文法点：～ということだ。据说……；也就是说……。"
+    },
+    {
+      "id": "Q019",
+      "part": "Unit 1",
+      "type": "文字",
+      "prompt": "雪が**膝**のところまで積もった。 選択肢：1 うで / 2 ひじ / 3 ひざ / 4 くび",
+      "answer": "3",
+      "explanation": "考点：膝。读音是「ひざ」。词条读音：ひざ；含义：膝；膝盖。"
+    },
+    {
+      "id": "Q020",
+      "part": "Unit 1",
+      "type": "文字",
+      "prompt": "毎日英語の単語を**暗記**します。 選択肢：1 あんき / 2 あんぎ / 3 えんき / 4 えんぎ",
+      "answer": "1",
+      "explanation": "考点：暗記。读音是「あんき」。词条读音：あんき；含义：熟记。"
+    },
+    {
+      "id": "Q021",
+      "part": "Unit 1",
+      "type": "語彙",
+      "prompt": "夜、電気を（　）から寝る。 選択肢：1 けして / 2 むして / 3 だして / 4 こして",
+      "answer": "1",
+      "explanation": "词汇点：けして。该词/表达最符合句意。"
+    },
+    {
+      "id": "Q022",
+      "part": "Unit 1",
+      "type": "語彙",
+      "prompt": "週に2回、レストランで（　）をしています。 選択肢：1 キャンセル / 2 バーベキュー / 3 アルバイト / 4 インタビュー",
+      "answer": "3",
+      "explanation": "词汇点：アルバイト（アルバイト）：打工。"
+    },
+    {
+      "id": "Q023",
+      "part": "Unit 1",
+      "type": "文法",
+      "prompt": "電話で知らせればいいから、わざわざ行く（　）。 選択肢：1 ことはない / 2 ことではない / 3 ことはしない / 4 ことができない",
+      "answer": "1",
+      "explanation": "文法点：～ことはない/こともない。没有必要……；也不是不……。"
+    },
+    {
+      "id": "Q024",
+      "part": "Unit 1",
+      "type": "文法",
+      "prompt": "このビルは55階建てで、（　）が185メートルだそうです。 選択肢：1 高い / 2 高く / 3 高み / 4 高さ",
+      "answer": "4",
+      "explanation": "文法点：高さ。该形式符合句子的接续和语义。"
+    },
+    {
+      "id": "Q025",
+      "part": "Unit 1",
+      "type": "文字",
+      "prompt": "**洪水**で車が流された。 選択肢：1 こうすい / 2 こうずい / 3 きょうすい / 4 きょうずい",
+      "answer": "2",
+      "explanation": "考点：洪水。读音是「こうずい」。"
+    },
+    {
+      "id": "Q026",
+      "part": "Unit 1",
+      "type": "文字",
+      "prompt": "もうすぐ**演奏会**が始まります。 選択肢：1 えんそかい / 2 おんそかい / 3 えんそうかい / 4 おんそうかい",
+      "answer": "3",
+      "explanation": "考点：演奏会。读音是「えんそうかい」。"
+    },
+    {
+      "id": "Q027",
+      "part": "Unit 1",
+      "type": "語彙",
+      "prompt": "わたしは子どもの（　）を取るのが苦手なんです。 選択肢：1 気分 / 2 機嫌 / 3 加減 / 4 調子",
+      "answer": "2",
+      "explanation": "词汇点：機嫌（きげん）：心情。"
+    },
+    {
+      "id": "Q028",
+      "part": "Unit 1",
+      "type": "語彙",
+      "prompt": "出張で（　）南アフリカへ行きます。 選択肢：1 からから / 2 ふらふら / 3 いらいら / 4 しばしば",
+      "answer": "4",
+      "explanation": "词汇点：しばしば（しばしば）：屡次。"
+    },
+    {
+      "id": "Q029",
+      "part": "Unit 1",
+      "type": "文法",
+      "prompt": "彼は健康（　）問題で、その仕事を辞めたらしいです。 選択肢：1 上の / 2 中の / 3 下の / 4 内の",
+      "answer": "1",
+      "explanation": "文法点：～上/上は/上の。在……方面；……上的。"
+    },
+    {
+      "id": "Q030",
+      "part": "Unit 1",
+      "type": "文法",
+      "prompt": "何度ノックしても返事がないので、彼女は家に（　）と思う。 選択肢：1 いるのではないか / 2 いないんじゃないか / 3 いるかもしれない / 4 いなくてはならない",
+      "answer": "2",
+      "explanation": "文法点：～ではないか/じゃないか。不是……吗；……吧。"
+    },
+    {
+      "id": "Q031",
+      "part": "Unit 1",
+      "type": "文字",
+      "prompt": "彼はよく**意地悪**なことを言う。 選択肢：1 いちわる / 2 いちあく / 3 いじわる / 4 いじあく",
+      "answer": "3",
+      "explanation": "考点：意地悪。读音是「いじわる」。词条读音：いじわる；含义：使坏。"
+    },
+    {
+      "id": "Q032",
+      "part": "Unit 1",
+      "type": "文字",
+      "prompt": "**景気**がよくなるといいですね。 選択肢：1 けいき / 2 けいぎ / 3 えいき / 4 えいぎ",
+      "answer": "1",
+      "explanation": "考点：景気。读音是「けいき」。词条读音：けいき；含义：景气。"
+    },
+    {
+      "id": "Q033",
+      "part": "Unit 1",
+      "type": "語彙",
+      "prompt": "次の交差点を左に（　）と、駅が見えます。 選択肢：1 まがる / 2 しばる / 3 はしる / 4 われる",
+      "answer": "1",
+      "explanation": "词汇点：まがる。该词/表达最符合句意。"
+    },
+    {
+      "id": "Q034",
+      "part": "Unit 1",
+      "type": "語彙",
+      "prompt": "田中先生はテストの採点が（　）です。 選択肢：1 つらい / 2 かるい / 3 おもい / 4 からい",
+      "answer": "4",
+      "explanation": "词汇点：からい。该词/表达最符合句意。"
+    },
+    {
+      "id": "Q035",
+      "part": "Unit 1",
+      "type": "文法",
+      "prompt": "今日、授業を欠席した人は彼（　）です。 選択肢：1 しか / 2 ばかり / 3 だけ / 4 かぎり",
+      "answer": "3",
+      "explanation": "文法点：～だけ。只……；仅……；尽量……。"
+    },
+    {
+      "id": "Q036",
+      "part": "Unit 1",
+      "type": "文法",
+      "prompt": "そのことはまさに先生の（　）とおりです。 選択肢：1 承知する / 2 おっしゃる / 3 頂戴する / 4 おいでになる",
+      "answer": "2",
+      "explanation": "文法点：おっしゃる。该形式符合句子的接续和语义。"
+    }
+  ]
+}

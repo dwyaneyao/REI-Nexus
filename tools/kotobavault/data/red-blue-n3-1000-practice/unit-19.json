@@ -1,0 +1,313 @@
+{
+  "schemaVersion": 1,
+  "unit": {
+    "id": "red-blue-n3-1000-practice-unit-19",
+    "title": "红蓝宝书1000题 - Unit 19",
+    "type": "practice_unit",
+    "status": "manual-reviewed-draft",
+    "tags": [
+      "jlpt",
+      "n3",
+      "practice",
+      "vocabulary",
+      "grammar",
+      "red-blue-1000",
+      "manual-entry"
+    ],
+    "sourceId": "source-red-blue-n3-1000-practice",
+    "sourcePages": [
+      224,
+      235
+    ],
+    "created": "2026-05-26",
+    "updated": "2026-05-26",
+    "scope": {
+      "Question range": "Q649-Q679",
+      "Source pages": "PDF pages 224-235",
+      "Page-image cache": "`.cache/ocr/red-blue-n3-1000-practice/`"
+    },
+    "contentPath": "content/items/red-blue-n3-1000-practice/unit-19.md"
+  },
+  "vocabulary": [],
+  "reviewCards": [],
+  "sourceTestPages": [
+    {
+      "kind": "questions",
+      "title": "原书练习题",
+      "bookPages": "217-227",
+      "pdfPages": "224-234",
+      "images": [
+        ".cache/ocr/red-blue-n3-1000-practice/images/page_224.jpg",
+        ".cache/ocr/red-blue-n3-1000-practice/images/page_226.jpg",
+        ".cache/ocr/red-blue-n3-1000-practice/images/page_228.jpg",
+        ".cache/ocr/red-blue-n3-1000-practice/images/page_230.jpg",
+        ".cache/ocr/red-blue-n3-1000-practice/images/page_232.jpg",
+        ".cache/ocr/red-blue-n3-1000-practice/images/page_234.jpg"
+      ]
+    },
+    {
+      "kind": "answers",
+      "title": "原书答案解析",
+      "bookPages": "218-228",
+      "pdfPages": "225-235",
+      "images": [
+        ".cache/ocr/red-blue-n3-1000-practice/images/page_225.jpg",
+        ".cache/ocr/red-blue-n3-1000-practice/images/page_227.jpg",
+        ".cache/ocr/red-blue-n3-1000-practice/images/page_229.jpg",
+        ".cache/ocr/red-blue-n3-1000-practice/images/page_231.jpg",
+        ".cache/ocr/red-blue-n3-1000-practice/images/page_233.jpg",
+        ".cache/ocr/red-blue-n3-1000-practice/images/page_235.jpg"
+      ]
+    }
+  ],
+  "sourceTextTests": [
+    {
+      "id": "Q649",
+      "part": "Unit 19",
+      "type": "文字",
+      "prompt": "彼は多くの財産を**残した**らしい。 選択肢：1 すごした / 2 くらした / 3 なおした / 4 のこした",
+      "answer": "4",
+      "explanation": "詞彙點：残す（のこす）。表示「留下」。"
+    },
+    {
+      "id": "Q650",
+      "part": "Unit 19",
+      "type": "文字",
+      "prompt": "この論文は1950年に**発表**されました。 選択肢：1 はびょう / 2 ぱびょう / 3 はっぴょう / 4 ぱっぴょう",
+      "answer": "3",
+      "explanation": "詞彙點：発表（はっぴょう）。表示「发表、公布」。"
+    },
+    {
+      "id": "Q651",
+      "part": "Unit 19",
+      "type": "語彙",
+      "prompt": "このチョコレートは（　）期限が半年も過ぎた。 選択肢：1 賞味 / 2 試食 / 3 味見 / 4 食品",
+      "answer": "1",
+      "explanation": "詞彙點：賞味期限（しょうみきげん）。表示「最佳食用期限」。"
+    },
+    {
+      "id": "Q652",
+      "part": "Unit 19",
+      "type": "語彙",
+      "prompt": "（　）きたばかりで、近所に知り合いがいません。 選択肢：1 歩き回って / 2 引っ越して / 3 走り回って / 4 乗り過ごして",
+      "answer": "2",
+      "explanation": "詞彙點：引っ越す（ひっこす）。表示「搬家」。"
+    },
+    {
+      "id": "Q653",
+      "part": "Unit 19",
+      "type": "文法",
+      "prompt": "物理学や化学（　）理系科目にあまり興味がありません。 選択肢：1 という / 2 といわれる / 3 といった / 4 といわれた",
+      "answer": "3",
+      "explanation": "語法點：〜といった。表示举例。"
+    },
+    {
+      "id": "Q654",
+      "part": "Unit 19",
+      "type": "文法",
+      "prompt": "彼女は新しい携帯電話をとても（　）。 選択肢：1 欲しい / 2 欲しがっている / 3 欲しいようだ / 4 欲しがっていく",
+      "answer": "2",
+      "explanation": "語法點：〜を欲しがっている。表示第三人称想要某物。"
+    },
+    {
+      "id": "Q655",
+      "part": "Unit 19",
+      "type": "文字",
+      "prompt": "コストがかかりすぎて**赤字**になった。 選択肢：1 せきじ / 2 あかじ / 3 せきな / 4 あかな",
+      "answer": "2",
+      "explanation": "詞彙點：赤字（あかじ）。表示「亏损、赤字」。"
+    },
+    {
+      "id": "Q656",
+      "part": "Unit 19",
+      "type": "文字",
+      "prompt": "彼女は自分の考えが正しいと強く**主張**した。 選択肢：1 しゅちょう / 2 しゅっちょう / 3 しょちょう / 4 しょっちょう",
+      "answer": "1",
+      "explanation": "詞彙點：主張（しゅちょう）。表示「主张」。"
+    },
+    {
+      "id": "Q657",
+      "part": "Unit 19",
+      "type": "語彙",
+      "prompt": "休日はよく（　）を履きます。 選択肢：1 コーナー / 2 カーナビ / 3 ガレージ / 4 ジーンズ",
+      "answer": "4",
+      "explanation": "詞彙點：ジーンズ。表示「牛仔裤」。"
+    },
+    {
+      "id": "Q658",
+      "part": "Unit 19",
+      "type": "文法",
+      "prompt": "校長先生を（　）多くの先生たちが文化祭の式典に出席しました。 選択肢：1 はじめる / 2 はじめている / 3 はじめて / 4 はじめとする",
+      "answer": "4",
+      "explanation": "語法點：名詞＋をはじめとする。表示「以……为首」。"
+    },
+    {
+      "id": "Q659",
+      "part": "Unit 19",
+      "type": "文法",
+      "prompt": "ネックレスのプレゼントを（　）のに、妻はあまり喜んでくれなかった。 選択肢：1 買ってくる / 2 買ってきた / 3 買っていく / 4 買っていった",
+      "answer": "2",
+      "explanation": "語法點：〜てくる。表示做完动作后回到基准点。"
+    },
+    {
+      "id": "Q660",
+      "part": "Unit 19",
+      "type": "文字",
+      "prompt": "会議を予定どおりに**進めて**いきます。 選択肢：1 いじめて / 2 あたためて / 3 すすめて / 4 たしかめて",
+      "answer": "3",
+      "explanation": "詞彙點：進める（すすめる）。表示「推进、进行」。"
+    },
+    {
+      "id": "Q661",
+      "part": "Unit 19",
+      "type": "文字",
+      "prompt": "このソフトを使うと、データの**処理**が簡単にできます。 選択肢：1 しょり / 2 しょうり / 3 しゅうり / 4 じょうり",
+      "answer": "1",
+      "explanation": "詞彙點：処理（しょり）。表示「处理」。"
+    },
+    {
+      "id": "Q662",
+      "part": "Unit 19",
+      "type": "語彙",
+      "prompt": "このヒット商品は飛ぶような（　）です。 選択肢：1 売り上げ / 2 売れ残り / 3 売り出し / 4 売れ行き",
+      "answer": "4",
+      "explanation": "詞彙點：売れ行き（うれゆき）。表示「销路、销售情况」。"
+    },
+    {
+      "id": "Q663",
+      "part": "Unit 19",
+      "type": "文法",
+      "prompt": "最近、雨ばかりだね。来週は晴れる（　）ね。 選択肢：1 という / 2 といった / 3 といい / 4 とよかった",
+      "answer": "3",
+      "explanation": "語法點：〜といい。表示愿望「要是……就好了」。"
+    },
+    {
+      "id": "Q664",
+      "part": "Unit 19",
+      "type": "文法",
+      "prompt": "若い（　）いろいろなことに挑戦してみたいです。 選択肢：1 ところに / 2 うえは / 3 ついでに / 4 うちは",
+      "answer": "4",
+      "explanation": "語法點：〜うちは。表示「在……期间」。"
+    },
+    {
+      "id": "Q665",
+      "part": "Unit 19",
+      "type": "文字",
+      "prompt": "ここから中央銀行の**看板**が見えます。 選択肢：1 かんばん / 2 かんぱん / 3 がんいた / 4 がんぱん",
+      "answer": "1",
+      "explanation": "詞彙點：看板（かんばん）。表示「招牌」。"
+    },
+    {
+      "id": "Q666",
+      "part": "Unit 19",
+      "type": "文字",
+      "prompt": "図書館から借りた本を**返却**しました。 選択肢：1 へんきゃつ / 2 へんきゃく / 3 はんきゃつ / 4 はんきゃく",
+      "answer": "2",
+      "explanation": "詞彙點：返却（へんきゃく）。表示「归还」。"
+    },
+    {
+      "id": "Q667",
+      "part": "Unit 19",
+      "type": "語彙",
+      "prompt": "（　）すぐ会えるから、心配しなくていいよ。 選択肢：1 かえって / 2 どうも / 3 たちまち / 4 どうせ",
+      "answer": "4",
+      "explanation": "詞彙點：どうせ。表示「反正、终归」。"
+    },
+    {
+      "id": "Q668",
+      "part": "Unit 19",
+      "type": "文法",
+      "prompt": "仕事を辞めて日本に留学（　）つもりです。 選択肢：1 する / 2 しよう / 3 した / 4 したい",
+      "answer": "1",
+      "explanation": "語法點：動詞辞書形＋つもりだ。表示打算做某事。"
+    },
+    {
+      "id": "Q669",
+      "part": "Unit 19",
+      "type": "文法",
+      "prompt": "時代の変化に（　）、情報の伝達手段も変わってきました。 選択肢：1 かけて / 2 つれて / 3 おいて / 4 つけて",
+      "answer": "2",
+      "explanation": "語法點：〜につれて。表示「随着……」。"
+    },
+    {
+      "id": "Q670",
+      "part": "Unit 19",
+      "type": "文字",
+      "prompt": "急な仕事で、彼女とのデートの約束を**破りました**。 選択肢：1 しまりました / 2 ふとりました / 3 とまりました / 4 やぶりました",
+      "answer": "4",
+      "explanation": "詞彙點：破る（やぶる）。表示「打破、违反」。"
+    },
+    {
+      "id": "Q671",
+      "part": "Unit 19",
+      "type": "文字",
+      "prompt": "この頃、**受験**の準備でとても忙しかった。 選択肢：1 じゅけん / 2 じゅうけん / 3 じゅげん / 4 じゅうげん",
+      "answer": "1",
+      "explanation": "詞彙點：受験（じゅけん）。表示「应考、报考」。"
+    },
+    {
+      "id": "Q672",
+      "part": "Unit 19",
+      "type": "語彙",
+      "prompt": "ダイエット中なので、（　）を計算して食事をとる。 選択肢：1 コンテナ / 2 カロリー / 3 カプセル / 4 スカーフ",
+      "answer": "2",
+      "explanation": "詞彙點：カロリー。表示「卡路里」。"
+    },
+    {
+      "id": "Q673",
+      "part": "Unit 19",
+      "type": "文法",
+      "prompt": "（授業ルール）まず、授業中は静かにする（　）。 選択肢：1 もの / 2 の / 3 ため / 4 こと",
+      "answer": "4",
+      "explanation": "語法點：動詞辞書形＋こと。表示规则或命令。"
+    },
+    {
+      "id": "Q674",
+      "part": "Unit 19",
+      "type": "文法",
+      "prompt": "危ないですから、子どもに（　）でください。 選択肢：1 触られない / 2 触っていない / 3 触らせない / 4 触らせられない",
+      "answer": "3",
+      "explanation": "語法點：〜させないでください。表示「请不要让……做……」。"
+    },
+    {
+      "id": "Q675",
+      "part": "Unit 19",
+      "type": "文字",
+      "prompt": "わたしの趣味は**音楽**を聞くことです。 選択肢：1 いんがく / 2 いんらく / 3 おんがく / 4 おんらく",
+      "answer": "3",
+      "explanation": "詞彙點：音楽（おんがく）。表示「音乐」。"
+    },
+    {
+      "id": "Q676",
+      "part": "Unit 19",
+      "type": "文字",
+      "prompt": "家族と一緒に**旅行**に行きたいです。 選択肢：1 りょこう / 2 りょうこう / 3 りょぎょう / 4 りょうぎょう",
+      "answer": "1",
+      "explanation": "詞彙點：旅行（りょこう）。表示「旅行」。"
+    },
+    {
+      "id": "Q677",
+      "part": "Unit 19",
+      "type": "語彙",
+      "prompt": "ビルの5階から落ちた男の子は（　）に助かった。 選択肢：1 実用的 / 2 自動的 / 3 基本的 / 4 奇跡的",
+      "answer": "4",
+      "explanation": "詞彙點：奇跡的（きせきてき）。表示「奇迹般的」。"
+    },
+    {
+      "id": "Q678",
+      "part": "Unit 19",
+      "type": "文法",
+      "prompt": "わたしのほう（　）謝るべきです。本当にすみませんでした。 選択肢：1 まで / 2 こそ / 3 さえ / 4 から",
+      "answer": "2",
+      "explanation": "語法點：名詞＋こそ。表示强调「正是……」。"
+    },
+    {
+      "id": "Q679",
+      "part": "Unit 19",
+      "type": "文法",
+      "prompt": "この度は大変お世話になりまして、心からお礼を（　）。 選択肢：1 上がります / 2 申し上げます / 3 言わせます / 4 おっしゃいます",
+      "answer": "2",
+      "explanation": "語法點：申し上げます。「言う」的自谦语。"
+    }
+  ]
+}

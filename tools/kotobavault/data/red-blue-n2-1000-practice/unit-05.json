@@ -1,0 +1,353 @@
+{
+  "schemaVersion": 1,
+  "unit": {
+    "id": "red-blue-n2-1000-practice-unit-05",
+    "title": "红蓝宝书1000题 - N2 Unit 5",
+    "type": "practice_unit",
+    "status": "manual-reviewed-draft",
+    "tags": [
+      "jlpt",
+      "n2",
+      "practice",
+      "vocabulary",
+      "grammar",
+      "red-blue-1000",
+      "manual-entry"
+    ],
+    "sourceId": "source-red-blue-n2-1000-practice",
+    "sourcePages": [
+      55,
+      66
+    ],
+    "created": "2026-05-27",
+    "updated": "2026-05-27",
+    "scope": {
+      "Question range": "Q145-Q180",
+      "Source pages": "PDF pages 55-66",
+      "Page-image cache": "`.cache/ocr/red-blue-n2-1000-practice/`"
+    },
+    "contentPath": "content/items/red-blue-n2-1000-practice/unit-05.md"
+  },
+  "vocabulary": [],
+  "reviewCards": [],
+  "sourceTestPages": [
+    {
+      "kind": "questions",
+      "title": "练习题",
+      "bookPages": "49-59",
+      "pdfPages": "55-65",
+      "images": [
+        ".cache/ocr/red-blue-n2-1000-practice/images/page_055.jpg",
+        ".cache/ocr/red-blue-n2-1000-practice/images/page_057.jpg",
+        ".cache/ocr/red-blue-n2-1000-practice/images/page_059.jpg",
+        ".cache/ocr/red-blue-n2-1000-practice/images/page_061.jpg",
+        ".cache/ocr/red-blue-n2-1000-practice/images/page_063.jpg",
+        ".cache/ocr/red-blue-n2-1000-practice/images/page_065.jpg"
+      ]
+    },
+    {
+      "kind": "answers",
+      "title": "答案解析",
+      "bookPages": "50-60",
+      "pdfPages": "56-66",
+      "images": [
+        ".cache/ocr/red-blue-n2-1000-practice/images/page_056.jpg",
+        ".cache/ocr/red-blue-n2-1000-practice/images/page_058.jpg",
+        ".cache/ocr/red-blue-n2-1000-practice/images/page_060.jpg",
+        ".cache/ocr/red-blue-n2-1000-practice/images/page_062.jpg",
+        ".cache/ocr/red-blue-n2-1000-practice/images/page_064.jpg",
+        ".cache/ocr/red-blue-n2-1000-practice/images/page_066.jpg"
+      ]
+    }
+  ],
+  "sourceTextTests": [
+    {
+      "id": "Q145",
+      "part": "N2 Unit 5",
+      "type": "文字",
+      "prompt": "この島は海に**囲まれて**景色がすばらしい。 選択肢：1 よまれて / 2 おがまれて / 3 かこまれて / 4 このまれて",
+      "answer": "3",
+      "explanation": "考点：囲まれて。读音是「かこまれて」。"
+    },
+    {
+      "id": "Q146",
+      "part": "N2 Unit 5",
+      "type": "文字",
+      "prompt": "携帯電話をマナーモードに**設定**する。 選択肢：1 せってい / 2 せつてい / 3 せっしょう / 4 せつじょう",
+      "answer": "1",
+      "explanation": "考点：設定。读音是「せってい」。"
+    },
+    {
+      "id": "Q147",
+      "part": "N2 Unit 5",
+      "type": "語彙",
+      "prompt": "3歳の息子はおもちゃの車を（　）するのが大好きだ。 選択肢：1 分配 / 2 分別 / 3 分離 / 4 分解",
+      "answer": "4",
+      "explanation": "词汇点：分解。该词/表达最符合句意。"
+    },
+    {
+      "id": "Q148",
+      "part": "N2 Unit 5",
+      "type": "語彙",
+      "prompt": "市場の多様なニーズに（　）ために、新製品を開発する。 選択肢：1 応じる / 2 応える / 3 したがう / 4 ともなう",
+      "answer": "2",
+      "explanation": "词汇点：応える。该词/表达最符合句意。"
+    },
+    {
+      "id": "Q149",
+      "part": "N2 Unit 5",
+      "type": "文法",
+      "prompt": "詳しく説明しないと、みんなの誤解を招くことに（　）。 選択肢：1 なりかねない / 2 なりきれない / 3 なりっこない / 4 なりようがない",
+      "answer": "1",
+      "explanation": "文法点：なりかねない。该形式符合句子的接续和语义。"
+    },
+    {
+      "id": "Q150",
+      "part": "N2 Unit 5",
+      "type": "文法",
+      "prompt": "早稲田大学を受験する（　）、どんな準備が必要でしょうか。 選択肢：1 としても / 2 ということは / 3 としたら / 4 というものは",
+      "answer": "3",
+      "explanation": "文法点：としたら。该形式符合句子的接续和语义。"
+    },
+    {
+      "id": "Q151",
+      "part": "N2 Unit 5",
+      "type": "文字",
+      "prompt": "社長は誰にでも**平等**に接する。 選択肢：1 びょうとう / 2 びょうどう / 3 へいとう / 4 へいどう",
+      "answer": "2",
+      "explanation": "考点：平等。读音是「びょうどう」。"
+    },
+    {
+      "id": "Q152",
+      "part": "N2 Unit 5",
+      "type": "文字",
+      "prompt": "ドラマ『おしん』は**国境**を越えて多くの人々に愛されてきた。 選択肢：1 こくきょう / 2 こくきょ / 3 くにざかい / 4 こっきょう",
+      "answer": "4",
+      "explanation": "考点：国境。读音是「こっきょう」。"
+    },
+    {
+      "id": "Q153",
+      "part": "N2 Unit 5",
+      "type": "語彙",
+      "prompt": "一生懸命に取り組んでいる人は（　）も早い。 選択肢：1 達成 / 2 上達 / 3 達人 / 4 発達",
+      "answer": "2",
+      "explanation": "词汇点：上達。该词/表达最符合句意。"
+    },
+    {
+      "id": "Q154",
+      "part": "N2 Unit 5",
+      "type": "語彙",
+      "prompt": "大事な書類を（　）に入れて保存する。 選択肢：1 フリーター / 2 ファースト / 3 ファイル / 4 ブローチ",
+      "answer": "3",
+      "explanation": "词汇点：ファイル。该词/表达最符合句意。"
+    },
+    {
+      "id": "Q155",
+      "part": "N2 Unit 5",
+      "type": "文法",
+      "prompt": "仲間の信頼を裏切るなんて、（　）がたいことだ。 選択肢：1 許す / 2 許そう / 3 許せる / 4 許し",
+      "answer": "4",
+      "explanation": "文法点：許し。该形式符合句子的接续和语义。"
+    },
+    {
+      "id": "Q156",
+      "part": "N2 Unit 5",
+      "type": "文法",
+      "prompt": "久々の家族旅行（　）、温泉旅館に一泊するぐらいだ。 選択肢：1 といっても / 2 といったら / 3 といえば / 4 というより",
+      "answer": "1",
+      "explanation": "文法点：といっても。该形式符合句子的接续和语义。"
+    },
+    {
+      "id": "Q157",
+      "part": "N2 Unit 5",
+      "type": "文字",
+      "prompt": "自分の**弱点**を克服し、強みを伸ばす。 選択肢：1 じゃくてん / 2 じゃってん / 3 よわてん / 4 よわでん",
+      "answer": "1",
+      "explanation": "考点：弱点。读音是「じゃくてん」。"
+    },
+    {
+      "id": "Q158",
+      "part": "N2 Unit 5",
+      "type": "文字",
+      "prompt": "この辺りの建物には異国の**趣**がある。 選択肢：1 くちべに / 2 いきおい / 3 かきとめ / 4 おもむき",
+      "answer": "4",
+      "explanation": "考点：趣。读音是「おもむき」。"
+    },
+    {
+      "id": "Q159",
+      "part": "N2 Unit 5",
+      "type": "語彙",
+      "prompt": "高橋さんはしっかり者で何でも（　）にこなすタイプだ。 選択肢：1 安易 / 2 得意 / 3 器用 / 4 快適",
+      "answer": "3",
+      "explanation": "词汇点：器用。该词/表达最符合句意。"
+    },
+    {
+      "id": "Q160",
+      "part": "N2 Unit 5",
+      "type": "語彙",
+      "prompt": "今回のテロ事件は地元の観光業に大きな影響を（　）。 選択肢：1 ほどこした / 2 およぼした / 3 うごかした / 4 おどろかした",
+      "answer": "2",
+      "explanation": "词汇点：およぼした。该词/表达最符合句意。"
+    },
+    {
+      "id": "Q161",
+      "part": "N2 Unit 5",
+      "type": "文法",
+      "prompt": "親は子どものことを思っているから（　）、厳しくしつけるのだ。 選択肢：1 さえ / 2 ても / 3 こそ / 4 まで",
+      "answer": "3",
+      "explanation": "文法点：こそ。该形式符合句子的接续和语义。"
+    },
+    {
+      "id": "Q162",
+      "part": "N2 Unit 5",
+      "type": "文法",
+      "prompt": "今すぐ家を出てタクシーに乗って行けば、9時出発の新幹線に（　）。 選択肢：1 間に合わないこともない / 2 間に合わないことではない / 3 間に合わないそうもない / 4 間に合わないといけない",
+      "answer": "1",
+      "explanation": "文法点：間に合わないこともない。该形式符合句子的接续和语义。"
+    },
+    {
+      "id": "Q163",
+      "part": "N2 Unit 5",
+      "type": "文字",
+      "prompt": "このドレスはパーティーにはちょっと**地味**だと思う。 選択肢：1 ちみ / 2 ちあじ / 3 じみ / 4 じあじ",
+      "answer": "3",
+      "explanation": "考点：地味。读音是「じみ」。"
+    },
+    {
+      "id": "Q164",
+      "part": "N2 Unit 5",
+      "type": "文字",
+      "prompt": "すみません、**領収書**をお願いします。 選択肢：1 りょうしゅしょ / 2 りょうしゅうしょ / 3 りょしゅうしょ / 4 りょうしゅうしょう",
+      "answer": "2",
+      "explanation": "考点：領収書。读音是「りょうしゅうしょ」。"
+    },
+    {
+      "id": "Q165",
+      "part": "N2 Unit 5",
+      "type": "語彙",
+      "prompt": "このクッキーは賞味（　）が切れている。 選択肢：1 期間 / 2 時期 / 3 限定 / 4 期限",
+      "answer": "4",
+      "explanation": "词汇点：期限。该词/表达最符合句意。"
+    },
+    {
+      "id": "Q166",
+      "part": "N2 Unit 5",
+      "type": "語彙",
+      "prompt": "彼女はまだ失恋のショックから（　）いないようだ。 選択肢：1 立ち直って / 2 立ち入って / 3 立ち去って / 4 立ち止まって",
+      "answer": "1",
+      "explanation": "词汇点：立ち直って。该词/表达最符合句意。"
+    },
+    {
+      "id": "Q167",
+      "part": "N2 Unit 5",
+      "type": "文法",
+      "prompt": "日本語の勉強を（　）、日本文化にも興味を持つようになった。 選択肢：1 こめて / 2 はじめ / 3 中心に / 4 きっかけに",
+      "answer": "4",
+      "explanation": "文法点：きっかけに。该形式符合句子的接续和语义。"
+    },
+    {
+      "id": "Q168",
+      "part": "N2 Unit 5",
+      "type": "文法",
+      "prompt": "「酔っ払いにはかかわらないで、（　）大変だからね。」 選択肢：1 殴られましたら / 2 殴られるまでしたら / 3 殴られでもしたら / 4 殴られるでもしたら",
+      "answer": "3",
+      "explanation": "文法点：殴られでもしたら。该形式符合句子的接续和语义。"
+    },
+    {
+      "id": "Q169",
+      "part": "N2 Unit 5",
+      "type": "文字",
+      "prompt": "週末は、友だちと**芝居**を見に行く予定だ。 選択肢：1 しきょ / 2 しい / 3 しばふ / 4 しばい",
+      "answer": "4",
+      "explanation": "考点：芝居。读音是「しばい」。"
+    },
+    {
+      "id": "Q170",
+      "part": "N2 Unit 5",
+      "type": "文字",
+      "prompt": "**登山**途中、山小屋で一休みをとった。 選択肢：1 やまのぼり / 2 とりざん / 3 とざん / 4 とさん",
+      "answer": "3",
+      "explanation": "考点：登山。读音是「とざん」。"
+    },
+    {
+      "id": "Q171",
+      "part": "N2 Unit 5",
+      "type": "語彙",
+      "prompt": "母のお見合い話にはもう（　）だ。 選択肢：1 さっぱり / 2 うんざり / 3 ぼんやり / 4 うっかり",
+      "answer": "2",
+      "explanation": "词汇点：うんざり。该词/表达最符合句意。"
+    },
+    {
+      "id": "Q172",
+      "part": "N2 Unit 5",
+      "type": "語彙",
+      "prompt": "男の人がタバコを（　）、壁にもたれている。 選択肢：1 はさんで / 2 たくわえて / 3 くわえて / 4 かかえて",
+      "answer": "3",
+      "explanation": "词汇点：くわえて。该词/表达最符合句意。"
+    },
+    {
+      "id": "Q173",
+      "part": "N2 Unit 5",
+      "type": "文法",
+      "prompt": "彼女はすべてを知っているのに、何も（　）顔をしていた。 選択肢：1 知るかのような / 2 知らないかのような / 3 知っているかのような / 4 知っていないかのような",
+      "answer": "2",
+      "explanation": "文法点：知らないかのような。该形式符合句子的接续和语义。"
+    },
+    {
+      "id": "Q174",
+      "part": "N2 Unit 5",
+      "type": "文法",
+      "prompt": "個人情報の公開は他人に悪用（　）恐れがある。 選択肢：1 される / 2 された / 3 する / 4 した",
+      "answer": "1",
+      "explanation": "文法点：される。该形式符合句子的接续和语义。"
+    },
+    {
+      "id": "Q175",
+      "part": "N2 Unit 5",
+      "type": "文字",
+      "prompt": "彼女には黒の**毛皮**のコートが似合う。 選択肢：1 けかわ / 2 けがわ / 3 けいひ / 4 もうひ",
+      "answer": "2",
+      "explanation": "考点：毛皮。读音是「けがわ」。"
+    },
+    {
+      "id": "Q176",
+      "part": "N2 Unit 5",
+      "type": "文字",
+      "prompt": "パソコンがウイルスに**感染**して動かなくなった。 選択肢：1 かんせん / 2 かんぜん / 3 がんせん / 4 がんぜん",
+      "answer": "1",
+      "explanation": "考点：感染。读音是「かんせん」。"
+    },
+    {
+      "id": "Q177",
+      "part": "N2 Unit 5",
+      "type": "語彙",
+      "prompt": "甥は（　）の東大に受かって大喜びだ。 選択肢：1 希望 / 2 志向 / 3 志願 / 4 志望",
+      "answer": "4",
+      "explanation": "词汇点：志望。该词/表达最符合句意。"
+    },
+    {
+      "id": "Q178",
+      "part": "N2 Unit 5",
+      "type": "語彙",
+      "prompt": "息子には健康で明るく（　）人に育ってほしい。 選択肢：1 まぶしい / 2 はげしい / 3 たくましい / 4 このましい",
+      "answer": "3",
+      "explanation": "词汇点：たくましい。该词/表达最符合句意。"
+    },
+    {
+      "id": "Q179",
+      "part": "N2 Unit 5",
+      "type": "文法",
+      "prompt": "会議室をご利用の（　）は、受付で必要事項をご記入ください。 選択肢：1 際 / 2 最中 / 3 ころ / 4 ところ",
+      "answer": "1",
+      "explanation": "文法点：際。该形式符合句子的接续和语义。"
+    },
+    {
+      "id": "Q180",
+      "part": "N2 Unit 5",
+      "type": "文法",
+      "prompt": "（お知らせ）こちらのエレベーターはただいま点検につき（　）。 選択肢：1 ご利用になります / 2 ご利用になりません / 3 ご利用になれます / 4 ご利用になれません",
+      "answer": "4",
+      "explanation": "文法点：ご利用になれません。该形式符合句子的接续和语义。"
+    }
+  ]
+}

@@ -1,0 +1,2536 @@
+{
+  "schemaVersion": 1,
+  "unit": {
+    "id": "red-book-n2-vocab-unit-10",
+    "title": "红宝书 N2 文字词汇 - 第10单元",
+    "type": "vocabulary_unit",
+    "status": "ocr-draft",
+    "tags": [
+      "jlpt",
+      "n2",
+      "vocabulary",
+      "reading-practice",
+      "red-book",
+      "ocr-draft"
+    ],
+    "sourceId": "source-red-book-n2-vocab",
+    "sourcePages": [
+      133,
+      146
+    ],
+    "created": "2026-05-26",
+    "updated": "2026-05-26",
+    "scope": {
+      "Vocabulary range": "entries 1351-1500",
+      "Vocabulary pages": "PDF pages 133-143",
+      "Practice pages": "PDF pages 144-146",
+      "OCR cache": "`.cache/ocr/red-book-n2-vocab/`"
+    },
+    "contentPath": "content/items/red-book-n2-vocab/unit-10.md"
+  },
+  "vocabulary": [
+    {
+      "id": "1351",
+      "term": "人権",
+      "reading": "じんけん",
+      "partOfSpeech": "名",
+      "meaningHint": "人杖",
+      "examples": [
+        {
+          "japanese": "人権宣言",
+          "meaning": "人枚宣言"
+        },
+        {
+          "japanese": "基本的人権を保障する。",
+          "meaning": "保障基本人枚。"
+        }
+      ]
+    },
+    {
+      "id": "1352",
+      "term": "人件費",
+      "reading": "じんけんひ",
+      "partOfSpeech": "名",
+      "meaningHint": "人炭升支; 芳各支出的各項錏費的称",
+      "examples": [
+        {
+          "japanese": "人件費がかさむ。",
+          "meaning": "人炭升支増加。"
+        }
+      ]
+    },
+    {
+      "id": "1353",
+      "term": "進行",
+      "reading": "しんこう",
+      "partOfSpeech": "名/自他動3",
+      "meaningHint": "迸行; 前迸; 使・・・前迸",
+      "examples": [
+        {
+          "japanese": "列車が進行する。",
+          "meaning": "列牟前行。"
+        },
+        {
+          "japanese": "工事の進行が予定より遅い。",
+          "meaning": "工程迸度比預先汁剣来得慢。"
+        }
+      ]
+    },
+    {
+      "id": "1354",
+      "term": "信仰",
+      "reading": "しんこう",
+      "partOfSpeech": "名/他動3",
+      "meaningHint": "信仰; (虔誠地)相信(神佛等)",
+      "examples": [
+        {
+          "japanese": "信仰心",
+          "meaning": "信仰心,虔城的心"
+        },
+        {
+          "japanese": "神を信仰する。",
+          "meaning": "相信神炅。"
+        }
+      ]
+    },
+    {
+      "id": "1355",
+      "term": "人工林",
+      "reading": "じんこうりん",
+      "partOfSpeech": "名",
+      "meaningHint": "人造柑林天然林(てんねんりん)③[名]天然林",
+      "examples": []
+    },
+    {
+      "id": "1356",
+      "term": "新婚",
+      "reading": "しんこん",
+      "partOfSpeech": "名",
+      "meaningHint": "新婚; 指剛結婚不久",
+      "examples": [
+        {
+          "japanese": "新婚夫婦",
+          "meaning": "新婚夫如"
+        },
+        {
+          "japanese": "新婚旅行",
+          "meaning": "新婚旅行,蜜月旅行"
+        }
+      ]
+    },
+    {
+      "id": "1357",
+      "term": "審査",
+      "reading": "しんさ",
+      "partOfSpeech": "名/他動3",
+      "meaningHint": "市査; 評判是否合格或仇劣",
+      "examples": []
+    },
+    {
+      "id": "1358",
+      "term": "震災",
+      "reading": "しんさい",
+      "partOfSpeech": "名",
+      "meaningHint": "震実; 地震造成的実害",
+      "examples": [
+        {
+          "japanese": "震災記念日",
+          "meaning": "震実記念日"
+        },
+        {
+          "japanese": "関東大震災",
+          "meaning": "美家大地震,友生于1923年9月1日的震級カ7.9級的大地震"
+        }
+      ]
+    },
+    {
+      "id": "1359",
+      "term": "紳士",
+      "reading": "しんし",
+      "partOfSpeech": "名",
+      "meaningHint": "坤士; 有教界、憧礼貌的男性対男子的敬称士用/男十用",
+      "examples": []
+    },
+    {
+      "id": "1360",
+      "term": "信者",
+      "reading": "しんじゃ",
+      "partOfSpeech": "名",
+      "meaningHint": "信徒",
+      "examples": [
+        {
+          "japanese": "キリスト教信者",
+          "meaning": "基督教信徒"
+        }
+      ]
+    },
+    {
+      "id": "1361",
+      "term": "人種",
+      "reading": "じんしゅ",
+      "partOfSpeech": "名",
+      "meaningHint": "人神; 神族; 按某一方面差昇(並、生活月慣等)分美形成的具有某方面共同特征的神群",
+      "examples": [
+        {
+          "japanese": "人種差別",
+          "meaning": "神族岐視"
+        },
+        {
+          "japanese": "仕事を生きがいとする人種",
+          "meaning": "把工作当作人生意文的一群人"
+        }
+      ]
+    },
+    {
+      "id": "1362",
+      "term": "進出",
+      "reading": "しんしゆっ",
+      "partOfSpeech": "名/自動3",
+      "meaningHint": "迸人; 迸到打人; 向・・・・・・展; 拡張; 迸軍",
+      "examples": [
+        {
+          "japanese": "決勝戦に進出する。",
+          "meaning": "迸人决賽。力、いがし"
+        },
+        {
+          "japanese": "海外に進出する。",
+          "meaning": "打迸海外(市坊)。"
+        }
+      ]
+    },
+    {
+      "id": "1363",
+      "term": "心身",
+      "reading": "しんしん",
+      "partOfSpeech": "名",
+      "meaningHint": "身心っ力、",
+      "examples": [
+        {
+          "japanese": "心身ともに疲れる。",
+          "meaning": "身心倶疲。"
+        }
+      ]
+    },
+    {
+      "id": "1364",
+      "term": "新人",
+      "reading": "しんじん",
+      "partOfSpeech": "名",
+      "meaningHint": "新人; 新踏人社会的人; 新成量",
+      "examples": [
+        {
+          "japanese": "新人を教育する。",
+          "meaning": "教育(培訓)新人。"
+        }
+      ]
+    },
+    {
+      "id": "1365",
+      "term": "人身事故",
+      "reading": "じんしんじこ",
+      "partOfSpeech": "名",
+      "meaningHint": "人身事故; 仂亡事故; 特指交通事故",
+      "examples": [
+        {
+          "japanese": "人身事故で死亡する。",
+          "meaning": "在人身事故中死亡。"
+        }
+      ]
+    },
+    {
+      "id": "1366",
+      "term": "申請",
+      "reading": "しんせい",
+      "partOfSpeech": "名/他動3",
+      "meaningHint": "申清",
+      "examples": [
+        {
+          "japanese": "申請書類",
+          "meaning": "申清文件"
+        },
+        {
+          "japanese": "奨学金を申請する。",
+          "meaning": "申清奘学金。"
+        }
+      ]
+    },
+    {
+      "id": "1367",
+      "term": "人造",
+      "reading": "じんぞう",
+      "partOfSpeech": "名",
+      "meaningHint": "人造; 人工制造",
+      "examples": [
+        {
+          "japanese": "人造真珠",
+          "meaning": "人造珍珠"
+        },
+        {
+          "japanese": "人造宝石",
+          "meaning": "人造宝石"
+        }
+      ]
+    },
+    {
+      "id": "1368",
+      "term": "親族",
+      "reading": "しんぞく",
+      "partOfSpeech": "名",
+      "meaningHint": "奈戚; 有血縁美系的人・身内(みうち)⑨[名]奈属; 自家人・親類(しんるい)⑨[名〕奈戚; 近奈、姻余的",
+      "examples": []
+    },
+    {
+      "id": "1369",
+      "term": "身体",
+      "reading": "しんたい",
+      "partOfSpeech": "名",
+      "meaningHint": "身体; 躯体",
+      "examples": [
+        {
+          "japanese": "身体を鍛える。",
+          "meaning": "緞燎身体。"
+        }
+      ]
+    },
+    {
+      "id": "1370",
+      "term": "寝台",
+      "reading": "しんだい",
+      "partOfSpeech": "名",
+      "meaningHint": "床舗; 臣ト舗",
+      "examples": [
+        {
+          "japanese": "寝台列車",
+          "meaning": "臣ト舖火牟"
+        }
+      ]
+    },
+    {
+      "id": "1371",
+      "term": "人体",
+      "reading": "じんたい",
+      "partOfSpeech": "名",
+      "meaningHint": "人体; 人的身体",
+      "examples": []
+    },
+    {
+      "id": "1372",
+      "term": "進度",
+      "reading": "しんど",
+      "partOfSpeech": "名",
+      "meaningHint": "迸度; 迸展的程度",
+      "examples": [
+        {
+          "japanese": "進度表",
+          "meaning": "迸度表"
+        }
+      ]
+    },
+    {
+      "id": "1373",
+      "term": "振動",
+      "reading": "しんどう",
+      "partOfSpeech": "名/自動3",
+      "meaningHint": "振劫; 撰劫; 使",
+      "examples": [
+        {
+          "japanese": "振り子が振動する。",
+          "meaning": "(鉀等的)撰撰劫"
+        },
+        {
+          "japanese": "振動電流",
+          "meaning": "振劫屯流,由屯振劫引起,強度、方向作周期性変化的屯流"
+        }
+      ]
+    },
+    {
+      "id": "1374",
+      "term": "震動",
+      "reading": "しんどう",
+      "partOfSpeech": "名/自動3",
+      "meaningHint": "震幼",
+      "examples": [
+        {
+          "japanese": "大地が震動する。",
+          "meaning": "大地左生震劫。"
+        }
+      ]
+    },
+    {
+      "id": "1375",
+      "term": "侵入",
+      "reading": "しんにゆう",
+      "partOfSpeech": "名/自動3",
+      "meaningHint": "侵人; 非法迸人人侵; 侵略",
+      "examples": [
+        {
+          "japanese": "不法侵入",
+          "meaning": "非法人侵"
+        },
+        {
+          "japanese": "隣国へ侵入する。",
+          "meaning": "人侵鄧国。"
+        }
+      ]
+    },
+    {
+      "id": "1376",
+      "term": "新入生",
+      "reading": "しんにゆうせい",
+      "partOfSpeech": "名",
+      "meaningHint": "新生; 新人学的学生",
+      "examples": [
+        {
+          "japanese": "新人生歓迎コンパ",
+          "meaning": "カ炊迎新生而挙亦的朕炊会"
+        }
+      ]
+    },
+    {
+      "id": "1377",
+      "term": "心配事",
+      "reading": "しんばいごと",
+      "partOfSpeech": "名",
+      "meaningHint": "心事; 担忱、カ雉的事情・隠し事(かくしごと)⑨③[名〕隠情; 隠瞞",
+      "examples": []
+    },
+    {
+      "id": "1378",
+      "term": "審判",
+      "reading": "しんばん",
+      "partOfSpeech": "名",
+      "meaningHint": "市判; 対案件的市理、判决; 裁判; 在体育比賽中判定肚負、犯規等",
+      "examples": [
+        {
+          "japanese": "審判を受ける。",
+          "meaning": "接受市判。"
+        },
+        {
+          "japanese": "審判を下す。",
+          "meaning": "判决。"
+        }
+      ]
+    },
+    {
+      "id": "1379",
+      "term": "人文",
+      "reading": "じんぶん",
+      "partOfSpeech": "名",
+      "meaningHint": "人文; 人与文化; 人英的文化与文明",
+      "examples": [
+        {
+          "japanese": "人文科学",
+          "meaning": "有美人英文化的学同"
+        },
+        {
+          "japanese": "人文主義",
+          "meaning": "人本主文,人文主文"
+        }
+      ]
+    },
+    {
+      "id": "1380",
+      "term": "シンポル",
+      "reading": "シンポル",
+      "partOfSpeech": "名",
+      "meaningHint": "象征; 根据慣例約定俗成的符号",
+      "examples": [
+        {
+          "japanese": "富士山は日本のシンボルだ。",
+          "meaning": "富士山是日本的象征。"
+        },
+        {
+          "japanese": "シンボルマーク",
+          "meaning": "象征性記"
+        }
+      ]
+    },
+    {
+      "id": "1381",
+      "term": "人命",
+      "reading": "じんめい",
+      "partOfSpeech": "名",
+      "meaningHint": "人命; 人的性命",
+      "examples": [
+        {
+          "japanese": "人命に関わる問題",
+          "meaning": "美乎人命的同題"
+        },
+        {
+          "japanese": "人命を救助する。",
+          "meaning": "拯救性命。"
+        }
+      ]
+    },
+    {
+      "id": "1382",
+      "term": "深夜",
+      "reading": "しんや",
+      "partOfSpeech": "名",
+      "meaningHint": "深夜; 三更半夜",
+      "examples": [
+        {
+          "japanese": "深夜営業",
+          "meaning": "深夜菅並"
+        },
+        {
+          "japanese": "深夜ドラマ",
+          "meaning": "深夜刷"
+        }
+      ]
+    },
+    {
+      "id": "1383",
+      "term": "心理学",
+      "reading": "しんりがく",
+      "partOfSpeech": "名",
+      "meaningHint": "心理学",
+      "examples": [
+        {
+          "japanese": "応用心理学",
+          "meaning": "廱用心理学"
+        }
+      ]
+    },
+    {
+      "id": "1384",
+      "term": "侵略",
+      "reading": "しんりやく",
+      "partOfSpeech": "名/他動3",
+      "meaningHint": "侵略; 以武力或鋒済等各神手段侵犯他国",
+      "examples": [
+        {
+          "japanese": "侵略を行う。",
+          "meaning": "迸行侵略"
+        },
+        {
+          "japanese": "侵略戦争",
+          "meaning": "侵略故争"
+        }
+      ]
+    },
+    {
+      "id": "1385",
+      "term": "診療",
+      "reading": "しんりよう",
+      "partOfSpeech": "名/他動3",
+      "meaningHint": "珍疔; 治疔",
+      "examples": [
+        {
+          "japanese": "診療所",
+          "meaning": "珍所"
+        },
+        {
+          "japanese": "急患を診療する。",
+          "meaning": "珍治急珍患者。"
+        }
+      ]
+    },
+    {
+      "id": "1386",
+      "term": "進路",
+      "reading": "しんろ",
+      "partOfSpeech": "名",
+      "meaningHint": "前迸的方向、道路人)将来及展的方向; 前途",
+      "examples": [
+        {
+          "japanese": "進路指導",
+          "meaning": "升学指昇、就並指昻等"
+        },
+        {
+          "japanese": "そろそろ進路を決める時期だ。",
+          "meaning": "快要决定自己的前途了。"
+        }
+      ]
+    },
+    {
+      "id": "1387",
+      "term": "針路",
+      "reading": "しんろ",
+      "partOfSpeech": "名",
+      "meaningHint": "所指的方向; 方位点; 航; 航行的方向",
+      "examples": [
+        {
+          "japanese": "針路を東にとる。",
+          "meaning": "向家航行。"
+        }
+      ]
+    },
+    {
+      "id": "1388",
+      "term": "新郎新婦",
+      "reading": "しんろうしんぶ",
+      "partOfSpeech": "名",
+      "meaningHint": "新郎新娘",
+      "examples": [
+        {
+          "japanese": "新郎新婦の幸せを願う。",
+          "meaning": "祝愿新郎新娘幸福"
+        }
+      ]
+    },
+    {
+      "id": "1389",
+      "term": "神話",
+      "reading": "しんわ",
+      "partOfSpeech": "名",
+      "meaningHint": "神活",
+      "examples": [
+        {
+          "japanese": "神話の世界",
+          "meaning": "神活世界,童活世界"
+        },
+        {
+          "japanese": "神話が崩れた。",
+          "meaning": "神活崩場了。"
+        }
+      ]
+    },
+    {
+      "id": "1390",
+      "term": "巣",
+      "reading": "す",
+      "partOfSpeech": "名",
+      "meaningHint": "巣; 穴; (烏魯等的)窩; 人的住赴集穴; 賊窩; 坏蛋聚集的地方",
+      "examples": [
+        {
+          "japanese": "鳥の巣",
+          "meaning": "集"
+        },
+        {
+          "japanese": "悪の巣",
+          "meaning": "賊窩,黑据点"
+        }
+      ]
+    },
+    {
+      "id": "1391",
+      "term": "水準",
+      "reading": "すいじゅん",
+      "partOfSpeech": "名",
+      "meaningHint": "水准株准; 水平",
+      "examples": [
+        {
+          "japanese": "学力水準",
+          "meaning": "学力水平"
+        },
+        {
+          "japanese": "生活の水準を高める。",
+          "meaning": "提高生活水平。"
+        }
+      ]
+    },
+    {
+      "id": "1392",
+      "term": "推薦",
+      "reading": "すいせん",
+      "partOfSpeech": "名/他動3",
+      "meaningHint": "推荐; 推挙",
+      "examples": [
+        {
+          "japanese": "推薦状",
+          "meaning": "推荐信"
+        },
+        {
+          "japanese": "熱心に推薦する。",
+          "meaning": "熟情推荐。"
+        }
+      ]
+    },
+    {
+      "id": "1393",
+      "term": "水素",
+      "reading": "すいそ",
+      "partOfSpeech": "名",
+      "meaningHint": "最経的化学元素",
+      "examples": [
+        {
+          "japanese": "水素イオン",
+          "meaning": "氛禽子"
+        }
+      ]
+    },
+    {
+      "id": "1394",
+      "term": "推測",
+      "reading": "すいそく",
+      "partOfSpeech": "名/他動3",
+      "meaningHint": "推測; 猜測",
+      "examples": [
+        {
+          "japanese": "推測が当たる。",
+          "meaning": "猜中。"
+        },
+        {
+          "japanese": "由来を推測する。",
+          "meaning": "推測由来。"
+        }
+      ]
+    },
+    {
+      "id": "1395",
+      "term": "推量",
+      "reading": "すいりよう",
+      "partOfSpeech": "名/他動3",
+      "meaningHint": "推測; 推断推量表込",
+      "examples": []
+    },
+    {
+      "id": "1396",
+      "term": "垂直",
+      "reading": "すいちよく",
+      "partOfSpeech": "名/ナ形",
+      "meaningHint": "垂直; 船直; 宅直下垂",
+      "examples": [
+        {
+          "japanese": "垂直に交わる。",
+          "meaning": "垂直相交。"
+        },
+        {
+          "japanese": "垂直線",
+          "meaning": "垂残,船直我"
+        }
+      ]
+    },
+    {
+      "id": "1397",
+      "term": "推定",
+      "reading": "すいてい",
+      "partOfSpeech": "名/他動3",
+      "meaningHint": "推定; 推断没想; 假没; 估汁か力、く",
+      "examples": [
+        {
+          "japanese": "推定価格",
+          "meaning": "估价,預廾价格"
+        },
+        {
+          "japanese": "費用を推定する。",
+          "meaning": "推算費用,預估費用。"
+        }
+      ]
+    },
+    {
+      "id": "1398",
+      "term": "水滴",
+      "reading": "すいてき",
+      "partOfSpeech": "名",
+      "meaningHint": "水滴; 水珠",
+      "examples": [
+        {
+          "japanese": "水滴が落ちる。",
+          "meaning": "水滴落下。"
+        }
+      ]
+    },
+    {
+      "id": "1399",
+      "term": "雫",
+      "reading": "しずく",
+      "partOfSpeech": "名",
+      "meaningHint": "水滴",
+      "examples": []
+    },
+    {
+      "id": "1400",
+      "term": "水筒",
+      "reading": "すいとう",
+      "partOfSpeech": "名",
+      "meaningHint": "水筒; 水壷; 盛水的容器",
+      "examples": [
+        {
+          "japanese": "水筒を持参する。",
+          "meaning": "携帯水壷。"
+        }
+      ]
+    },
+    {
+      "id": "1401",
+      "term": "随筆",
+      "reading": "ずいひっ",
+      "partOfSpeech": "名",
+      "meaningHint": "随笵; 漫笵; 散文",
+      "examples": []
+    },
+    {
+      "id": "1402",
+      "term": "エッセイ/工ッセー",
+      "reading": "エッセイ/工ッセー",
+      "partOfSpeech": "名",
+      "meaningHint": "散文; 随毟",
+      "examples": []
+    },
+    {
+      "id": "1403",
+      "term": "水平",
+      "reading": "すいへい",
+      "partOfSpeech": "名/ナ形",
+      "meaningHint": "水平; 与重力呈垂直的方向普通; 一般水平",
+      "examples": [
+        {
+          "japanese": "水平距離",
+          "meaning": "水平距高"
+        },
+        {
+          "japanese": "収支が水平を保つ。",
+          "meaning": "收支保持平衡。"
+        }
+      ]
+    },
+    {
+      "id": "1404",
+      "term": "水平線",
+      "reading": "すいへいせん",
+      "partOfSpeech": "名",
+      "meaningHint": "水平残; 与水平",
+      "examples": []
+    },
+    {
+      "id": "1405",
+      "term": "地平線",
+      "reading": "ちいせん",
+      "partOfSpeech": "名",
+      "meaningHint": "地平",
+      "examples": []
+    },
+    {
+      "id": "1406",
+      "term": "水面",
+      "reading": "すいめん",
+      "partOfSpeech": "名",
+      "meaningHint": "水面; 水的表面",
+      "examples": [
+        {
+          "japanese": "水面に浮かぶ。",
+          "meaning": "浮在水面。"
+        }
+      ]
+    },
+    {
+      "id": "1407",
+      "term": "水面下",
+      "reading": "すいめんか",
+      "partOfSpeech": "名",
+      "meaningHint": "水中; 暗地里; 暗中",
+      "examples": []
+    },
+    {
+      "id": "1408",
+      "term": "数~",
+      "reading": "すう~",
+      "partOfSpeech": "接頭",
+      "meaningHint": "数个・・・・・; 若干",
+      "examples": [
+        {
+          "japanese": "数日",
+          "meaning": "几天,若干天"
+        },
+        {
+          "japanese": "数回",
+          "meaning": "几次,几回"
+        }
+      ]
+    },
+    {
+      "id": "1409",
+      "term": "数詞",
+      "reading": "すうし",
+      "partOfSpeech": "名",
+      "meaningHint": "数河",
+      "examples": [
+        {
+          "japanese": "基数詞",
+          "meaning": "基数河,表示数量的数祠"
+        },
+        {
+          "japanese": "序数詞",
+          "meaning": "序数河,表示順序的数祠"
+        }
+      ]
+    },
+    {
+      "id": "1410",
+      "term": "図々しい",
+      "reading": "ずうずうしい",
+      "partOfSpeech": "イ形",
+      "meaningHint": "臉皮厚; 満不在乎的; 厚顔无耻的",
+      "examples": [
+        {
+          "japanese": "本当に図々しいやつだ。",
+          "meaning": "真是个厚顔无耻的家伏。"
+        }
+      ]
+    },
+    {
+      "id": "1411",
+      "term": "すうっと",
+      "reading": "すうっと",
+      "partOfSpeech": "副",
+      "meaningHint": "「すっと」的強凋税法; 很久、很",
+      "examples": [
+        {
+          "japanese": "ずうっと会っていない。",
+          "meaning": "很久未見了。"
+        },
+        {
+          "japanese": "あの山のほうがずうっと高い。",
+          "meaning": "那山高得多。"
+        }
+      ]
+    },
+    {
+      "id": "1412",
+      "term": "末っ子",
+      "reading": "すえっこ",
+      "partOfSpeech": "名",
+      "meaningHint": "同胞兄弟中最小的那个; 老小; 老幺",
+      "examples": [
+        {
+          "japanese": "末っ子を可愛がる。",
+          "meaning": "疼愛最小的孩子。"
+        }
+      ]
+    },
+    {
+      "id": "1413",
+      "term": "据え付ける",
+      "reading": "すえつける",
+      "partOfSpeech": "他動2",
+      "meaningHint": "安装; 装配",
+      "examples": []
+    },
+    {
+      "id": "1414",
+      "term": "空かす",
+      "reading": "すかす",
+      "partOfSpeech": "他動1",
+      "meaningHint": "空着(肚子); 使空腹; 使・・・・・・処于空困状恣",
+      "examples": [
+        {
+          "japanese": "腹を空かす。",
+          "meaning": "俄着肚子。"
+        }
+      ]
+    },
+    {
+      "id": "1415",
+      "term": "図鑑",
+      "reading": "ずかん",
+      "partOfSpeech": "名",
+      "meaningHint": "囹崟; 收集同英事物并以照片、囹解加以税明的弔",
+      "examples": [
+        {
+          "japanese": "動物図鑑",
+          "meaning": "劫物圏筌"
+        },
+        {
+          "japanese": "鳥類図鑑",
+          "meaning": "英圏筌"
+        }
+      ]
+    },
+    {
+      "id": "1416",
+      "term": "隙",
+      "reading": "すき",
+      "partOfSpeech": "名",
+      "meaningHint": "空隙; 困暇漏洞; 疏忽; 可乘之机",
+      "examples": [
+        {
+          "japanese": "カーテンの隙から日差しがもれる。",
+          "meaning": "限光从窗帝的縫隙中透来。う力、が"
+        },
+        {
+          "japanese": "隙を伺う。",
+          "meaning": "伺机,趁可乘之机。"
+        }
+      ]
+    },
+    {
+      "id": "1417",
+      "term": "杉",
+      "reading": "すぎ",
+      "partOfSpeech": "名",
+      "meaningHint": "杉村; 長于山地",
+      "examples": [
+        {
+          "japanese": "杉並木",
+          "meaning": "成排的杉柑"
+        }
+      ]
+    },
+    {
+      "id": "1418",
+      "term": "透き通る",
+      "reading": "すきとおる",
+      "partOfSpeech": "自動1",
+      "meaningHint": "透明を(声音)清脆清澈",
+      "examples": [
+        {
+          "japanese": "透き通った肌",
+          "meaning": "清透的肌朕"
+        },
+        {
+          "japanese": "透き通った声",
+          "meaning": "清脆的声音"
+        }
+      ]
+    },
+    {
+      "id": "1419",
+      "term": "好く",
+      "reading": "すく",
+      "partOfSpeech": "他動1",
+      "meaningHint": "喜炊; 愛慕; 喜好; 嗜好",
+      "examples": [
+        {
+          "japanese": "人から好かれる人になりたい。",
+          "meaning": "想成カ被大家喜愛的人。好いて好かれて一緒になる。/彼此相髪走到一起。"
+        }
+      ]
+    },
+    {
+      "id": "1420",
+      "term": "救い",
+      "reading": "すくい",
+      "partOfSpeech": "名",
+      "meaningHint": "幇助; 救援; 拯救; 可以放寛心的状悉",
+      "examples": []
+    },
+    {
+      "id": "1421",
+      "term": "救う",
+      "reading": "すくう",
+      "partOfSpeech": "他動1",
+      "meaningHint": "救助; 帯忙解救; 拯救",
+      "examples": [
+        {
+          "japanese": "危ないところを救われた。",
+          "meaning": "在危急吋刻荻救。"
+        },
+        {
+          "japanese": "世を救う。",
+          "meaning": "救世。"
+        }
+      ]
+    },
+    {
+      "id": "1422",
+      "term": "優れる",
+      "reading": "すぐれる",
+      "partOfSpeech": "自動",
+      "meaningHint": "仇秀; 出食健",
+      "examples": [
+        {
+          "japanese": "優れた成績",
+          "meaning": "仇秀的成黷"
+        },
+        {
+          "japanese": "天気が優れない。",
+          "meaning": "天气不佳。"
+        }
+      ]
+    },
+    {
+      "id": "1423",
+      "term": "図形",
+      "reading": "ずけい",
+      "partOfSpeech": "名",
+      "meaningHint": "囹形; 圈示; 圏祥",
+      "examples": [
+        {
+          "japanese": "立体図形",
+          "meaning": "立体圏形"
+        },
+        {
+          "japanese": "図形化",
+          "meaning": "圈形化"
+        }
+      ]
+    },
+    {
+      "id": "1424",
+      "term": "筋",
+      "reading": "すじ",
+      "partOfSpeech": "名",
+      "meaningHint": "・残条; 条蚊竏錐; 肌肉; 筋; 血管; 条理; 緝; 道理情; 梗概素貭; 出身",
+      "examples": [
+        {
+          "japanese": "筋の多い野菜",
+          "meaning": "竏維半富的蔬菜"
+        },
+        {
+          "japanese": "青筋を立てる。",
+          "meaning": "青筋暴露。"
+        }
+      ]
+    },
+    {
+      "id": "1425",
+      "term": "~筋",
+      "reading": "~すじ",
+      "partOfSpeech": "接尾",
+      "meaningHint": "汁算鈿物的量祠; ・・・・条こうツ於よう",
+      "examples": [
+        {
+          "japanese": "一筋の光明",
+          "meaning": "一我光明"
+        },
+        {
+          "japanese": "二筋道",
+          "meaning": "襾条道,岔路"
+        }
+      ]
+    },
+    {
+      "id": "1426",
+      "term": "筋道",
+      "reading": "すじみち",
+      "partOfSpeech": "名",
+      "meaningHint": "道理; 条理; 順序; 程序",
+      "examples": [
+        {
+          "japanese": "話の筋道",
+          "meaning": "活的条理"
+        },
+        {
+          "japanese": "筋道を踏む。",
+          "meaning": "按照程序。"
+        }
+      ]
+    },
+    {
+      "id": "1427",
+      "term": "鈴",
+      "reading": "すず",
+      "partOfSpeech": "名",
+      "meaningHint": "鈴; 鈴",
+      "examples": [
+        {
+          "japanese": "鈴を鳴らす。",
+          "meaning": "敲鈴。・鈴を張ったような目/水炅的大眼晴・鈴を転がすような声/清脆悦耳的声音"
+        }
+      ]
+    },
+    {
+      "id": "1428",
+      "term": "進み",
+      "reading": "すすみ",
+      "partOfSpeech": "名",
+      "meaningHint": "前迸; 迸度; 迸歩; 長迸",
+      "examples": []
+    },
+    {
+      "id": "1429",
+      "term": "涼む",
+      "reading": "すずむ",
+      "partOfSpeech": "自動1",
+      "meaningHint": "乘凉; 蚋凉; 去凉爽的地方避暑",
+      "examples": [
+        {
+          "japanese": "夕方外に出て涼む。",
+          "meaning": "傍晩吋分出冂蚋凉。"
+        }
+      ]
+    },
+    {
+      "id": "1430",
+      "term": "涼み",
+      "reading": "すずみ",
+      "partOfSpeech": "名",
+      "meaningHint": "乘凉; 納凉",
+      "examples": []
+    },
+    {
+      "id": "1431",
+      "term": "勧め",
+      "reading": "すすめ",
+      "partOfSpeech": "名",
+      "meaningHint": "建; 幼告鼓励",
+      "examples": [
+        {
+          "japanese": "医者の勧めに従う。",
+          "meaning": "听从医生的建、幼告。"
+        },
+        {
+          "japanese": "学問の勧め",
+          "meaning": "鼓励学月"
+        }
+      ]
+    },
+    {
+      "id": "1432",
+      "term": "雀",
+      "reading": "すずめ",
+      "partOfSpeech": "名",
+      "meaningHint": "麻; 嘴的人; 喋喋不休的人消息炅通的人雀の涙/微乎其微; 一点点",
+      "examples": []
+    },
+    {
+      "id": "1433",
+      "term": "薦める",
+      "reading": "すすめる",
+      "partOfSpeech": "他動2",
+      "meaningHint": "推荐; 推挙",
+      "examples": [
+        {
+          "japanese": "新しい本を薦める。",
+          "meaning": "推荐新弔。"
+        },
+        {
+          "japanese": "会長に薦める。",
+          "meaning": "推荐力会。"
+        }
+      ]
+    },
+    {
+      "id": "1434",
+      "term": "推薦",
+      "reading": "すいせん",
+      "partOfSpeech": "名/他動3",
+      "meaningHint": "推荐; 推挙",
+      "examples": []
+    },
+    {
+      "id": "1435",
+      "term": "裾",
+      "reading": "すそ",
+      "partOfSpeech": "名",
+      "meaningHint": "(衣服的)下撰; 山麓下端; 末端",
+      "examples": [
+        {
+          "japanese": "着物の裾をさばく。",
+          "meaning": "整理和服下撰。"
+        },
+        {
+          "japanese": "山の裾",
+          "meaning": "山麓,山脚下"
+        }
+      ]
+    },
+    {
+      "id": "1436",
+      "term": "スタッフ",
+      "reading": "スタッフ",
+      "partOfSpeech": "名",
+      "meaningHint": "成量; (工作)人員",
+      "examples": [
+        {
+          "japanese": "編集スタッフ",
+          "meaning": "蝙緝人.員"
+        },
+        {
+          "japanese": "スタッフ全員が揃う。",
+          "meaning": "工作人炭全部到斉。"
+        }
+      ]
+    },
+    {
+      "id": "1437",
+      "term": "~スタンド",
+      "reading": "~スタンド",
+      "partOfSpeech": "接尾",
+      "meaningHint": "(置物)台; 售貨的地方; 看台; 覗食席",
+      "examples": [
+        {
+          "japanese": "インクスタンド",
+          "meaning": "墨水台"
+        },
+        {
+          "japanese": "ガソリンスタンド",
+          "meaning": "加油站"
+        }
+      ]
+    },
+    {
+      "id": "1438",
+      "term": "スチーム",
+      "reading": "スチーム",
+      "partOfSpeech": "名",
+      "meaningHint": "蒸汽",
+      "examples": [
+        {
+          "japanese": "スチームアイロン",
+          "meaning": "蒸汽熨斗"
+        },
+        {
+          "japanese": "スチームエンジン",
+          "meaning": "蒸汽机"
+        }
+      ]
+    },
+    {
+      "id": "1439",
+      "term": "スチュワーデス",
+      "reading": "スチュワーデス",
+      "partOfSpeech": "名",
+      "meaningHint": "空姐; 空中乘各量",
+      "examples": []
+    },
+    {
+      "id": "1440",
+      "term": "頭痛",
+      "reading": "ずつう",
+      "partOfSpeech": "名",
+      "meaningHint": "去痛煩悩; 担忱",
+      "examples": [
+        {
+          "japanese": "頭痛がする。",
+          "meaning": "去疼。頭痛の種/心病,煩悩的原因、根源"
+        }
+      ]
+    },
+    {
+      "id": "1441",
+      "term": "すっと",
+      "reading": "すっと",
+      "partOfSpeech": "副",
+      "meaningHint": "行劫経快地; 迸展順利地; 細地身心)舒惕",
+      "examples": [
+        {
+          "japanese": "目の前からすっと消えてしまう。",
+          "meaning": "瞬同从眼前消失。"
+        },
+        {
+          "japanese": "胸がすっとする。",
+          "meaning": "舒坦,心中惕快。"
+        }
+      ]
+    },
+    {
+      "id": "1442",
+      "term": "ステージ",
+      "reading": "ステージ",
+      "partOfSpeech": "名",
+      "meaningHint": "舞台; 台; 阮段",
+      "examples": [
+        {
+          "japanese": "ステージに立つ。",
+          "meaning": "登上舞台"
+        },
+        {
+          "japanese": "ライフステージ",
+          "meaning": "人生的(不同)險段"
+        }
+      ]
+    },
+    {
+      "id": "1443",
+      "term": "ステッキ",
+      "reading": "ステッキ",
+      "partOfSpeech": "名",
+      "meaningHint": "(西式)拐杖; 手杖",
+      "examples": [
+        {
+          "japanese": "ステッキをつく。",
+          "meaning": "抂拐杖"
+        }
+      ]
+    },
+    {
+      "id": "1444",
+      "term": "ステンレス",
+      "reading": "ステンレス",
+      "partOfSpeech": "名",
+      "meaningHint": "不銹鋼",
+      "examples": []
+    },
+    {
+      "id": "1445",
+      "term": "スチール",
+      "reading": "スチール",
+      "partOfSpeech": "名",
+      "meaningHint": "鋼鉄",
+      "examples": []
+    },
+    {
+      "id": "1446",
+      "term": "ストッキング",
+      "reading": "ストッキング",
+      "partOfSpeech": "名",
+      "meaningHint": "長筒林(的称)ソックス(socks)①[名」短株; 短筒裃",
+      "examples": []
+    },
+    {
+      "id": "1447",
+      "term": "スナック",
+      "reading": "スナック",
+      "partOfSpeech": "名",
+      "meaningHint": "零食; 小食; 点心",
+      "examples": [
+        {
+          "japanese": "スナックバー",
+          "meaning": "小吃店,小酒店"
+        },
+        {
+          "japanese": "スナック面",
+          "meaning": "快餐面,杯装方便面"
+        }
+      ]
+    },
+    {
+      "id": "1448",
+      "term": "頭脳",
+      "reading": "ずのう",
+      "partOfSpeech": "名",
+      "meaningHint": "去脳; 脯カ; 智カ去脯",
+      "examples": []
+    },
+    {
+      "id": "1449",
+      "term": "スパゲッティ",
+      "reading": "スパゲッティ",
+      "partOfSpeech": "名",
+      "meaningHint": "細長而非管状的意大利面条バスタ(pasta)①[名」意大利面食的急称",
+      "examples": []
+    },
+    {
+      "id": "1450",
+      "term": "素早い",
+      "reading": "すばやい",
+      "partOfSpeech": "イ形",
+      "meaningHint": "迅速的; 敏捷的; 干脆利落的",
+      "examples": [
+        {
+          "japanese": "素早い反応",
+          "meaning": "快速的反廱"
+        },
+        {
+          "japanese": "素早く見抜く。",
+          "meaning": "一眼洞穿。"
+        }
+      ]
+    },
+    {
+      "id": "1451",
+      "term": "スビーカ—",
+      "reading": "スビーカ—",
+      "partOfSpeech": "名",
+      "meaningHint": "税活的人声器; 拡音器",
+      "examples": [
+        {
+          "japanese": "ラウドスビーカー",
+          "meaning": "拡音器,喇叭"
+        }
+      ]
+    },
+    {
+      "id": "1452",
+      "term": "図表",
+      "reading": "ずひょう",
+      "partOfSpeech": "名",
+      "meaningHint": "圏表; 曲圏; 坐圏",
+      "examples": [
+        {
+          "japanese": "統計図表",
+          "meaning": "統計圏表"
+        },
+        {
+          "japanese": "図表にして説明する。",
+          "meaning": "制成表加以税明。"
+        }
+      ]
+    },
+    {
+      "id": "1453",
+      "term": "グラフ",
+      "reading": "グラフ",
+      "partOfSpeech": "名",
+      "meaningHint": "国表; 統廾圏表; 画扱; 画刊",
+      "examples": []
+    },
+    {
+      "id": "1454",
+      "term": "スポーッカー",
+      "reading": "スポーッカー",
+      "partOfSpeech": "名",
+      "meaningHint": "鉋牟; 賽牟; 芻駛経便且速度快・スポーツウェア(sp。rtswear)⑥[名」込劫装",
+      "examples": []
+    },
+    {
+      "id": "1455",
+      "term": "スマート",
+      "reading": "スマート",
+      "partOfSpeech": "ナ形",
+      "meaningHint": "(服装、形状等)漂亮; 吋髦身材好; 体型苗条",
+      "examples": [
+        {
+          "japanese": "スマートな体形",
+          "meaning": "苗条的体形"
+        },
+        {
+          "japanese": "やることがスマートだ。",
+          "meaning": "十得漂亮。"
+        }
+      ]
+    },
+    {
+      "id": "1456",
+      "term": "墨",
+      "reading": "すみ",
+      "partOfSpeech": "名",
+      "meaningHint": "墨; 文房用品之ー黒)烟灰(章位的)墨汁",
+      "examples": []
+    },
+    {
+      "id": "1457",
+      "term": "~済み",
+      "reading": "~ずみ",
+      "partOfSpeech": "接尾",
+      "meaningHint": "OCR 待校对",
+      "examples": [
+        {
+          "japanese": "使用済み",
+          "meaning": "用完力、いけっ"
+        },
+        {
+          "japanese": "解決済み",
+          "meaning": "解决完"
+        }
+      ]
+    },
+    {
+      "id": "1458",
+      "term": "住み着く",
+      "reading": "すみつく",
+      "partOfSpeech": "自動1",
+      "meaningHint": "定居; 落戸",
+      "examples": [
+        {
+          "japanese": "ューヨークに住み着く。",
+          "meaning": "定居衄約。"
+        },
+        {
+          "japanese": "親戚の家に住み着く。",
+          "meaning": "住在奈戚家。"
+        }
+      ]
+    },
+    {
+      "id": "1459",
+      "term": "速やか",
+      "reading": "すみやか",
+      "partOfSpeech": "ナ形",
+      "meaningHint": "快速; 迅速力、いけつ",
+      "examples": [
+        {
+          "japanese": "速やかな解決",
+          "meaning": "火速解决"
+        },
+        {
+          "japanese": "速やかに対策を講じる。",
+          "meaning": "迅速采取対策。"
+        }
+      ]
+    },
+    {
+      "id": "1460",
+      "term": "澄む/清む",
+      "reading": "すむ",
+      "partOfSpeech": "自動1",
+      "meaningHint": "清澈; 清晰; 清亮宇静; 平静",
+      "examples": [
+        {
+          "japanese": "水が澄む。",
+          "meaning": "水很清澈"
+        },
+        {
+          "japanese": "澄んだ鈴の音",
+          "meaning": "清脆的鈴音。"
+        }
+      ]
+    },
+    {
+      "id": "1461",
+      "term": "スライド",
+      "reading": "スライド",
+      "partOfSpeech": "名",
+      "meaningHint": "幻灯片; 幻灯机",
+      "examples": [
+        {
+          "japanese": "スライドプロジェクター",
+          "meaning": "幻灯机,投影イ文っ力"
+        },
+        {
+          "japanese": "講演にスライドを使う。",
+          "meaning": "在演沸中使用幻灯。"
+        }
+      ]
+    },
+    {
+      "id": "1462",
+      "term": "すらす",
+      "reading": "すらす",
+      "partOfSpeech": "他動1",
+      "meaningHint": "揶幼; 移升を将・・・・・・措升",
+      "examples": [
+        {
+          "japanese": "家具をずらす。",
+          "meaning": "揶幵家具。"
+        },
+        {
+          "japanese": "日程をずらす。",
+          "meaning": "錯升日程(安排)。"
+        }
+      ]
+    },
+    {
+      "id": "1463",
+      "term": "すらすら",
+      "reading": "すらすら",
+      "partOfSpeech": "副",
+      "meaningHint": "流惕; 流利; (迸展)順利",
+      "examples": [
+        {
+          "japanese": "すらすらと答える。",
+          "meaning": "流利地回答。"
+        },
+        {
+          "japanese": "事がすらすら運ぶ。",
+          "meaning": "事情迸展順利。"
+        }
+      ]
+    },
+    {
+      "id": "1464",
+      "term": "刷る",
+      "reading": "する",
+      "partOfSpeech": "他動",
+      "meaningHint": "印刷; 版印",
+      "examples": []
+    },
+    {
+      "id": "1465",
+      "term": "鋭い",
+      "reading": "するどい",
+      "partOfSpeech": "イ形",
+      "meaningHint": "鋒利的; (刀)快的; 激烈的; 尖鋭的敏鋭的; 炅活的",
+      "examples": [
+        {
+          "japanese": "鋭い刃物",
+          "meaning": "鋒利的刀具"
+        },
+        {
+          "japanese": "鋭い目っき",
+          "meaning": "鋭利的目光"
+        }
+      ]
+    },
+    {
+      "id": "1466",
+      "term": "擦れ違い",
+      "reading": "すれちがい",
+      "partOfSpeech": "名",
+      "meaningHint": "借幵; 擦肩而:不一致; 分岐",
+      "examples": [
+        {
+          "japanese": "友だちと擦れ違いになる。",
+          "meaning": "与朋友擦肩而。"
+        },
+        {
+          "japanese": "意見の擦れ違い",
+          "meaning": "意見不一致"
+        }
+      ]
+    },
+    {
+      "id": "1467",
+      "term": "擦れ違う",
+      "reading": "すれちがう",
+      "partOfSpeech": "自動1",
+      "meaningHint": "擦肩而; 走岔; 不一致; 彦生分岐",
+      "examples": [
+        {
+          "japanese": "廊下で擦れ違う。",
+          "meaning": "在走廊擦肩而。"
+        },
+        {
+          "japanese": "議論が擦れ違う。",
+          "meaning": "詑彦生分岐。"
+        }
+      ]
+    },
+    {
+      "id": "1468",
+      "term": "ずれる",
+      "reading": "ずれる",
+      "partOfSpeech": "自動2",
+      "meaningHint": "移幼; 滑劫偏高; 高題",
+      "examples": [
+        {
+          "japanese": "積み荷がずれる。",
+          "meaning": "装載的貨物滑功。"
+        },
+        {
+          "japanese": "タイミングがずれる。",
+          "meaning": "吋机不対。"
+        }
+      ]
+    },
+    {
+      "id": "1469",
+      "term": "寸法",
+      "reading": "すんぼう",
+      "partOfSpeech": "名",
+      "meaningHint": "尺寸; 長短け十刻; 安排状况; 情况",
+      "examples": [
+        {
+          "japanese": "寸法が合わない。",
+          "meaning": "尺寸不対"
+        },
+        {
+          "japanese": "寸法に入れる。",
+          "meaning": "蚋人汁戈リ。寸法をとる。/量尺寸。"
+        }
+      ]
+    },
+    {
+      "id": "1470",
+      "term": "正",
+      "reading": "せい",
+      "partOfSpeech": "名",
+      "meaningHint": "正硎; 正直正式的; 主要的; (大于零的)正数",
+      "examples": [
+        {
+          "japanese": "契約書は正副二通ある。",
+          "meaning": "合同有正本和副本西价。"
+        },
+        {
+          "japanese": "正の整数",
+          "meaning": "正整数は正に勝たず。/邪不圧正。慣用当"
+        }
+      ]
+    },
+    {
+      "id": "1471",
+      "term": "生",
+      "reading": "せい",
+      "partOfSpeech": "名",
+      "meaningHint": "生存; 生; 涎生; 彦生; 生命; 人生; 生活",
+      "examples": [
+        {
+          "japanese": "この世に生を受ける。",
+          "meaning": "生于選个世上。生あるものは必ず死あり。/有生必有死,人必有一死。"
+        }
+      ]
+    },
+    {
+      "id": "1472",
+      "term": "性",
+      "reading": "せい",
+      "partOfSpeech": "名",
+      "meaningHint": "天性; 性格を性別性欲; 性貭; 属性",
+      "examples": [
+        {
+          "japanese": "人の性は善なり。",
+          "meaning": "人性本善。"
+        },
+        {
+          "japanese": "性を意識する年齢",
+          "meaning": "意鉙到性的年記"
+        }
+      ]
+    },
+    {
+      "id": "1473",
+      "term": "姓",
+      "reading": "せい",
+      "partOfSpeech": "名",
+      "meaningHint": "姓氏; 姓名",
+      "examples": [
+        {
+          "japanese": "母方の姓",
+          "meaning": "母的姓氏"
+        }
+      ]
+    },
+    {
+      "id": "1474",
+      "term": "~制",
+      "reading": "~せい",
+      "partOfSpeech": "接尾",
+      "meaningHint": "制定; 規定; ・・・・制度",
+      "examples": [
+        {
+          "japanese": "共和制",
+          "meaning": "共和制"
+        },
+        {
+          "japanese": "議会制",
+          "meaning": "以会制"
+        }
+      ]
+    },
+    {
+      "id": "1475",
+      "term": "税",
+      "reading": "ぜい",
+      "partOfSpeech": "名",
+      "meaningHint": "税收征收的費用",
+      "examples": [
+        {
+          "japanese": "税を納める。",
+          "meaning": "納税。"
+        },
+        {
+          "japanese": "所得税",
+          "meaning": "所得税"
+        }
+      ]
+    },
+    {
+      "id": "1476",
+      "term": "精しばい",
+      "reading": "せいいつばい",
+      "partOfSpeech": "名/副",
+      "meaningHint": "尽力; 竭尽全力",
+      "examples": [
+        {
+          "japanese": "精いつばい走る。",
+          "meaning": "命奔鉋。"
+        },
+        {
+          "japanese": "精いつばいおまけしましよう。",
+          "meaning": "尽可能多便宜一点肥。"
+        }
+      ]
+    },
+    {
+      "id": "1477",
+      "term": "生育",
+      "reading": "せいいく",
+      "partOfSpeech": "名/自他動3",
+      "meaningHint": "生育; 界育植物、作物等)生; 培育",
+      "examples": [
+        {
+          "japanese": "生育の恩",
+          "meaning": "芥育之恩"
+        },
+        {
+          "japanese": "稲の生育がいい。",
+          "meaning": "稻子生長状况良好。"
+        }
+      ]
+    },
+    {
+      "id": "1478",
+      "term": "成育",
+      "reading": "せいいく",
+      "partOfSpeech": "名/自動3",
+      "meaningHint": "成長; 及育",
+      "examples": []
+    },
+    {
+      "id": "1479",
+      "term": "税関",
+      "reading": "ぜいかん",
+      "partOfSpeech": "名",
+      "meaningHint": "海美",
+      "examples": [
+        {
+          "japanese": "税関を通る。",
+          "meaning": "海美。"
+        },
+        {
+          "japanese": "税関手続き",
+          "meaning": "海美手"
+        }
+      ]
+    },
+    {
+      "id": "1480",
+      "term": "世紀",
+      "reading": "せいき",
+      "partOfSpeech": "名",
+      "meaningHint": "世記; 汁算年代的単位; 自公元元年幵始; 一百年カー世記",
+      "examples": [
+        {
+          "japanese": "世紀の大事件",
+          "meaning": "百年一遇的大事件"
+        },
+        {
+          "japanese": "新しい世紀を開く。",
+          "meaning": "幵創新世紀。"
+        }
+      ]
+    },
+    {
+      "id": "1481",
+      "term": "生計",
+      "reading": "せいけい",
+      "partOfSpeech": "名",
+      "meaningHint": "生廾; 維持生活的手段",
+      "examples": [
+        {
+          "japanese": "生計費",
+          "meaning": "生活費用,家庭幵支"
+        },
+        {
+          "japanese": "生計を立てる。",
+          "meaning": "煤生。"
+        }
+      ]
+    },
+    {
+      "id": "1482",
+      "term": "清潔",
+      "reading": "せいけっ",
+      "partOfSpeech": "名/ナ形",
+      "meaningHint": "清浩; 干浄パ人明、行カ挙止等)公正、廉浩",
+      "examples": [
+        {
+          "japanese": "清潔な服装",
+          "meaning": "干浄的服装"
+        },
+        {
+          "japanese": "清潔な人柄",
+          "meaning": "清廉的人品"
+        }
+      ]
+    },
+    {
+      "id": "1483",
+      "term": "誠実",
+      "reading": "せいじっ",
+      "partOfSpeech": "名/ナ形",
+      "meaningHint": "城実; 真城",
+      "examples": [
+        {
+          "japanese": "誠実な人柄",
+          "meaning": "カ人城実"
+        },
+        {
+          "japanese": "誠実に答える。",
+          "meaning": "城実地回答。"
+        }
+      ]
+    },
+    {
+      "id": "1484",
+      "term": "正社員",
+      "reading": "せいしゃいん",
+      "partOfSpeech": "名",
+      "meaningHint": "正式炭工; 正式・契約社員(けいやくしゃいん)⑤[名]契約工; 合同取員",
+      "examples": []
+    },
+    {
+      "id": "1485",
+      "term": "成熟",
+      "reading": "せいじゅく",
+      "partOfSpeech": "名/自動3",
+      "meaningHint": "成熟; 充分地成長育バ吋机、条件等)成熟",
+      "examples": [
+        {
+          "japanese": "最近の子どもは成熟が早い。",
+          "meaning": "現在的孩子生"
+        }
+      ]
+    },
+    {
+      "id": "1486",
+      "term": "青春",
+      "reading": "せいしゅん",
+      "partOfSpeech": "名",
+      "meaningHint": "青春; 年経而充満活力的吋期",
+      "examples": [
+        {
+          "japanese": "青春時代",
+          "meaning": "青春年代"
+        },
+        {
+          "japanese": "青春の思い出",
+          "meaning": "青春的回↑乙"
+        }
+      ]
+    },
+    {
+      "id": "1487",
+      "term": "清書",
+      "reading": "せいしょ",
+      "partOfSpeech": "名/他動3",
+      "meaningHint": "眷写清楚; 眷清",
+      "examples": [
+        {
+          "japanese": "原稿を清書する。",
+          "meaning": "眷清原稿。"
+        }
+      ]
+    },
+    {
+      "id": "1488",
+      "term": "正常化",
+      "reading": "せいじようか",
+      "partOfSpeech": "名/自他動3",
+      "meaningHint": "正常化",
+      "examples": [
+        {
+          "japanese": "国交が正常化する。",
+          "meaning": "邦交正常化。"
+        }
+      ]
+    },
+    {
+      "id": "1489",
+      "term": "精神",
+      "reading": "せいしん",
+      "partOfSpeech": "名",
+      "meaningHint": "精神; 心炅; 精力; 毅カ第ちきよう",
+      "examples": [
+        {
+          "japanese": "仏教の精神",
+          "meaning": "佛教精神"
+        },
+        {
+          "japanese": "精神を集中する。",
+          "meaning": "集中精力。健全なる精神は健全なる身体に宿る。/健全的精神寓于健全的身体。"
+        }
+      ]
+    },
+    {
+      "id": "1490",
+      "term": "精神的",
+      "reading": "せいしんてき",
+      "partOfSpeech": "ナ形",
+      "meaningHint": "精神上的; 与精神状悉有美的",
+      "examples": [
+        {
+          "japanese": "精神的な援助",
+          "meaning": "精神上的援助"
+        },
+        {
+          "japanese": "精神的に打撃を受ける。",
+          "meaning": "受到精神上的打缶。"
+        }
+      ]
+    },
+    {
+      "id": "1491",
+      "term": "整数",
+      "reading": "せいすう",
+      "partOfSpeech": "名",
+      "meaningHint": "(数学)整数; 全部自然数; 零和帯負号的自然数",
+      "examples": []
+    },
+    {
+      "id": "1492",
+      "term": "分数",
+      "reading": "ぶんすう",
+      "partOfSpeech": "名",
+      "meaningHint": "(数学)分数",
+      "examples": []
+    },
+    {
+      "id": "1493",
+      "term": "せいぜい",
+      "reading": "せいぜい",
+      "partOfSpeech": "副",
+      "meaningHint": "尽力; 尽可能; 至; 充其量",
+      "examples": [
+        {
+          "japanese": "せいぜい頑張ってください。",
+          "meaning": "尽可能努力肥!"
+        },
+        {
+          "japanese": "休暇といってもせいぜい1週間ぐらいだろう。",
+          "meaning": "就算是休假,至多也就一周左右吋回肥。"
+        }
+      ]
+    },
+    {
+      "id": "1494",
+      "term": "清掃",
+      "reading": "せいそう",
+      "partOfSpeech": "名/他動3",
+      "meaningHint": "清招; 打招",
+      "examples": [
+        {
+          "japanese": "清掃車",
+          "meaning": "清浩牟"
+        },
+        {
+          "japanese": "町を清掃する。",
+          "meaning": "清招街道。"
+        }
+      ]
+    },
+    {
+      "id": "1495",
+      "term": "製造",
+      "reading": "せいぞう",
+      "partOfSpeech": "名/他動3",
+      "meaningHint": "制造; 生彦ぶひんたいり上う",
+      "examples": [
+        {
+          "japanese": "部品を大量に製造する。",
+          "meaning": "大量生彦零部件。"
+        },
+        {
+          "japanese": "製造元",
+          "meaning": "生彦厂家,制造商"
+        }
+      ]
+    },
+    {
+      "id": "1496",
+      "term": "性的",
+      "reading": "せいてき",
+      "partOfSpeech": "ナ形",
+      "meaningHint": "性別上的; 与性有美的",
+      "examples": [
+        {
+          "japanese": "性的特徴",
+          "meaning": "性別特征"
+        },
+        {
+          "japanese": "性的嫌がらせ",
+          "meaning": "性騒挑"
+        }
+      ]
+    },
+    {
+      "id": "1497",
+      "term": "晴天",
+      "reading": "せいてん",
+      "partOfSpeech": "名",
+      "meaningHint": "晴天; 也指晴朗的天空",
+      "examples": []
+    },
+    {
+      "id": "1498",
+      "term": "雨天",
+      "reading": "うてん",
+      "partOfSpeech": "名",
+      "meaningHint": "雨天; 下雨天; 下雨的",
+      "examples": []
+    },
+    {
+      "id": "1499",
+      "term": "子",
+      "reading": "子",
+      "partOfSpeech": "OCR",
+      "meaningHint": "OCR 待校对",
+      "examples": []
+    },
+    {
+      "id": "1500",
+      "term": "制度",
+      "reading": "せいど",
+      "partOfSpeech": "名",
+      "meaningHint": "制度; 規定",
+      "examples": [
+        {
+          "japanese": "社会保障制度",
+          "meaning": "社会保障制度"
+        },
+        {
+          "japanese": "制度を設ける。",
+          "meaning": "制定制度。"
+        }
+      ]
+    }
+  ],
+  "reviewCards": [
+    {
+      "id": "red-book-n2-vocab-unit-10-card-01",
+      "number": 1,
+      "prompt": "「人権」的读音和核心意思是什么？",
+      "answer": "じんけん; 人杖"
+    },
+    {
+      "id": "red-book-n2-vocab-unit-10-card-02",
+      "number": 2,
+      "prompt": "「人件費」的读音和核心意思是什么？",
+      "answer": "じんけんひ; 人炭升支; 芳各支出的各項錏費的称"
+    },
+    {
+      "id": "red-book-n2-vocab-unit-10-card-03",
+      "number": 3,
+      "prompt": "「進行」的读音和核心意思是什么？",
+      "answer": "しんこう; 迸行; 前迸; 使・・・前迸"
+    },
+    {
+      "id": "red-book-n2-vocab-unit-10-card-04",
+      "number": 4,
+      "prompt": "「信仰」的读音和核心意思是什么？",
+      "answer": "しんこう; 信仰; (虔誠地)相信(神佛等)"
+    },
+    {
+      "id": "red-book-n2-vocab-unit-10-card-05",
+      "number": 5,
+      "prompt": "「人工林」的读音和核心意思是什么？",
+      "answer": "じんこうりん; 人造柑林天然林(てんねんりん)③[名]天然林"
+    },
+    {
+      "id": "red-book-n2-vocab-unit-10-card-06",
+      "number": 6,
+      "prompt": "「新婚」的读音和核心意思是什么？",
+      "answer": "しんこん; 新婚; 指剛結婚不久"
+    },
+    {
+      "id": "red-book-n2-vocab-unit-10-card-07",
+      "number": 7,
+      "prompt": "「審査」的读音和核心意思是什么？",
+      "answer": "しんさ; 市査; 評判是否合格或仇劣"
+    },
+    {
+      "id": "red-book-n2-vocab-unit-10-card-08",
+      "number": 8,
+      "prompt": "「震災」的读音和核心意思是什么？",
+      "answer": "しんさい; 震実; 地震造成的実害"
+    },
+    {
+      "id": "red-book-n2-vocab-unit-10-card-09",
+      "number": 9,
+      "prompt": "「紳士」的读音和核心意思是什么？",
+      "answer": "しんし; 坤士; 有教界、憧礼貌的男性対男子的敬称士用/男十用"
+    },
+    {
+      "id": "red-book-n2-vocab-unit-10-card-10",
+      "number": 10,
+      "prompt": "「信者」的读音和核心意思是什么？",
+      "answer": "しんじゃ; 信徒"
+    },
+    {
+      "id": "red-book-n2-vocab-unit-10-card-11",
+      "number": 11,
+      "prompt": "「人種」的读音和核心意思是什么？",
+      "answer": "じんしゅ; 人神; 神族; 按某一方面差昇(並、生活月慣等)分美形成的具有某方面共同特征的神群"
+    },
+    {
+      "id": "red-book-n2-vocab-unit-10-card-12",
+      "number": 12,
+      "prompt": "「進出」的读音和核心意思是什么？",
+      "answer": "しんしゆっ; 迸人; 迸到打人; 向・・・・・・展; 拡張; 迸軍"
+    },
+    {
+      "id": "red-book-n2-vocab-unit-10-card-13",
+      "number": 13,
+      "prompt": "「心身」的读音和核心意思是什么？",
+      "answer": "しんしん; 身心っ力、"
+    },
+    {
+      "id": "red-book-n2-vocab-unit-10-card-14",
+      "number": 14,
+      "prompt": "「新人」的读音和核心意思是什么？",
+      "answer": "しんじん; 新人; 新踏人社会的人; 新成量"
+    },
+    {
+      "id": "red-book-n2-vocab-unit-10-card-15",
+      "number": 15,
+      "prompt": "「人身事故」的读音和核心意思是什么？",
+      "answer": "じんしんじこ; 人身事故; 仂亡事故; 特指交通事故"
+    },
+    {
+      "id": "red-book-n2-vocab-unit-10-card-16",
+      "number": 16,
+      "prompt": "「申請」的读音和核心意思是什么？",
+      "answer": "しんせい; 申清"
+    },
+    {
+      "id": "red-book-n2-vocab-unit-10-card-17",
+      "number": 17,
+      "prompt": "「人造」的读音和核心意思是什么？",
+      "answer": "じんぞう; 人造; 人工制造"
+    },
+    {
+      "id": "red-book-n2-vocab-unit-10-card-18",
+      "number": 18,
+      "prompt": "「親族」的读音和核心意思是什么？",
+      "answer": "しんぞく; 奈戚; 有血縁美系的人・身内(みうち)⑨[名]奈属; 自家人・親類(しんるい)⑨[名〕奈戚; 近奈、姻余的"
+    },
+    {
+      "id": "red-book-n2-vocab-unit-10-card-19",
+      "number": 19,
+      "prompt": "「身体」的读音和核心意思是什么？",
+      "answer": "しんたい; 身体; 躯体"
+    },
+    {
+      "id": "red-book-n2-vocab-unit-10-card-20",
+      "number": 20,
+      "prompt": "「寝台」的读音和核心意思是什么？",
+      "answer": "しんだい; 床舗; 臣ト舗"
+    },
+    {
+      "id": "red-book-n2-vocab-unit-10-card-21",
+      "number": 21,
+      "prompt": "「人体」的读音和核心意思是什么？",
+      "answer": "じんたい; 人体; 人的身体"
+    },
+    {
+      "id": "red-book-n2-vocab-unit-10-card-22",
+      "number": 22,
+      "prompt": "「進度」的读音和核心意思是什么？",
+      "answer": "しんど; 迸度; 迸展的程度"
+    },
+    {
+      "id": "red-book-n2-vocab-unit-10-card-23",
+      "number": 23,
+      "prompt": "「振動」的读音和核心意思是什么？",
+      "answer": "しんどう; 振劫; 撰劫; 使"
+    },
+    {
+      "id": "red-book-n2-vocab-unit-10-card-24",
+      "number": 24,
+      "prompt": "「震動」的读音和核心意思是什么？",
+      "answer": "しんどう; 震幼"
+    },
+    {
+      "id": "red-book-n2-vocab-unit-10-card-25",
+      "number": 25,
+      "prompt": "「侵入」的读音和核心意思是什么？",
+      "answer": "しんにゆう; 侵人; 非法迸人人侵; 侵略"
+    },
+    {
+      "id": "red-book-n2-vocab-unit-10-card-26",
+      "number": 26,
+      "prompt": "「新入生」的读音和核心意思是什么？",
+      "answer": "しんにゆうせい; 新生; 新人学的学生"
+    },
+    {
+      "id": "red-book-n2-vocab-unit-10-card-27",
+      "number": 27,
+      "prompt": "「心配事」的读音和核心意思是什么？",
+      "answer": "しんばいごと; 心事; 担忱、カ雉的事情・隠し事(かくしごと)⑨③[名〕隠情; 隠瞞"
+    },
+    {
+      "id": "red-book-n2-vocab-unit-10-card-28",
+      "number": 28,
+      "prompt": "「審判」的读音和核心意思是什么？",
+      "answer": "しんばん; 市判; 対案件的市理、判决; 裁判; 在体育比賽中判定肚負、犯規等"
+    },
+    {
+      "id": "red-book-n2-vocab-unit-10-card-29",
+      "number": 29,
+      "prompt": "「人文」的读音和核心意思是什么？",
+      "answer": "じんぶん; 人文; 人与文化; 人英的文化与文明"
+    },
+    {
+      "id": "red-book-n2-vocab-unit-10-card-30",
+      "number": 30,
+      "prompt": "「シンポル」的读音和核心意思是什么？",
+      "answer": "シンポル; 象征; 根据慣例約定俗成的符号"
+    }
+  ],
+  "sourceTestPages": [
+    {
+      "kind": "questions",
+      "title": "第10单元选择题",
+      "bookPages": "133-134",
+      "pdfPages": "145-146",
+      "images": [
+        ".cache/ocr/red-book-n2-vocab/images/page_145.jpg",
+        ".cache/ocr/red-book-n2-vocab/images/page_146.jpg"
+      ]
+    },
+    {
+      "kind": "answers",
+      "title": "第10单元参考答案",
+      "bookPages": "302",
+      "pdfPages": "314",
+      "images": [
+        ".cache/ocr/red-book-n2-vocab/images/page_314.jpg"
+      ]
+    }
+  ],
+  "sourceTextTests": [
+    {
+      "id": "U10-M2-001",
+      "part": "第10単元 問題2",
+      "type": "選択問題",
+      "prompt": "会社のコスト削減の一環として、（　　　　）費のカットを命じられた。 選択肢：1 学 / 2 人件 / 3 人権 / 4 電話",
+      "answer": "2",
+      "explanation": "詞彙點：人件費，表示「人工费、人事费用」。"
+    },
+    {
+      "id": "U10-M2-002",
+      "part": "第10単元 問題2",
+      "type": "選択問題",
+      "prompt": "年会のための準備は今（　　　　）中である。 選択肢：1 進行 / 2 進出 / 3 進度 / 4 進路",
+      "answer": "1",
+      "explanation": "詞彙點：進行中，表示「正在进行中」。"
+    },
+    {
+      "id": "U10-M2-003",
+      "part": "第10単元 問題2",
+      "type": "選択問題",
+      "prompt": "その会社は米国市場への（　　　　）を目指している。 選択肢：1 進行 / 2 進出 / 3 進度 / 4 進入",
+      "answer": "2",
+      "explanation": "詞彙點：市場への進出，表示「进入市场」。"
+    },
+    {
+      "id": "U10-M2-004",
+      "part": "第10単元 問題2",
+      "type": "選択問題",
+      "prompt": "東方真珠は上海の（　　　　）だと言われている。 選択肢：1 シンプル / 2 シンボル / 3 シーズン / 4 シャワー",
+      "answer": "2",
+      "explanation": "詞彙點：シンボル，表示「象征、标志」。"
+    },
+    {
+      "id": "U10-M2-005",
+      "part": "第10単元 問題2",
+      "type": "選択問題",
+      "prompt": "上海の学力（　　　　）は、世界でもトップクラスだ。 選択肢：1 水平 / 2 水準 / 3 水面 / 4 水分",
+      "answer": "2",
+      "explanation": "詞彙點：水準，表示「水平、水准」。"
+    },
+    {
+      "id": "U10-M2-006",
+      "part": "第10単元 問題2",
+      "type": "選択問題",
+      "prompt": "先生に書いてもらった（　　　　）状が大いにものを言った。 選択肢：1 推薦 / 2 挑戦 / 3 推定 / 4 招待",
+      "answer": "1",
+      "explanation": "詞彙點：推薦状，表示「推荐信」。"
+    },
+    {
+      "id": "U10-M2-007",
+      "part": "第10単元 問題2",
+      "type": "選択問題",
+      "prompt": "ぼくは、そんな（　　　　）ことは絶対に言えない。 選択肢：1 あわただしい / 2 かわいらしい / 3 わずらわしい / 4 ずうずうしい",
+      "answer": "4",
+      "explanation": "詞彙點：ずうずうしい，表示「厚脸皮的」。"
+    },
+    {
+      "id": "U10-M2-008",
+      "part": "第10単元 問題2",
+      "type": "選択問題",
+      "prompt": "何の努力もしない人に（　　　　）の手を差し伸べる必要があるか、疑問に思う。 選択肢：1 うたがい / 2 すくい / 3 ためらい / 4 てつだい",
+      "answer": "2",
+      "explanation": "詞彙點：救いの手を差し伸べる，表示「伸出援手」。"
+    },
+    {
+      "id": "U10-M2-009",
+      "part": "第10単元 問題2",
+      "type": "選択問題",
+      "prompt": "健康が富に（　　　　）ということは、言うまでもない。 選択肢：1 おれる / 2 うまれる / 3 まさる / 4 おくれる",
+      "answer": "3",
+      "explanation": "詞彙點：AがBに勝る，表示「A胜过B」。"
+    },
+    {
+      "id": "U10-M2-010",
+      "part": "第10単元 問題2",
+      "type": "選択問題",
+      "prompt": "うそじゃないよ。この情報は確かな（　　　　）から得たものだから。 選択肢：1 筋 / 2 手 / 3 路 / 4 口",
+      "answer": "1",
+      "explanation": "詞彙點：確かな筋，表示「可靠的消息来源」。"
+    },
+    {
+      "id": "U10-M2-011",
+      "part": "第10単元 問題2",
+      "type": "選択問題",
+      "prompt": "わたしは彼の議論の（　　　　）が分からなくなった。 選択肢：1 筋肉 / 2 筋道 / 3 手筋 / 4 血筋",
+      "answer": "2",
+      "explanation": "詞彙點：筋道，表示「条理、逻辑」。"
+    },
+    {
+      "id": "U10-M2-012",
+      "part": "第10単元 問題2",
+      "type": "選択問題",
+      "prompt": "彼は背（　　　　）を伸ばして座っている。 選択肢：1 広 / 2 筋 / 3 道 / 4 高",
+      "answer": "2",
+      "explanation": "詞彙點：背筋を伸ばす，表示「挺直腰背」。"
+    },
+    {
+      "id": "U10-M2-013",
+      "part": "第10単元 問題2",
+      "type": "選択問題",
+      "prompt": "今度のイベントには30人の訓練された（　　　　）が必要だ。 選択肢：1 スタンド / 2 スチーム / 3 スタッフ / 4 スカーフ",
+      "answer": "3",
+      "explanation": "詞彙點：スタッフ，表示「工作人员」。"
+    },
+    {
+      "id": "U10-M2-014",
+      "part": "第10単元 問題2",
+      "type": "選択問題",
+      "prompt": "この劇場には、回転可能な（　　　　）が設置されている。 選択肢：1 ステッキ / 2 ステージ / 3 ステンレス / 4 スナック",
+      "answer": "2",
+      "explanation": "詞彙點：ステージ，表示「舞台」。"
+    },
+    {
+      "id": "U10-M2-015",
+      "part": "第10単元 問題2",
+      "type": "選択問題",
+      "prompt": "（　　　　）は人間の声を拡大する機能を持っている。 選択肢：1 スピーカー / 2 スポーツカー / 3 ストッキング / 4 スパゲッティ",
+      "answer": "1",
+      "explanation": "詞彙點：スピーカー，表示「扬声器」。"
+    },
+    {
+      "id": "U10-M2-016",
+      "part": "第10単元 問題2",
+      "type": "選択問題",
+      "prompt": "ベテランの彼の（　　　　）操作で事故を防ぐことができた。 選択肢：1 するどい / 2 すばやい / 3 おさない / 4 すくない",
+      "answer": "2",
+      "explanation": "詞彙點：すばやい操作，表示「迅速的操作」。"
+    },
+    {
+      "id": "U10-M2-017",
+      "part": "第10単元 問題2",
+      "type": "選択問題",
+      "prompt": "（　　　　）言えるようになるまでこの文を繰り返し読んでください。 選択肢：1 すらすら / 2 きらきら / 3 ぴかぴか / 4 ときどき",
+      "answer": "1",
+      "explanation": "詞彙點：すらすら言える，表示「流利地说出来」。"
+    },
+    {
+      "id": "U10-M2-018",
+      "part": "第10単元 問題2",
+      "type": "選択問題",
+      "prompt": "（　　　　）が合うかどうか着てみてください。 選択肢：1 寸法 / 2 寸歩 / 3 形状 / 4 外見",
+      "answer": "1",
+      "explanation": "詞彙點：寸法が合う，表示「尺寸合适」。"
+    },
+    {
+      "id": "U10-M2-019",
+      "part": "第10単元 問題2",
+      "type": "選択問題",
+      "prompt": "あいつらは（　　　　）をくぐり抜けて麻薬を日本に密輸しようとしている。 選択肢：1 海関 / 2 税関 / 3 関税 / 4 政府",
+      "answer": "2",
+      "explanation": "詞彙點：税関をくぐり抜ける，表示「躲过海关」。"
+    },
+    {
+      "id": "U10-M2-020",
+      "part": "第10単元 問題2",
+      "type": "選択問題",
+      "prompt": "彼女は一家の（　　　　）を立てるために一生懸命働いている。 選択肢：1 生活 / 2 生計 / 3 生存 / 4 生命",
+      "answer": "2",
+      "explanation": "詞彙點：生計を立てる，表示「维持生计」。"
+    },
+    {
+      "id": "U10-M2-021",
+      "part": "第10単元 問題2",
+      "type": "選択問題",
+      "prompt": "両国の関係が（　　　　）することを望んでいる。 選択肢：1 正常化 / 2 自由化 / 3 合理化 / 4 民主化",
+      "answer": "1",
+      "explanation": "詞彙點：関係が正常化する，表示「关系正常化」。"
+    },
+    {
+      "id": "U10-M2-022",
+      "part": "第10単元 問題2",
+      "type": "選択問題",
+      "prompt": "苦境に陥った私を、彼は物質的にも（　　　　）にも支えてくれた。 選択肢：1 精神的 / 2 生理的 / 3 絶対的 / 4 教育的",
+      "answer": "1",
+      "explanation": "詞彙點：精神的に支える，表示「在精神上支持」。"
+    },
+    {
+      "id": "U10-M2-023",
+      "part": "第10単元 問題2",
+      "type": "選択問題",
+      "prompt": "桜の花は数日、（　　　　）一週間しか持たない。 選択肢：1 まったく / 2 ぜんぜん / 3 せいぜい / 4 めったに",
+      "answer": "3",
+      "explanation": "詞彙點：せいぜい，表示「最多也就」。"
+    },
+    {
+      "id": "U10-M2-024",
+      "part": "第10単元 問題2",
+      "type": "選択問題",
+      "prompt": "充電はバッテリーの（　　　　）元が示した案内に従ってください。 選択肢：1 生産 / 2 製造 / 3 作成 / 4 合作",
+      "answer": "2",
+      "explanation": "詞彙點：製造元，表示「制造商」。"
+    },
+    {
+      "id": "U10-M2-025",
+      "part": "第10単元 問題2",
+      "type": "選択問題",
+      "prompt": "高速道路ネットワークの（　　　　）は物流を支える要因である。 選択肢：1 整理 / 2 整備 / 3 整頓 / 4 整数",
+      "answer": "2",
+      "explanation": "詞彙點：ネットワークの整備，表示「网络建设、完善」。"
+    }
+  ]
+}
