@@ -22,5 +22,5 @@ Create a folder under `tools/`, add an `index.html`, then link it from the tools
 
 ## Tools
 
-- `tools/novel-stage/`: Interactive fiction platform with browser-local accounts and reading saves.
+- `tools/novel-stage/`: Interactive fiction platform with browser-local reading saves.
 - `tools/blank/`: Blank preview template for future tools.
