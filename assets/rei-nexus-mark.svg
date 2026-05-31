@@ -1,0 +1,6 @@
+<svg width="80" height="80" viewBox="0 0 80 80" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="REI Nexus mark">
+  <rect x="8" y="8" width="64" height="64" rx="16" fill="#13151A"/>
+  <path d="M24 53V27H38.5C44.5 27 48.5 30.6 48.5 36C48.5 39.7 46.6 42.5 43.4 43.9L50.8 53H42.9L36.5 44.9H31.1V53H24ZM31.1 39.1H37.9C40 39.1 41.3 37.9 41.3 36.1C41.3 34.2 40 33.1 37.9 33.1H31.1V39.1Z" fill="#F7F3EA"/>
+  <path d="M52 27H58V53H52V27Z" fill="#4FB3A7"/>
+  <path d="M21 59H59" stroke="#D05A48" stroke-width="4" stroke-linecap="round"/>
+</svg>

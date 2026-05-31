@@ -1,0 +1,254 @@
+:root {
+  --bg: #f7f3ea;
+  --surface: #ffffff;
+  --ink: #17191f;
+  --muted: #606978;
+  --line: #ded8cc;
+  --accent: #d05a48;
+  --accent-strong: #a93d2e;
+  --green: #4fb3a7;
+  --shadow: 0 18px 45px rgba(23, 25, 31, 0.1);
+}
+
+* {
+  box-sizing: border-box;
+}
+
+html {
+  min-height: 100%;
+}
+
+body {
+  min-height: 100vh;
+  margin: 0;
+  background:
+    linear-gradient(135deg, rgba(79, 179, 167, 0.16), transparent 34%),
+    linear-gradient(315deg, rgba(208, 90, 72, 0.14), transparent 38%),
+    var(--bg);
+  color: var(--ink);
+  font-family: Inter, "Segoe UI", "Microsoft YaHei", Arial, sans-serif;
+  letter-spacing: 0;
+}
+
+a {
+  color: inherit;
+  text-decoration: none;
+}
+
+.site-shell {
+  width: min(1120px, calc(100% - 32px));
+  min-height: 100vh;
+  margin: 0 auto;
+  padding: 28px 0 40px;
+}
+
+.site-header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 16px;
+  min-height: 56px;
+}
+
+.brand {
+  display: inline-flex;
+  align-items: center;
+  gap: 12px;
+  min-width: 0;
+  font-weight: 760;
+  font-size: 1.05rem;
+}
+
+.brand img {
+  flex: 0 0 auto;
+  border-radius: 8px;
+  box-shadow: 0 10px 24px rgba(19, 21, 26, 0.18);
+}
+
+.top-nav {
+  display: flex;
+  align-items: center;
+  justify-content: flex-end;
+  gap: 6px;
+  flex-wrap: wrap;
+}
+
+.top-nav a {
+  min-height: 36px;
+  padding: 8px 12px;
+  border: 1px solid transparent;
+  border-radius: 8px;
+  color: var(--muted);
+  font-size: 0.92rem;
+}
+
+.top-nav a:hover,
+.top-nav a:focus-visible {
+  border-color: var(--line);
+  background: rgba(255, 255, 255, 0.65);
+  color: var(--ink);
+  outline: none;
+}
+
+.workspace {
+  display: grid;
+  grid-template-columns: minmax(0, 0.8fr) minmax(320px, 1.2fr);
+  gap: 42px;
+  align-items: start;
+  padding: 92px 0 32px;
+}
+
+.workspace-title {
+  position: sticky;
+  top: 28px;
+  min-width: 0;
+}
+
+.eyebrow,
+.tool-kicker {
+  margin: 0 0 10px;
+  color: var(--accent-strong);
+  font-size: 0.76rem;
+  font-weight: 780;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+}
+
+h1,
+h2,
+p {
+  overflow-wrap: anywhere;
+}
+
+h1 {
+  max-width: 10ch;
+  margin: 0;
+  font-size: clamp(3rem, 10vw, 6.8rem);
+  line-height: 0.9;
+  letter-spacing: 0;
+}
+
+.tool-grid {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 16px;
+}
+
+.tool-card {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  min-height: 238px;
+  padding: 22px;
+  border: 1px solid rgba(222, 216, 204, 0.9);
+  border-radius: 8px;
+  background: rgba(255, 255, 255, 0.82);
+  box-shadow: var(--shadow);
+}
+
+.tool-card.muted {
+  background: rgba(255, 255, 255, 0.48);
+  box-shadow: none;
+}
+
+.tool-card h2 {
+  margin: 0 0 10px;
+  font-size: 1.32rem;
+  line-height: 1.18;
+}
+
+.tool-card p:not(.tool-kicker) {
+  margin: 0;
+  color: var(--muted);
+  line-height: 1.7;
+}
+
+.button {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  align-self: flex-start;
+  min-width: 86px;
+  min-height: 40px;
+  margin-top: 24px;
+  padding: 10px 16px;
+  border: 1px solid var(--accent);
+  border-radius: 8px;
+  background: var(--accent);
+  color: #fff;
+  font-weight: 720;
+}
+
+.button:hover,
+.button:focus-visible {
+  border-color: var(--accent-strong);
+  background: var(--accent-strong);
+  outline: none;
+}
+
+.button.ghost {
+  border-color: var(--line);
+  background: transparent;
+  color: var(--muted);
+}
+
+.preview-canvas {
+  display: grid;
+  min-height: calc(100vh - 124px);
+  padding: 56px 0 32px;
+}
+
+.blank-panel {
+  display: grid;
+  place-items: center;
+  align-content: center;
+  min-height: min(620px, calc(100vh - 180px));
+  border: 1px dashed rgba(96, 105, 120, 0.36);
+  border-radius: 8px;
+  background: rgba(255, 255, 255, 0.6);
+}
+
+.blank-panel h1 {
+  max-width: none;
+  font-size: clamp(2.2rem, 7vw, 5.2rem);
+  line-height: 1;
+}
+
+@media (max-width: 760px) {
+  .site-shell {
+    width: min(100% - 24px, 1120px);
+    padding-top: 18px;
+  }
+
+  .site-header {
+    align-items: flex-start;
+    flex-direction: column;
+  }
+
+  .top-nav {
+    width: 100%;
+    justify-content: flex-start;
+  }
+
+  .workspace {
+    grid-template-columns: 1fr;
+    gap: 28px;
+    padding-top: 56px;
+  }
+
+  .workspace-title {
+    position: static;
+  }
+
+  h1 {
+    max-width: 100%;
+  }
+
+  .tool-grid {
+    grid-template-columns: 1fr;
+  }
+
+  .tool-card {
+    min-height: 210px;
+  }
+}
