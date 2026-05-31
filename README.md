@@ -19,3 +19,8 @@ https://dwyaneyao.github.io/REI-Nexus/
 ## Add a tool
 
 Create a folder under `tools/`, add an `index.html`, then link it from the tools grid in `index.html`.
+
+## Tools
+
+- `tools/novel-stage/`: Interactive fiction platform with browser-local accounts and reading saves.
+- `tools/blank/`: Blank preview template for future tools.
