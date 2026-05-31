@@ -24,4 +24,3 @@ Create a folder under `tools/`, add an `index.html`, then link it from the tools
 
 - `tools/novel-stage/`: Interactive fiction platform with browser-local reading saves.
 - `tools/kotobavault/app/`: Japanese learning tool library with textbook browsing, cards, practice, review plans, and browser-local progress.
-- `tools/blank/`: Blank preview template for future tools.
