@@ -15,7 +15,7 @@
       "audioCount": 8,
       "reviewItemCount": 0,
       "vocabularyPracticeCount": 212,
-      "grammarPracticeCount": 150,
+      "grammarPracticeCount": 620,
       "sourceIds": [
         "source-dekiru-textbook"
       ]
@@ -200,8 +200,8 @@
       "reviewItemCount": 0,
       "lessonVocabularyCount": 212,
       "vocabularyPracticeCount": 212,
-      "grammarPracticeCount": 150,
-      "updated": "2026-06-01",
+      "grammarPracticeCount": 620,
+      "updated": "2026-06-02",
       "contentPath": "content/sources/dekiru-textbook.md",
       "datasetIds": [
         "dekiru-textbook-unit-01",
@@ -1100,7 +1100,7 @@
       "reviewItemCount": 0,
       "lessonVocabularyCount": 125,
       "vocabularyPracticeCount": 125,
-      "grammarPracticeCount": 72,
+      "grammarPracticeCount": 340,
       "updated": "2026-05-31"
     },
     {
@@ -1117,8 +1117,8 @@
       "reviewItemCount": 0,
       "lessonVocabularyCount": 87,
       "vocabularyPracticeCount": 87,
-      "grammarPracticeCount": 78,
-      "updated": "2026-06-01"
+      "grammarPracticeCount": 280,
+      "updated": "2026-06-02"
     },
     {
       "id": "red-blue-n2-1000-practice-unit-01",

@@ -18,7 +18,7 @@
       38
     ],
     "created": "2026-06-01",
-    "updated": "2026-06-01",
+    "updated": "2026-06-02",
     "scope": {
       "Lesson": "第2課 楽しい食事・上手な買い物",
       "Source pages": "book pages 27-38",
@@ -4665,2188 +4665,3924 @@
     ],
     "grammarPracticeQuestions": [
       {
-        "id": "unit-02-grammar-context-001",
-        "pointId": "te-iru",
-        "pointTitle": "〜ている",
+        "id": "unit-02-grammar-cloze-001",
+        "pointId": "l2-01-narabu-naraberu",
+        "pointTitle": "〜が並ぶ／〜を並べる",
         "sectionTitle": "文法・表現",
-        "type": "语境文法・表达选择",
-        "prompt": "リポーター：今日は駅前のレストランに（　）。",
-        "answer": "1",
-        "choices": [
-          {
-            "value": "1",
-            "label": "来ています"
-          },
-          {
-            "value": "2",
-            "label": "来ます"
-          },
-          {
-            "value": "3",
-            "label": "来てあります"
-          },
-          {
-            "value": "4",
-            "label": "来てみます"
-          }
+        "type": "grammar_cloze_self_check",
+        "focus": "「並ぶ」は人や物が列・順序にある自動詞、「並べる」は人が物を列・順序に置く他動詞。",
+        "prompt": "駅のホームに乗客が（　）。",
+        "answer": "並んでいます",
+        "acceptedAnswers": [
+          "並んでいます"
         ],
-        "explanationZh": "移動後の現在地を述べる場面では「来ています」を使う。今その場所にいることを表す。"
+        "explanationZh": "「並ぶ」は自然に列や順番ができている状態、「並べる」は人が意図して物を置く動作を表します。自動詞と他動詞の違いに注意します。 本题应填「並んでいます」。"
       },
       {
-        "id": "unit-02-grammar-context-002",
-        "pointId": "te-iru",
-        "pointTitle": "〜ている",
+        "id": "unit-02-grammar-cloze-002",
+        "pointId": "l2-01-narabu-naraberu",
+        "pointTitle": "〜が並ぶ／〜を並べる",
         "sectionTitle": "文法・表現",
-        "type": "语境文法・表达选择",
-        "prompt": "兄は今、仕事で大阪に（　）。",
-        "answer": "2",
-        "choices": [
-          {
-            "value": "1",
-            "label": "行きます"
-          },
-          {
-            "value": "2",
-            "label": "行っています"
-          },
-          {
-            "value": "3",
-            "label": "行ってあります"
-          },
-          {
-            "value": "4",
-            "label": "行ってみます"
-          }
+        "type": "grammar_cloze_self_check",
+        "focus": "「並ぶ」は人や物が列・順序にある自動詞、「並べる」は人が物を列・順序に置く他動詞。",
+        "prompt": "テーブルにお皿を（　）。",
+        "answer": "並べてください",
+        "acceptedAnswers": [
+          "並べてください"
         ],
-        "explanationZh": "「行っています」は、行った結果として今そこにいる、または不在である状態を表す。"
+        "explanationZh": "「並ぶ」は自然に列や順番ができている状態、「並べる」は人が意図して物を置く動作を表します。自動詞と他動詞の違いに注意します。 本题应填「並べてください」。"
       },
       {
-        "id": "unit-02-grammar-context-003",
-        "pointId": "te-iru",
-        "pointTitle": "〜ている",
+        "id": "unit-02-grammar-cloze-003",
+        "pointId": "l2-01-narabu-naraberu",
+        "pointTitle": "〜が並ぶ／〜を並べる",
         "sectionTitle": "文法・表現",
-        "type": "语境文法・表达选择",
-        "prompt": "山田さんはもう家に（　）から、ここにはいません。",
-        "answer": "3",
-        "choices": [
-          {
-            "value": "1",
-            "label": "帰ります"
-          },
-          {
-            "value": "2",
-            "label": "帰ってあります"
-          },
-          {
-            "value": "3",
-            "label": "帰っています"
-          },
-          {
-            "value": "4",
-            "label": "帰ってみます"
-          }
+        "type": "grammar_cloze_self_check",
+        "focus": "「並ぶ」は人や物が列・順序にある自動詞、「並べる」は人が物を列・順序に置く他動詞。",
+        "prompt": "開店前から店の前に長い列が（　）。",
+        "answer": "並んでいた",
+        "acceptedAnswers": [
+          "並んでいた"
         ],
-        "explanationZh": "「帰っています」は、帰った後の状態を表す。ここではもう帰宅済みという意味。"
+        "explanationZh": "「並ぶ」は自然に列や順番ができている状態、「並べる」は人が意図して物を置く動作を表します。自動詞と他動詞の違いに注意します。 本题应填「並んでいた」。"
       },
       {
-        "id": "unit-02-grammar-context-004",
-        "pointId": "te-iru",
-        "pointTitle": "〜ている",
+        "id": "unit-02-grammar-cloze-004",
+        "pointId": "l2-01-narabu-naraberu",
+        "pointTitle": "〜が並ぶ／〜を並べる",
         "sectionTitle": "文法・表現",
-        "type": "语境文法・表达选择",
-        "prompt": "私は今、セール会場に（　）。",
-        "answer": "4",
-        "choices": [
-          {
-            "value": "1",
-            "label": "来ます"
-          },
-          {
-            "value": "2",
-            "label": "来ておきます"
-          },
-          {
-            "value": "3",
-            "label": "来てしまいます"
-          },
-          {
-            "value": "4",
-            "label": "来ています"
-          }
+        "type": "grammar_cloze_self_check",
+        "focus": "「並ぶ」は人や物が列・順序にある自動詞、「並べる」は人が物を列・順序に置く他動詞。",
+        "prompt": "資料を番号順に（　）から配ってください。",
+        "answer": "並べて",
+        "acceptedAnswers": [
+          "並べて"
         ],
-        "explanationZh": "今いる場所を説明する時は「来ています」が自然。"
+        "explanationZh": "「並ぶ」は自然に列や順番ができている状態、「並べる」は人が意図して物を置く動作を表します。自動詞と他動詞の違いに注意します。 本题应填「並べて」。"
       },
       {
-        "id": "unit-02-grammar-context-005",
-        "pointId": "te-iru",
-        "pointTitle": "〜ている",
+        "id": "unit-02-grammar-cloze-005",
+        "pointId": "l2-01-narabu-naraberu",
+        "pointTitle": "〜が並ぶ／〜を並べる",
         "sectionTitle": "文法・表現",
-        "type": "语境文法・表达选择",
-        "prompt": "先生は受付の前に（　）。",
-        "answer": "1",
-        "choices": [
-          {
-            "value": "1",
-            "label": "来ています"
-          },
-          {
-            "value": "2",
-            "label": "来ます"
-          },
-          {
-            "value": "3",
-            "label": "来てあります"
-          },
-          {
-            "value": "4",
-            "label": "来られます"
-          }
+        "type": "grammar_cloze_self_check",
+        "focus": "「並ぶ」は人や物が列・順序にある自動詞、「並べる」は人が物を列・順序に置く他動詞。",
+        "prompt": "本棚には同じ作家の本がずらりと（　）。",
+        "answer": "並んでいる",
+        "acceptedAnswers": [
+          "並んでいる"
         ],
-        "explanationZh": "到着して今そこにいる状態を表すため「来ています」を選ぶ。"
+        "explanationZh": "「並ぶ」は自然に列や順番ができている状態、「並べる」は人が意図して物を置く動作を表します。自動詞と他動詞の違いに注意します。 本题应填「並んでいる」。"
       },
       {
-        "id": "unit-02-grammar-context-006",
-        "pointId": "te-iru",
-        "pointTitle": "〜ている",
+        "id": "unit-02-grammar-cloze-006",
+        "pointId": "l2-01-narabu-naraberu",
+        "pointTitle": "〜が並ぶ／〜を並べる",
         "sectionTitle": "文法・表現",
-        "type": "语境文法・表达选择",
-        "prompt": "母は買い物に（　）ので、今は家にいません。",
-        "answer": "2",
-        "choices": [
-          {
-            "value": "1",
-            "label": "行きます"
-          },
-          {
-            "value": "2",
-            "label": "行っています"
-          },
-          {
-            "value": "3",
-            "label": "行ってあります"
-          },
-          {
-            "value": "4",
-            "label": "行っておきます"
-          }
+        "type": "grammar_cloze_self_check",
+        "focus": "「並ぶ」は人や物が列・順序にある自動詞、「並べる」は人が物を列・順序に置く他動詞。",
+        "prompt": "商品を見やすいように棚に（　）。",
+        "answer": "並べ直しました",
+        "acceptedAnswers": [
+          "並べ直しました"
         ],
-        "explanationZh": "「買い物に行っています」は、行った結果まだ戻っていない状態を表す。"
+        "explanationZh": "「並ぶ」は自然に列や順番ができている状態、「並べる」は人が意図して物を置く動作を表します。自動詞と他動詞の違いに注意します。 本题应填「並べ直しました」。"
       },
       {
-        "id": "unit-02-grammar-context-007",
-        "pointId": "ni-yotte",
+        "id": "unit-02-grammar-cloze-007",
+        "pointId": "l2-01-narabu-naraberu",
+        "pointTitle": "〜が並ぶ／〜を並べる",
+        "sectionTitle": "文法・表現",
+        "type": "grammar_cloze_self_check",
+        "focus": "「並ぶ」は人や物が列・順序にある自動詞、「並べる」は人が物を列・順序に置く他動詞。",
+        "prompt": "受付の前に二列で（　）ください。",
+        "answer": "並んで",
+        "acceptedAnswers": [
+          "並んで"
+        ],
+        "explanationZh": "「並ぶ」は自然に列や順番ができている状態、「並べる」は人が意図して物を置く動作を表します。自動詞と他動詞の違いに注意します。 本题应填「並んで」。"
+      },
+      {
+        "id": "unit-02-grammar-cloze-008",
+        "pointId": "l2-01-narabu-naraberu",
+        "pointTitle": "〜が並ぶ／〜を並べる",
+        "sectionTitle": "文法・表現",
+        "type": "grammar_cloze_self_check",
+        "focus": "「並ぶ」は人や物が列・順序にある自動詞、「並べる」は人が物を列・順序に置く他動詞。",
+        "prompt": "机をコの字型に（　）会議を始めた。",
+        "answer": "並べて",
+        "acceptedAnswers": [
+          "並べて"
+        ],
+        "explanationZh": "「並ぶ」は自然に列や順番ができている状態、「並べる」は人が意図して物を置く動作を表します。自動詞と他動詞の違いに注意します。 本题应填「並べて」。"
+      },
+      {
+        "id": "unit-02-grammar-cloze-009",
+        "pointId": "l2-01-narabu-naraberu",
+        "pointTitle": "〜が並ぶ／〜を並べる",
+        "sectionTitle": "文法・表現",
+        "type": "grammar_cloze_self_check",
+        "focus": "「並ぶ」は人や物が列・順序にある自動詞、「並べる」は人が物を列・順序に置く他動詞。",
+        "prompt": "人気店なので昼前には客が（　）始めます。",
+        "answer": "並び",
+        "acceptedAnswers": [
+          "並び"
+        ],
+        "explanationZh": "「並ぶ」は自然に列や順番ができている状態、「並べる」は人が意図して物を置く動作を表します。自動詞と他動詞の違いに注意します。 本题应填「並び」。"
+      },
+      {
+        "id": "unit-02-grammar-cloze-010",
+        "pointId": "l2-01-narabu-naraberu",
+        "pointTitle": "〜が並ぶ／〜を並べる",
+        "sectionTitle": "文法・表現",
+        "type": "grammar_cloze_self_check",
+        "focus": "「並ぶ」は人や物が列・順序にある自動詞、「並べる」は人が物を列・順序に置く他動詞。",
+        "prompt": "写真を古い順に（　）アルバムに貼った。",
+        "answer": "並べて",
+        "acceptedAnswers": [
+          "並べて"
+        ],
+        "explanationZh": "「並ぶ」は自然に列や順番ができている状態、「並べる」は人が意図して物を置く動作を表します。自動詞と他動詞の違いに注意します。 本题应填「並べて」。"
+      },
+      {
+        "id": "unit-02-grammar-cloze-011",
+        "pointId": "l2-01-ni-yotte",
         "pointTitle": "〜によって",
         "sectionTitle": "文法・表現",
-        "type": "语境文法・表达选择",
-        "prompt": "ランチのメイン料理は曜日（　）変わります。",
-        "answer": "3",
-        "choices": [
-          {
-            "value": "1",
-            "label": "にとって"
-          },
-          {
-            "value": "2",
-            "label": "について"
-          },
-          {
-            "value": "3",
-            "label": "によって"
-          },
-          {
-            "value": "4",
-            "label": "に限り"
-          }
+        "type": "grammar_cloze_self_check",
+        "focus": "「Nによって」は、人・場所・時期・条件などに応じて違いが出ることを表す。",
+        "prompt": "国（　）食事のマナーは異なります。",
+        "answer": "によって",
+        "acceptedAnswers": [
+          "によって"
         ],
-        "explanationZh": "条件による違いを表す時は「Nによって」。曜日ごとに内容が変わるという意味。"
+        "explanationZh": "「〜によって」は基準や条件が変わると結果や内容も変わることを表します。本課ではメニューや習慣の違いを述べる時に使います。 本题应填「によって」。"
       },
       {
-        "id": "unit-02-grammar-context-008",
-        "pointId": "ni-yotte",
+        "id": "unit-02-grammar-cloze-012",
+        "pointId": "l2-01-ni-yotte",
         "pointTitle": "〜によって",
         "sectionTitle": "文法・表現",
-        "type": "语境文法・表达选择",
-        "prompt": "食べ物の好みは人（　）違います。",
-        "answer": "4",
-        "choices": [
-          {
-            "value": "1",
-            "label": "に対して"
-          },
-          {
-            "value": "2",
-            "label": "に限り"
-          },
-          {
-            "value": "3",
-            "label": "に向け"
-          },
-          {
-            "value": "4",
-            "label": "によって"
-          }
+        "type": "grammar_cloze_self_check",
+        "focus": "「Nによって」は、人・場所・時期・条件などに応じて違いが出ることを表す。",
+        "prompt": "日（　）ランチのメニューが変わります。",
+        "answer": "によって",
+        "acceptedAnswers": [
+          "によって"
         ],
-        "explanationZh": "人ごとの差を言うので「人によって違う」が自然。"
+        "explanationZh": "「〜によって」は基準や条件が変わると結果や内容も変わることを表します。本課ではメニューや習慣の違いを述べる時に使います。 本题应填「によって」。"
       },
       {
-        "id": "unit-02-grammar-context-009",
-        "pointId": "ni-yotte",
+        "id": "unit-02-grammar-cloze-013",
+        "pointId": "l2-01-ni-yotte",
         "pointTitle": "〜によって",
         "sectionTitle": "文法・表現",
-        "type": "语境文法・表达选择",
-        "prompt": "食事のマナーは国（　）異なります。",
-        "answer": "1",
-        "choices": [
-          {
-            "value": "1",
-            "label": "によって"
-          },
-          {
-            "value": "2",
-            "label": "につき"
-          },
-          {
-            "value": "3",
-            "label": "に限り"
-          },
-          {
-            "value": "4",
-            "label": "として"
-          }
+        "type": "grammar_cloze_self_check",
+        "focus": "「Nによって」は、人・場所・時期・条件などに応じて違いが出ることを表す。",
+        "prompt": "人（　）好みはさまざまです。",
+        "answer": "によって",
+        "acceptedAnswers": [
+          "によって"
         ],
-        "explanationZh": "国ごとに違うという意味なので「国によって」。"
+        "explanationZh": "「〜によって」は基準や条件が変わると結果や内容も変わることを表します。本課ではメニューや習慣の違いを述べる時に使います。 本题应填「によって」。"
       },
       {
-        "id": "unit-02-grammar-context-010",
-        "pointId": "ni-yotte",
+        "id": "unit-02-grammar-cloze-014",
+        "pointId": "l2-01-ni-yotte",
         "pointTitle": "〜によって",
         "sectionTitle": "文法・表現",
-        "type": "语境文法・表达选择",
-        "prompt": "店（　）、サービスの内容が違います。",
-        "answer": "2",
-        "choices": [
-          {
-            "value": "1",
-            "label": "にとって"
-          },
-          {
-            "value": "2",
-            "label": "によって"
-          },
-          {
-            "value": "3",
-            "label": "において"
-          },
-          {
-            "value": "4",
-            "label": "に限り"
-          }
+        "type": "grammar_cloze_self_check",
+        "focus": "「Nによって」は、人・場所・時期・条件などに応じて違いが出ることを表す。",
+        "prompt": "店（　）サービスの内容が違います。",
+        "answer": "によって",
+        "acceptedAnswers": [
+          "によって"
         ],
-        "explanationZh": "店ごとの違いを表すので「店によって」。"
+        "explanationZh": "「〜によって」は基準や条件が変わると結果や内容も変わることを表します。本課ではメニューや習慣の違いを述べる時に使います。 本题应填「によって」。"
       },
       {
-        "id": "unit-02-grammar-context-011",
-        "pointId": "ni-yotte",
+        "id": "unit-02-grammar-cloze-015",
+        "pointId": "l2-01-ni-yotte",
         "pointTitle": "〜によって",
         "sectionTitle": "文法・表現",
-        "type": "语境文法・表达选择",
-        "prompt": "予算（　）、選べる店も変わります。",
-        "answer": "3",
-        "choices": [
-          {
-            "value": "1",
-            "label": "について"
-          },
-          {
-            "value": "2",
-            "label": "に向け"
-          },
-          {
-            "value": "3",
-            "label": "によって"
-          },
-          {
-            "value": "4",
-            "label": "に限り"
-          }
+        "type": "grammar_cloze_self_check",
+        "focus": "「Nによって」は、人・場所・時期・条件などに応じて違いが出ることを表す。",
+        "prompt": "季節（　）売れる商品が変わります。",
+        "answer": "によって",
+        "acceptedAnswers": [
+          "によって"
         ],
-        "explanationZh": "予算という条件で結果が変わるため「予算によって」。"
+        "explanationZh": "「〜によって」は基準や条件が変わると結果や内容も変わることを表します。本課ではメニューや習慣の違いを述べる時に使います。 本题应填「によって」。"
       },
       {
-        "id": "unit-02-grammar-context-012",
-        "pointId": "ni-yotte",
+        "id": "unit-02-grammar-cloze-016",
+        "pointId": "l2-01-ni-yotte",
         "pointTitle": "〜によって",
         "sectionTitle": "文法・表現",
-        "type": "语境文法・表达选择",
-        "prompt": "季節（　）、売れる商品が変わります。",
-        "answer": "4",
-        "choices": [
-          {
-            "value": "1",
-            "label": "に対して"
-          },
-          {
-            "value": "2",
-            "label": "につき"
-          },
-          {
-            "value": "3",
-            "label": "に限り"
-          },
-          {
-            "value": "4",
-            "label": "によって"
-          }
+        "type": "grammar_cloze_self_check",
+        "focus": "「Nによって」は、人・場所・時期・条件などに応じて違いが出ることを表す。",
+        "prompt": "地域（　）言葉の使い方が違います。",
+        "answer": "によって",
+        "acceptedAnswers": [
+          "によって"
         ],
-        "explanationZh": "季節ごとの差を言う時は「季節によって」。"
+        "explanationZh": "「〜によって」は基準や条件が変わると結果や内容も変わることを表します。本課ではメニューや習慣の違いを述べる時に使います。 本题应填「によって」。"
       },
       {
-        "id": "unit-02-grammar-context-013",
-        "pointId": "uchi-ni",
+        "id": "unit-02-grammar-cloze-017",
+        "pointId": "l2-01-ni-yotte",
+        "pointTitle": "〜によって",
+        "sectionTitle": "文法・表現",
+        "type": "grammar_cloze_self_check",
+        "focus": "「Nによって」は、人・場所・時期・条件などに応じて違いが出ることを表す。",
+        "prompt": "材料（　）料理の味が大きく変わります。",
+        "answer": "によって",
+        "acceptedAnswers": [
+          "によって"
+        ],
+        "explanationZh": "「〜によって」は基準や条件が変わると結果や内容も変わることを表します。本課ではメニューや習慣の違いを述べる時に使います。 本题应填「によって」。"
+      },
+      {
+        "id": "unit-02-grammar-cloze-018",
+        "pointId": "l2-01-ni-yotte",
+        "pointTitle": "〜によって",
+        "sectionTitle": "文法・表現",
+        "type": "grammar_cloze_self_check",
+        "focus": "「Nによって」は、人・場所・時期・条件などに応じて違いが出ることを表す。",
+        "prompt": "時間帯（　）電車の混み方が違います。",
+        "answer": "によって",
+        "acceptedAnswers": [
+          "によって"
+        ],
+        "explanationZh": "「〜によって」は基準や条件が変わると結果や内容も変わることを表します。本課ではメニューや習慣の違いを述べる時に使います。 本题应填「によって」。"
+      },
+      {
+        "id": "unit-02-grammar-cloze-019",
+        "pointId": "l2-01-ni-yotte",
+        "pointTitle": "〜によって",
+        "sectionTitle": "文法・表現",
+        "type": "grammar_cloze_self_check",
+        "focus": "「Nによって」は、人・場所・時期・条件などに応じて違いが出ることを表す。",
+        "prompt": "考え方は世代（　）違います。",
+        "answer": "によって",
+        "acceptedAnswers": [
+          "によって"
+        ],
+        "explanationZh": "「〜によって」は基準や条件が変わると結果や内容も変わることを表します。本課ではメニューや習慣の違いを述べる時に使います。 本题应填「によって」。"
+      },
+      {
+        "id": "unit-02-grammar-cloze-020",
+        "pointId": "l2-01-ni-yotte",
+        "pointTitle": "〜によって",
+        "sectionTitle": "文法・表現",
+        "type": "grammar_cloze_self_check",
+        "focus": "「Nによって」は、人・場所・時期・条件などに応じて違いが出ることを表す。",
+        "prompt": "値段はサイズ（　）変わります。",
+        "answer": "によって",
+        "acceptedAnswers": [
+          "によって"
+        ],
+        "explanationZh": "「〜によって」は基準や条件が変わると結果や内容も変わることを表します。本課ではメニューや習慣の違いを述べる時に使います。 本题应填「によって」。"
+      },
+      {
+        "id": "unit-02-grammar-cloze-021",
+        "pointId": "l2-01-uchi-ni",
         "pointTitle": "〜うちに",
         "sectionTitle": "文法・表現",
-        "type": "语境文法・表达选择",
-        "prompt": "スープは温かい（　）召し上がってください。",
-        "answer": "1",
-        "choices": [
-          {
-            "value": "1",
-            "label": "うちに"
-          },
-          {
-            "value": "2",
-            "label": "までに"
-          },
-          {
-            "value": "3",
-            "label": "たびに"
-          },
-          {
-            "value": "4",
-            "label": "わりに"
-          }
+        "type": "grammar_cloze_self_check",
+        "focus": "「V辞書形／Vない形／イAい／ナAな／Nの＋うちに」で、その状態が変わる前に行うことを表す。",
+        "prompt": "アイスクリームが溶けない（　）食べましょう。",
+        "answer": "うちに",
+        "acceptedAnswers": [
+          "うちに"
         ],
-        "explanationZh": "「まだ温かい状態の間に」という意味なので「温かいうちに」。"
+        "explanationZh": "「〜うちに」は、まだその状態が続いている間に何かをする、または状態が変わる前に済ませるという意味です。 本题应填「うちに」。"
       },
       {
-        "id": "unit-02-grammar-context-014",
-        "pointId": "uchi-ni",
+        "id": "unit-02-grammar-cloze-022",
+        "pointId": "l2-01-uchi-ni",
         "pointTitle": "〜うちに",
         "sectionTitle": "文法・表現",
-        "type": "语境文法・表达选择",
-        "prompt": "忘れない（　）メモしておきます。",
-        "answer": "2",
-        "choices": [
-          {
-            "value": "1",
-            "label": "までに"
-          },
-          {
-            "value": "2",
-            "label": "うちに"
-          },
-          {
-            "value": "3",
-            "label": "ために"
-          },
-          {
-            "value": "4",
-            "label": "わりに"
-          }
+        "type": "grammar_cloze_self_check",
+        "focus": "「V辞書形／Vない形／イAい／ナAな／Nの＋うちに」で、その状態が変わる前に行うことを表す。",
+        "prompt": "明るい（　）写真を撮っておきます。",
+        "answer": "うちに",
+        "acceptedAnswers": [
+          "うちに"
         ],
-        "explanationZh": "ある状態が続いている間に行動するので「忘れないうちに」。"
+        "explanationZh": "「〜うちに」は、まだその状態が続いている間に何かをする、または状態が変わる前に済ませるという意味です。 本题应填「うちに」。"
       },
       {
-        "id": "unit-02-grammar-context-015",
-        "pointId": "uchi-ni",
+        "id": "unit-02-grammar-cloze-023",
+        "pointId": "l2-01-uchi-ni",
         "pointTitle": "〜うちに",
         "sectionTitle": "文法・表現",
-        "type": "语境文法・表达选择",
+        "type": "grammar_cloze_self_check",
+        "focus": "「V辞書形／Vない形／イAい／ナAな／Nの＋うちに」で、その状態が変わる前に行うことを表す。",
+        "prompt": "学生の（　）たくさん旅行したいです。",
+        "answer": "うちに",
+        "acceptedAnswers": [
+          "うちに"
+        ],
+        "explanationZh": "「〜うちに」は、まだその状態が続いている間に何かをする、または状態が変わる前に済ませるという意味です。 本题应填「うちに」。"
+      },
+      {
+        "id": "unit-02-grammar-cloze-024",
+        "pointId": "l2-01-uchi-ni",
+        "pointTitle": "〜うちに",
+        "sectionTitle": "文法・表現",
+        "type": "grammar_cloze_self_check",
+        "focus": "「V辞書形／Vない形／イAい／ナAな／Nの＋うちに」で、その状態が変わる前に行うことを表す。",
+        "prompt": "忘れない（　）メモしておいてください。",
+        "answer": "うちに",
+        "acceptedAnswers": [
+          "うちに"
+        ],
+        "explanationZh": "「〜うちに」は、まだその状態が続いている間に何かをする、または状態が変わる前に済ませるという意味です。 本题应填「うちに」。"
+      },
+      {
+        "id": "unit-02-grammar-cloze-025",
+        "pointId": "l2-01-uchi-ni",
+        "pointTitle": "〜うちに",
+        "sectionTitle": "文法・表現",
+        "type": "grammar_cloze_self_check",
+        "focus": "「V辞書形／Vない形／イAい／ナAな／Nの＋うちに」で、その状態が変わる前に行うことを表す。",
+        "prompt": "熱い（　）召し上がってください。",
+        "answer": "うちに",
+        "acceptedAnswers": [
+          "うちに"
+        ],
+        "explanationZh": "「〜うちに」は、まだその状態が続いている間に何かをする、または状態が変わる前に済ませるという意味です。 本题应填「うちに」。"
+      },
+      {
+        "id": "unit-02-grammar-cloze-026",
+        "pointId": "l2-01-uchi-ni",
+        "pointTitle": "〜うちに",
+        "sectionTitle": "文法・表現",
+        "type": "grammar_cloze_self_check",
+        "focus": "「V辞書形／Vない形／イAい／ナAな／Nの＋うちに」で、その状態が変わる前に行うことを表す。",
+        "prompt": "元気な（　）色々なことに挑戦したい。",
+        "answer": "うちに",
+        "acceptedAnswers": [
+          "うちに"
+        ],
+        "explanationZh": "「〜うちに」は、まだその状態が続いている間に何かをする、または状態が変わる前に済ませるという意味です。 本题应填「うちに」。"
+      },
+      {
+        "id": "unit-02-grammar-cloze-027",
+        "pointId": "l2-01-uchi-ni",
+        "pointTitle": "〜うちに",
+        "sectionTitle": "文法・表現",
+        "type": "grammar_cloze_self_check",
+        "focus": "「V辞書形／Vない形／イAい／ナAな／Nの＋うちに」で、その状態が変わる前に行うことを表す。",
         "prompt": "雨が降らない（　）帰りましょう。",
-        "answer": "3",
-        "choices": [
-          {
-            "value": "1",
-            "label": "までに"
-          },
-          {
-            "value": "2",
-            "label": "あとで"
-          },
-          {
-            "value": "3",
-            "label": "うちに"
-          },
-          {
-            "value": "4",
-            "label": "につき"
-          }
+        "answer": "うちに",
+        "acceptedAnswers": [
+          "うちに"
         ],
-        "explanationZh": "雨が降る前の状態を利用するので「降らないうちに」。"
+        "explanationZh": "「〜うちに」は、まだその状態が続いている間に何かをする、または状態が変わる前に済ませるという意味です。 本题应填「うちに」。"
       },
       {
-        "id": "unit-02-grammar-context-016",
-        "pointId": "uchi-ni",
+        "id": "unit-02-grammar-cloze-028",
+        "pointId": "l2-01-uchi-ni",
         "pointTitle": "〜うちに",
         "sectionTitle": "文法・表現",
-        "type": "语境文法・表达选择",
-        "prompt": "セールで安い（　）買っておきます。",
-        "answer": "4",
-        "choices": [
-          {
-            "value": "1",
-            "label": "わりに"
-          },
-          {
-            "value": "2",
-            "label": "たびに"
-          },
-          {
-            "value": "3",
-            "label": "ほどに"
-          },
-          {
-            "value": "4",
-            "label": "うちに"
-          }
+        "type": "grammar_cloze_self_check",
+        "focus": "「V辞書形／Vない形／イAい／ナAな／Nの＋うちに」で、その状態が変わる前に行うことを表す。",
+        "prompt": "店がすいている（　）買い物を済ませよう。",
+        "answer": "うちに",
+        "acceptedAnswers": [
+          "うちに"
         ],
-        "explanationZh": "安い状態が続いている間に買うという意味。"
+        "explanationZh": "「〜うちに」は、まだその状態が続いている間に何かをする、または状態が変わる前に済ませるという意味です。 本题应填「うちに」。"
       },
       {
-        "id": "unit-02-grammar-context-017",
-        "pointId": "uchi-ni",
+        "id": "unit-02-grammar-cloze-029",
+        "pointId": "l2-01-uchi-ni",
         "pointTitle": "〜うちに",
         "sectionTitle": "文法・表現",
-        "type": "语境文法・表达选择",
-        "prompt": "店が開いている（　）受け取りに行きます。",
-        "answer": "1",
-        "choices": [
-          {
-            "value": "1",
-            "label": "うちに"
-          },
-          {
-            "value": "2",
-            "label": "までに"
-          },
-          {
-            "value": "3",
-            "label": "ために"
-          },
-          {
-            "value": "4",
-            "label": "によって"
-          }
+        "type": "grammar_cloze_self_check",
+        "focus": "「V辞書形／Vない形／イAい／ナAな／Nの＋うちに」で、その状態が変わる前に行うことを表す。",
+        "prompt": "若い（　）苦労しておくのも大切です。",
+        "answer": "うちに",
+        "acceptedAnswers": [
+          "うちに"
         ],
-        "explanationZh": "店が開いている状態の間に行動するので「うちに」。"
+        "explanationZh": "「〜うちに」は、まだその状態が続いている間に何かをする、または状態が変わる前に済ませるという意味です。 本题应填「うちに」。"
       },
       {
-        "id": "unit-02-grammar-context-018",
-        "pointId": "uchi-ni",
+        "id": "unit-02-grammar-cloze-030",
+        "pointId": "l2-01-uchi-ni",
         "pointTitle": "〜うちに",
         "sectionTitle": "文法・表現",
-        "type": "语境文法・表达选择",
-        "prompt": "元気な（　）いろいろな所へ旅行したいです。",
-        "answer": "2",
-        "choices": [
-          {
-            "value": "1",
-            "label": "わりに"
-          },
-          {
-            "value": "2",
-            "label": "うちに"
-          },
-          {
-            "value": "3",
-            "label": "ほどに"
-          },
-          {
-            "value": "4",
-            "label": "につき"
-          }
+        "type": "grammar_cloze_self_check",
+        "focus": "「V辞書形／Vない形／イAい／ナAな／Nの＋うちに」で、その状態が変わる前に行うことを表す。",
+        "prompt": "セール期間の（　）このバッグを買っておきたい。",
+        "answer": "うちに",
+        "acceptedAnswers": [
+          "うちに"
         ],
-        "explanationZh": "元気でいられる期間内にしたいことを述べる表現。"
+        "explanationZh": "「〜うちに」は、まだその状態が続いている間に何かをする、または状態が変わる前に済ませるという意味です。 本题应填「うちに」。"
       },
       {
-        "id": "unit-02-grammar-context-019",
-        "pointId": "wari-ni",
+        "id": "unit-02-grammar-cloze-031",
+        "pointId": "l2-01-wari-ni",
         "pointTitle": "〜わりに",
         "sectionTitle": "文法・表現",
-        "type": "语境文法・表达选择",
-        "prompt": "このランチは量の（　）値段が安いです。",
-        "answer": "3",
-        "choices": [
-          {
-            "value": "1",
-            "label": "ために"
-          },
-          {
-            "value": "2",
-            "label": "だけに"
-          },
-          {
-            "value": "3",
-            "label": "わりに"
-          },
-          {
-            "value": "4",
-            "label": "かわりに"
-          }
+        "type": "grammar_cloze_self_check",
+        "focus": "「普通形／ナAな・である／Nの・である＋わりに」で、予想と違う評価を表す。",
+        "prompt": "このレストランは高い（　）量が少ない。",
+        "answer": "わりに",
+        "acceptedAnswers": [
+          "わりに"
         ],
-        "explanationZh": "基準から予想されることと違う評価を述べるので「わりに」。"
+        "explanationZh": "「〜わりに」は、前の内容から予想される程度と比べて、後ろの評価が意外だという意味を表します。 本题应填「わりに」。"
       },
       {
-        "id": "unit-02-grammar-context-020",
-        "pointId": "wari-ni",
+        "id": "unit-02-grammar-cloze-032",
+        "pointId": "l2-01-wari-ni",
         "pointTitle": "〜わりに",
         "sectionTitle": "文法・表現",
-        "type": "语境文法・表达选择",
-        "prompt": "この店は駅から遠い（　）客が多い。",
-        "answer": "4",
-        "choices": [
-          {
-            "value": "1",
-            "label": "につき"
-          },
-          {
-            "value": "2",
-            "label": "に限り"
-          },
-          {
-            "value": "3",
-            "label": "うちに"
-          },
-          {
-            "value": "4",
-            "label": "わりに"
-          }
+        "type": "grammar_cloze_self_check",
+        "focus": "「普通形／ナAな・である／Nの・である＋わりに」で、予想と違う評価を表す。",
+        "prompt": "この服は安い（　）生地がしっかりしている。",
+        "answer": "わりに",
+        "acceptedAnswers": [
+          "わりに"
         ],
-        "explanationZh": "「遠いのに客が多い」という意外さを表すため「わりに」。"
+        "explanationZh": "「〜わりに」は、前の内容から予想される程度と比べて、後ろの評価が意外だという意味を表します。 本题应填「わりに」。"
       },
       {
-        "id": "unit-02-grammar-context-021",
-        "pointId": "wari-ni",
+        "id": "unit-02-grammar-cloze-033",
+        "pointId": "l2-01-wari-ni",
         "pointTitle": "〜わりに",
         "sectionTitle": "文法・表現",
-        "type": "语境文法・表达选择",
-        "prompt": "初めて作った（　）とてもおいしい。",
-        "answer": "1",
-        "choices": [
-          {
-            "value": "1",
-            "label": "わりに"
-          },
-          {
-            "value": "2",
-            "label": "ために"
-          },
-          {
-            "value": "3",
-            "label": "ことに"
-          },
-          {
-            "value": "4",
-            "label": "ほどに"
-          }
+        "type": "grammar_cloze_self_check",
+        "focus": "「普通形／ナAな・である／Nの・である＋わりに」で、予想と違う評価を表す。",
+        "prompt": "彼は忙しい（　）よく連絡をくれます。",
+        "answer": "わりに",
+        "acceptedAnswers": [
+          "わりに"
         ],
-        "explanationZh": "初めてという基準から見ると意外によい、という評価。"
+        "explanationZh": "「〜わりに」は、前の内容から予想される程度と比べて、後ろの評価が意外だという意味を表します。 本题应填「わりに」。"
       },
       {
-        "id": "unit-02-grammar-context-022",
-        "pointId": "wari-ni",
+        "id": "unit-02-grammar-cloze-034",
+        "pointId": "l2-01-wari-ni",
         "pointTitle": "〜わりに",
         "sectionTitle": "文法・表現",
-        "type": "语境文法・表达选择",
-        "prompt": "このバッグは小さい（　）たくさん入ります。",
-        "answer": "2",
-        "choices": [
-          {
-            "value": "1",
-            "label": "だけに"
-          },
-          {
-            "value": "2",
-            "label": "わりに"
-          },
-          {
-            "value": "3",
-            "label": "によって"
-          },
-          {
-            "value": "4",
-            "label": "に向け"
-          }
+        "type": "grammar_cloze_self_check",
+        "focus": "「普通形／ナAな・である／Nの・である＋わりに」で、予想と違う評価を表す。",
+        "prompt": "新しい店の（　）サービスがあまりよくない。",
+        "answer": "わりに",
+        "acceptedAnswers": [
+          "わりに"
         ],
-        "explanationZh": "小さいという見た目に対して意外に容量があるので「わりに」。"
+        "explanationZh": "「〜わりに」は、前の内容から予想される程度と比べて、後ろの評価が意外だという意味を表します。 本题应填「わりに」。"
       },
       {
-        "id": "unit-02-grammar-context-023",
-        "pointId": "wari-ni",
+        "id": "unit-02-grammar-cloze-035",
+        "pointId": "l2-01-wari-ni",
         "pointTitle": "〜わりに",
         "sectionTitle": "文法・表現",
-        "type": "语境文法・表达选择",
-        "prompt": "今日は忙しかった（　）疲れていません。",
-        "answer": "3",
-        "choices": [
-          {
-            "value": "1",
-            "label": "ために"
-          },
-          {
-            "value": "2",
-            "label": "につき"
-          },
-          {
-            "value": "3",
-            "label": "わりに"
-          },
-          {
-            "value": "4",
-            "label": "に限り"
-          }
+        "type": "grammar_cloze_self_check",
+        "focus": "「普通形／ナAな・である／Nの・である＋わりに」で、予想と違う評価を表す。",
+        "prompt": "駅から遠い（　）お客さんが多い。",
+        "answer": "わりに",
+        "acceptedAnswers": [
+          "わりに"
         ],
-        "explanationZh": "忙しかったという状況から予想されるほど疲れていない、という意味。"
+        "explanationZh": "「〜わりに」は、前の内容から予想される程度と比べて、後ろの評価が意外だという意味を表します。 本题应填「わりに」。"
       },
       {
-        "id": "unit-02-grammar-context-024",
-        "pointId": "wari-ni",
+        "id": "unit-02-grammar-cloze-036",
+        "pointId": "l2-01-wari-ni",
         "pointTitle": "〜わりに",
         "sectionTitle": "文法・表現",
-        "type": "语境文法・表达选择",
-        "prompt": "この服は値段が高い（　）品質は普通です。",
-        "answer": "4",
-        "choices": [
-          {
-            "value": "1",
-            "label": "うちに"
-          },
-          {
-            "value": "2",
-            "label": "ために"
-          },
-          {
-            "value": "3",
-            "label": "によって"
-          },
-          {
-            "value": "4",
-            "label": "わりに"
-          }
+        "type": "grammar_cloze_self_check",
+        "focus": "「普通形／ナAな・である／Nの・である＋わりに」で、予想と違う評価を表す。",
+        "prompt": "値段の（　）味は普通でした。",
+        "answer": "わりに",
+        "acceptedAnswers": [
+          "わりに"
         ],
-        "explanationZh": "値段の高さに対して品質が普通という評価なので「わりに」。"
+        "explanationZh": "「〜わりに」は、前の内容から予想される程度と比べて、後ろの評価が意外だという意味を表します。 本题应填「わりに」。"
       },
       {
-        "id": "unit-02-grammar-context-025",
-        "pointId": "iinjanai",
-        "pointTitle": "〜(が)いいんじゃない？",
+        "id": "unit-02-grammar-cloze-037",
+        "pointId": "l2-01-wari-ni",
+        "pointTitle": "〜わりに",
         "sectionTitle": "文法・表現",
-        "type": "语境文法・表达选择",
-        "prompt": "焼き肉なら、「モーモーBBQ」が（　）？",
-        "answer": "1",
-        "choices": [
-          {
-            "value": "1",
-            "label": "いいんじゃない"
-          },
-          {
-            "value": "2",
-            "label": "いいはずだ"
-          },
-          {
-            "value": "3",
-            "label": "いいにつき"
-          },
-          {
-            "value": "4",
-            "label": "いいということだ"
-          }
+        "type": "grammar_cloze_self_check",
+        "focus": "「普通形／ナAな・である／Nの・である＋わりに」で、予想と違う評価を表す。",
+        "prompt": "初めて作った（　）上手にできました。",
+        "answer": "わりに",
+        "acceptedAnswers": [
+          "わりに"
         ],
-        "explanationZh": "友達に柔らかくすすめる時は「〜がいいんじゃない？」が自然。"
+        "explanationZh": "「〜わりに」は、前の内容から予想される程度と比べて、後ろの評価が意外だという意味を表します。 本题应填「わりに」。"
       },
       {
-        "id": "unit-02-grammar-context-026",
-        "pointId": "iinjanai",
-        "pointTitle": "〜(が)いいんじゃない？",
+        "id": "unit-02-grammar-cloze-038",
+        "pointId": "l2-01-wari-ni",
+        "pointTitle": "〜わりに",
         "sectionTitle": "文法・表現",
-        "type": "语境文法・表达选择",
-        "prompt": "プレゼントなら、写真立てなんか（　）？",
-        "answer": "2",
-        "choices": [
-          {
-            "value": "1",
-            "label": "いいに限り"
-          },
-          {
-            "value": "2",
-            "label": "いいんじゃない"
-          },
-          {
-            "value": "3",
-            "label": "いいはずだ"
-          },
-          {
-            "value": "4",
-            "label": "いいわりに"
-          }
+        "type": "grammar_cloze_self_check",
+        "focus": "「普通形／ナAな・である／Nの・である＋わりに」で、予想と違う評価を表す。",
+        "prompt": "今日は寒い（　）人出が多いですね。",
+        "answer": "わりに",
+        "acceptedAnswers": [
+          "わりに"
         ],
-        "explanationZh": "「なんか」と合わせて、押しつけず候補を出す表現。"
+        "explanationZh": "「〜わりに」は、前の内容から予想される程度と比べて、後ろの評価が意外だという意味を表します。 本题应填「わりに」。"
       },
       {
-        "id": "unit-02-grammar-context-027",
-        "pointId": "iinjanai",
-        "pointTitle": "〜(が)いいんじゃない？",
+        "id": "unit-02-grammar-cloze-039",
+        "pointId": "l2-01-wari-ni",
+        "pointTitle": "〜わりに",
         "sectionTitle": "文法・表現",
-        "type": "语境文法・表达选择",
-        "prompt": "混む前に予約したら（　）？",
-        "answer": "3",
-        "choices": [
-          {
-            "value": "1",
-            "label": "いいにつき"
-          },
-          {
-            "value": "2",
-            "label": "いいはずだ"
-          },
-          {
-            "value": "3",
-            "label": "いいんじゃない"
-          },
-          {
-            "value": "4",
-            "label": "いいによって"
-          }
+        "type": "grammar_cloze_self_check",
+        "focus": "「普通形／ナAな・である／Nの・である＋わりに」で、予想と違う評価を表す。",
+        "prompt": "大きな店の（　）品数が少ない。",
+        "answer": "わりに",
+        "acceptedAnswers": [
+          "わりに"
         ],
-        "explanationZh": "友達への提案なので「いいんじゃない？」が自然。"
+        "explanationZh": "「〜わりに」は、前の内容から予想される程度と比べて、後ろの評価が意外だという意味を表します。 本题应填「わりに」。"
       },
       {
-        "id": "unit-02-grammar-context-028",
-        "pointId": "iinjanai",
-        "pointTitle": "〜(が)いいんじゃない？",
+        "id": "unit-02-grammar-cloze-040",
+        "pointId": "l2-01-wari-ni",
+        "pointTitle": "〜わりに",
         "sectionTitle": "文法・表現",
-        "type": "语境文法・表达选择",
-        "prompt": "口コミがいいから、この店にしたら（　）？",
-        "answer": "4",
-        "choices": [
-          {
-            "value": "1",
-            "label": "いいでしょうか"
-          },
-          {
-            "value": "2",
-            "label": "いいということだ"
-          },
-          {
-            "value": "3",
-            "label": "いい向けだ"
-          },
-          {
-            "value": "4",
-            "label": "いいんじゃない"
-          }
+        "type": "grammar_cloze_self_check",
+        "focus": "「普通形／ナAな・である／Nの・である＋わりに」で、予想と違う評価を表す。",
+        "prompt": "彼女は若い（　）考え方が落ち着いている。",
+        "answer": "わりに",
+        "acceptedAnswers": [
+          "わりに"
         ],
-        "explanationZh": "相手に選択を残す推薦表現として使う。"
+        "explanationZh": "「〜わりに」は、前の内容から予想される程度と比べて、後ろの評価が意外だという意味を表します。 本题应填「わりに」。"
       },
       {
-        "id": "unit-02-grammar-context-029",
-        "pointId": "iinjanai",
-        "pointTitle": "〜(が)いいんじゃない？",
+        "id": "unit-02-grammar-cloze-041",
+        "pointId": "l2-02-iin-janai",
+        "pointTitle": "いいんじゃない",
         "sectionTitle": "文法・表現",
-        "type": "语境文法・表达选择",
-        "prompt": "迷っているなら、まず予算を決めたら（　）？",
-        "answer": "1",
-        "choices": [
-          {
-            "value": "1",
-            "label": "いいんじゃない"
-          },
-          {
-            "value": "2",
-            "label": "いいはずだ"
-          },
-          {
-            "value": "3",
-            "label": "いいに限り"
-          },
-          {
-            "value": "4",
-            "label": "いいにつき"
-          }
+        "type": "grammar_cloze_self_check",
+        "focus": "「〜いいんじゃない」は、相手にやわらかく提案したり勧めたりする表現。",
+        "prompt": "A：プレゼント、何がいいかな。B：ネクタイなんか（　）。",
+        "answer": "いいんじゃない",
+        "acceptedAnswers": [
+          "いいんじゃない"
         ],
-        "explanationZh": "助言を柔らかく言う時の表現。"
+        "explanationZh": "「いいんじゃない」は、強く断定せずに相手へ提案・推薦する時に使います。会話では「〜たらいいんじゃない」の形も自然です。 本题应填「いいんじゃない」。"
       },
       {
-        "id": "unit-02-grammar-context-030",
-        "pointId": "iinjanai",
-        "pointTitle": "〜(が)いいんじゃない？",
+        "id": "unit-02-grammar-cloze-042",
+        "pointId": "l2-02-iin-janai",
+        "pointTitle": "いいんじゃない",
         "sectionTitle": "文法・表現",
-        "type": "语境文法・表达选择",
-        "prompt": "セールの日に行けば（　）？",
-        "answer": "2",
-        "choices": [
-          {
-            "value": "1",
-            "label": "いいようになっている"
-          },
-          {
-            "value": "2",
-            "label": "いいんじゃない"
-          },
-          {
-            "value": "3",
-            "label": "いいわりに"
-          },
-          {
-            "value": "4",
-            "label": "いいからこそ"
-          }
+        "type": "grammar_cloze_self_check",
+        "focus": "「〜いいんじゃない」は、相手にやわらかく提案したり勧めたりする表現。",
+        "prompt": "この店、駅から近いし、ここにしたら（　）。",
+        "answer": "いいんじゃない",
+        "acceptedAnswers": [
+          "いいんじゃない"
         ],
-        "explanationZh": "「行けばいいんじゃない？」で、相手にすすめるニュアンスになる。"
+        "explanationZh": "「いいんじゃない」は、強く断定せずに相手へ提案・推薦する時に使います。会話では「〜たらいいんじゃない」の形も自然です。 本题应填「いいんじゃない」。"
       },
       {
-        "id": "unit-02-grammar-context-031",
-        "pointId": "youni-natteiru",
+        "id": "unit-02-grammar-cloze-043",
+        "pointId": "l2-02-iin-janai",
+        "pointTitle": "いいんじゃない",
+        "sectionTitle": "文法・表現",
+        "type": "grammar_cloze_self_check",
+        "focus": "「〜いいんじゃない」は、相手にやわらかく提案したり勧めたりする表現。",
+        "prompt": "少し高いけど、長く使えるなら買っても（　）。",
+        "answer": "いいんじゃない",
+        "acceptedAnswers": [
+          "いいんじゃない"
+        ],
+        "explanationZh": "「いいんじゃない」は、強く断定せずに相手へ提案・推薦する時に使います。会話では「〜たらいいんじゃない」の形も自然です。 本题应填「いいんじゃない」。"
+      },
+      {
+        "id": "unit-02-grammar-cloze-044",
+        "pointId": "l2-02-iin-janai",
+        "pointTitle": "いいんじゃない",
+        "sectionTitle": "文法・表現",
+        "type": "grammar_cloze_self_check",
+        "focus": "「〜いいんじゃない」は、相手にやわらかく提案したり勧めたりする表現。",
+        "prompt": "迷っているなら、店員さんに聞いてみても（　）。",
+        "answer": "いいんじゃない",
+        "acceptedAnswers": [
+          "いいんじゃない"
+        ],
+        "explanationZh": "「いいんじゃない」は、強く断定せずに相手へ提案・推薦する時に使います。会話では「〜たらいいんじゃない」の形も自然です。 本题应填「いいんじゃない」。"
+      },
+      {
+        "id": "unit-02-grammar-cloze-045",
+        "pointId": "l2-02-iin-janai",
+        "pointTitle": "いいんじゃない",
+        "sectionTitle": "文法・表現",
+        "type": "grammar_cloze_self_check",
+        "focus": "「〜いいんじゃない」は、相手にやわらかく提案したり勧めたりする表現。",
+        "prompt": "雨が降りそうだから、傘を持って行ったほうが（　）。",
+        "answer": "いいんじゃない",
+        "acceptedAnswers": [
+          "いいんじゃない"
+        ],
+        "explanationZh": "「いいんじゃない」は、強く断定せずに相手へ提案・推薦する時に使います。会話では「〜たらいいんじゃない」の形も自然です。 本题应填「いいんじゃない」。"
+      },
+      {
+        "id": "unit-02-grammar-cloze-046",
+        "pointId": "l2-02-iin-janai",
+        "pointTitle": "いいんじゃない",
+        "sectionTitle": "文法・表現",
+        "type": "grammar_cloze_self_check",
+        "focus": "「〜いいんじゃない」は、相手にやわらかく提案したり勧めたりする表現。",
+        "prompt": "友達に紹介するなら、このサイトを見せたら（　）。",
+        "answer": "いいんじゃない",
+        "acceptedAnswers": [
+          "いいんじゃない"
+        ],
+        "explanationZh": "「いいんじゃない」は、強く断定せずに相手へ提案・推薦する時に使います。会話では「〜たらいいんじゃない」の形も自然です。 本题应填「いいんじゃない」。"
+      },
+      {
+        "id": "unit-02-grammar-cloze-047",
+        "pointId": "l2-02-iin-janai",
+        "pointTitle": "いいんじゃない",
+        "sectionTitle": "文法・表現",
+        "type": "grammar_cloze_self_check",
+        "focus": "「〜いいんじゃない」は、相手にやわらかく提案したり勧めたりする表現。",
+        "prompt": "サイズが合わないなら、交換してもらえば（　）。",
+        "answer": "いいんじゃない",
+        "acceptedAnswers": [
+          "いいんじゃない"
+        ],
+        "explanationZh": "「いいんじゃない」は、強く断定せずに相手へ提案・推薦する時に使います。会話では「〜たらいいんじゃない」の形も自然です。 本题应填「いいんじゃない」。"
+      },
+      {
+        "id": "unit-02-grammar-cloze-048",
+        "pointId": "l2-02-iin-janai",
+        "pointTitle": "いいんじゃない",
+        "sectionTitle": "文法・表現",
+        "type": "grammar_cloze_self_check",
+        "focus": "「〜いいんじゃない」は、相手にやわらかく提案したり勧めたりする表現。",
+        "prompt": "忙しいなら、今日は無理しなくても（　）。",
+        "answer": "いいんじゃない",
+        "acceptedAnswers": [
+          "いいんじゃない"
+        ],
+        "explanationZh": "「いいんじゃない」は、強く断定せずに相手へ提案・推薦する時に使います。会話では「〜たらいいんじゃない」の形も自然です。 本题应填「いいんじゃない」。"
+      },
+      {
+        "id": "unit-02-grammar-cloze-049",
+        "pointId": "l2-02-iin-janai",
+        "pointTitle": "いいんじゃない",
+        "sectionTitle": "文法・表現",
+        "type": "grammar_cloze_self_check",
+        "focus": "「〜いいんじゃない」は、相手にやわらかく提案したり勧めたりする表現。",
+        "prompt": "口コミが良いし、一度行ってみても（　）。",
+        "answer": "いいんじゃない",
+        "acceptedAnswers": [
+          "いいんじゃない"
+        ],
+        "explanationZh": "「いいんじゃない」は、強く断定せずに相手へ提案・推薦する時に使います。会話では「〜たらいいんじゃない」の形も自然です。 本题应填「いいんじゃない」。"
+      },
+      {
+        "id": "unit-02-grammar-cloze-050",
+        "pointId": "l2-02-iin-janai",
+        "pointTitle": "いいんじゃない",
+        "sectionTitle": "文法・表現",
+        "type": "grammar_cloze_self_check",
+        "focus": "「〜いいんじゃない」は、相手にやわらかく提案したり勧めたりする表現。",
+        "prompt": "早く決めたいなら、電話で予約したら（　）。",
+        "answer": "いいんじゃない",
+        "acceptedAnswers": [
+          "いいんじゃない"
+        ],
+        "explanationZh": "「いいんじゃない」は、強く断定せずに相手へ提案・推薦する時に使います。会話では「〜たらいいんじゃない」の形も自然です。 本题应填「いいんじゃない」。"
+      },
+      {
+        "id": "unit-02-grammar-cloze-051",
+        "pointId": "l2-02-youni-natteiru",
         "pointTitle": "〜ようになっている",
         "sectionTitle": "文法・表現",
-        "type": "语境文法・表达选择",
-        "prompt": "このサイトでは、店を条件で比較できる（　）。",
-        "answer": "3",
-        "choices": [
-          {
-            "value": "1",
-            "label": "ようにしている"
-          },
-          {
-            "value": "2",
-            "label": "ためになっている"
-          },
-          {
-            "value": "3",
-            "label": "ようになっている"
-          },
-          {
-            "value": "4",
-            "label": "うちになっている"
-          }
+        "type": "grammar_cloze_self_check",
+        "focus": "「V辞書形／Vない形＋ようになっている」で、仕組み・状態・決まりとしてそうなっていることを表す。",
+        "prompt": "このドアはパスワードを入力しないと開かない（　）。",
+        "answer": "ようになっている",
+        "acceptedAnswers": [
+          "ようになっている"
         ],
-        "explanationZh": "サイトや仕組みの機能を説明する時は「Vできるようになっている」。"
+        "explanationZh": "「〜ようになっている」は、物や制度がそのように作られている、決まっている、仕組みになっていることを説明します。 本题应填「ようになっている」。"
       },
       {
-        "id": "unit-02-grammar-context-032",
-        "pointId": "youni-natteiru",
+        "id": "unit-02-grammar-cloze-052",
+        "pointId": "l2-02-youni-natteiru",
         "pointTitle": "〜ようになっている",
         "sectionTitle": "文法・表現",
-        "type": "语境文法・表达选择",
-        "prompt": "登録すると、クーポンがメールで届く（　）。",
-        "answer": "4",
-        "choices": [
-          {
-            "value": "1",
-            "label": "ようにする"
-          },
-          {
-            "value": "2",
-            "label": "ことにしている"
-          },
-          {
-            "value": "3",
-            "label": "わりになっている"
-          },
-          {
-            "value": "4",
-            "label": "ようになっている"
-          }
+        "type": "grammar_cloze_self_check",
+        "focus": "「V辞書形／Vない形＋ようになっている」で、仕組み・状態・決まりとしてそうなっていることを表す。",
+        "prompt": "このサイトに登録すると、クーポンが届く（　）。",
+        "answer": "ようになっている",
+        "acceptedAnswers": [
+          "ようになっている"
         ],
-        "explanationZh": "仕組みとしてそう設定されていることを表す。"
+        "explanationZh": "「〜ようになっている」は、物や制度がそのように作られている、決まっている、仕組みになっていることを説明します。 本题应填「ようになっている」。"
       },
       {
-        "id": "unit-02-grammar-context-033",
-        "pointId": "youni-natteiru",
+        "id": "unit-02-grammar-cloze-053",
+        "pointId": "l2-02-youni-natteiru",
         "pointTitle": "〜ようになっている",
         "sectionTitle": "文法・表現",
-        "type": "语境文法・表达选择",
-        "prompt": "このドアは安全のため、ボタンを押さないと開かない（　）。",
-        "answer": "1",
-        "choices": [
-          {
-            "value": "1",
-            "label": "ようになっている"
-          },
-          {
-            "value": "2",
-            "label": "ようにしている"
-          },
-          {
-            "value": "3",
-            "label": "ためになっている"
-          },
-          {
-            "value": "4",
-            "label": "につきなっている"
-          }
+        "type": "grammar_cloze_self_check",
+        "focus": "「V辞書形／Vない形＋ようになっている」で、仕組み・状態・決まりとしてそうなっていることを表す。",
+        "prompt": "店のアプリを見せると、安く買える（　）。",
+        "answer": "ようになっています",
+        "acceptedAnswers": [
+          "ようになっています"
         ],
-        "explanationZh": "設備の構造・ルールを説明する表現。"
+        "explanationZh": "「〜ようになっている」は、物や制度がそのように作られている、決まっている、仕組みになっていることを説明します。 本题应填「ようになっています」。"
       },
       {
-        "id": "unit-02-grammar-context-034",
-        "pointId": "youni-natteiru",
+        "id": "unit-02-grammar-cloze-054",
+        "pointId": "l2-02-youni-natteiru",
         "pointTitle": "〜ようになっている",
         "sectionTitle": "文法・表現",
-        "type": "语境文法・表达选择",
-        "prompt": "アプリを見せると、店でクーポンが使える（　）。",
-        "answer": "2",
-        "choices": [
-          {
-            "value": "1",
-            "label": "ことにしている"
-          },
-          {
-            "value": "2",
-            "label": "ようになっている"
-          },
-          {
-            "value": "3",
-            "label": "ようにする"
-          },
-          {
-            "value": "4",
-            "label": "わりになっている"
-          }
+        "type": "grammar_cloze_self_check",
+        "focus": "「V辞書形／Vない形＋ようになっている」で、仕組み・状態・決まりとしてそうなっていることを表す。",
+        "prompt": "予約した人だけが中に入れる（　）。",
+        "answer": "ようになっている",
+        "acceptedAnswers": [
+          "ようになっている"
         ],
-        "explanationZh": "利用条件を満たすと使える仕組みを表す。"
+        "explanationZh": "「〜ようになっている」は、物や制度がそのように作られている、決まっている、仕組みになっていることを説明します。 本题应填「ようになっている」。"
       },
       {
-        "id": "unit-02-grammar-context-035",
-        "pointId": "youni-natteiru",
+        "id": "unit-02-grammar-cloze-055",
+        "pointId": "l2-02-youni-natteiru",
         "pointTitle": "〜ようになっている",
         "sectionTitle": "文法・表現",
-        "type": "语境文法・表达选择",
-        "prompt": "このページから席を予約できる（　）。",
-        "answer": "3",
-        "choices": [
-          {
-            "value": "1",
-            "label": "ようにしている"
-          },
-          {
-            "value": "2",
-            "label": "ためになっている"
-          },
-          {
-            "value": "3",
-            "label": "ようになっている"
-          },
-          {
-            "value": "4",
-            "label": "ほどになっている"
-          }
+        "type": "grammar_cloze_self_check",
+        "focus": "「V辞書形／Vない形＋ようになっている」で、仕組み・状態・決まりとしてそうなっていることを表す。",
+        "prompt": "この機械はボタンを押すと音が出る（　）。",
+        "answer": "ようになっている",
+        "acceptedAnswers": [
+          "ようになっている"
         ],
-        "explanationZh": "ページの機能説明なので「予約できるようになっている」。"
+        "explanationZh": "「〜ようになっている」は、物や制度がそのように作られている、決まっている、仕組みになっていることを説明します。 本题应填「ようになっている」。"
       },
       {
-        "id": "unit-02-grammar-context-036",
-        "pointId": "youni-natteiru",
+        "id": "unit-02-grammar-cloze-056",
+        "pointId": "l2-02-youni-natteiru",
         "pointTitle": "〜ようになっている",
         "sectionTitle": "文法・表現",
-        "type": "语境文法・表达选择",
-        "prompt": "金額を入れると、合計が自動で表示される（　）。",
-        "answer": "4",
-        "choices": [
-          {
-            "value": "1",
-            "label": "ようにする"
-          },
-          {
-            "value": "2",
-            "label": "ことにしている"
-          },
-          {
-            "value": "3",
-            "label": "うちになっている"
-          },
-          {
-            "value": "4",
-            "label": "ようになっている"
-          }
+        "type": "grammar_cloze_self_check",
+        "focus": "「V辞書形／Vない形＋ようになっている」で、仕組み・状態・決まりとしてそうなっていることを表す。",
+        "prompt": "商品を3,000円以上買うと送料が無料になる（　）。",
+        "answer": "ようになっている",
+        "acceptedAnswers": [
+          "ようになっている"
         ],
-        "explanationZh": "システムの機能を説明している。"
+        "explanationZh": "「〜ようになっている」は、物や制度がそのように作られている、決まっている、仕組みになっていることを説明します。 本题应填「ようになっている」。"
       },
       {
-        "id": "unit-02-grammar-context-037",
-        "pointId": "ni-kagiri",
+        "id": "unit-02-grammar-cloze-057",
+        "pointId": "l2-02-youni-natteiru",
+        "pointTitle": "〜ようになっている",
+        "sectionTitle": "文法・表現",
+        "type": "grammar_cloze_self_check",
+        "focus": "「V辞書形／Vない形＋ようになっている」で、仕組み・状態・決まりとしてそうなっていることを表す。",
+        "prompt": "夜10時を過ぎると入口が閉まる（　）。",
+        "answer": "ようになっています",
+        "acceptedAnswers": [
+          "ようになっています"
+        ],
+        "explanationZh": "「〜ようになっている」は、物や制度がそのように作られている、決まっている、仕組みになっていることを説明します。 本题应填「ようになっています」。"
+      },
+      {
+        "id": "unit-02-grammar-cloze-058",
+        "pointId": "l2-02-youni-natteiru",
+        "pointTitle": "〜ようになっている",
+        "sectionTitle": "文法・表現",
+        "type": "grammar_cloze_self_check",
+        "focus": "「V辞書形／Vない形＋ようになっている」で、仕組み・状態・決まりとしてそうなっていることを表す。",
+        "prompt": "メールアドレスを入れると確認メールが送られる（　）。",
+        "answer": "ようになっている",
+        "acceptedAnswers": [
+          "ようになっている"
+        ],
+        "explanationZh": "「〜ようになっている」は、物や制度がそのように作られている、決まっている、仕組みになっていることを説明します。 本题应填「ようになっている」。"
+      },
+      {
+        "id": "unit-02-grammar-cloze-059",
+        "pointId": "l2-02-youni-natteiru",
+        "pointTitle": "〜ようになっている",
+        "sectionTitle": "文法・表現",
+        "type": "grammar_cloze_self_check",
+        "focus": "「V辞書形／Vない形＋ようになっている」で、仕組み・状態・決まりとしてそうなっていることを表す。",
+        "prompt": "カードをかざさないと会議室に入れない（　）。",
+        "answer": "ようになっています",
+        "acceptedAnswers": [
+          "ようになっています"
+        ],
+        "explanationZh": "「〜ようになっている」は、物や制度がそのように作られている、決まっている、仕組みになっていることを説明します。 本题应填「ようになっています」。"
+      },
+      {
+        "id": "unit-02-grammar-cloze-060",
+        "pointId": "l2-02-youni-natteiru",
+        "pointTitle": "〜ようになっている",
+        "sectionTitle": "文法・表現",
+        "type": "grammar_cloze_self_check",
+        "focus": "「V辞書形／Vない形＋ようになっている」で、仕組み・状態・決まりとしてそうなっていることを表す。",
+        "prompt": "水曜日はランチが少し安くなる（　）。",
+        "answer": "ようになっている",
+        "acceptedAnswers": [
+          "ようになっている"
+        ],
+        "explanationZh": "「〜ようになっている」は、物や制度がそのように作られている、決まっている、仕組みになっていることを説明します。 本题应填「ようになっている」。"
+      },
+      {
+        "id": "unit-02-grammar-cloze-061",
+        "pointId": "l2-03-kara-koso",
+        "pointTitle": "〜からこそ／〜こそ",
+        "sectionTitle": "文法・表現",
+        "type": "grammar_cloze_self_check",
+        "focus": "「普通形＋からこそ」「N／時／今＋こそ」で、理由や場面を強調する。",
+        "prompt": "子供はかわいい（　）きびしく教育している。",
+        "answer": "からこそ",
+        "acceptedAnswers": [
+          "からこそ"
+        ],
+        "explanationZh": "「〜からこそ」は、まさにその理由だからこそ後件が成り立つことを強調します。「今こそ」「忙しい時こそ」のように名詞や時にも使います。 本题应填「からこそ」。"
+      },
+      {
+        "id": "unit-02-grammar-cloze-062",
+        "pointId": "l2-03-kara-koso",
+        "pointTitle": "〜からこそ／〜こそ",
+        "sectionTitle": "文法・表現",
+        "type": "grammar_cloze_self_check",
+        "focus": "「普通形＋からこそ」「N／時／今＋こそ」で、理由や場面を強調する。",
+        "prompt": "忙しい時（　）食事の時間を大切にしたい。",
+        "answer": "こそ",
+        "acceptedAnswers": [
+          "こそ"
+        ],
+        "explanationZh": "「〜からこそ」は、まさにその理由だからこそ後件が成り立つことを強調します。「今こそ」「忙しい時こそ」のように名詞や時にも使います。 本题应填「こそ」。"
+      },
+      {
+        "id": "unit-02-grammar-cloze-063",
+        "pointId": "l2-03-kara-koso",
+        "pointTitle": "〜からこそ／〜こそ",
+        "sectionTitle": "文法・表現",
+        "type": "grammar_cloze_self_check",
+        "focus": "「普通形＋からこそ」「N／時／今＋こそ」で、理由や場面を強調する。",
+        "prompt": "失敗した（　）、次はもっと準備します。",
+        "answer": "からこそ",
+        "acceptedAnswers": [
+          "からこそ"
+        ],
+        "explanationZh": "「〜からこそ」は、まさにその理由だからこそ後件が成り立つことを強調します。「今こそ」「忙しい時こそ」のように名詞や時にも使います。 本题应填「からこそ」。"
+      },
+      {
+        "id": "unit-02-grammar-cloze-064",
+        "pointId": "l2-03-kara-koso",
+        "pointTitle": "〜からこそ／〜こそ",
+        "sectionTitle": "文法・表現",
+        "type": "grammar_cloze_self_check",
+        "focus": "「普通形＋からこそ」「N／時／今＋こそ」で、理由や場面を強調する。",
+        "prompt": "大切な友達（　）本当のことを言いました。",
+        "answer": "だからこそ",
+        "acceptedAnswers": [
+          "だからこそ"
+        ],
+        "explanationZh": "「〜からこそ」は、まさにその理由だからこそ後件が成り立つことを強調します。「今こそ」「忙しい時こそ」のように名詞や時にも使います。 本题应填「だからこそ」。"
+      },
+      {
+        "id": "unit-02-grammar-cloze-065",
+        "pointId": "l2-03-kara-koso",
+        "pointTitle": "〜からこそ／〜こそ",
+        "sectionTitle": "文法・表現",
+        "type": "grammar_cloze_self_check",
+        "focus": "「普通形＋からこそ」「N／時／今＋こそ」で、理由や場面を強調する。",
+        "prompt": "人気店（　）一度並んで食べてみたい。",
+        "answer": "だからこそ",
+        "acceptedAnswers": [
+          "だからこそ"
+        ],
+        "explanationZh": "「〜からこそ」は、まさにその理由だからこそ後件が成り立つことを強調します。「今こそ」「忙しい時こそ」のように名詞や時にも使います。 本题应填「だからこそ」。"
+      },
+      {
+        "id": "unit-02-grammar-cloze-066",
+        "pointId": "l2-03-kara-koso",
+        "pointTitle": "〜からこそ／〜こそ",
+        "sectionTitle": "文法・表現",
+        "type": "grammar_cloze_self_check",
+        "focus": "「普通形＋からこそ」「N／時／今＋こそ」で、理由や場面を強調する。",
+        "prompt": "分からない（　）店の人に聞く必要がある。",
+        "answer": "からこそ",
+        "acceptedAnswers": [
+          "からこそ"
+        ],
+        "explanationZh": "「〜からこそ」は、まさにその理由だからこそ後件が成り立つことを強調します。「今こそ」「忙しい時こそ」のように名詞や時にも使います。 本题应填「からこそ」。"
+      },
+      {
+        "id": "unit-02-grammar-cloze-067",
+        "pointId": "l2-03-kara-koso",
+        "pointTitle": "〜からこそ／〜こそ",
+        "sectionTitle": "文法・表現",
+        "type": "grammar_cloze_self_check",
+        "focus": "「普通形＋からこそ」「N／時／今＋こそ」で、理由や場面を強調する。",
+        "prompt": "今（　）始めるべきです。",
+        "answer": "こそ",
+        "acceptedAnswers": [
+          "こそ"
+        ],
+        "explanationZh": "「〜からこそ」は、まさにその理由だからこそ後件が成り立つことを強調します。「今こそ」「忙しい時こそ」のように名詞や時にも使います。 本题应填「こそ」。"
+      },
+      {
+        "id": "unit-02-grammar-cloze-068",
+        "pointId": "l2-03-kara-koso",
+        "pointTitle": "〜からこそ／〜こそ",
+        "sectionTitle": "文法・表現",
+        "type": "grammar_cloze_self_check",
+        "focus": "「普通形＋からこそ」「N／時／今＋こそ」で、理由や場面を強調する。",
+        "prompt": "安い（　）品質をよく確かめます。",
+        "answer": "からこそ",
+        "acceptedAnswers": [
+          "からこそ"
+        ],
+        "explanationZh": "「〜からこそ」は、まさにその理由だからこそ後件が成り立つことを強調します。「今こそ」「忙しい時こそ」のように名詞や時にも使います。 本题应填「からこそ」。"
+      },
+      {
+        "id": "unit-02-grammar-cloze-069",
+        "pointId": "l2-03-kara-koso",
+        "pointTitle": "〜からこそ／〜こそ",
+        "sectionTitle": "文法・表現",
+        "type": "grammar_cloze_self_check",
+        "focus": "「普通形＋からこそ」「N／時／今＋こそ」で、理由や場面を強調する。",
+        "prompt": "家族旅行（　）早めに予約しておきたい。",
+        "answer": "だからこそ",
+        "acceptedAnswers": [
+          "だからこそ"
+        ],
+        "explanationZh": "「〜からこそ」は、まさにその理由だからこそ後件が成り立つことを強調します。「今こそ」「忙しい時こそ」のように名詞や時にも使います。 本题应填「だからこそ」。"
+      },
+      {
+        "id": "unit-02-grammar-cloze-070",
+        "pointId": "l2-03-kara-koso",
+        "pointTitle": "〜からこそ／〜こそ",
+        "sectionTitle": "文法・表現",
+        "type": "grammar_cloze_self_check",
+        "focus": "「普通形＋からこそ」「N／時／今＋こそ」で、理由や場面を強調する。",
+        "prompt": "日本に来たばかり（　）たくさん質問してください。",
+        "answer": "だからこそ",
+        "acceptedAnswers": [
+          "だからこそ"
+        ],
+        "explanationZh": "「〜からこそ」は、まさにその理由だからこそ後件が成り立つことを強調します。「今こそ」「忙しい時こそ」のように名詞や時にも使います。 本题应填「だからこそ」。"
+      },
+      {
+        "id": "unit-02-grammar-cloze-071",
+        "pointId": "l2-03-ni-kagiri",
         "pointTitle": "〜に限り",
         "sectionTitle": "文法・表現",
-        "type": "语境文法・表达选择",
-        "prompt": "本日（　）、全品10％引きです。",
-        "answer": "1",
-        "choices": [
-          {
-            "value": "1",
-            "label": "に限り"
-          },
-          {
-            "value": "2",
-            "label": "につき"
-          },
-          {
-            "value": "3",
-            "label": "によって"
-          },
-          {
-            "value": "4",
-            "label": "に向け"
-          }
+        "type": "grammar_cloze_self_check",
+        "focus": "「Nに限り」で、対象・条件を限定する。告知やセール文によく出る。",
+        "prompt": "本日15時までにご来店のお客様（　）、ドリンクをプレゼントします。",
+        "answer": "に限り",
+        "acceptedAnswers": [
+          "に限り"
         ],
-        "explanationZh": "条件・対象を限定する広告表現。ここでは今日だけという意味。"
+        "explanationZh": "「〜に限り」は、特定の条件に当てはまる人・物だけが対象であることを示します。店の告知やキャンペーンでよく使います。 本题应填「に限り」。"
       },
       {
-        "id": "unit-02-grammar-context-038",
-        "pointId": "ni-kagiri",
+        "id": "unit-02-grammar-cloze-072",
+        "pointId": "l2-03-ni-kagiri",
         "pointTitle": "〜に限り",
         "sectionTitle": "文法・表現",
-        "type": "语境文法・表达选择",
-        "prompt": "3,000円以上お買い上げのお客様（　）、券を差し上げます。",
-        "answer": "2",
-        "choices": [
-          {
-            "value": "1",
-            "label": "につき"
-          },
-          {
-            "value": "2",
-            "label": "に限り"
-          },
-          {
-            "value": "3",
-            "label": "によって"
-          },
-          {
-            "value": "4",
-            "label": "向けに"
-          }
+        "type": "grammar_cloze_self_check",
+        "focus": "「Nに限り」で、対象・条件を限定する。告知やセール文によく出る。",
+        "prompt": "3,000円以上お買い上げの方（　）、割引券を差し上げます。",
+        "answer": "に限り",
+        "acceptedAnswers": [
+          "に限り"
         ],
-        "explanationZh": "対象を「該当するお客様だけ」に限定している。"
+        "explanationZh": "「〜に限り」は、特定の条件に当てはまる人・物だけが対象であることを示します。店の告知やキャンペーンでよく使います。 本题应填「に限り」。"
       },
       {
-        "id": "unit-02-grammar-context-039",
-        "pointId": "ni-kagiri",
+        "id": "unit-02-grammar-cloze-073",
+        "pointId": "l2-03-ni-kagiri",
         "pointTitle": "〜に限り",
         "sectionTitle": "文法・表現",
-        "type": "语境文法・表达选择",
-        "prompt": "会員（　）、送料無料になります。",
-        "answer": "3",
-        "choices": [
-          {
-            "value": "1",
-            "label": "につき"
-          },
-          {
-            "value": "2",
-            "label": "として"
-          },
-          {
-            "value": "3",
-            "label": "に限り"
-          },
-          {
-            "value": "4",
-            "label": "によって"
-          }
+        "type": "grammar_cloze_self_check",
+        "focus": "「Nに限り」で、対象・条件を限定する。告知やセール文によく出る。",
+        "prompt": "先着50名様（　）、記念品を差し上げます。",
+        "answer": "に限り",
+        "acceptedAnswers": [
+          "に限り"
         ],
-        "explanationZh": "会員だけが対象なので「会員に限り」。"
+        "explanationZh": "「〜に限り」は、特定の条件に当てはまる人・物だけが対象であることを示します。店の告知やキャンペーンでよく使います。 本题应填「に限り」。"
       },
       {
-        "id": "unit-02-grammar-context-040",
-        "pointId": "ni-kagiri",
+        "id": "unit-02-grammar-cloze-074",
+        "pointId": "l2-03-ni-kagiri",
         "pointTitle": "〜に限り",
         "sectionTitle": "文法・表現",
-        "type": "语境文法・表达选择",
-        "prompt": "先着50名（　）、プレゼントがあります。",
-        "answer": "4",
-        "choices": [
-          {
-            "value": "1",
-            "label": "につき"
-          },
-          {
-            "value": "2",
-            "label": "に向け"
-          },
-          {
-            "value": "3",
-            "label": "として"
-          },
-          {
-            "value": "4",
-            "label": "に限り"
-          }
+        "type": "grammar_cloze_self_check",
+        "focus": "「Nに限り」で、対象・条件を限定する。告知やセール文によく出る。",
+        "prompt": "学生（　）、入場料が半額になります。",
+        "answer": "に限り",
+        "acceptedAnswers": [
+          "に限り"
         ],
-        "explanationZh": "人数条件を限定する表現。"
+        "explanationZh": "「〜に限り」は、特定の条件に当てはまる人・物だけが対象であることを示します。店の告知やキャンペーンでよく使います。 本题应填「に限り」。"
       },
       {
-        "id": "unit-02-grammar-context-041",
-        "pointId": "ni-kagiri",
+        "id": "unit-02-grammar-cloze-075",
+        "pointId": "l2-03-ni-kagiri",
         "pointTitle": "〜に限り",
         "sectionTitle": "文法・表現",
-        "type": "语境文法・表达选择",
-        "prompt": "国内在住の方（　）、応募できます。",
-        "answer": "1",
-        "choices": [
-          {
-            "value": "1",
-            "label": "に限り"
-          },
-          {
-            "value": "2",
-            "label": "につき"
-          },
-          {
-            "value": "3",
-            "label": "によって"
-          },
-          {
-            "value": "4",
-            "label": "において"
-          }
+        "type": "grammar_cloze_self_check",
+        "focus": "「Nに限り」で、対象・条件を限定する。告知やセール文によく出る。",
+        "prompt": "今週中に登録した方（　）、送料が無料です。",
+        "answer": "に限り",
+        "acceptedAnswers": [
+          "に限り"
         ],
-        "explanationZh": "応募できる対象を限定している。"
+        "explanationZh": "「〜に限り」は、特定の条件に当てはまる人・物だけが対象であることを示します。店の告知やキャンペーンでよく使います。 本题应填「に限り」。"
       },
       {
-        "id": "unit-02-grammar-context-042",
-        "pointId": "ni-kagiri",
+        "id": "unit-02-grammar-cloze-076",
+        "pointId": "l2-03-ni-kagiri",
         "pointTitle": "〜に限り",
         "sectionTitle": "文法・表現",
-        "type": "语境文法・表达选择",
-        "prompt": "18時まで（　）、ビール1杯サービスです。",
-        "answer": "2",
-        "choices": [
-          {
-            "value": "1",
-            "label": "につき"
-          },
-          {
-            "value": "2",
-            "label": "に限り"
-          },
-          {
-            "value": "3",
-            "label": "によって"
-          },
-          {
-            "value": "4",
-            "label": "向けに"
-          }
+        "type": "grammar_cloze_self_check",
+        "focus": "「Nに限り」で、対象・条件を限定する。告知やセール文によく出る。",
+        "prompt": "平日ランチをご注文のお客様（　）、デザート付きです。",
+        "answer": "に限り",
+        "acceptedAnswers": [
+          "に限り"
         ],
-        "explanationZh": "時間条件を限定するので「〜に限り」。"
+        "explanationZh": "「〜に限り」は、特定の条件に当てはまる人・物だけが対象であることを示します。店の告知やキャンペーンでよく使います。 本题应填「に限り」。"
       },
       {
-        "id": "unit-02-grammar-context-043",
-        "pointId": "koso-karakoso",
-        "pointTitle": "〜こそ / 〜からこそ",
+        "id": "unit-02-grammar-cloze-077",
+        "pointId": "l2-03-ni-kagiri",
+        "pointTitle": "〜に限り",
         "sectionTitle": "文法・表現",
-        "type": "语境文法・表达选择",
-        "prompt": "今年の夏（　）海に行こう。",
-        "answer": "3",
-        "choices": [
-          {
-            "value": "1",
-            "label": "だけ"
-          },
-          {
-            "value": "2",
-            "label": "ほど"
-          },
-          {
-            "value": "3",
-            "label": "こそ"
-          },
-          {
-            "value": "4",
-            "label": "につき"
-          }
+        "type": "grammar_cloze_self_check",
+        "focus": "「Nに限り」で、対象・条件を限定する。告知やセール文によく出る。",
+        "prompt": "このチラシをお持ちの方（　）、10％引きです。",
+        "answer": "に限り",
+        "acceptedAnswers": [
+          "に限り"
         ],
-        "explanationZh": "「今年こそ」で、今年は必ずという強調になる。"
+        "explanationZh": "「〜に限り」は、特定の条件に当てはまる人・物だけが対象であることを示します。店の告知やキャンペーンでよく使います。 本题应填「に限り」。"
       },
       {
-        "id": "unit-02-grammar-context-044",
-        "pointId": "koso-karakoso",
-        "pointTitle": "〜こそ / 〜からこそ",
+        "id": "unit-02-grammar-cloze-078",
+        "pointId": "l2-03-ni-kagiri",
+        "pointTitle": "〜に限り",
         "sectionTitle": "文法・表現",
-        "type": "语境文法・表达选择",
-        "prompt": "今（　）、始めるチャンスです。",
-        "answer": "4",
-        "choices": [
-          {
-            "value": "1",
-            "label": "につき"
-          },
-          {
-            "value": "2",
-            "label": "わりに"
-          },
-          {
-            "value": "3",
-            "label": "に限り"
-          },
-          {
-            "value": "4",
-            "label": "だからこそ"
-          }
+        "type": "grammar_cloze_self_check",
+        "focus": "「Nに限り」で、対象・条件を限定する。告知やセール文によく出る。",
+        "prompt": "予約のお客様（　）、個室をご利用いただけます。",
+        "answer": "に限り",
+        "acceptedAnswers": [
+          "に限り"
         ],
-        "explanationZh": "今という理由を強調して「だからこそ」を使う。"
+        "explanationZh": "「〜に限り」は、特定の条件に当てはまる人・物だけが対象であることを示します。店の告知やキャンペーンでよく使います。 本题应填「に限り」。"
       },
       {
-        "id": "unit-02-grammar-context-045",
-        "pointId": "koso-karakoso",
-        "pointTitle": "〜こそ / 〜からこそ",
+        "id": "unit-02-grammar-cloze-079",
+        "pointId": "l2-03-ni-kagiri",
+        "pointTitle": "〜に限り",
         "sectionTitle": "文法・表現",
-        "type": "语境文法・表达选择",
-        "prompt": "忙しい（　）、時間の使い方を考える必要があります。",
-        "answer": "1",
-        "choices": [
-          {
-            "value": "1",
-            "label": "からこそ"
-          },
-          {
-            "value": "2",
-            "label": "につき"
-          },
-          {
-            "value": "3",
-            "label": "に限り"
-          },
-          {
-            "value": "4",
-            "label": "うちに"
-          }
+        "type": "grammar_cloze_self_check",
+        "focus": "「Nに限り」で、対象・条件を限定する。告知やセール文によく出る。",
+        "prompt": "本日中のお申し込み（　）、特別価格になります。",
+        "answer": "に限り",
+        "acceptedAnswers": [
+          "に限り"
         ],
-        "explanationZh": "理由を強調する時は「普通形＋からこそ」。"
+        "explanationZh": "「〜に限り」は、特定の条件に当てはまる人・物だけが対象であることを示します。店の告知やキャンペーンでよく使います。 本题应填「に限り」。"
       },
       {
-        "id": "unit-02-grammar-context-046",
-        "pointId": "koso-karakoso",
-        "pointTitle": "〜こそ / 〜からこそ",
+        "id": "unit-02-grammar-cloze-080",
+        "pointId": "l2-03-ni-kagiri",
+        "pointTitle": "〜に限り",
         "sectionTitle": "文法・表現",
-        "type": "语境文法・表达选择",
-        "prompt": "この店（　）、友達に紹介したいです。",
-        "answer": "2",
-        "choices": [
-          {
-            "value": "1",
-            "label": "だけ"
-          },
-          {
-            "value": "2",
-            "label": "こそ"
-          },
-          {
-            "value": "3",
-            "label": "ほど"
-          },
-          {
-            "value": "4",
-            "label": "につき"
-          }
+        "type": "grammar_cloze_self_check",
+        "focus": "「Nに限り」で、対象・条件を限定する。告知やセール文によく出る。",
+        "prompt": "会員（　）、次回使えるクーポンがもらえます。",
+        "answer": "に限り",
+        "acceptedAnswers": [
+          "に限り"
         ],
-        "explanationZh": "「この店こそ」で、その店を特に強調する。"
+        "explanationZh": "「〜に限り」は、特定の条件に当てはまる人・物だけが対象であることを示します。店の告知やキャンペーンでよく使います。 本题应填「に限り」。"
       },
       {
-        "id": "unit-02-grammar-context-047",
-        "pointId": "koso-karakoso",
-        "pointTitle": "〜こそ / 〜からこそ",
+        "id": "unit-02-grammar-cloze-081",
+        "pointId": "l2-03-mayou",
+        "pointTitle": "迷う",
         "sectionTitle": "文法・表現",
-        "type": "语境文法・表达选择",
-        "prompt": "失敗した（　）、次は気をつけようと思いました。",
-        "answer": "3",
-        "choices": [
-          {
-            "value": "1",
-            "label": "わりに"
-          },
-          {
-            "value": "2",
-            "label": "に限り"
-          },
-          {
-            "value": "3",
-            "label": "からこそ"
-          },
-          {
-            "value": "4",
-            "label": "につき"
-          }
+        "type": "grammar_cloze_self_check",
+        "focus": "「迷う」は、道が分からない時や決められない時に使う。活用形にも注意する。",
+        "prompt": "この靴、欲しいけど高いから買おうか（　）。",
+        "answer": "迷っています",
+        "acceptedAnswers": [
+          "迷っています"
         ],
-        "explanationZh": "失敗したという理由を強調している。"
+        "explanationZh": "「迷う」は、選択肢があって決められない時、また道が分からない時に使います。文脈に合わせて「迷って」「迷った」「迷わない」などに活用します。 本题应填「迷っています」。"
       },
       {
-        "id": "unit-02-grammar-context-048",
-        "pointId": "koso-karakoso",
-        "pointTitle": "〜こそ / 〜からこそ",
+        "id": "unit-02-grammar-cloze-082",
+        "pointId": "l2-03-mayou",
+        "pointTitle": "迷う",
         "sectionTitle": "文法・表現",
-        "type": "语境文法・表达选择",
-        "prompt": "今日（　）、部屋を片付けます。",
-        "answer": "4",
-        "choices": [
-          {
-            "value": "1",
-            "label": "だけ"
-          },
-          {
-            "value": "2",
-            "label": "まで"
-          },
-          {
-            "value": "3",
-            "label": "ほど"
-          },
-          {
-            "value": "4",
-            "label": "こそ"
-          }
+        "type": "grammar_cloze_self_check",
+        "focus": "「迷う」は、道が分からない時や決められない時に使う。活用形にも注意する。",
+        "prompt": "どちらの店に行くかまだ（　）います。",
+        "answer": "迷って",
+        "acceptedAnswers": [
+          "迷って"
         ],
-        "explanationZh": "「今日こそ」で、今日こそは実行するという強い気持ちを表す。"
+        "explanationZh": "「迷う」は、選択肢があって決められない時、また道が分からない時に使います。文脈に合わせて「迷って」「迷った」「迷わない」などに活用します。 本题应填「迷って」。"
       },
       {
-        "id": "unit-02-grammar-context-049",
-        "pointId": "ni-tsuki",
+        "id": "unit-02-grammar-cloze-083",
+        "pointId": "l2-03-mayou",
+        "pointTitle": "迷う",
+        "sectionTitle": "文法・表現",
+        "type": "grammar_cloze_self_check",
+        "focus": "「迷う」は、道が分からない時や決められない時に使う。活用形にも注意する。",
+        "prompt": "サイズで（　）時は店員に相談します。",
+        "answer": "迷った",
+        "acceptedAnswers": [
+          "迷った"
+        ],
+        "explanationZh": "「迷う」は、選択肢があって決められない時、また道が分からない時に使います。文脈に合わせて「迷って」「迷った」「迷わない」などに活用します。 本题应填「迷った」。"
+      },
+      {
+        "id": "unit-02-grammar-cloze-084",
+        "pointId": "l2-03-mayou",
+        "pointTitle": "迷う",
+        "sectionTitle": "文法・表現",
+        "type": "grammar_cloze_self_check",
+        "focus": "「迷う」は、道が分からない時や決められない時に使う。活用形にも注意する。",
+        "prompt": "進学するか就職するか（　）末、留学を決めました。",
+        "answer": "迷った",
+        "acceptedAnswers": [
+          "迷った"
+        ],
+        "explanationZh": "「迷う」は、選択肢があって決められない時、また道が分からない時に使います。文脈に合わせて「迷って」「迷った」「迷わない」などに活用します。 本题应填「迷った」。"
+      },
+      {
+        "id": "unit-02-grammar-cloze-085",
+        "pointId": "l2-03-mayou",
+        "pointTitle": "迷う",
+        "sectionTitle": "文法・表現",
+        "type": "grammar_cloze_self_check",
+        "focus": "「迷う」は、道が分からない時や決められない時に使う。活用形にも注意する。",
+        "prompt": "道に（　）しまって、駅に着くのが遅れました。",
+        "answer": "迷って",
+        "acceptedAnswers": [
+          "迷って"
+        ],
+        "explanationZh": "「迷う」は、選択肢があって決められない時、また道が分からない時に使います。文脈に合わせて「迷って」「迷った」「迷わない」などに活用します。 本题应填「迷って」。"
+      },
+      {
+        "id": "unit-02-grammar-cloze-086",
+        "pointId": "l2-03-mayou",
+        "pointTitle": "迷う",
+        "sectionTitle": "文法・表現",
+        "type": "grammar_cloze_self_check",
+        "focus": "「迷う」は、道が分からない時や決められない時に使う。活用形にも注意する。",
+        "prompt": "プレゼント選びに（　）時は相手の好みを聞きます。",
+        "answer": "迷う",
+        "acceptedAnswers": [
+          "迷う"
+        ],
+        "explanationZh": "「迷う」は、選択肢があって決められない時、また道が分からない時に使います。文脈に合わせて「迷って」「迷った」「迷わない」などに活用します。 本题应填「迷う」。"
+      },
+      {
+        "id": "unit-02-grammar-cloze-087",
+        "pointId": "l2-03-mayou",
+        "pointTitle": "迷う",
+        "sectionTitle": "文法・表現",
+        "type": "grammar_cloze_self_check",
+        "focus": "「迷う」は、道が分からない時や決められない時に使う。活用形にも注意する。",
+        "prompt": "注文で（　）なら、おすすめを聞くといいです。",
+        "answer": "迷った",
+        "acceptedAnswers": [
+          "迷った"
+        ],
+        "explanationZh": "「迷う」は、選択肢があって決められない時、また道が分からない時に使います。文脈に合わせて「迷って」「迷った」「迷わない」などに活用します。 本题应填「迷った」。"
+      },
+      {
+        "id": "unit-02-grammar-cloze-088",
+        "pointId": "l2-03-mayou",
+        "pointTitle": "迷う",
+        "sectionTitle": "文法・表現",
+        "type": "grammar_cloze_self_check",
+        "focus": "「迷う」は、道が分からない時や決められない時に使う。活用形にも注意する。",
+        "prompt": "色で（　）いたら、友達がアドバイスしてくれた。",
+        "answer": "迷って",
+        "acceptedAnswers": [
+          "迷って"
+        ],
+        "explanationZh": "「迷う」は、選択肢があって決められない時、また道が分からない時に使います。文脈に合わせて「迷って」「迷った」「迷わない」などに活用します。 本题应填「迷って」。"
+      },
+      {
+        "id": "unit-02-grammar-cloze-089",
+        "pointId": "l2-03-mayou",
+        "pointTitle": "迷う",
+        "sectionTitle": "文法・表現",
+        "type": "grammar_cloze_self_check",
+        "focus": "「迷う」は、道が分からない時や決められない時に使う。活用形にも注意する。",
+        "prompt": "何を買うか（　）ずに、まず予算を決めましょう。",
+        "answer": "迷わ",
+        "acceptedAnswers": [
+          "迷わ"
+        ],
+        "explanationZh": "「迷う」は、選択肢があって決められない時、また道が分からない時に使います。文脈に合わせて「迷って」「迷った」「迷わない」などに活用します。 本题应填「迷わ」。"
+      },
+      {
+        "id": "unit-02-grammar-cloze-090",
+        "pointId": "l2-03-mayou",
+        "pointTitle": "迷う",
+        "sectionTitle": "文法・表現",
+        "type": "grammar_cloze_self_check",
+        "focus": "「迷う」は、道が分からない時や決められない時に使う。活用形にも注意する。",
+        "prompt": "あまり（　）で、今日はこれにします。",
+        "answer": "迷わない",
+        "acceptedAnswers": [
+          "迷わない"
+        ],
+        "explanationZh": "「迷う」は、選択肢があって決められない時、また道が分からない時に使います。文脈に合わせて「迷って」「迷った」「迷わない」などに活用します。 本题应填「迷わない」。"
+      },
+      {
+        "id": "unit-02-grammar-cloze-091",
+        "pointId": "l2-03-ni-tsuki",
         "pointTitle": "〜につき",
         "sectionTitle": "文法・表現",
-        "type": "语境文法・表达选择",
-        "prompt": "閉店（　）、大セールを行います。",
-        "answer": "1",
-        "choices": [
-          {
-            "value": "1",
-            "label": "につき"
-          },
-          {
-            "value": "2",
-            "label": "に限り"
-          },
-          {
-            "value": "3",
-            "label": "によって"
-          },
-          {
-            "value": "4",
-            "label": "向けに"
-          }
+        "type": "grammar_cloze_self_check",
+        "focus": "「Nにつき」は、理由・事情・単位を表す硬い告知表現。",
+        "prompt": "本日閉店（　）、全品10％割引します。",
+        "answer": "につき",
+        "acceptedAnswers": [
+          "につき"
         ],
-        "explanationZh": "告示・看板で理由を簡潔に表す時は「Nにつき」。"
+        "explanationZh": "「〜につき」は、告知文で理由や事情を示したり、「一人につき」のように単位を示したりします。日常会話より掲示・案内でよく使います。 本题应填「につき」。"
       },
       {
-        "id": "unit-02-grammar-context-050",
-        "pointId": "ni-tsuki",
+        "id": "unit-02-grammar-cloze-092",
+        "pointId": "l2-03-ni-tsuki",
         "pointTitle": "〜につき",
         "sectionTitle": "文法・表現",
-        "type": "语境文法・表达选择",
-        "prompt": "工事中（　）、入口を変更しています。",
-        "answer": "2",
-        "choices": [
-          {
-            "value": "1",
-            "label": "に限り"
-          },
-          {
-            "value": "2",
-            "label": "につき"
-          },
-          {
-            "value": "3",
-            "label": "によって"
-          },
-          {
-            "value": "4",
-            "label": "として"
-          }
+        "type": "grammar_cloze_self_check",
+        "focus": "「Nにつき」は、理由・事情・単位を表す硬い告知表現。",
+        "prompt": "雨天（　）、イベントは中止します。",
+        "answer": "につき",
+        "acceptedAnswers": [
+          "につき"
         ],
-        "explanationZh": "「工事中につき」は、工事中なので、という掲示表現。"
+        "explanationZh": "「〜につき」は、告知文で理由や事情を示したり、「一人につき」のように単位を示したりします。日常会話より掲示・案内でよく使います。 本题应填「につき」。"
       },
       {
-        "id": "unit-02-grammar-context-051",
-        "pointId": "ni-tsuki",
+        "id": "unit-02-grammar-cloze-093",
+        "pointId": "l2-03-ni-tsuki",
         "pointTitle": "〜につき",
         "sectionTitle": "文法・表現",
-        "type": "语境文法・表达选择",
-        "prompt": "雨天（　）、イベントは中止です。",
-        "answer": "3",
-        "choices": [
-          {
-            "value": "1",
-            "label": "に限り"
-          },
-          {
-            "value": "2",
-            "label": "によって"
-          },
-          {
-            "value": "3",
-            "label": "につき"
-          },
-          {
-            "value": "4",
-            "label": "うちに"
-          }
+        "type": "grammar_cloze_self_check",
+        "focus": "「Nにつき」は、理由・事情・単位を表す硬い告知表現。",
+        "prompt": "改装（　）、しばらく休業いたします。",
+        "answer": "につき",
+        "acceptedAnswers": [
+          "につき"
         ],
-        "explanationZh": "掲示で中止理由を示すため「雨天につき」。"
+        "explanationZh": "「〜につき」は、告知文で理由や事情を示したり、「一人につき」のように単位を示したりします。日常会話より掲示・案内でよく使います。 本题应填「につき」。"
       },
       {
-        "id": "unit-02-grammar-context-052",
-        "pointId": "ni-tsuki",
+        "id": "unit-02-grammar-cloze-094",
+        "pointId": "l2-03-ni-tsuki",
         "pointTitle": "〜につき",
         "sectionTitle": "文法・表現",
-        "type": "语境文法・表达选择",
-        "prompt": "好評（　）、キャンペーンを延長します。",
-        "answer": "4",
-        "choices": [
-          {
-            "value": "1",
-            "label": "に限り"
-          },
-          {
-            "value": "2",
-            "label": "によって"
-          },
-          {
-            "value": "3",
-            "label": "向けに"
-          },
-          {
-            "value": "4",
-            "label": "につき"
-          }
+        "type": "grammar_cloze_self_check",
+        "focus": "「Nにつき」は、理由・事情・単位を表す硬い告知表現。",
+        "prompt": "1人（　）2点まで購入できます。",
+        "answer": "につき",
+        "acceptedAnswers": [
+          "につき"
         ],
-        "explanationZh": "「好評につき」で、評判がよいためという意味。"
+        "explanationZh": "「〜につき」は、告知文で理由や事情を示したり、「一人につき」のように単位を示したりします。日常会話より掲示・案内でよく使います。 本题应填「につき」。"
       },
       {
-        "id": "unit-02-grammar-context-053",
-        "pointId": "ni-tsuki",
+        "id": "unit-02-grammar-cloze-095",
+        "pointId": "l2-03-ni-tsuki",
         "pointTitle": "〜につき",
         "sectionTitle": "文法・表現",
-        "type": "语境文法・表达选择",
-        "prompt": "棚卸し（　）、本日は休業します。",
-        "answer": "1",
-        "choices": [
-          {
-            "value": "1",
-            "label": "につき"
-          },
-          {
-            "value": "2",
-            "label": "に限り"
-          },
-          {
-            "value": "3",
-            "label": "として"
-          },
-          {
-            "value": "4",
-            "label": "によって"
-          }
+        "type": "grammar_cloze_self_check",
+        "focus": "「Nにつき」は、理由・事情・単位を表す硬い告知表現。",
+        "prompt": "好評（　）、キャンペーン期間を延長します。",
+        "answer": "につき",
+        "acceptedAnswers": [
+          "につき"
         ],
-        "explanationZh": "店の告知で休業理由を表している。"
+        "explanationZh": "「〜につき」は、告知文で理由や事情を示したり、「一人につき」のように単位を示したりします。日常会話より掲示・案内でよく使います。 本题应填「につき」。"
       },
       {
-        "id": "unit-02-grammar-context-054",
-        "pointId": "ni-tsuki",
+        "id": "unit-02-grammar-cloze-096",
+        "pointId": "l2-03-ni-tsuki",
         "pointTitle": "〜につき",
         "sectionTitle": "文法・表現",
-        "type": "语境文法・表达选择",
-        "prompt": "満席（　）、しばらくお待ちください。",
-        "answer": "2",
-        "choices": [
-          {
-            "value": "1",
-            "label": "に限り"
-          },
-          {
-            "value": "2",
-            "label": "につき"
-          },
-          {
-            "value": "3",
-            "label": "に向け"
-          },
-          {
-            "value": "4",
-            "label": "わりに"
-          }
+        "type": "grammar_cloze_self_check",
+        "focus": "「Nにつき」は、理由・事情・単位を表す硬い告知表現。",
+        "prompt": "在庫不足（　）、発送が遅れます。",
+        "answer": "につき",
+        "acceptedAnswers": [
+          "につき"
         ],
-        "explanationZh": "満席という理由で待つ必要がある、という意味。"
+        "explanationZh": "「〜につき」は、告知文で理由や事情を示したり、「一人につき」のように単位を示したりします。日常会話より掲示・案内でよく使います。 本题应填「につき」。"
       },
       {
-        "id": "unit-02-grammar-context-055",
-        "pointId": "toiu-koto-da",
+        "id": "unit-02-grammar-cloze-097",
+        "pointId": "l2-03-ni-tsuki",
+        "pointTitle": "〜につき",
+        "sectionTitle": "文法・表現",
+        "type": "grammar_cloze_self_check",
+        "focus": "「Nにつき」は、理由・事情・単位を表す硬い告知表現。",
+        "prompt": "1グループ（　）一枚クーポンが使えます。",
+        "answer": "につき",
+        "acceptedAnswers": [
+          "につき"
+        ],
+        "explanationZh": "「〜につき」は、告知文で理由や事情を示したり、「一人につき」のように単位を示したりします。日常会話より掲示・案内でよく使います。 本题应填「につき」。"
+      },
+      {
+        "id": "unit-02-grammar-cloze-098",
+        "pointId": "l2-03-ni-tsuki",
+        "pointTitle": "〜につき",
+        "sectionTitle": "文法・表現",
+        "type": "grammar_cloze_self_check",
+        "focus": "「Nにつき」は、理由・事情・単位を表す硬い告知表現。",
+        "prompt": "セール終了（　）、返品はできません。",
+        "answer": "につき",
+        "acceptedAnswers": [
+          "につき"
+        ],
+        "explanationZh": "「〜につき」は、告知文で理由や事情を示したり、「一人につき」のように単位を示したりします。日常会話より掲示・案内でよく使います。 本题应填「につき」。"
+      },
+      {
+        "id": "unit-02-grammar-cloze-099",
+        "pointId": "l2-03-ni-tsuki",
+        "pointTitle": "〜につき",
+        "sectionTitle": "文法・表現",
+        "type": "grammar_cloze_self_check",
+        "focus": "「Nにつき」は、理由・事情・単位を表す硬い告知表現。",
+        "prompt": "参加者一名（　）資料を一部配ります。",
+        "answer": "につき",
+        "acceptedAnswers": [
+          "につき"
+        ],
+        "explanationZh": "「〜につき」は、告知文で理由や事情を示したり、「一人につき」のように単位を示したりします。日常会話より掲示・案内でよく使います。 本题应填「につき」。"
+      },
+      {
+        "id": "unit-02-grammar-cloze-100",
+        "pointId": "l2-03-ni-tsuki",
+        "pointTitle": "〜につき",
+        "sectionTitle": "文法・表現",
+        "type": "grammar_cloze_self_check",
+        "focus": "「Nにつき」は、理由・事情・単位を表す硬い告知表現。",
+        "prompt": "祝日（　）、営業時間を変更します。",
+        "answer": "につき",
+        "acceptedAnswers": [
+          "につき"
+        ],
+        "explanationZh": "「〜につき」は、告知文で理由や事情を示したり、「一人につき」のように単位を示したりします。日常会話より掲示・案内でよく使います。 本题应填「につき」。"
+      },
+      {
+        "id": "unit-02-grammar-cloze-101",
+        "pointId": "l2-04-to-iu-koto-da",
         "pointTitle": "〜ということだ",
         "sectionTitle": "文法・表現",
-        "type": "语境文法・表达选择",
-        "prompt": "今3時だから、5時になる（　）ですね。",
-        "answer": "3",
-        "choices": [
-          {
-            "value": "1",
-            "label": "というもの"
-          },
-          {
-            "value": "2",
-            "label": "というため"
-          },
-          {
-            "value": "3",
-            "label": "ということ"
-          },
-          {
-            "value": "4",
-            "label": "といううち"
-          }
+        "type": "grammar_cloze_self_check",
+        "focus": "「〜ということだ」は、聞いた情報を伝える、または内容を整理して言い換える時に使う。",
+        "prompt": "PTOの次の日は授業がありません。学校がお休み（　）。",
+        "answer": "ということです",
+        "acceptedAnswers": [
+          "ということです"
         ],
-        "explanationZh": "相手の話を言い換えて確認する時は「〜ということですね」。"
+        "explanationZh": "「〜ということだ」は、誰かから聞いた内容や掲示の内容をまとめて説明する表現です。つまり何を意味するのかを整理する時にも使えます。 本题应填「ということです」。"
       },
       {
-        "id": "unit-02-grammar-context-056",
-        "pointId": "toiu-koto-da",
+        "id": "unit-02-grammar-cloze-102",
+        "pointId": "l2-04-to-iu-koto-da",
         "pointTitle": "〜ということだ",
         "sectionTitle": "文法・表現",
-        "type": "语境文法・表达选择",
-        "prompt": "今日は混んでいるので、2時間待つ（　）ですか。",
-        "answer": "4",
-        "choices": [
-          {
-            "value": "1",
-            "label": "というもの"
-          },
-          {
-            "value": "2",
-            "label": "というほど"
-          },
-          {
-            "value": "3",
-            "label": "という向け"
-          },
-          {
-            "value": "4",
-            "label": "ということ"
-          }
+        "type": "grammar_cloze_self_check",
+        "focus": "「〜ということだ」は、聞いた情報を伝える、または内容を整理して言い換える時に使う。",
+        "prompt": "電車が止まっているそうです。今は駅へ行っても乗れない（　）。",
+        "answer": "ということです",
+        "acceptedAnswers": [
+          "ということです"
         ],
-        "explanationZh": "聞いた内容を確認する表現。"
+        "explanationZh": "「〜ということだ」は、誰かから聞いた内容や掲示の内容をまとめて説明する表現です。つまり何を意味するのかを整理する時にも使えます。 本题应填「ということです」。"
       },
       {
-        "id": "unit-02-grammar-context-057",
-        "pointId": "toiu-koto-da",
+        "id": "unit-02-grammar-cloze-103",
+        "pointId": "l2-04-to-iu-koto-da",
         "pointTitle": "〜ということだ",
         "sectionTitle": "文法・表現",
-        "type": "语境文法・表达选择",
-        "prompt": "特別料金が200円かかる（　）ですね。",
-        "answer": "1",
-        "choices": [
-          {
-            "value": "1",
-            "label": "ということ"
-          },
-          {
-            "value": "2",
-            "label": "というため"
-          },
-          {
-            "value": "3",
-            "label": "というもの"
-          },
-          {
-            "value": "4",
-            "label": "といううち"
-          }
+        "type": "grammar_cloze_self_check",
+        "focus": "「〜ということだ」は、聞いた情報を伝える、または内容を整理して言い換える時に使う。",
+        "prompt": "受付は5時までです。今から行くと間に合わない（　）。",
+        "answer": "ということです",
+        "acceptedAnswers": [
+          "ということです"
         ],
-        "explanationZh": "費用について理解した内容を確認している。"
+        "explanationZh": "「〜ということだ」は、誰かから聞いた内容や掲示の内容をまとめて説明する表現です。つまり何を意味するのかを整理する時にも使えます。 本题应填「ということです」。"
       },
       {
-        "id": "unit-02-grammar-context-058",
-        "pointId": "toiu-koto-da",
+        "id": "unit-02-grammar-cloze-104",
+        "pointId": "l2-04-to-iu-koto-da",
         "pointTitle": "〜ということだ",
         "sectionTitle": "文法・表現",
-        "type": "语境文法・表达选择",
-        "prompt": "明日は休み（　）ですか。",
-        "answer": "2",
-        "choices": [
-          {
-            "value": "1",
-            "label": "というもの"
-          },
-          {
-            "value": "2",
-            "label": "ということ"
-          },
-          {
-            "value": "3",
-            "label": "というほど"
-          },
-          {
-            "value": "4",
-            "label": "という向け"
-          }
+        "type": "grammar_cloze_self_check",
+        "focus": "「〜ということだ」は、聞いた情報を伝える、または内容を整理して言い換える時に使う。",
+        "prompt": "明日は全品半額だそうです。かなり安く買える（　）。",
+        "answer": "ということですね",
+        "acceptedAnswers": [
+          "ということですね"
         ],
-        "explanationZh": "相手の説明を要約して確認する形。"
+        "explanationZh": "「〜ということだ」は、誰かから聞いた内容や掲示の内容をまとめて説明する表現です。つまり何を意味するのかを整理する時にも使えます。 本题应填「ということですね」。"
       },
       {
-        "id": "unit-02-grammar-context-059",
-        "pointId": "toiu-koto-da",
+        "id": "unit-02-grammar-cloze-105",
+        "pointId": "l2-04-to-iu-koto-da",
         "pointTitle": "〜ということだ",
         "sectionTitle": "文法・表現",
-        "type": "语境文法・表达选择",
-        "prompt": "この商品は予約が必要（　）ですね。",
-        "answer": "3",
-        "choices": [
-          {
-            "value": "1",
-            "label": "というため"
-          },
-          {
-            "value": "2",
-            "label": "といううち"
-          },
-          {
-            "value": "3",
-            "label": "ということ"
-          },
-          {
-            "value": "4",
-            "label": "というほど"
-          }
+        "type": "grammar_cloze_self_check",
+        "focus": "「〜ということだ」は、聞いた情報を伝える、または内容を整理して言い換える時に使う。",
+        "prompt": "予約が必要だと書いてあります。予約なしでは入れない（　）。",
+        "answer": "ということです",
+        "acceptedAnswers": [
+          "ということです"
         ],
-        "explanationZh": "ルールや条件を確認している。"
+        "explanationZh": "「〜ということだ」は、誰かから聞いた内容や掲示の内容をまとめて説明する表現です。つまり何を意味するのかを整理する時にも使えます。 本题应填「ということです」。"
       },
       {
-        "id": "unit-02-grammar-context-060",
-        "pointId": "toiu-koto-da",
+        "id": "unit-02-grammar-cloze-106",
+        "pointId": "l2-04-to-iu-koto-da",
         "pointTitle": "〜ということだ",
         "sectionTitle": "文法・表現",
-        "type": "语境文法・表达选择",
-        "prompt": "ここで受け取る（　）ですね。",
-        "answer": "4",
-        "choices": [
-          {
-            "value": "1",
-            "label": "というもの"
-          },
-          {
-            "value": "2",
-            "label": "というため"
-          },
-          {
-            "value": "3",
-            "label": "という向け"
-          },
-          {
-            "value": "4",
-            "label": "ということ"
-          }
+        "type": "grammar_cloze_self_check",
+        "focus": "「〜ということだ」は、聞いた情報を伝える、または内容を整理して言い換える時に使う。",
+        "prompt": "店員さんの説明では、受け取りは明日になる（　）。",
+        "answer": "ということです",
+        "acceptedAnswers": [
+          "ということです"
         ],
-        "explanationZh": "受け取り方法を言い換えて確認する場面。"
+        "explanationZh": "「〜ということだ」は、誰かから聞いた内容や掲示の内容をまとめて説明する表現です。つまり何を意味するのかを整理する時にも使えます。 本题应填「ということです」。"
       },
       {
-        "id": "unit-02-grammar-context-061",
-        "pointId": "deshouka",
+        "id": "unit-02-grammar-cloze-107",
+        "pointId": "l2-04-to-iu-koto-da",
+        "pointTitle": "〜ということだ",
+        "sectionTitle": "文法・表現",
+        "type": "grammar_cloze_self_check",
+        "focus": "「〜ということだ」は、聞いた情報を伝える、または内容を整理して言い換える時に使う。",
+        "prompt": "天気予報では午後から雨です。傘が必要（　）。",
+        "answer": "ということですね",
+        "acceptedAnswers": [
+          "ということですね"
+        ],
+        "explanationZh": "「〜ということだ」は、誰かから聞いた内容や掲示の内容をまとめて説明する表現です。つまり何を意味するのかを整理する時にも使えます。 本题应填「ということですね」。"
+      },
+      {
+        "id": "unit-02-grammar-cloze-108",
+        "pointId": "l2-04-to-iu-koto-da",
+        "pointTitle": "〜ということだ",
+        "sectionTitle": "文法・表現",
+        "type": "grammar_cloze_self_check",
+        "focus": "「〜ということだ」は、聞いた情報を伝える、または内容を整理して言い換える時に使う。",
+        "prompt": "チケットは売り切れました。もう入れない（　）。",
+        "answer": "ということです",
+        "acceptedAnswers": [
+          "ということです"
+        ],
+        "explanationZh": "「〜ということだ」は、誰かから聞いた内容や掲示の内容をまとめて説明する表現です。つまり何を意味するのかを整理する時にも使えます。 本题应填「ということです」。"
+      },
+      {
+        "id": "unit-02-grammar-cloze-109",
+        "pointId": "l2-04-to-iu-koto-da",
+        "pointTitle": "〜ということだ",
+        "sectionTitle": "文法・表現",
+        "type": "grammar_cloze_self_check",
+        "focus": "「〜ということだ」は、聞いた情報を伝える、または内容を整理して言い換える時に使う。",
+        "prompt": "返金できないと書いてあります。買う前によく確認する必要がある（　）。",
+        "answer": "ということです",
+        "acceptedAnswers": [
+          "ということです"
+        ],
+        "explanationZh": "「〜ということだ」は、誰かから聞いた内容や掲示の内容をまとめて説明する表現です。つまり何を意味するのかを整理する時にも使えます。 本题应填「ということです」。"
+      },
+      {
+        "id": "unit-02-grammar-cloze-110",
+        "pointId": "l2-04-to-iu-koto-da",
+        "pointTitle": "〜ということだ",
+        "sectionTitle": "文法・表現",
+        "type": "grammar_cloze_self_check",
+        "focus": "「〜ということだ」は、聞いた情報を伝える、または内容を整理して言い換える時に使う。",
+        "prompt": "この表示は会員だけ使える（　）。",
+        "answer": "ということです",
+        "acceptedAnswers": [
+          "ということです"
+        ],
+        "explanationZh": "「〜ということだ」は、誰かから聞いた内容や掲示の内容をまとめて説明する表現です。つまり何を意味するのかを整理する時にも使えます。 本题应填「ということです」。"
+      },
+      {
+        "id": "unit-02-grammar-cloze-111",
+        "pointId": "l2-04-deshouka",
         "pointTitle": "〜でしょうか",
         "sectionTitle": "文法・表現",
-        "type": "语境文法・表达选择",
-        "prompt": "どのくらい時間がかかる（　）。",
-        "answer": "1",
-        "choices": [
-          {
-            "value": "1",
-            "label": "でしょうか"
-          },
-          {
-            "value": "2",
-            "label": "ですか"
-          },
-          {
-            "value": "3",
-            "label": "だろう"
-          },
-          {
-            "value": "4",
-            "label": "じゃない"
-          }
+        "type": "grammar_cloze_self_check",
+        "focus": "「普通形＋でしょうか」は、丁寧に質問・依頼・確認する表現。",
+        "prompt": "郵便局へ行きたいんですが、道を教えてもらえない（　）。",
+        "answer": "でしょうか",
+        "acceptedAnswers": [
+          "でしょうか"
         ],
-        "explanationZh": "店員に丁寧に尋ねる時は「でしょうか」が自然。"
+        "explanationZh": "「〜でしょうか」は、相手に丁寧に質問したり依頼したりする時に使います。店員や知らない人に尋ねる場面で自然です。 本题应填「でしょうか」。"
       },
       {
-        "id": "unit-02-grammar-context-062",
-        "pointId": "deshouka",
+        "id": "unit-02-grammar-cloze-112",
+        "pointId": "l2-04-deshouka",
         "pointTitle": "〜でしょうか",
         "sectionTitle": "文法・表現",
-        "type": "语境文法・表达选择",
-        "prompt": "4時に受け取ることはできない（　）。",
-        "answer": "2",
-        "choices": [
-          {
-            "value": "1",
-            "label": "ですか"
-          },
-          {
-            "value": "2",
-            "label": "でしょうか"
-          },
-          {
-            "value": "3",
-            "label": "だろう"
-          },
-          {
-            "value": "4",
-            "label": "はずだ"
-          }
+        "type": "grammar_cloze_self_check",
+        "focus": "「普通形＋でしょうか」は、丁寧に質問・依頼・確認する表現。",
+        "prompt": "この靴の修理はどのくらい時間がかかる（　）。",
+        "answer": "でしょうか",
+        "acceptedAnswers": [
+          "でしょうか"
         ],
-        "explanationZh": "依頼をやわらかくするため「できないでしょうか」を使う。"
+        "explanationZh": "「〜でしょうか」は、相手に丁寧に質問したり依頼したりする時に使います。店員や知らない人に尋ねる場面で自然です。 本题应填「でしょうか」。"
       },
       {
-        "id": "unit-02-grammar-context-063",
-        "pointId": "deshouka",
+        "id": "unit-02-grammar-cloze-113",
+        "pointId": "l2-04-deshouka",
         "pointTitle": "〜でしょうか",
         "sectionTitle": "文法・表現",
-        "type": "语境文法・表达选择",
-        "prompt": "サイズを直してもらえない（　）。",
-        "answer": "3",
-        "choices": [
-          {
-            "value": "1",
-            "label": "ですか"
-          },
-          {
-            "value": "2",
-            "label": "だろう"
-          },
-          {
-            "value": "3",
-            "label": "でしょうか"
-          },
-          {
-            "value": "4",
-            "label": "に限り"
-          }
+        "type": "grammar_cloze_self_check",
+        "focus": "「普通形＋でしょうか」は、丁寧に質問・依頼・確認する表現。",
+        "prompt": "すみません、少し短くしてもらえない（　）。",
+        "answer": "でしょうか",
+        "acceptedAnswers": [
+          "でしょうか"
         ],
-        "explanationZh": "店の人への丁寧な依頼表現。"
+        "explanationZh": "「〜でしょうか」は、相手に丁寧に質問したり依頼したりする時に使います。店員や知らない人に尋ねる場面で自然です。 本题应填「でしょうか」。"
       },
       {
-        "id": "unit-02-grammar-context-064",
-        "pointId": "deshouka",
+        "id": "unit-02-grammar-cloze-114",
+        "pointId": "l2-04-deshouka",
         "pointTitle": "〜でしょうか",
         "sectionTitle": "文法・表現",
-        "type": "语境文法・表达选择",
-        "prompt": "駅までの道を教えていただけない（　）。",
-        "answer": "4",
-        "choices": [
-          {
-            "value": "1",
-            "label": "ですか"
-          },
-          {
-            "value": "2",
-            "label": "だろう"
-          },
-          {
-            "value": "3",
-            "label": "につき"
-          },
-          {
-            "value": "4",
-            "label": "でしょうか"
-          }
+        "type": "grammar_cloze_self_check",
+        "focus": "「普通形＋でしょうか」は、丁寧に質問・依頼・確認する表現。",
+        "prompt": "こちらの商品を試着してもよろしい（　）。",
+        "answer": "でしょうか",
+        "acceptedAnswers": [
+          "でしょうか"
         ],
-        "explanationZh": "「いただけないでしょうか」で非常に丁寧に依頼できる。"
+        "explanationZh": "「〜でしょうか」は、相手に丁寧に質問したり依頼したりする時に使います。店員や知らない人に尋ねる場面で自然です。 本题应填「でしょうか」。"
       },
       {
-        "id": "unit-02-grammar-context-065",
-        "pointId": "deshouka",
+        "id": "unit-02-grammar-cloze-115",
+        "pointId": "l2-04-deshouka",
         "pointTitle": "〜でしょうか",
         "sectionTitle": "文法・表現",
-        "type": "语境文法・表达选择",
-        "prompt": "もう少し短くしていただけない（　）。",
-        "answer": "1",
-        "choices": [
-          {
-            "value": "1",
-            "label": "でしょうか"
-          },
-          {
-            "value": "2",
-            "label": "ですか"
-          },
-          {
-            "value": "3",
-            "label": "だろう"
-          },
-          {
-            "value": "4",
-            "label": "わけだ"
-          }
+        "type": "grammar_cloze_self_check",
+        "focus": "「普通形＋でしょうか」は、丁寧に質問・依頼・確認する表現。",
+        "prompt": "5時ごろ受け取ることはできない（　）。",
+        "answer": "でしょうか",
+        "acceptedAnswers": [
+          "でしょうか"
         ],
-        "explanationZh": "服の直しを頼む場面では丁寧な依頼が合う。"
+        "explanationZh": "「〜でしょうか」は、相手に丁寧に質問したり依頼したりする時に使います。店員や知らない人に尋ねる場面で自然です。 本题应填「でしょうか」。"
       },
       {
-        "id": "unit-02-grammar-context-066",
-        "pointId": "deshouka",
+        "id": "unit-02-grammar-cloze-116",
+        "pointId": "l2-04-deshouka",
         "pointTitle": "〜でしょうか",
         "sectionTitle": "文法・表現",
-        "type": "语境文法・表达选择",
-        "prompt": "このクーポンは今日も使える（　）。",
-        "answer": "2",
-        "choices": [
-          {
-            "value": "1",
-            "label": "ですか"
-          },
-          {
-            "value": "2",
-            "label": "でしょうか"
-          },
-          {
-            "value": "3",
-            "label": "だろう"
-          },
-          {
-            "value": "4",
-            "label": "向けですか"
-          }
+        "type": "grammar_cloze_self_check",
+        "focus": "「普通形＋でしょうか」は、丁寧に質問・依頼・確認する表現。",
+        "prompt": "駅までどのくらい歩く（　）。",
+        "answer": "でしょうか",
+        "acceptedAnswers": [
+          "でしょうか"
         ],
-        "explanationZh": "店員に丁寧に確認している。"
+        "explanationZh": "「〜でしょうか」は、相手に丁寧に質問したり依頼したりする時に使います。店員や知らない人に尋ねる場面で自然です。 本题应填「でしょうか」。"
       },
       {
-        "id": "unit-02-grammar-context-067",
-        "pointId": "hazu-da",
-        "pointTitle": "〜はずだ",
+        "id": "unit-02-grammar-cloze-117",
+        "pointId": "l2-04-deshouka",
+        "pointTitle": "〜でしょうか",
         "sectionTitle": "文法・表現",
-        "type": "语境文法・表达选择",
-        "prompt": "5,000円の福袋なら、それ以上の品物が入っている（　）。",
-        "answer": "3",
-        "choices": [
-          {
-            "value": "1",
-            "label": "わけだ"
-          },
-          {
-            "value": "2",
-            "label": "つもりだ"
-          },
-          {
-            "value": "3",
-            "label": "はずだ"
-          },
-          {
-            "value": "4",
-            "label": "ところだ"
-          }
+        "type": "grammar_cloze_self_check",
+        "focus": "「普通形＋でしょうか」は、丁寧に質問・依頼・確認する表現。",
+        "prompt": "予約を変更していただけない（　）。",
+        "answer": "でしょうか",
+        "acceptedAnswers": [
+          "でしょうか"
         ],
-        "explanationZh": "根拠にもとづく推測なので「はずだ」。"
+        "explanationZh": "「〜でしょうか」は、相手に丁寧に質問したり依頼したりする時に使います。店員や知らない人に尋ねる場面で自然です。 本题应填「でしょうか」。"
       },
       {
-        "id": "unit-02-grammar-context-068",
-        "pointId": "hazu-da",
-        "pointTitle": "〜はずだ",
+        "id": "unit-02-grammar-cloze-118",
+        "pointId": "l2-04-deshouka",
+        "pointTitle": "〜でしょうか",
         "sectionTitle": "文法・表現",
-        "type": "语境文法・表达选择",
-        "prompt": "山田さんは毎日勉強していたから、合格する（　）。",
-        "answer": "4",
-        "choices": [
-          {
-            "value": "1",
-            "label": "わけだ"
-          },
-          {
-            "value": "2",
-            "label": "つもりだ"
-          },
-          {
-            "value": "3",
-            "label": "ところだ"
-          },
-          {
-            "value": "4",
-            "label": "はずだ"
-          }
+        "type": "grammar_cloze_self_check",
+        "focus": "「普通形＋でしょうか」は、丁寧に質問・依頼・確認する表現。",
+        "prompt": "このクーポンは今日使える（　）。",
+        "answer": "でしょうか",
+        "acceptedAnswers": [
+          "でしょうか"
         ],
-        "explanationZh": "努力していたという根拠から当然そうだと考えている。"
+        "explanationZh": "「〜でしょうか」は、相手に丁寧に質問したり依頼したりする時に使います。店員や知らない人に尋ねる場面で自然です。 本题应填「でしょうか」。"
       },
       {
-        "id": "unit-02-grammar-context-069",
-        "pointId": "hazu-da",
-        "pointTitle": "〜はずだ",
+        "id": "unit-02-grammar-cloze-119",
+        "pointId": "l2-04-deshouka",
+        "pointTitle": "〜でしょうか",
         "sectionTitle": "文法・表現",
-        "type": "语境文法・表达选择",
-        "prompt": "もう駅を出たから、そろそろ着く（　）。",
-        "answer": "1",
-        "choices": [
-          {
-            "value": "1",
-            "label": "はずだ"
-          },
-          {
-            "value": "2",
-            "label": "わけだ"
-          },
-          {
-            "value": "3",
-            "label": "ところだ"
-          },
-          {
-            "value": "4",
-            "label": "つもりだ"
-          }
+        "type": "grammar_cloze_self_check",
+        "focus": "「普通形＋でしょうか」は、丁寧に質問・依頼・確認する表現。",
+        "prompt": "もう少し大きいサイズはない（　）。",
+        "answer": "でしょうか",
+        "acceptedAnswers": [
+          "でしょうか"
         ],
-        "explanationZh": "状況から考えた見込みを表す。"
+        "explanationZh": "「〜でしょうか」は、相手に丁寧に質問したり依頼したりする時に使います。店員や知らない人に尋ねる場面で自然です。 本题应填「でしょうか」。"
       },
       {
-        "id": "unit-02-grammar-context-070",
-        "pointId": "hazu-da",
-        "pointTitle": "〜はずだ",
+        "id": "unit-02-grammar-cloze-120",
+        "pointId": "l2-04-deshouka",
+        "pointTitle": "〜でしょうか",
         "sectionTitle": "文法・表現",
-        "type": "语境文法・表达选择",
-        "prompt": "予約したから、席はある（　）。",
-        "answer": "2",
-        "choices": [
-          {
-            "value": "1",
-            "label": "わけだ"
-          },
-          {
-            "value": "2",
-            "label": "はずだ"
-          },
-          {
-            "value": "3",
-            "label": "つもりだ"
-          },
-          {
-            "value": "4",
-            "label": "ところだ"
-          }
+        "type": "grammar_cloze_self_check",
+        "focus": "「普通形＋でしょうか」は、丁寧に質問・依頼・確認する表現。",
+        "prompt": "ここで写真を撮ってもいい（　）。",
+        "answer": "でしょうか",
+        "acceptedAnswers": [
+          "でしょうか"
         ],
-        "explanationZh": "予約したという根拠にもとづく判断。"
+        "explanationZh": "「〜でしょうか」は、相手に丁寧に質問したり依頼したりする時に使います。店員や知らない人に尋ねる場面で自然です。 本题应填「でしょうか」。"
       },
       {
-        "id": "unit-02-grammar-context-071",
-        "pointId": "hazu-da",
-        "pointTitle": "〜はずだ",
+        "id": "unit-02-grammar-cloze-121",
+        "pointId": "l2-04-naoru-naosu",
+        "pointTitle": "〜が直る／〜を直す",
         "sectionTitle": "文法・表現",
-        "type": "语境文法・表达选择",
-        "prompt": "ここに置いたから、まだある（　）。",
-        "answer": "3",
-        "choices": [
-          {
-            "value": "1",
-            "label": "わけだ"
-          },
-          {
-            "value": "2",
-            "label": "つもりだ"
-          },
-          {
-            "value": "3",
-            "label": "はずだ"
-          },
-          {
-            "value": "4",
-            "label": "ところだ"
-          }
+        "type": "grammar_cloze_self_check",
+        "focus": "「直る」は物・状態が元に戻る自動詞、「直す」は人が修正・修理する他動詞。",
+        "prompt": "自転車を修理屋さんに持っていったらすぐに（　）。",
+        "answer": "直りました",
+        "acceptedAnswers": [
+          "直りました"
         ],
-        "explanationZh": "自分の記憶を根拠にした推測。"
+        "explanationZh": "「直る」は壊れた物や悪い状態がよくなること、「直す」は人が修理・修正することを表します。自動詞と他動詞の違いに注意します。 本题应填「直りました」。"
       },
       {
-        "id": "unit-02-grammar-context-072",
-        "pointId": "hazu-da",
-        "pointTitle": "〜はずだ",
+        "id": "unit-02-grammar-cloze-122",
+        "pointId": "l2-04-naoru-naosu",
+        "pointTitle": "〜が直る／〜を直す",
         "sectionTitle": "文法・表現",
-        "type": "语境文法・表达选择",
-        "prompt": "サイズを確認して買ったから、合う（　）。",
-        "answer": "4",
-        "choices": [
-          {
-            "value": "1",
-            "label": "わけだ"
-          },
-          {
-            "value": "2",
-            "label": "つもりだ"
-          },
-          {
-            "value": "3",
-            "label": "ところだ"
-          },
-          {
-            "value": "4",
-            "label": "はずだ"
-          }
+        "type": "grammar_cloze_self_check",
+        "focus": "「直る」は物・状態が元に戻る自動詞、「直す」は人が修正・修理する他動詞。",
+        "prompt": "宿題は先生が（　）くれます。",
+        "answer": "直して",
+        "acceptedAnswers": [
+          "直して"
         ],
-        "explanationZh": "確認したという根拠から合うと考えている。"
+        "explanationZh": "「直る」は壊れた物や悪い状態がよくなること、「直す」は人が修理・修正することを表します。自動詞と他動詞の違いに注意します。 本题应填「直して」。"
       },
       {
-        "id": "unit-02-grammar-context-073",
-        "pointId": "muke",
+        "id": "unit-02-grammar-cloze-123",
+        "pointId": "l2-04-naoru-naosu",
+        "pointTitle": "〜が直る／〜を直す",
+        "sectionTitle": "文法・表現",
+        "type": "grammar_cloze_self_check",
+        "focus": "「直る」は物・状態が元に戻る自動詞、「直す」は人が修正・修理する他動詞。",
+        "prompt": "パソコンの調子が悪かったが、再起動したら（　）。",
+        "answer": "直った",
+        "acceptedAnswers": [
+          "直った"
+        ],
+        "explanationZh": "「直る」は壊れた物や悪い状態がよくなること、「直す」は人が修理・修正することを表します。自動詞と他動詞の違いに注意します。 本题应填「直った」。"
+      },
+      {
+        "id": "unit-02-grammar-cloze-124",
+        "pointId": "l2-04-naoru-naosu",
+        "pointTitle": "〜が直る／〜を直す",
+        "sectionTitle": "文法・表現",
+        "type": "grammar_cloze_self_check",
+        "focus": "「直る」は物・状態が元に戻る自動詞、「直す」は人が修正・修理する他動詞。",
+        "prompt": "この文章の間違いを赤ペンで（　）ください。",
+        "answer": "直して",
+        "acceptedAnswers": [
+          "直して"
+        ],
+        "explanationZh": "「直る」は壊れた物や悪い状態がよくなること、「直す」は人が修理・修正することを表します。自動詞と他動詞の違いに注意します。 本题应填「直して」。"
+      },
+      {
+        "id": "unit-02-grammar-cloze-125",
+        "pointId": "l2-04-naoru-naosu",
+        "pointTitle": "〜が直る／〜を直す",
+        "sectionTitle": "文法・表現",
+        "type": "grammar_cloze_self_check",
+        "focus": "「直る」は物・状態が元に戻る自動詞、「直す」は人が修正・修理する他動詞。",
+        "prompt": "壊れた時計はまだ（　）いません。",
+        "answer": "直って",
+        "acceptedAnswers": [
+          "直って"
+        ],
+        "explanationZh": "「直る」は壊れた物や悪い状態がよくなること、「直す」は人が修理・修正することを表します。自動詞と他動詞の違いに注意します。 本题应填「直って」。"
+      },
+      {
+        "id": "unit-02-grammar-cloze-126",
+        "pointId": "l2-04-naoru-naosu",
+        "pointTitle": "〜が直る／〜を直す",
+        "sectionTitle": "文法・表現",
+        "type": "grammar_cloze_self_check",
+        "focus": "「直る」は物・状態が元に戻る自動詞、「直す」は人が修正・修理する他動詞。",
+        "prompt": "店員さんに裾を（　）もらいました。",
+        "answer": "直して",
+        "acceptedAnswers": [
+          "直して"
+        ],
+        "explanationZh": "「直る」は壊れた物や悪い状態がよくなること、「直す」は人が修理・修正することを表します。自動詞と他動詞の違いに注意します。 本题应填「直して」。"
+      },
+      {
+        "id": "unit-02-grammar-cloze-127",
+        "pointId": "l2-04-naoru-naosu",
+        "pointTitle": "〜が直る／〜を直す",
+        "sectionTitle": "文法・表現",
+        "type": "grammar_cloze_self_check",
+        "focus": "「直る」は物・状態が元に戻る自動詞、「直す」は人が修正・修理する他動詞。",
+        "prompt": "設定がなかなか（　）ないので困っています。",
+        "answer": "直ら",
+        "acceptedAnswers": [
+          "直ら"
+        ],
+        "explanationZh": "「直る」は壊れた物や悪い状態がよくなること、「直す」は人が修理・修正することを表します。自動詞と他動詞の違いに注意します。 本题应填「直ら」。"
+      },
+      {
+        "id": "unit-02-grammar-cloze-128",
+        "pointId": "l2-04-naoru-naosu",
+        "pointTitle": "〜が直る／〜を直す",
+        "sectionTitle": "文法・表現",
+        "type": "grammar_cloze_self_check",
+        "focus": "「直る」は物・状態が元に戻る自動詞、「直す」は人が修正・修理する他動詞。",
+        "prompt": "姿勢を（　）と、印象がよくなります。",
+        "answer": "直す",
+        "acceptedAnswers": [
+          "直す"
+        ],
+        "explanationZh": "「直る」は壊れた物や悪い状態がよくなること、「直す」は人が修理・修正することを表します。自動詞と他動詞の違いに注意します。 本题应填「直す」。"
+      },
+      {
+        "id": "unit-02-grammar-cloze-129",
+        "pointId": "l2-04-naoru-naosu",
+        "pointTitle": "〜が直る／〜を直す",
+        "sectionTitle": "文法・表現",
+        "type": "grammar_cloze_self_check",
+        "focus": "「直る」は物・状態が元に戻る自動詞、「直す」は人が修正・修理する他動詞。",
+        "prompt": "作文を提出する前に自分で（　）ました。",
+        "answer": "直し",
+        "acceptedAnswers": [
+          "直し"
+        ],
+        "explanationZh": "「直る」は壊れた物や悪い状態がよくなること、「直す」は人が修理・修正することを表します。自動詞と他動詞の違いに注意します。 本题应填「直し」。"
+      },
+      {
+        "id": "unit-02-grammar-cloze-130",
+        "pointId": "l2-04-naoru-naosu",
+        "pointTitle": "〜が直る／〜を直す",
+        "sectionTitle": "文法・表現",
+        "type": "grammar_cloze_self_check",
+        "focus": "「直る」は物・状態が元に戻る自動詞、「直す」は人が修正・修理する他動詞。",
+        "prompt": "サイズが合わないので、店で（　）てもらうつもりです。",
+        "answer": "直し",
+        "acceptedAnswers": [
+          "直し"
+        ],
+        "explanationZh": "「直る」は壊れた物や悪い状態がよくなること、「直す」は人が修理・修正することを表します。自動詞と他動詞の違いに注意します。 本题应填「直し」。"
+      },
+      {
+        "id": "unit-02-grammar-cloze-131",
+        "pointId": "l2-04-uketoru",
+        "pointTitle": "受け取る",
+        "sectionTitle": "文法・表現",
+        "type": "grammar_cloze_self_check",
+        "focus": "「受け取る」は、荷物・商品・連絡・気持ちなどを受けることを表す。",
+        "prompt": "宅急便が来たら玄関で荷物を（　）ます。",
+        "answer": "受け取り",
+        "acceptedAnswers": [
+          "受け取り"
+        ],
+        "explanationZh": "「受け取る」は、物を手元にもらうだけでなく、メールや気持ちを受ける場面にも使います。本課では店で商品を受け取る場面が中心です。 本题应填「受け取り」。"
+      },
+      {
+        "id": "unit-02-grammar-cloze-132",
+        "pointId": "l2-04-uketoru",
+        "pointTitle": "受け取る",
+        "sectionTitle": "文法・表現",
+        "type": "grammar_cloze_self_check",
+        "focus": "「受け取る」は、荷物・商品・連絡・気持ちなどを受けることを表す。",
+        "prompt": "注文した商品は店で（　）ことができます。",
+        "answer": "受け取る",
+        "acceptedAnswers": [
+          "受け取る"
+        ],
+        "explanationZh": "「受け取る」は、物を手元にもらうだけでなく、メールや気持ちを受ける場面にも使います。本課では店で商品を受け取る場面が中心です。 本题应填「受け取る」。"
+      },
+      {
+        "id": "unit-02-grammar-cloze-133",
+        "pointId": "l2-04-uketoru",
+        "pointTitle": "受け取る",
+        "sectionTitle": "文法・表現",
+        "type": "grammar_cloze_self_check",
+        "focus": "「受け取る」は、荷物・商品・連絡・気持ちなどを受けることを表す。",
+        "prompt": "クリーニングは明日の午後に（　）ください。",
+        "answer": "受け取って",
+        "acceptedAnswers": [
+          "受け取って"
+        ],
+        "explanationZh": "「受け取る」は、物を手元にもらうだけでなく、メールや気持ちを受ける場面にも使います。本課では店で商品を受け取る場面が中心です。 本题应填「受け取って」。"
+      },
+      {
+        "id": "unit-02-grammar-cloze-134",
+        "pointId": "l2-04-uketoru",
+        "pointTitle": "受け取る",
+        "sectionTitle": "文法・表現",
+        "type": "grammar_cloze_self_check",
+        "focus": "「受け取る」は、荷物・商品・連絡・気持ちなどを受けることを表す。",
+        "prompt": "友達から誕生日プレゼントを（　）。",
+        "answer": "受け取りました",
+        "acceptedAnswers": [
+          "受け取りました"
+        ],
+        "explanationZh": "「受け取る」は、物を手元にもらうだけでなく、メールや気持ちを受ける場面にも使います。本課では店で商品を受け取る場面が中心です。 本题应填「受け取りました」。"
+      },
+      {
+        "id": "unit-02-grammar-cloze-135",
+        "pointId": "l2-04-uketoru",
+        "pointTitle": "受け取る",
+        "sectionTitle": "文法・表現",
+        "type": "grammar_cloze_self_check",
+        "focus": "「受け取る」は、荷物・商品・連絡・気持ちなどを受けることを表す。",
+        "prompt": "チケットを（　）前に名前を確認してください。",
+        "answer": "受け取る",
+        "acceptedAnswers": [
+          "受け取る"
+        ],
+        "explanationZh": "「受け取る」は、物を手元にもらうだけでなく、メールや気持ちを受ける場面にも使います。本課では店で商品を受け取る場面が中心です。 本题应填「受け取る」。"
+      },
+      {
+        "id": "unit-02-grammar-cloze-136",
+        "pointId": "l2-04-uketoru",
+        "pointTitle": "受け取る",
+        "sectionTitle": "文法・表現",
+        "type": "grammar_cloze_self_check",
+        "focus": "「受け取る」は、荷物・商品・連絡・気持ちなどを受けることを表す。",
+        "prompt": "今日は忙しいので、荷物を（　）に行けません。",
+        "answer": "受け取り",
+        "acceptedAnswers": [
+          "受け取り"
+        ],
+        "explanationZh": "「受け取る」は、物を手元にもらうだけでなく、メールや気持ちを受ける場面にも使います。本課では店で商品を受け取る場面が中心です。 本题应填「受け取り」。"
+      },
+      {
+        "id": "unit-02-grammar-cloze-137",
+        "pointId": "l2-04-uketoru",
+        "pointTitle": "受け取る",
+        "sectionTitle": "文法・表現",
+        "type": "grammar_cloze_self_check",
+        "focus": "「受け取る」は、荷物・商品・連絡・気持ちなどを受けることを表す。",
+        "prompt": "受付で番号札を（　）から中に入ってください。",
+        "answer": "受け取って",
+        "acceptedAnswers": [
+          "受け取って"
+        ],
+        "explanationZh": "「受け取る」は、物を手元にもらうだけでなく、メールや気持ちを受ける場面にも使います。本課では店で商品を受け取る場面が中心です。 本题应填「受け取って」。"
+      },
+      {
+        "id": "unit-02-grammar-cloze-138",
+        "pointId": "l2-04-uketoru",
+        "pointTitle": "受け取る",
+        "sectionTitle": "文法・表現",
+        "type": "grammar_cloze_self_check",
+        "focus": "「受け取る」は、荷物・商品・連絡・気持ちなどを受けることを表す。",
+        "prompt": "代理の人が商品を（　）こともできます。",
+        "answer": "受け取る",
+        "acceptedAnswers": [
+          "受け取る"
+        ],
+        "explanationZh": "「受け取る」は、物を手元にもらうだけでなく、メールや気持ちを受ける場面にも使います。本課では店で商品を受け取る場面が中心です。 本题应填「受け取る」。"
+      },
+      {
+        "id": "unit-02-grammar-cloze-139",
+        "pointId": "l2-04-uketoru",
+        "pointTitle": "受け取る",
+        "sectionTitle": "文法・表現",
+        "type": "grammar_cloze_self_check",
+        "focus": "「受け取る」は、荷物・商品・連絡・気持ちなどを受けることを表す。",
+        "prompt": "受け取り時間を過ぎると、商品を（　）ません。",
+        "answer": "受け取れ",
+        "acceptedAnswers": [
+          "受け取れ"
+        ],
+        "explanationZh": "「受け取る」は、物を手元にもらうだけでなく、メールや気持ちを受ける場面にも使います。本課では店で商品を受け取る場面が中心です。 本题应填「受け取れ」。"
+      },
+      {
+        "id": "unit-02-grammar-cloze-140",
+        "pointId": "l2-04-uketoru",
+        "pointTitle": "受け取る",
+        "sectionTitle": "文法・表現",
+        "type": "grammar_cloze_self_check",
+        "focus": "「受け取る」は、荷物・商品・連絡・気持ちなどを受けることを表す。",
+        "prompt": "メールを（　）たら、すぐ返事します。",
+        "answer": "受け取っ",
+        "acceptedAnswers": [
+          "受け取っ"
+        ],
+        "explanationZh": "「受け取る」は、物を手元にもらうだけでなく、メールや気持ちを受ける場面にも使います。本課では店で商品を受け取る場面が中心です。 本题应填「受け取っ」。"
+      },
+      {
+        "id": "unit-02-grammar-cloze-141",
+        "pointId": "l2-04-isogu",
+        "pointTitle": "急ぐ",
+        "sectionTitle": "文法・表現",
+        "type": "grammar_cloze_self_check",
+        "focus": "「急ぐ」は、時間がないため早く行動することを表す。て形・ない形・名詞化にも注意する。",
+        "prompt": "電車に遅れそうなので駅まで（　）。",
+        "answer": "急ぎます",
+        "acceptedAnswers": [
+          "急ぎます"
+        ],
+        "explanationZh": "「急ぐ」は早くする、急いで行動するという意味です。「急いで」「急がない」「お急ぎ」のように文脈に合わせて形が変わります。 本题应填「急ぎます」。"
+      },
+      {
+        "id": "unit-02-grammar-cloze-142",
+        "pointId": "l2-04-isogu",
+        "pointTitle": "急ぐ",
+        "sectionTitle": "文法・表現",
+        "type": "grammar_cloze_self_check",
+        "focus": "「急ぐ」は、時間がないため早く行動することを表す。て形・ない形・名詞化にも注意する。",
+        "prompt": "今日は混んでいるので、少し（　）でください。",
+        "answer": "急い",
+        "acceptedAnswers": [
+          "急い"
+        ],
+        "explanationZh": "「急ぐ」は早くする、急いで行動するという意味です。「急いで」「急がない」「お急ぎ」のように文脈に合わせて形が変わります。 本题应填「急い」。"
+      },
+      {
+        "id": "unit-02-grammar-cloze-143",
+        "pointId": "l2-04-isogu",
+        "pointTitle": "急ぐ",
+        "sectionTitle": "文法・表現",
+        "type": "grammar_cloze_self_check",
+        "focus": "「急ぐ」は、時間がないため早く行動することを表す。て形・ない形・名詞化にも注意する。",
+        "prompt": "急用があるので、できるだけ（　）たいんです。",
+        "answer": "急ぎ",
+        "acceptedAnswers": [
+          "急ぎ"
+        ],
+        "explanationZh": "「急ぐ」は早くする、急いで行動するという意味です。「急いで」「急がない」「お急ぎ」のように文脈に合わせて形が変わります。 本题应填「急ぎ」。"
+      },
+      {
+        "id": "unit-02-grammar-cloze-144",
+        "pointId": "l2-04-isogu",
+        "pointTitle": "急ぐ",
+        "sectionTitle": "文法・表現",
+        "type": "grammar_cloze_self_check",
+        "focus": "「急ぐ」は、時間がないため早く行動することを表す。て形・ない形・名詞化にも注意する。",
+        "prompt": "そんなに（　）なくても、まだ時間があります。",
+        "answer": "急が",
+        "acceptedAnswers": [
+          "急が"
+        ],
+        "explanationZh": "「急ぐ」は早くする、急いで行動するという意味です。「急いで」「急がない」「お急ぎ」のように文脈に合わせて形が変わります。 本题应填「急が」。"
+      },
+      {
+        "id": "unit-02-grammar-cloze-145",
+        "pointId": "l2-04-isogu",
+        "pointTitle": "急ぐ",
+        "sectionTitle": "文法・表現",
+        "type": "grammar_cloze_self_check",
+        "focus": "「急ぐ」は、時間がないため早く行動することを表す。て形・ない形・名詞化にも注意する。",
+        "prompt": "レポートの締め切りが近いので（　）必要があります。",
+        "answer": "急ぐ",
+        "acceptedAnswers": [
+          "急ぐ"
+        ],
+        "explanationZh": "「急ぐ」は早くする、急いで行動するという意味です。「急いで」「急がない」「お急ぎ」のように文脈に合わせて形が変わります。 本题应填「急ぐ」。"
+      },
+      {
+        "id": "unit-02-grammar-cloze-146",
+        "pointId": "l2-04-isogu",
+        "pointTitle": "急ぐ",
+        "sectionTitle": "文法・表現",
+        "type": "grammar_cloze_self_check",
+        "focus": "「急ぐ」は、時間がないため早く行動することを表す。て形・ない形・名詞化にも注意する。",
+        "prompt": "道が込んでいたので、店まで（　）ました。",
+        "answer": "急ぎ",
+        "acceptedAnswers": [
+          "急ぎ"
+        ],
+        "explanationZh": "「急ぐ」は早くする、急いで行動するという意味です。「急いで」「急がない」「お急ぎ」のように文脈に合わせて形が変わります。 本题应填「急ぎ」。"
+      },
+      {
+        "id": "unit-02-grammar-cloze-147",
+        "pointId": "l2-04-isogu",
+        "pointTitle": "急ぐ",
+        "sectionTitle": "文法・表現",
+        "type": "grammar_cloze_self_check",
+        "focus": "「急ぐ」は、時間がないため早く行動することを表す。て形・ない形・名詞化にも注意する。",
+        "prompt": "（　）の方は店員に声をかけてください。",
+        "answer": "お急ぎ",
+        "acceptedAnswers": [
+          "お急ぎ"
+        ],
+        "explanationZh": "「急ぐ」は早くする、急いで行動するという意味です。「急いで」「急がない」「お急ぎ」のように文脈に合わせて形が変わります。 本题应填「お急ぎ」。"
+      },
+      {
+        "id": "unit-02-grammar-cloze-148",
+        "pointId": "l2-04-isogu",
+        "pointTitle": "急ぐ",
+        "sectionTitle": "文法・表現",
+        "type": "grammar_cloze_self_check",
+        "focus": "「急ぐ」は、時間がないため早く行動することを表す。て形・ない形・名詞化にも注意する。",
+        "prompt": "朝ご飯を（　）食べたので味が分かりませんでした。",
+        "answer": "急いで",
+        "acceptedAnswers": [
+          "急いで"
+        ],
+        "explanationZh": "「急ぐ」は早くする、急いで行動するという意味です。「急いで」「急がない」「お急ぎ」のように文脈に合わせて形が変わります。 本题应填「急いで」。"
+      },
+      {
+        "id": "unit-02-grammar-cloze-149",
+        "pointId": "l2-04-isogu",
+        "pointTitle": "急ぐ",
+        "sectionTitle": "文法・表現",
+        "type": "grammar_cloze_self_check",
+        "focus": "「急ぐ」は、時間がないため早く行動することを表す。て形・ない形・名詞化にも注意する。",
+        "prompt": "返信を（　）必要はありません。",
+        "answer": "急ぐ",
+        "acceptedAnswers": [
+          "急ぐ"
+        ],
+        "explanationZh": "「急ぐ」は早くする、急いで行動するという意味です。「急いで」「急がない」「お急ぎ」のように文脈に合わせて形が変わります。 本题应填「急ぐ」。"
+      },
+      {
+        "id": "unit-02-grammar-cloze-150",
+        "pointId": "l2-04-isogu",
+        "pointTitle": "急ぐ",
+        "sectionTitle": "文法・表現",
+        "type": "grammar_cloze_self_check",
+        "focus": "「急ぐ」は、時間がないため早く行動することを表す。て形・ない形・名詞化にも注意する。",
+        "prompt": "注文を（　）いるなら電話したほうがいいです。",
+        "answer": "急いで",
+        "acceptedAnswers": [
+          "急いで"
+        ],
+        "explanationZh": "「急ぐ」は早くする、急いで行動するという意味です。「急いで」「急がない」「お急ぎ」のように文脈に合わせて形が変わります。 本题应填「急いで」。"
+      },
+      {
+        "id": "unit-02-grammar-cloze-151",
+        "pointId": "l2-05-tanoshimi-ni-suru",
+        "pointTitle": "〜を楽しみにする",
+        "sectionTitle": "文法・表現",
+        "type": "grammar_cloze_self_check",
+        "focus": "「Nを／Vるのを楽しみにする」で、これから起こることを期待して待つ気持ちを表す。",
+        "prompt": "国へ帰ったら、家族や友達に会えるのをとても（　）。",
+        "answer": "楽しみにしています",
+        "acceptedAnswers": [
+          "楽しみにしています"
+        ],
+        "explanationZh": "「〜を楽しみにする」は、予定や出来事を期待して待つ気持ちを表します。丁寧な手紙や会話でもよく使います。 本题应填「楽しみにしています」。"
+      },
+      {
+        "id": "unit-02-grammar-cloze-152",
+        "pointId": "l2-05-tanoshimi-ni-suru",
+        "pointTitle": "〜を楽しみにする",
+        "sectionTitle": "文法・表現",
+        "type": "grammar_cloze_self_check",
+        "focus": "「Nを／Vるのを楽しみにする」で、これから起こることを期待して待つ気持ちを表す。",
+        "prompt": "来週の旅行を（　）います。",
+        "answer": "楽しみにして",
+        "acceptedAnswers": [
+          "楽しみにして"
+        ],
+        "explanationZh": "「〜を楽しみにする」は、予定や出来事を期待して待つ気持ちを表します。丁寧な手紙や会話でもよく使います。 本题应填「楽しみにして」。"
+      },
+      {
+        "id": "unit-02-grammar-cloze-153",
+        "pointId": "l2-05-tanoshimi-ni-suru",
+        "pointTitle": "〜を楽しみにする",
+        "sectionTitle": "文法・表現",
+        "type": "grammar_cloze_self_check",
+        "focus": "「Nを／Vるのを楽しみにする」で、これから起こることを期待して待つ気持ちを表す。",
+        "prompt": "発売日をずっと（　）いました。",
+        "answer": "楽しみにして",
+        "acceptedAnswers": [
+          "楽しみにして"
+        ],
+        "explanationZh": "「〜を楽しみにする」は、予定や出来事を期待して待つ気持ちを表します。丁寧な手紙や会話でもよく使います。 本题应填「楽しみにして」。"
+      },
+      {
+        "id": "unit-02-grammar-cloze-154",
+        "pointId": "l2-05-tanoshimi-ni-suru",
+        "pointTitle": "〜を楽しみにする",
+        "sectionTitle": "文法・表現",
+        "type": "grammar_cloze_self_check",
+        "focus": "「Nを／Vるのを楽しみにする」で、これから起こることを期待して待つ気持ちを表す。",
+        "prompt": "皆さんに会えることを（　）。",
+        "answer": "楽しみにしています",
+        "acceptedAnswers": [
+          "楽しみにしています"
+        ],
+        "explanationZh": "「〜を楽しみにする」は、予定や出来事を期待して待つ気持ちを表します。丁寧な手紙や会話でもよく使います。 本题应填「楽しみにしています」。"
+      },
+      {
+        "id": "unit-02-grammar-cloze-155",
+        "pointId": "l2-05-tanoshimi-ni-suru",
+        "pointTitle": "〜を楽しみにする",
+        "sectionTitle": "文法・表現",
+        "type": "grammar_cloze_self_check",
+        "focus": "「Nを／Vるのを楽しみにする」で、これから起こることを期待して待つ気持ちを表す。",
+        "prompt": "子どもたちは遠足の日を（　）いる。",
+        "answer": "楽しみにして",
+        "acceptedAnswers": [
+          "楽しみにして"
+        ],
+        "explanationZh": "「〜を楽しみにする」は、予定や出来事を期待して待つ気持ちを表します。丁寧な手紙や会話でもよく使います。 本题应填「楽しみにして」。"
+      },
+      {
+        "id": "unit-02-grammar-cloze-156",
+        "pointId": "l2-05-tanoshimi-ni-suru",
+        "pointTitle": "〜を楽しみにする",
+        "sectionTitle": "文法・表現",
+        "type": "grammar_cloze_self_check",
+        "focus": "「Nを／Vるのを楽しみにする」で、これから起こることを期待して待つ気持ちを表す。",
+        "prompt": "結果の発表を（　）待っています。",
+        "answer": "楽しみに",
+        "acceptedAnswers": [
+          "楽しみに"
+        ],
+        "explanationZh": "「〜を楽しみにする」は、予定や出来事を期待して待つ気持ちを表します。丁寧な手紙や会話でもよく使います。 本题应填「楽しみに」。"
+      },
+      {
+        "id": "unit-02-grammar-cloze-157",
+        "pointId": "l2-05-tanoshimi-ni-suru",
+        "pointTitle": "〜を楽しみにする",
+        "sectionTitle": "文法・表現",
+        "type": "grammar_cloze_self_check",
+        "focus": "「Nを／Vるのを楽しみにする」で、これから起こることを期待して待つ気持ちを表す。",
+        "prompt": "新しい店に行くのを（　）していました。",
+        "answer": "楽しみ",
+        "acceptedAnswers": [
+          "楽しみ"
+        ],
+        "explanationZh": "「〜を楽しみにする」は、予定や出来事を期待して待つ気持ちを表します。丁寧な手紙や会話でもよく使います。 本题应填「楽しみ」。"
+      },
+      {
+        "id": "unit-02-grammar-cloze-158",
+        "pointId": "l2-05-tanoshimi-ni-suru",
+        "pointTitle": "〜を楽しみにする",
+        "sectionTitle": "文法・表現",
+        "type": "grammar_cloze_self_check",
+        "focus": "「Nを／Vるのを楽しみにする」で、これから起こることを期待して待つ気持ちを表す。",
+        "prompt": "週末のセールを（　）います。",
+        "answer": "楽しみにして",
+        "acceptedAnswers": [
+          "楽しみにして"
+        ],
+        "explanationZh": "「〜を楽しみにする」は、予定や出来事を期待して待つ気持ちを表します。丁寧な手紙や会話でもよく使います。 本题应填「楽しみにして」。"
+      },
+      {
+        "id": "unit-02-grammar-cloze-159",
+        "pointId": "l2-05-tanoshimi-ni-suru",
+        "pointTitle": "〜を楽しみにする",
+        "sectionTitle": "文法・表現",
+        "type": "grammar_cloze_self_check",
+        "focus": "「Nを／Vるのを楽しみにする」で、これから起こることを期待して待つ気持ちを表す。",
+        "prompt": "コンサートを（　）して、早めにチケットを買った。",
+        "answer": "楽しみに",
+        "acceptedAnswers": [
+          "楽しみに"
+        ],
+        "explanationZh": "「〜を楽しみにする」は、予定や出来事を期待して待つ気持ちを表します。丁寧な手紙や会話でもよく使います。 本题应填「楽しみに」。"
+      },
+      {
+        "id": "unit-02-grammar-cloze-160",
+        "pointId": "l2-05-tanoshimi-ni-suru",
+        "pointTitle": "〜を楽しみにする",
+        "sectionTitle": "文法・表現",
+        "type": "grammar_cloze_self_check",
+        "focus": "「Nを／Vるのを楽しみにする」で、これから起こることを期待して待つ気持ちを表す。",
+        "prompt": "またお会いできる日を（　）しております。",
+        "answer": "楽しみに",
+        "acceptedAnswers": [
+          "楽しみに"
+        ],
+        "explanationZh": "「〜を楽しみにする」は、予定や出来事を期待して待つ気持ちを表します。丁寧な手紙や会話でもよく使います。 本题应填「楽しみに」。"
+      },
+      {
+        "id": "unit-02-grammar-cloze-161",
+        "pointId": "l2-05-au",
+        "pointTitle": "合う",
+        "sectionTitle": "文法・表現",
+        "type": "grammar_cloze_self_check",
+        "focus": "「合う」は、サイズ・予定・味・意見などがぴったり合うことを表す。",
+        "prompt": "肉料理には赤ワインが（　）。",
+        "answer": "合います",
+        "acceptedAnswers": [
+          "合います"
+        ],
+        "explanationZh": "「合う」は、サイズが合う、味が合う、予定が合う、意見が合うなど、複数のものが適切に一致することを表します。 本题应填「合います」。"
+      },
+      {
+        "id": "unit-02-grammar-cloze-162",
+        "pointId": "l2-05-au",
+        "pointTitle": "合う",
+        "sectionTitle": "文法・表現",
+        "type": "grammar_cloze_self_check",
+        "focus": "「合う」は、サイズ・予定・味・意見などがぴったり合うことを表す。",
+        "prompt": "この服はサイズが（　）ません。",
+        "answer": "合い",
+        "acceptedAnswers": [
+          "合い"
+        ],
+        "explanationZh": "「合う」は、サイズが合う、味が合う、予定が合う、意見が合うなど、複数のものが適切に一致することを表します。 本题应填「合い」。"
+      },
+      {
+        "id": "unit-02-grammar-cloze-163",
+        "pointId": "l2-05-au",
+        "pointTitle": "合う",
+        "sectionTitle": "文法・表現",
+        "type": "grammar_cloze_self_check",
+        "focus": "「合う」は、サイズ・予定・味・意見などがぴったり合うことを表す。",
+        "prompt": "靴が足に（　）なくて痛いです。",
+        "answer": "合わ",
+        "acceptedAnswers": [
+          "合わ"
+        ],
+        "explanationZh": "「合う」は、サイズが合う、味が合う、予定が合う、意見が合うなど、複数のものが適切に一致することを表します。 本题应填「合わ」。"
+      },
+      {
+        "id": "unit-02-grammar-cloze-164",
+        "pointId": "l2-05-au",
+        "pointTitle": "合う",
+        "sectionTitle": "文法・表現",
+        "type": "grammar_cloze_self_check",
+        "focus": "「合う」は、サイズ・予定・味・意見などがぴったり合うことを表す。",
+        "prompt": "この色はあなたに（　）と思います。",
+        "answer": "合う",
+        "acceptedAnswers": [
+          "合う"
+        ],
+        "explanationZh": "「合う」は、サイズが合う、味が合う、予定が合う、意見が合うなど、複数のものが適切に一致することを表します。 本题应填「合う」。"
+      },
+      {
+        "id": "unit-02-grammar-cloze-165",
+        "pointId": "l2-05-au",
+        "pointTitle": "合う",
+        "sectionTitle": "文法・表現",
+        "type": "grammar_cloze_self_check",
+        "focus": "「合う」は、サイズ・予定・味・意見などがぴったり合うことを表す。",
+        "prompt": "予定が（　）えば、一緒に行きましょう。",
+        "answer": "合",
+        "acceptedAnswers": [
+          "合"
+        ],
+        "explanationZh": "「合う」は、サイズが合う、味が合う、予定が合う、意見が合うなど、複数のものが適切に一致することを表します。 本题应填「合」。"
+      },
+      {
+        "id": "unit-02-grammar-cloze-166",
+        "pointId": "l2-05-au",
+        "pointTitle": "合う",
+        "sectionTitle": "文法・表現",
+        "type": "grammar_cloze_self_check",
+        "focus": "「合う」は、サイズ・予定・味・意見などがぴったり合うことを表す。",
+        "prompt": "予算に（　）店を探しています。",
+        "answer": "合う",
+        "acceptedAnswers": [
+          "合う"
+        ],
+        "explanationZh": "「合う」は、サイズが合う、味が合う、予定が合う、意見が合うなど、複数のものが適切に一致することを表します。 本题应填「合う」。"
+      },
+      {
+        "id": "unit-02-grammar-cloze-167",
+        "pointId": "l2-05-au",
+        "pointTitle": "合う",
+        "sectionTitle": "文法・表現",
+        "type": "grammar_cloze_self_check",
+        "focus": "「合う」は、サイズ・予定・味・意見などがぴったり合うことを表す。",
+        "prompt": "このソースは魚料理にもよく（　）。",
+        "answer": "合う",
+        "acceptedAnswers": [
+          "合う"
+        ],
+        "explanationZh": "「合う」は、サイズが合う、味が合う、予定が合う、意見が合うなど、複数のものが適切に一致することを表します。 本题应填「合う」。"
+      },
+      {
+        "id": "unit-02-grammar-cloze-168",
+        "pointId": "l2-05-au",
+        "pointTitle": "合う",
+        "sectionTitle": "文法・表現",
+        "type": "grammar_cloze_self_check",
+        "focus": "「合う」は、サイズ・予定・味・意見などがぴったり合うことを表す。",
+        "prompt": "サイズが（　）かどうか試着してください。",
+        "answer": "合う",
+        "acceptedAnswers": [
+          "合う"
+        ],
+        "explanationZh": "「合う」は、サイズが合う、味が合う、予定が合う、意見が合うなど、複数のものが適切に一致することを表します。 本题应填「合う」。"
+      },
+      {
+        "id": "unit-02-grammar-cloze-169",
+        "pointId": "l2-05-au",
+        "pointTitle": "合う",
+        "sectionTitle": "文法・表現",
+        "type": "grammar_cloze_self_check",
+        "focus": "「合う」は、サイズ・予定・味・意見などがぴったり合うことを表す。",
+        "prompt": "意見が（　）ず、会議が長くなった。",
+        "answer": "合わ",
+        "acceptedAnswers": [
+          "合わ"
+        ],
+        "explanationZh": "「合う」は、サイズが合う、味が合う、予定が合う、意見が合うなど、複数のものが適切に一致することを表します。 本题应填「合わ」。"
+      },
+      {
+        "id": "unit-02-grammar-cloze-170",
+        "pointId": "l2-05-au",
+        "pointTitle": "合う",
+        "sectionTitle": "文法・表現",
+        "type": "grammar_cloze_self_check",
+        "focus": "「合う」は、サイズ・予定・味・意見などがぴったり合うことを表す。",
+        "prompt": "新しい仕事は自分に（　）ている気がします。",
+        "answer": "合っ",
+        "acceptedAnswers": [
+          "合っ"
+        ],
+        "explanationZh": "「合う」は、サイズが合う、味が合う、予定が合う、意見が合うなど、複数のものが適切に一致することを表します。 本题应填「合っ」。"
+      },
+      {
+        "id": "unit-02-grammar-cloze-171",
+        "pointId": "l2-05-muke",
         "pointTitle": "〜向け",
         "sectionTitle": "文法・表現",
-        "type": "语境文法・表达选择",
-        "prompt": "この本は留学生（　）に書かれています。",
-        "answer": "1",
-        "choices": [
-          {
-            "value": "1",
-            "label": "向け"
-          },
-          {
-            "value": "2",
-            "label": "に限り"
-          },
-          {
-            "value": "3",
-            "label": "によって"
-          },
-          {
-            "value": "4",
-            "label": "につき"
-          }
+        "type": "grammar_cloze_self_check",
+        "focus": "「N向け」は、対象となる人・用途に合わせて作られたものを表す。",
+        "prompt": "この本は小学生（　）の本です。",
+        "answer": "向け",
+        "acceptedAnswers": [
+          "向け"
         ],
-        "explanationZh": "対象となる人を表す時は「N向け」。"
+        "explanationZh": "「〜向け」は、誰のために作られたか、どんな対象に合うかを表します。「子ども向け」「留学生向け」のように使います。 本题应填「向け」。"
       },
       {
-        "id": "unit-02-grammar-context-074",
-        "pointId": "muke",
+        "id": "unit-02-grammar-cloze-172",
+        "pointId": "l2-05-muke",
         "pointTitle": "〜向け",
         "sectionTitle": "文法・表現",
-        "type": "语境文法・表达选择",
-        "prompt": "子ども（　）のメニューがあります。",
-        "answer": "2",
-        "choices": [
-          {
-            "value": "1",
-            "label": "に限り"
-          },
-          {
-            "value": "2",
-            "label": "向け"
-          },
-          {
-            "value": "3",
-            "label": "によって"
-          },
-          {
-            "value": "4",
-            "label": "につき"
-          }
+        "type": "grammar_cloze_self_check",
+        "focus": "「N向け」は、対象となる人・用途に合わせて作られたものを表す。",
+        "prompt": "留学生（　）に分かりやすく説明します。",
+        "answer": "向け",
+        "acceptedAnswers": [
+          "向け"
         ],
-        "explanationZh": "子どもを対象にしたメニューという意味。"
+        "explanationZh": "「〜向け」は、誰のために作られたか、どんな対象に合うかを表します。「子ども向け」「留学生向け」のように使います。 本题应填「向け」。"
       },
       {
-        "id": "unit-02-grammar-context-075",
-        "pointId": "muke",
+        "id": "unit-02-grammar-cloze-173",
+        "pointId": "l2-05-muke",
         "pointTitle": "〜向け",
         "sectionTitle": "文法・表現",
-        "type": "语境文法・表达选择",
-        "prompt": "初心者（　）の説明なので、わかりやすいです。",
-        "answer": "3",
-        "choices": [
-          {
-            "value": "1",
-            "label": "に限り"
-          },
-          {
-            "value": "2",
-            "label": "につき"
-          },
-          {
-            "value": "3",
-            "label": "向け"
-          },
-          {
-            "value": "4",
-            "label": "によって"
-          }
+        "type": "grammar_cloze_self_check",
+        "focus": "「N向け」は、対象となる人・用途に合わせて作られたものを表す。",
+        "prompt": "家族（　）のサービスが増えています。",
+        "answer": "向け",
+        "acceptedAnswers": [
+          "向け"
         ],
-        "explanationZh": "説明の対象者を示している。"
+        "explanationZh": "「〜向け」は、誰のために作られたか、どんな対象に合うかを表します。「子ども向け」「留学生向け」のように使います。 本题应填「向け」。"
       },
       {
-        "id": "unit-02-grammar-context-076",
-        "pointId": "muke",
+        "id": "unit-02-grammar-cloze-174",
+        "pointId": "l2-05-muke",
         "pointTitle": "〜向け",
         "sectionTitle": "文法・表現",
-        "type": "语境文法・表达选择",
-        "prompt": "一人暮らし（　）の家電を探しています。",
-        "answer": "4",
-        "choices": [
-          {
-            "value": "1",
-            "label": "に限り"
-          },
-          {
-            "value": "2",
-            "label": "によって"
-          },
-          {
-            "value": "3",
-            "label": "につき"
-          },
-          {
-            "value": "4",
-            "label": "向け"
-          }
+        "type": "grammar_cloze_self_check",
+        "focus": "「N向け」は、対象となる人・用途に合わせて作られたものを表す。",
+        "prompt": "初心者（　）に作られたアプリです。",
+        "answer": "向け",
+        "acceptedAnswers": [
+          "向け"
         ],
-        "explanationZh": "独居者を対象にした家電という意味。"
+        "explanationZh": "「〜向け」は、誰のために作られたか、どんな対象に合うかを表します。「子ども向け」「留学生向け」のように使います。 本题应填「向け」。"
       },
       {
-        "id": "unit-02-grammar-context-077",
-        "pointId": "muke",
+        "id": "unit-02-grammar-cloze-175",
+        "pointId": "l2-05-muke",
         "pointTitle": "〜向け",
         "sectionTitle": "文法・表現",
-        "type": "语境文法・表达选择",
-        "prompt": "このバッグはメンズ（　）です。",
-        "answer": "1",
-        "choices": [
-          {
-            "value": "1",
-            "label": "向け"
-          },
-          {
-            "value": "2",
-            "label": "に限り"
-          },
-          {
-            "value": "3",
-            "label": "につき"
-          },
-          {
-            "value": "4",
-            "label": "によって"
-          }
+        "type": "grammar_cloze_self_check",
+        "focus": "「N向け」は、対象となる人・用途に合わせて作られたものを表す。",
+        "prompt": "子ども（　）のメニューもあります。",
+        "answer": "向け",
+        "acceptedAnswers": [
+          "向け"
         ],
-        "explanationZh": "商品がどの層を対象としているかを表す。"
+        "explanationZh": "「〜向け」は、誰のために作られたか、どんな対象に合うかを表します。「子ども向け」「留学生向け」のように使います。 本题应填「向け」。"
       },
       {
-        "id": "unit-02-grammar-context-078",
-        "pointId": "muke",
+        "id": "unit-02-grammar-cloze-176",
+        "pointId": "l2-05-muke",
         "pointTitle": "〜向け",
         "sectionTitle": "文法・表現",
-        "type": "语境文法・表达选择",
-        "prompt": "観光客（　）のサービスが増えています。",
-        "answer": "2",
-        "choices": [
-          {
-            "value": "1",
-            "label": "に限り"
-          },
-          {
-            "value": "2",
-            "label": "向け"
-          },
-          {
-            "value": "3",
-            "label": "によって"
-          },
-          {
-            "value": "4",
-            "label": "につき"
-          }
+        "type": "grammar_cloze_self_check",
+        "focus": "「N向け」は、対象となる人・用途に合わせて作られたものを表す。",
+        "prompt": "海外の観光客（　）に案内を書きました。",
+        "answer": "向け",
+        "acceptedAnswers": [
+          "向け"
         ],
-        "explanationZh": "観光客を対象とするサービスなので「向け」。"
+        "explanationZh": "「〜向け」は、誰のために作られたか、どんな対象に合うかを表します。「子ども向け」「留学生向け」のように使います。 本题应填「向け」。"
+      },
+      {
+        "id": "unit-02-grammar-cloze-177",
+        "pointId": "l2-05-muke",
+        "pointTitle": "〜向け",
+        "sectionTitle": "文法・表現",
+        "type": "grammar_cloze_self_check",
+        "focus": "「N向け」は、対象となる人・用途に合わせて作られたものを表す。",
+        "prompt": "高齢者（　）の住宅が人気です。",
+        "answer": "向け",
+        "acceptedAnswers": [
+          "向け"
+        ],
+        "explanationZh": "「〜向け」は、誰のために作られたか、どんな対象に合うかを表します。「子ども向け」「留学生向け」のように使います。 本题应填「向け」。"
+      },
+      {
+        "id": "unit-02-grammar-cloze-178",
+        "pointId": "l2-05-muke",
+        "pointTitle": "〜向け",
+        "sectionTitle": "文法・表現",
+        "type": "grammar_cloze_self_check",
+        "focus": "「N向け」は、対象となる人・用途に合わせて作られたものを表す。",
+        "prompt": "女性（　）の雑誌を買いました。",
+        "answer": "向け",
+        "acceptedAnswers": [
+          "向け"
+        ],
+        "explanationZh": "「〜向け」は、誰のために作られたか、どんな対象に合うかを表します。「子ども向け」「留学生向け」のように使います。 本题应填「向け」。"
+      },
+      {
+        "id": "unit-02-grammar-cloze-179",
+        "pointId": "l2-05-muke",
+        "pointTitle": "〜向け",
+        "sectionTitle": "文法・表現",
+        "type": "grammar_cloze_self_check",
+        "focus": "「N向け」は、対象となる人・用途に合わせて作られたものを表す。",
+        "prompt": "ビジネス（　）の日本語講座です。",
+        "answer": "向け",
+        "acceptedAnswers": [
+          "向け"
+        ],
+        "explanationZh": "「〜向け」は、誰のために作られたか、どんな対象に合うかを表します。「子ども向け」「留学生向け」のように使います。 本题应填「向け」。"
+      },
+      {
+        "id": "unit-02-grammar-cloze-180",
+        "pointId": "l2-05-muke",
+        "pointTitle": "〜向け",
+        "sectionTitle": "文法・表現",
+        "type": "grammar_cloze_self_check",
+        "focus": "「N向け」は、対象となる人・用途に合わせて作られたものを表す。",
+        "prompt": "一人暮らし（　）の家電が売れています。",
+        "answer": "向け",
+        "acceptedAnswers": [
+          "向け"
+        ],
+        "explanationZh": "「〜向け」は、誰のために作られたか、どんな対象に合うかを表します。「子ども向け」「留学生向け」のように使います。 本题应填「向け」。"
+      },
+      {
+        "id": "unit-02-grammar-cloze-181",
+        "pointId": "l2-05-ta-ato-de",
+        "pointTitle": "〜た後で",
+        "sectionTitle": "文法・表現",
+        "type": "grammar_cloze_self_check",
+        "focus": "「Vた後で」で、ある動作が終わってから次の動作をすることを表す。",
+        "prompt": "ご飯を食べ（　）歯を磨きます。",
+        "answer": "た後で",
+        "acceptedAnswers": [
+          "た後で"
+        ],
+        "explanationZh": "「〜た後で」は、前の動作が完了してから後ろの動作を行う順序を表します。動詞はた形にします。 本题应填「た後で」。"
+      },
+      {
+        "id": "unit-02-grammar-cloze-182",
+        "pointId": "l2-05-ta-ato-de",
+        "pointTitle": "〜た後で",
+        "sectionTitle": "文法・表現",
+        "type": "grammar_cloze_self_check",
+        "focus": "「Vた後で」で、ある動作が終わってから次の動作をすることを表す。",
+        "prompt": "商品を確認し（　）代金を払ってください。",
+        "answer": "た後で",
+        "acceptedAnswers": [
+          "た後で"
+        ],
+        "explanationZh": "「〜た後で」は、前の動作が完了してから後ろの動作を行う順序を表します。動詞はた形にします。 本题应填「た後で」。"
+      },
+      {
+        "id": "unit-02-grammar-cloze-183",
+        "pointId": "l2-05-ta-ato-de",
+        "pointTitle": "〜た後で",
+        "sectionTitle": "文法・表現",
+        "type": "grammar_cloze_self_check",
+        "focus": "「Vた後で」で、ある動作が終わってから次の動作をすることを表す。",
+        "prompt": "試着し（　）買うかどうか決めます。",
+        "answer": "た後で",
+        "acceptedAnswers": [
+          "た後で"
+        ],
+        "explanationZh": "「〜た後で」は、前の動作が完了してから後ろの動作を行う順序を表します。動詞はた形にします。 本题应填「た後で」。"
+      },
+      {
+        "id": "unit-02-grammar-cloze-184",
+        "pointId": "l2-05-ta-ato-de",
+        "pointTitle": "〜た後で",
+        "sectionTitle": "文法・表現",
+        "type": "grammar_cloze_self_check",
+        "focus": "「Vた後で」で、ある動作が終わってから次の動作をすることを表す。",
+        "prompt": "先生に相談し（　）申し込みます。",
+        "answer": "た後で",
+        "acceptedAnswers": [
+          "た後で"
+        ],
+        "explanationZh": "「〜た後で」は、前の動作が完了してから後ろの動作を行う順序を表します。動詞はた形にします。 本题应填「た後で」。"
+      },
+      {
+        "id": "unit-02-grammar-cloze-185",
+        "pointId": "l2-05-ta-ato-de",
+        "pointTitle": "〜た後で",
+        "sectionTitle": "文法・表現",
+        "type": "grammar_cloze_self_check",
+        "focus": "「Vた後で」で、ある動作が終わってから次の動作をすることを表す。",
+        "prompt": "店を出（　）レシートをなくしたことに気づいた。",
+        "answer": "た後で",
+        "acceptedAnswers": [
+          "た後で"
+        ],
+        "explanationZh": "「〜た後で」は、前の動作が完了してから後ろの動作を行う順序を表します。動詞はた形にします。 本题应填「た後で」。"
+      },
+      {
+        "id": "unit-02-grammar-cloze-186",
+        "pointId": "l2-05-ta-ato-de",
+        "pointTitle": "〜た後で",
+        "sectionTitle": "文法・表現",
+        "type": "grammar_cloze_self_check",
+        "focus": "「Vた後で」で、ある動作が終わってから次の動作をすることを表す。",
+        "prompt": "家に帰っ（　）メールを送りました。",
+        "answer": "た後で",
+        "acceptedAnswers": [
+          "た後で"
+        ],
+        "explanationZh": "「〜た後で」は、前の動作が完了してから後ろの動作を行う順序を表します。動詞はた形にします。 本题应填「た後で」。"
+      },
+      {
+        "id": "unit-02-grammar-cloze-187",
+        "pointId": "l2-05-ta-ato-de",
+        "pointTitle": "〜た後で",
+        "sectionTitle": "文法・表現",
+        "type": "grammar_cloze_self_check",
+        "focus": "「Vた後で」で、ある動作が終わってから次の動作をすることを表す。",
+        "prompt": "説明を聞い（　）質問してください。",
+        "answer": "た後で",
+        "acceptedAnswers": [
+          "た後で"
+        ],
+        "explanationZh": "「〜た後で」は、前の動作が完了してから後ろの動作を行う順序を表します。動詞はた形にします。 本题应填「た後で」。"
+      },
+      {
+        "id": "unit-02-grammar-cloze-188",
+        "pointId": "l2-05-ta-ato-de",
+        "pointTitle": "〜た後で",
+        "sectionTitle": "文法・表現",
+        "type": "grammar_cloze_self_check",
+        "focus": "「Vた後で」で、ある動作が終わってから次の動作をすることを表す。",
+        "prompt": "予約を取っ（　）友達に連絡します。",
+        "answer": "た後で",
+        "acceptedAnswers": [
+          "た後で"
+        ],
+        "explanationZh": "「〜た後で」は、前の動作が完了してから後ろの動作を行う順序を表します。動詞はた形にします。 本题应填「た後で」。"
+      },
+      {
+        "id": "unit-02-grammar-cloze-189",
+        "pointId": "l2-05-ta-ato-de",
+        "pointTitle": "〜た後で",
+        "sectionTitle": "文法・表現",
+        "type": "grammar_cloze_self_check",
+        "focus": "「Vた後で」で、ある動作が終わってから次の動作をすることを表す。",
+        "prompt": "商品を受け取っ（　）中身を確かめました。",
+        "answer": "た後で",
+        "acceptedAnswers": [
+          "た後で"
+        ],
+        "explanationZh": "「〜た後で」は、前の動作が完了してから後ろの動作を行う順序を表します。動詞はた形にします。 本题应填「た後で」。"
+      },
+      {
+        "id": "unit-02-grammar-cloze-190",
+        "pointId": "l2-05-ta-ato-de",
+        "pointTitle": "〜た後で",
+        "sectionTitle": "文法・表現",
+        "type": "grammar_cloze_self_check",
+        "focus": "「Vた後で」で、ある動作が終わってから次の動作をすることを表す。",
+        "prompt": "映画を見（　）感想を話しましょう。",
+        "answer": "た後で",
+        "acceptedAnswers": [
+          "た後で"
+        ],
+        "explanationZh": "「〜た後で」は、前の動作が完了してから後ろの動作を行う順序を表します。動詞はた形にします。 本题应填「た後で」。"
+      },
+      {
+        "id": "unit-02-grammar-cloze-191",
+        "pointId": "l2-06-kuwawaru-kuwaeru",
+        "pointTitle": "〜が加わる／〜を加える",
+        "sectionTitle": "文法・表現",
+        "type": "grammar_cloze_self_check",
+        "focus": "「加わる」は何かが仲間・内容に入る自動詞、「加える」は人が何かを足す他動詞。",
+        "prompt": "私の住む寮に新しいルームメイトが（　）。",
+        "answer": "加わりました",
+        "acceptedAnswers": [
+          "加わりました"
+        ],
+        "explanationZh": "「加わる」は新しいものが入ること、「加える」は人が材料・情報・条件などを足すことを表します。自他の違いに注意します。 本题应填「加わりました」。"
+      },
+      {
+        "id": "unit-02-grammar-cloze-192",
+        "pointId": "l2-06-kuwawaru-kuwaeru",
+        "pointTitle": "〜が加わる／〜を加える",
+        "sectionTitle": "文法・表現",
+        "type": "grammar_cloze_self_check",
+        "focus": "「加わる」は何かが仲間・内容に入る自動詞、「加える」は人が何かを足す他動詞。",
+        "prompt": "料理の仕上げにハチミツを（　）とおいしくなります。",
+        "answer": "加える",
+        "acceptedAnswers": [
+          "加える"
+        ],
+        "explanationZh": "「加わる」は新しいものが入ること、「加える」は人が材料・情報・条件などを足すことを表します。自他の違いに注意します。 本题应填「加える」。"
+      },
+      {
+        "id": "unit-02-grammar-cloze-193",
+        "pointId": "l2-06-kuwawaru-kuwaeru",
+        "pointTitle": "〜が加わる／〜を加える",
+        "sectionTitle": "文法・表現",
+        "type": "grammar_cloze_self_check",
+        "focus": "「加わる」は何かが仲間・内容に入る自動詞、「加える」は人が何かを足す他動詞。",
+        "prompt": "チームに新しいメンバーが（　）ました。",
+        "answer": "加わり",
+        "acceptedAnswers": [
+          "加わり"
+        ],
+        "explanationZh": "「加わる」は新しいものが入ること、「加える」は人が材料・情報・条件などを足すことを表します。自他の違いに注意します。 本题应填「加わり」。"
+      },
+      {
+        "id": "unit-02-grammar-cloze-194",
+        "pointId": "l2-06-kuwawaru-kuwaeru",
+        "pointTitle": "〜が加わる／〜を加える",
+        "sectionTitle": "文法・表現",
+        "type": "grammar_cloze_self_check",
+        "focus": "「加わる」は何かが仲間・内容に入る自動詞、「加える」は人が何かを足す他動詞。",
+        "prompt": "資料に最新のデータを（　）てください。",
+        "answer": "加え",
+        "acceptedAnswers": [
+          "加え"
+        ],
+        "explanationZh": "「加わる」は新しいものが入ること、「加える」は人が材料・情報・条件などを足すことを表します。自他の違いに注意します。 本题应填「加え」。"
+      },
+      {
+        "id": "unit-02-grammar-cloze-195",
+        "pointId": "l2-06-kuwawaru-kuwaeru",
+        "pointTitle": "〜が加わる／〜を加える",
+        "sectionTitle": "文法・表現",
+        "type": "grammar_cloze_self_check",
+        "focus": "「加わる」は何かが仲間・内容に入る自動詞、「加える」は人が何かを足す他動詞。",
+        "prompt": "参加者が一人（　）ので席を増やしました。",
+        "answer": "加わった",
+        "acceptedAnswers": [
+          "加わった"
+        ],
+        "explanationZh": "「加わる」は新しいものが入ること、「加える」は人が材料・情報・条件などを足すことを表します。自他の違いに注意します。 本题应填「加わった」。"
+      },
+      {
+        "id": "unit-02-grammar-cloze-196",
+        "pointId": "l2-06-kuwawaru-kuwaeru",
+        "pointTitle": "〜が加わる／〜を加える",
+        "sectionTitle": "文法・表現",
+        "type": "grammar_cloze_self_check",
+        "focus": "「加わる」は何かが仲間・内容に入る自動詞、「加える」は人が何かを足す他動詞。",
+        "prompt": "スープに塩を少し（　）ました。",
+        "answer": "加え",
+        "acceptedAnswers": [
+          "加え"
+        ],
+        "explanationZh": "「加わる」は新しいものが入ること、「加える」は人が材料・情報・条件などを足すことを表します。自他の違いに注意します。 本题应填「加え」。"
+      },
+      {
+        "id": "unit-02-grammar-cloze-197",
+        "pointId": "l2-06-kuwawaru-kuwaeru",
+        "pointTitle": "〜が加わる／〜を加える",
+        "sectionTitle": "文法・表現",
+        "type": "grammar_cloze_self_check",
+        "focus": "「加わる」は何かが仲間・内容に入る自動詞、「加える」は人が何かを足す他動詞。",
+        "prompt": "新しい条件が（　）と、計画が難しくなる。",
+        "answer": "加わる",
+        "acceptedAnswers": [
+          "加わる"
+        ],
+        "explanationZh": "「加わる」は新しいものが入ること、「加える」は人が材料・情報・条件などを足すことを表します。自他の違いに注意します。 本题应填「加わる」。"
+      },
+      {
+        "id": "unit-02-grammar-cloze-198",
+        "pointId": "l2-06-kuwawaru-kuwaeru",
+        "pointTitle": "〜が加わる／〜を加える",
+        "sectionTitle": "文法・表現",
+        "type": "grammar_cloze_self_check",
+        "focus": "「加わる」は何かが仲間・内容に入る自動詞、「加える」は人が何かを足す他動詞。",
+        "prompt": "説明に例を（　）と分かりやすいです。",
+        "answer": "加える",
+        "acceptedAnswers": [
+          "加える"
+        ],
+        "explanationZh": "「加わる」は新しいものが入ること、「加える」は人が材料・情報・条件などを足すことを表します。自他の違いに注意します。 本题应填「加える」。"
+      },
+      {
+        "id": "unit-02-grammar-cloze-199",
+        "pointId": "l2-06-kuwawaru-kuwaeru",
+        "pointTitle": "〜が加わる／〜を加える",
+        "sectionTitle": "文法・表現",
+        "type": "grammar_cloze_self_check",
+        "focus": "「加わる」は何かが仲間・内容に入る自動詞、「加える」は人が何かを足す他動詞。",
+        "prompt": "店のメニューに新しいランチが（　）ました。",
+        "answer": "加わり",
+        "acceptedAnswers": [
+          "加わり"
+        ],
+        "explanationZh": "「加わる」は新しいものが入ること、「加える」は人が材料・情報・条件などを足すことを表します。自他の違いに注意します。 本题应填「加わり」。"
+      },
+      {
+        "id": "unit-02-grammar-cloze-200",
+        "pointId": "l2-06-kuwawaru-kuwaeru",
+        "pointTitle": "〜が加わる／〜を加える",
+        "sectionTitle": "文法・表現",
+        "type": "grammar_cloze_self_check",
+        "focus": "「加わる」は何かが仲間・内容に入る自動詞、「加える」は人が何かを足す他動詞。",
+        "prompt": "名前をリストに（　）ておきます。",
+        "answer": "加え",
+        "acceptedAnswers": [
+          "加え"
+        ],
+        "explanationZh": "「加わる」は新しいものが入ること、「加える」は人が材料・情報・条件などを足すことを表します。自他の違いに注意します。 本题应填「加え」。"
+      },
+      {
+        "id": "unit-02-grammar-cloze-201",
+        "pointId": "l2-06-tsunagaru-tsunageru",
+        "pointTitle": "〜がつながる／〜をつなげる",
+        "sectionTitle": "文法・表現",
+        "type": "grammar_cloze_self_check",
+        "focus": "「つながる」は物・関係が結びつく自動詞、「つなげる」は人が結びつける他動詞。",
+        "prompt": "二つの駅は地下道で（　）ています。",
+        "answer": "つながっ",
+        "acceptedAnswers": [
+          "つながっ"
+        ],
+        "explanationZh": "「つながる」は道・線・関係などが結びついていること、「つなげる」は人が点・言葉・機械などを結びつけることを表します。 本题应填「つながっ」。"
+      },
+      {
+        "id": "unit-02-grammar-cloze-202",
+        "pointId": "l2-06-tsunagaru-tsunageru",
+        "pointTitle": "〜がつながる／〜をつなげる",
+        "sectionTitle": "文法・表現",
+        "type": "grammar_cloze_self_check",
+        "focus": "「つながる」は物・関係が結びつく自動詞、「つなげる」は人が結びつける他動詞。",
+        "prompt": "言葉を（　）て文を作りましょう。",
+        "answer": "つなげ",
+        "acceptedAnswers": [
+          "つなげ"
+        ],
+        "explanationZh": "「つながる」は道・線・関係などが結びついていること、「つなげる」は人が点・言葉・機械などを結びつけることを表します。 本题应填「つなげ」。"
+      },
+      {
+        "id": "unit-02-grammar-cloze-203",
+        "pointId": "l2-06-tsunagaru-tsunageru",
+        "pointTitle": "〜がつながる／〜をつなげる",
+        "sectionTitle": "文法・表現",
+        "type": "grammar_cloze_self_check",
+        "focus": "「つながる」は物・関係が結びつく自動詞、「つなげる」は人が結びつける他動詞。",
+        "prompt": "この道は駅前の通りに（　）ています。",
+        "answer": "つながっ",
+        "acceptedAnswers": [
+          "つながっ"
+        ],
+        "explanationZh": "「つながる」は道・線・関係などが結びついていること、「つなげる」は人が点・言葉・機械などを結びつけることを表します。 本题应填「つながっ」。"
+      },
+      {
+        "id": "unit-02-grammar-cloze-204",
+        "pointId": "l2-06-tsunagaru-tsunageru",
+        "pointTitle": "〜がつながる／〜をつなげる",
+        "sectionTitle": "文法・表現",
+        "type": "grammar_cloze_self_check",
+        "focus": "「つながる」は物・関係が結びつく自動詞、「つなげる」は人が結びつける他動詞。",
+        "prompt": "点と点を線で（　）ください。",
+        "answer": "つなげて",
+        "acceptedAnswers": [
+          "つなげて"
+        ],
+        "explanationZh": "「つながる」は道・線・関係などが結びついていること、「つなげる」は人が点・言葉・機械などを結びつけることを表します。 本题应填「つなげて」。"
+      },
+      {
+        "id": "unit-02-grammar-cloze-205",
+        "pointId": "l2-06-tsunagaru-tsunageru",
+        "pointTitle": "〜がつながる／〜をつなげる",
+        "sectionTitle": "文法・表現",
+        "type": "grammar_cloze_self_check",
+        "focus": "「つながる」は物・関係が結びつく自動詞、「つなげる」は人が結びつける他動詞。",
+        "prompt": "インターネットに（　）らないので困っています。",
+        "answer": "つなが",
+        "acceptedAnswers": [
+          "つなが"
+        ],
+        "explanationZh": "「つながる」は道・線・関係などが結びついていること、「つなげる」は人が点・言葉・機械などを結びつけることを表します。 本题应填「つなが」。"
+      },
+      {
+        "id": "unit-02-grammar-cloze-206",
+        "pointId": "l2-06-tsunagaru-tsunageru",
+        "pointTitle": "〜がつながる／〜をつなげる",
+        "sectionTitle": "文法・表現",
+        "type": "grammar_cloze_self_check",
+        "focus": "「つながる」は物・関係が結びつく自動詞、「つなげる」は人が結びつける他動詞。",
+        "prompt": "友達を通して仕事のチャンスに（　）ました。",
+        "answer": "つながり",
+        "acceptedAnswers": [
+          "つながり"
+        ],
+        "explanationZh": "「つながる」は道・線・関係などが結びついていること、「つなげる」は人が点・言葉・機械などを結びつけることを表します。 本题应填「つながり」。"
+      },
+      {
+        "id": "unit-02-grammar-cloze-207",
+        "pointId": "l2-06-tsunagaru-tsunageru",
+        "pointTitle": "〜がつながる／〜をつなげる",
+        "sectionTitle": "文法・表現",
+        "type": "grammar_cloze_self_check",
+        "focus": "「つながる」は物・関係が結びつく自動詞、「つなげる」は人が結びつける他動詞。",
+        "prompt": "短い文を接続詞で（　）ると自然になります。",
+        "answer": "つなげ",
+        "acceptedAnswers": [
+          "つなげ"
+        ],
+        "explanationZh": "「つながる」は道・線・関係などが結びついていること、「つなげる」は人が点・言葉・機械などを結びつけることを表します。 本题应填「つなげ」。"
+      },
+      {
+        "id": "unit-02-grammar-cloze-208",
+        "pointId": "l2-06-tsunagaru-tsunageru",
+        "pointTitle": "〜がつながる／〜をつなげる",
+        "sectionTitle": "文法・表現",
+        "type": "grammar_cloze_self_check",
+        "focus": "「つながる」は物・関係が結びつく自動詞、「つなげる」は人が結びつける他動詞。",
+        "prompt": "この経験が将来の仕事に（　）と思います。",
+        "answer": "つながる",
+        "acceptedAnswers": [
+          "つながる"
+        ],
+        "explanationZh": "「つながる」は道・線・関係などが結びついていること、「つなげる」は人が点・言葉・機械などを結びつけることを表します。 本题应填「つながる」。"
+      },
+      {
+        "id": "unit-02-grammar-cloze-209",
+        "pointId": "l2-06-tsunagaru-tsunageru",
+        "pointTitle": "〜がつながる／〜をつなげる",
+        "sectionTitle": "文法・表現",
+        "type": "grammar_cloze_self_check",
+        "focus": "「つながる」は物・関係が結びつく自動詞、「つなげる」は人が結びつける他動詞。",
+        "prompt": "ケーブルを機械に（　）てください。",
+        "answer": "つなげ",
+        "acceptedAnswers": [
+          "つなげ"
+        ],
+        "explanationZh": "「つながる」は道・線・関係などが結びついていること、「つなげる」は人が点・言葉・機械などを結びつけることを表します。 本题应填「つなげ」。"
+      },
+      {
+        "id": "unit-02-grammar-cloze-210",
+        "pointId": "l2-06-tsunagaru-tsunageru",
+        "pointTitle": "〜がつながる／〜をつなげる",
+        "sectionTitle": "文法・表現",
+        "type": "grammar_cloze_self_check",
+        "focus": "「つながる」は物・関係が結びつく自動詞、「つなげる」は人が結びつける他動詞。",
+        "prompt": "話が前の内容と（　）いません。",
+        "answer": "つながって",
+        "acceptedAnswers": [
+          "つながって"
+        ],
+        "explanationZh": "「つながる」は道・線・関係などが結びついていること、「つなげる」は人が点・言葉・機械などを結びつけることを表します。 本题应填「つながって」。"
+      },
+      {
+        "id": "unit-02-grammar-cloze-211",
+        "pointId": "l2-06-ni-tsuite",
+        "pointTitle": "〜について",
+        "sectionTitle": "文法・表現",
+        "type": "grammar_cloze_self_check",
+        "focus": "「Nについて」は、話題・対象を表し、「〜に関して」と近い意味で使う。",
+        "prompt": "今日の作文では私の生活（　）書きます。",
+        "answer": "について",
+        "acceptedAnswers": [
+          "について"
+        ],
+        "explanationZh": "「〜について」は、話す・書く・調べる・質問する対象を示します。作文や発表のテーマを言う時にもよく使います。 本题应填「について」。"
+      },
+      {
+        "id": "unit-02-grammar-cloze-212",
+        "pointId": "l2-06-ni-tsuite",
+        "pointTitle": "〜について",
+        "sectionTitle": "文法・表現",
+        "type": "grammar_cloze_self_check",
+        "focus": "「Nについて」は、話題・対象を表し、「〜に関して」と近い意味で使う。",
+        "prompt": "この問題（　）意見を聞かせてください。",
+        "answer": "について",
+        "acceptedAnswers": [
+          "について"
+        ],
+        "explanationZh": "「〜について」は、話す・書く・調べる・質問する対象を示します。作文や発表のテーマを言う時にもよく使います。 本题应填「について」。"
+      },
+      {
+        "id": "unit-02-grammar-cloze-213",
+        "pointId": "l2-06-ni-tsuite",
+        "pointTitle": "〜について",
+        "sectionTitle": "文法・表現",
+        "type": "grammar_cloze_self_check",
+        "focus": "「Nについて」は、話題・対象を表し、「〜に関して」と近い意味で使う。",
+        "prompt": "買い物の経験（　）発表します。",
+        "answer": "について",
+        "acceptedAnswers": [
+          "について"
+        ],
+        "explanationZh": "「〜について」は、話す・書く・調べる・質問する対象を示します。作文や発表のテーマを言う時にもよく使います。 本题应填「について」。"
+      },
+      {
+        "id": "unit-02-grammar-cloze-214",
+        "pointId": "l2-06-ni-tsuite",
+        "pointTitle": "〜について",
+        "sectionTitle": "文法・表現",
+        "type": "grammar_cloze_self_check",
+        "focus": "「Nについて」は、話題・対象を表し、「〜に関して」と近い意味で使う。",
+        "prompt": "日本の食文化（　）調べています。",
+        "answer": "について",
+        "acceptedAnswers": [
+          "について"
+        ],
+        "explanationZh": "「〜について」は、話す・書く・調べる・質問する対象を示します。作文や発表のテーマを言う時にもよく使います。 本题应填「について」。"
+      },
+      {
+        "id": "unit-02-grammar-cloze-215",
+        "pointId": "l2-06-ni-tsuite",
+        "pointTitle": "〜について",
+        "sectionTitle": "文法・表現",
+        "type": "grammar_cloze_self_check",
+        "focus": "「Nについて」は、話題・対象を表し、「〜に関して」と近い意味で使う。",
+        "prompt": "セールの情報（　）店員に聞きました。",
+        "answer": "について",
+        "acceptedAnswers": [
+          "について"
+        ],
+        "explanationZh": "「〜について」は、話す・書く・調べる・質問する対象を示します。作文や発表のテーマを言う時にもよく使います。 本题应填「について」。"
+      },
+      {
+        "id": "unit-02-grammar-cloze-216",
+        "pointId": "l2-06-ni-tsuite",
+        "pointTitle": "〜について",
+        "sectionTitle": "文法・表現",
+        "type": "grammar_cloze_self_check",
+        "focus": "「Nについて」は、話題・対象を表し、「〜に関して」と近い意味で使う。",
+        "prompt": "使い方（　）詳しく説明します。",
+        "answer": "について",
+        "acceptedAnswers": [
+          "について"
+        ],
+        "explanationZh": "「〜について」は、話す・書く・調べる・質問する対象を示します。作文や発表のテーマを言う時にもよく使います。 本题应填「について」。"
+      },
+      {
+        "id": "unit-02-grammar-cloze-217",
+        "pointId": "l2-06-ni-tsuite",
+        "pointTitle": "〜について",
+        "sectionTitle": "文法・表現",
+        "type": "grammar_cloze_self_check",
+        "focus": "「Nについて」は、話題・対象を表し、「〜に関して」と近い意味で使う。",
+        "prompt": "将来の計画（　）友達と話しました。",
+        "answer": "について",
+        "acceptedAnswers": [
+          "について"
+        ],
+        "explanationZh": "「〜について」は、話す・書く・調べる・質問する対象を示します。作文や発表のテーマを言う時にもよく使います。 本题应填「について」。"
+      },
+      {
+        "id": "unit-02-grammar-cloze-218",
+        "pointId": "l2-06-ni-tsuite",
+        "pointTitle": "〜について",
+        "sectionTitle": "文法・表現",
+        "type": "grammar_cloze_self_check",
+        "focus": "「Nについて」は、話題・対象を表し、「〜に関して」と近い意味で使う。",
+        "prompt": "この商品（　）質問があります。",
+        "answer": "について",
+        "acceptedAnswers": [
+          "について"
+        ],
+        "explanationZh": "「〜について」は、話す・書く・調べる・質問する対象を示します。作文や発表のテーマを言う時にもよく使います。 本题应填「について」。"
+      },
+      {
+        "id": "unit-02-grammar-cloze-219",
+        "pointId": "l2-06-ni-tsuite",
+        "pointTitle": "〜について",
+        "sectionTitle": "文法・表現",
+        "type": "grammar_cloze_self_check",
+        "focus": "「Nについて」は、話題・対象を表し、「〜に関して」と近い意味で使う。",
+        "prompt": "行列の理由（　）考えてみましょう。",
+        "answer": "について",
+        "acceptedAnswers": [
+          "について"
+        ],
+        "explanationZh": "「〜について」は、話す・書く・調べる・質問する対象を示します。作文や発表のテーマを言う時にもよく使います。 本题应填「について」。"
+      },
+      {
+        "id": "unit-02-grammar-cloze-220",
+        "pointId": "l2-06-ni-tsuite",
+        "pointTitle": "〜について",
+        "sectionTitle": "文法・表現",
+        "type": "grammar_cloze_self_check",
+        "focus": "「Nについて」は、話題・対象を表し、「〜に関して」と近い意味で使う。",
+        "prompt": "旅行の予定（　）メールで連絡しました。",
+        "answer": "について",
+        "acceptedAnswers": [
+          "について"
+        ],
+        "explanationZh": "「〜について」は、話す・書く・調べる・質問する対象を示します。作文や発表のテーマを言う時にもよく使います。 本题应填「について」。"
+      },
+      {
+        "id": "unit-02-grammar-cloze-221",
+        "pointId": "l2-07-aru",
+        "pointTitle": "ある〜",
+        "sectionTitle": "文法・表現",
+        "type": "grammar_cloze_self_check",
+        "focus": "「あるN」は、具体名を出さずに『ある一つの／ある特定の』ものを指す表現。",
+        "prompt": "（　）留学生が行列について作文を書きました。",
+        "answer": "ある",
+        "acceptedAnswers": [
+          "ある"
+        ],
+        "explanationZh": "「ある〜」は、名前や詳しい情報を出さずに、特定の人・日・場所・出来事などを示す表現です。物語や説明文でよく使います。 本题应填「ある」。"
+      },
+      {
+        "id": "unit-02-grammar-cloze-222",
+        "pointId": "l2-07-aru",
+        "pointTitle": "ある〜",
+        "sectionTitle": "文法・表現",
+        "type": "grammar_cloze_self_check",
+        "focus": "「あるN」は、具体名を出さずに『ある一つの／ある特定の』ものを指す表現。",
+        "prompt": "（　）日、人気のラーメン店に行きました。",
+        "answer": "ある",
+        "acceptedAnswers": [
+          "ある"
+        ],
+        "explanationZh": "「ある〜」は、名前や詳しい情報を出さずに、特定の人・日・場所・出来事などを示す表現です。物語や説明文でよく使います。 本题应填「ある」。"
+      },
+      {
+        "id": "unit-02-grammar-cloze-223",
+        "pointId": "l2-07-aru",
+        "pointTitle": "ある〜",
+        "sectionTitle": "文法・表現",
+        "type": "grammar_cloze_self_check",
+        "focus": "「あるN」は、具体名を出さずに『ある一つの／ある特定の』ものを指す表現。",
+        "prompt": "（　）店で不思議なサービスを見つけました。",
+        "answer": "ある",
+        "acceptedAnswers": [
+          "ある"
+        ],
+        "explanationZh": "「ある〜」は、名前や詳しい情報を出さずに、特定の人・日・場所・出来事などを示す表現です。物語や説明文でよく使います。 本题应填「ある」。"
+      },
+      {
+        "id": "unit-02-grammar-cloze-224",
+        "pointId": "l2-07-aru",
+        "pointTitle": "ある〜",
+        "sectionTitle": "文法・表現",
+        "type": "grammar_cloze_self_check",
+        "focus": "「あるN」は、具体名を出さずに『ある一つの／ある特定の』ものを指す表現。",
+        "prompt": "（　）人から面白い話を聞きました。",
+        "answer": "ある",
+        "acceptedAnswers": [
+          "ある"
+        ],
+        "explanationZh": "「ある〜」は、名前や詳しい情報を出さずに、特定の人・日・場所・出来事などを示す表現です。物語や説明文でよく使います。 本题应填「ある」。"
+      },
+      {
+        "id": "unit-02-grammar-cloze-225",
+        "pointId": "l2-07-aru",
+        "pointTitle": "ある〜",
+        "sectionTitle": "文法・表現",
+        "type": "grammar_cloze_self_check",
+        "focus": "「あるN」は、具体名を出さずに『ある一つの／ある特定の』ものを指す表現。",
+        "prompt": "（　）雑誌で福袋の記事を読みました。",
+        "answer": "ある",
+        "acceptedAnswers": [
+          "ある"
+        ],
+        "explanationZh": "「ある〜」は、名前や詳しい情報を出さずに、特定の人・日・場所・出来事などを示す表現です。物語や説明文でよく使います。 本题应填「ある」。"
+      },
+      {
+        "id": "unit-02-grammar-cloze-226",
+        "pointId": "l2-07-aru",
+        "pointTitle": "ある〜",
+        "sectionTitle": "文法・表現",
+        "type": "grammar_cloze_self_check",
+        "focus": "「あるN」は、具体名を出さずに『ある一つの／ある特定の』ものを指す表現。",
+        "prompt": "（　）町には長い歴史があります。",
+        "answer": "ある",
+        "acceptedAnswers": [
+          "ある"
+        ],
+        "explanationZh": "「ある〜」は、名前や詳しい情報を出さずに、特定の人・日・場所・出来事などを示す表現です。物語や説明文でよく使います。 本题应填「ある」。"
+      },
+      {
+        "id": "unit-02-grammar-cloze-227",
+        "pointId": "l2-07-aru",
+        "pointTitle": "ある〜",
+        "sectionTitle": "文法・表現",
+        "type": "grammar_cloze_self_check",
+        "focus": "「あるN」は、具体名を出さずに『ある一つの／ある特定の』ものを指す表現。",
+        "prompt": "（　）理由で彼は参加できませんでした。",
+        "answer": "ある",
+        "acceptedAnswers": [
+          "ある"
+        ],
+        "explanationZh": "「ある〜」は、名前や詳しい情報を出さずに、特定の人・日・場所・出来事などを示す表現です。物語や説明文でよく使います。 本题应填「ある」。"
+      },
+      {
+        "id": "unit-02-grammar-cloze-228",
+        "pointId": "l2-07-aru",
+        "pointTitle": "ある〜",
+        "sectionTitle": "文法・表現",
+        "type": "grammar_cloze_self_check",
+        "focus": "「あるN」は、具体名を出さずに『ある一つの／ある特定の』ものを指す表現。",
+        "prompt": "（　）会社の商品が話題になっています。",
+        "answer": "ある",
+        "acceptedAnswers": [
+          "ある"
+        ],
+        "explanationZh": "「ある〜」は、名前や詳しい情報を出さずに、特定の人・日・場所・出来事などを示す表現です。物語や説明文でよく使います。 本题应填「ある」。"
+      },
+      {
+        "id": "unit-02-grammar-cloze-229",
+        "pointId": "l2-07-aru",
+        "pointTitle": "ある〜",
+        "sectionTitle": "文法・表現",
+        "type": "grammar_cloze_self_check",
+        "focus": "「あるN」は、具体名を出さずに『ある一つの／ある特定の』ものを指す表現。",
+        "prompt": "（　）大学で新しい研究が始まりました。",
+        "answer": "ある",
+        "acceptedAnswers": [
+          "ある"
+        ],
+        "explanationZh": "「ある〜」は、名前や詳しい情報を出さずに、特定の人・日・場所・出来事などを示す表現です。物語や説明文でよく使います。 本题应填「ある」。"
+      },
+      {
+        "id": "unit-02-grammar-cloze-230",
+        "pointId": "l2-07-aru",
+        "pointTitle": "ある〜",
+        "sectionTitle": "文法・表現",
+        "type": "grammar_cloze_self_check",
+        "focus": "「あるN」は、具体名を出さずに『ある一つの／ある特定の』ものを指す表現。",
+        "prompt": "（　）出来事がきっかけで考えが変わりました。",
+        "answer": "ある",
+        "acceptedAnswers": [
+          "ある"
+        ],
+        "explanationZh": "「ある〜」は、名前や詳しい情報を出さずに、特定の人・日・場所・出来事などを示す表現です。物語や説明文でよく使います。 本题应填「ある」。"
+      },
+      {
+        "id": "unit-02-grammar-cloze-231",
+        "pointId": "l2-07-hontou-ni",
+        "pointTitle": "本当に",
+        "sectionTitle": "文法・表現",
+        "type": "grammar_cloze_self_check",
+        "focus": "「本当に」は、程度や気持ちを強め、事実であることを強調する副詞。",
+        "prompt": "日本に来たばかりの時は、（　）言葉が通じなくて困りました。",
+        "answer": "本当に",
+        "acceptedAnswers": [
+          "本当に"
+        ],
+        "explanationZh": "「本当に」は、程度が高いことや心からそう思うことを強調します。感謝・驚き・評価などと一緒によく使います。 本题应填「本当に」。"
+      },
+      {
+        "id": "unit-02-grammar-cloze-232",
+        "pointId": "l2-07-hontou-ni",
+        "pointTitle": "本当に",
+        "sectionTitle": "文法・表現",
+        "type": "grammar_cloze_self_check",
+        "focus": "「本当に」は、程度や気持ちを強め、事実であることを強調する副詞。",
+        "prompt": "この店は（　）人気があります。",
+        "answer": "本当に",
+        "acceptedAnswers": [
+          "本当に"
+        ],
+        "explanationZh": "「本当に」は、程度が高いことや心からそう思うことを強調します。感謝・驚き・評価などと一緒によく使います。 本题应填「本当に」。"
+      },
+      {
+        "id": "unit-02-grammar-cloze-233",
+        "pointId": "l2-07-hontou-ni",
+        "pointTitle": "本当に",
+        "sectionTitle": "文法・表現",
+        "type": "grammar_cloze_self_check",
+        "focus": "「本当に」は、程度や気持ちを強め、事実であることを強調する副詞。",
+        "prompt": "助けてくれて（　）ありがとうございました。",
+        "answer": "本当に",
+        "acceptedAnswers": [
+          "本当に"
+        ],
+        "explanationZh": "「本当に」は、程度が高いことや心からそう思うことを強調します。感謝・驚き・評価などと一緒によく使います。 本题应填「本当に」。"
+      },
+      {
+        "id": "unit-02-grammar-cloze-234",
+        "pointId": "l2-07-hontou-ni",
+        "pointTitle": "本当に",
+        "sectionTitle": "文法・表現",
+        "type": "grammar_cloze_self_check",
+        "focus": "「本当に」は、程度や気持ちを強め、事実であることを強調する副詞。",
+        "prompt": "今日は（　）寒いですね。",
+        "answer": "本当に",
+        "acceptedAnswers": [
+          "本当に"
+        ],
+        "explanationZh": "「本当に」は、程度が高いことや心からそう思うことを強調します。感謝・驚き・評価などと一緒によく使います。 本题应填「本当に」。"
+      },
+      {
+        "id": "unit-02-grammar-cloze-235",
+        "pointId": "l2-07-hontou-ni",
+        "pointTitle": "本当に",
+        "sectionTitle": "文法・表現",
+        "type": "grammar_cloze_self_check",
+        "focus": "「本当に」は、程度や気持ちを強め、事実であることを強調する副詞。",
+        "prompt": "その話を聞いて（　）驚きました。",
+        "answer": "本当に",
+        "acceptedAnswers": [
+          "本当に"
+        ],
+        "explanationZh": "「本当に」は、程度が高いことや心からそう思うことを強調します。感謝・驚き・評価などと一緒によく使います。 本题应填「本当に」。"
+      },
+      {
+        "id": "unit-02-grammar-cloze-236",
+        "pointId": "l2-07-hontou-ni",
+        "pointTitle": "本当に",
+        "sectionTitle": "文法・表現",
+        "type": "grammar_cloze_self_check",
+        "focus": "「本当に」は、程度や気持ちを強め、事実であることを強調する副詞。",
+        "prompt": "この料理は（　）おいしいです。",
+        "answer": "本当に",
+        "acceptedAnswers": [
+          "本当に"
+        ],
+        "explanationZh": "「本当に」は、程度が高いことや心からそう思うことを強調します。感謝・驚き・評価などと一緒によく使います。 本题应填「本当に」。"
+      },
+      {
+        "id": "unit-02-grammar-cloze-237",
+        "pointId": "l2-07-hontou-ni",
+        "pointTitle": "本当に",
+        "sectionTitle": "文法・表現",
+        "type": "grammar_cloze_self_check",
+        "focus": "「本当に」は、程度や気持ちを強め、事実であることを強調する副詞。",
+        "prompt": "行列に二時間も並ぶなんて（　）大変です。",
+        "answer": "本当に",
+        "acceptedAnswers": [
+          "本当に"
+        ],
+        "explanationZh": "「本当に」は、程度が高いことや心からそう思うことを強調します。感謝・驚き・評価などと一緒によく使います。 本题应填「本当に」。"
+      },
+      {
+        "id": "unit-02-grammar-cloze-238",
+        "pointId": "l2-07-hontou-ni",
+        "pointTitle": "本当に",
+        "sectionTitle": "文法・表現",
+        "type": "grammar_cloze_self_check",
+        "focus": "「本当に」は、程度や気持ちを強め、事実であることを強調する副詞。",
+        "prompt": "サイズが合って（　）よかったです。",
+        "answer": "本当に",
+        "acceptedAnswers": [
+          "本当に"
+        ],
+        "explanationZh": "「本当に」は、程度が高いことや心からそう思うことを強調します。感謝・驚き・評価などと一緒によく使います。 本题应填「本当に」。"
+      },
+      {
+        "id": "unit-02-grammar-cloze-239",
+        "pointId": "l2-07-hontou-ni",
+        "pointTitle": "本当に",
+        "sectionTitle": "文法・表現",
+        "type": "grammar_cloze_self_check",
+        "focus": "「本当に」は、程度や気持ちを強め、事実であることを強調する副詞。",
+        "prompt": "予約しておいて（　）正解でした。",
+        "answer": "本当に",
+        "acceptedAnswers": [
+          "本当に"
+        ],
+        "explanationZh": "「本当に」は、程度が高いことや心からそう思うことを強調します。感謝・驚き・評価などと一緒によく使います。 本题应填「本当に」。"
+      },
+      {
+        "id": "unit-02-grammar-cloze-240",
+        "pointId": "l2-07-hontou-ni",
+        "pointTitle": "本当に",
+        "sectionTitle": "文法・表現",
+        "type": "grammar_cloze_self_check",
+        "focus": "「本当に」は、程度や気持ちを強め、事実であることを強調する副詞。",
+        "prompt": "彼の説明は（　）分かりやすかったです。",
+        "answer": "本当に",
+        "acceptedAnswers": [
+          "本当に"
+        ],
+        "explanationZh": "「本当に」は、程度が高いことや心からそう思うことを強調します。感謝・驚き・評価などと一緒によく使います。 本题应填「本当に」。"
+      },
+      {
+        "id": "unit-02-grammar-cloze-241",
+        "pointId": "l2-07-sa",
+        "pointTitle": "〜さ",
+        "sectionTitle": "文法・表現",
+        "type": "grammar_cloze_self_check",
+        "focus": "「イA語幹／ナA語幹＋さ」で、性質・程度を名詞化する。",
+        "prompt": "果物を買う時は新鮮（　）をよく見ます。",
+        "answer": "さ",
+        "acceptedAnswers": [
+          "さ"
+        ],
+        "explanationZh": "「〜さ」は、形容詞が表す性質や程度を名詞にする形です。「長さ」「新鮮さ」「安全さ」のように使います。 本题应填「さ」。"
+      },
+      {
+        "id": "unit-02-grammar-cloze-242",
+        "pointId": "l2-07-sa",
+        "pointTitle": "〜さ",
+        "sectionTitle": "文法・表現",
+        "type": "grammar_cloze_self_check",
+        "focus": "「イA語幹／ナA語幹＋さ」で、性質・程度を名詞化する。",
+        "prompt": "行列の長（　）に驚きました。",
+        "answer": "さ",
+        "acceptedAnswers": [
+          "さ"
+        ],
+        "explanationZh": "「〜さ」は、形容詞が表す性質や程度を名詞にする形です。「長さ」「新鮮さ」「安全さ」のように使います。 本题应填「さ」。"
+      },
+      {
+        "id": "unit-02-grammar-cloze-243",
+        "pointId": "l2-07-sa",
+        "pointTitle": "〜さ",
+        "sectionTitle": "文法・表現",
+        "type": "grammar_cloze_self_check",
+        "focus": "「イA語幹／ナA語幹＋さ」で、性質・程度を名詞化する。",
+        "prompt": "料理のおいし（　）は食べてみないと分かりません。",
+        "answer": "さ",
+        "acceptedAnswers": [
+          "さ"
+        ],
+        "explanationZh": "「〜さ」は、形容詞が表す性質や程度を名詞にする形です。「長さ」「新鮮さ」「安全さ」のように使います。 本题应填「さ」。"
+      },
+      {
+        "id": "unit-02-grammar-cloze-244",
+        "pointId": "l2-07-sa",
+        "pointTitle": "〜さ",
+        "sectionTitle": "文法・表現",
+        "type": "grammar_cloze_self_check",
+        "focus": "「イA語幹／ナA語幹＋さ」で、性質・程度を名詞化する。",
+        "prompt": "部屋の広（　）を確認してください。",
+        "answer": "さ",
+        "acceptedAnswers": [
+          "さ"
+        ],
+        "explanationZh": "「〜さ」は、形容詞が表す性質や程度を名詞にする形です。「長さ」「新鮮さ」「安全さ」のように使います。 本题应填「さ」。"
+      },
+      {
+        "id": "unit-02-grammar-cloze-245",
+        "pointId": "l2-07-sa",
+        "pointTitle": "〜さ",
+        "sectionTitle": "文法・表現",
+        "type": "grammar_cloze_self_check",
+        "focus": "「イA語幹／ナA語幹＋さ」で、性質・程度を名詞化する。",
+        "prompt": "このかばんの軽（　）が気に入りました。",
+        "answer": "さ",
+        "acceptedAnswers": [
+          "さ"
+        ],
+        "explanationZh": "「〜さ」は、形容詞が表す性質や程度を名詞にする形です。「長さ」「新鮮さ」「安全さ」のように使います。 本题应填「さ」。"
+      },
+      {
+        "id": "unit-02-grammar-cloze-246",
+        "pointId": "l2-07-sa",
+        "pointTitle": "〜さ",
+        "sectionTitle": "文法・表現",
+        "type": "grammar_cloze_self_check",
+        "focus": "「イA語幹／ナA語幹＋さ」で、性質・程度を名詞化する。",
+        "prompt": "説明の分かりやす（　）が大切です。",
+        "answer": "さ",
+        "acceptedAnswers": [
+          "さ"
+        ],
+        "explanationZh": "「〜さ」は、形容詞が表す性質や程度を名詞にする形です。「長さ」「新鮮さ」「安全さ」のように使います。 本题应填「さ」。"
+      },
+      {
+        "id": "unit-02-grammar-cloze-247",
+        "pointId": "l2-07-sa",
+        "pointTitle": "〜さ",
+        "sectionTitle": "文法・表現",
+        "type": "grammar_cloze_self_check",
+        "focus": "「イA語幹／ナA語幹＋さ」で、性質・程度を名詞化する。",
+        "prompt": "値段の高（　）だけで判断しないでください。",
+        "answer": "さ",
+        "acceptedAnswers": [
+          "さ"
+        ],
+        "explanationZh": "「〜さ」は、形容詞が表す性質や程度を名詞にする形です。「長さ」「新鮮さ」「安全さ」のように使います。 本题应填「さ」。"
+      },
+      {
+        "id": "unit-02-grammar-cloze-248",
+        "pointId": "l2-07-sa",
+        "pointTitle": "〜さ",
+        "sectionTitle": "文法・表現",
+        "type": "grammar_cloze_self_check",
+        "focus": "「イA語幹／ナA語幹＋さ」で、性質・程度を名詞化する。",
+        "prompt": "デザインの美し（　）に引かれました。",
+        "answer": "さ",
+        "acceptedAnswers": [
+          "さ"
+        ],
+        "explanationZh": "「〜さ」は、形容詞が表す性質や程度を名詞にする形です。「長さ」「新鮮さ」「安全さ」のように使います。 本题应填「さ」。"
+      },
+      {
+        "id": "unit-02-grammar-cloze-249",
+        "pointId": "l2-07-sa",
+        "pointTitle": "〜さ",
+        "sectionTitle": "文法・表現",
+        "type": "grammar_cloze_self_check",
+        "focus": "「イA語幹／ナA語幹＋さ」で、性質・程度を名詞化する。",
+        "prompt": "サービスのよ（　）で店を選びます。",
+        "answer": "さ",
+        "acceptedAnswers": [
+          "さ"
+        ],
+        "explanationZh": "「〜さ」は、形容詞が表す性質や程度を名詞にする形です。「長さ」「新鮮さ」「安全さ」のように使います。 本题应填「さ」。"
+      },
+      {
+        "id": "unit-02-grammar-cloze-250",
+        "pointId": "l2-07-sa",
+        "pointTitle": "〜さ",
+        "sectionTitle": "文法・表現",
+        "type": "grammar_cloze_self_check",
+        "focus": "「イA語幹／ナA語幹＋さ」で、性質・程度を名詞化する。",
+        "prompt": "商品の安全（　）を確かめてから買います。",
+        "answer": "さ",
+        "acceptedAnswers": [
+          "さ"
+        ],
+        "explanationZh": "「〜さ」は、形容詞が表す性質や程度を名詞にする形です。「長さ」「新鮮さ」「安全さ」のように使います。 本题应填「さ」。"
+      },
+      {
+        "id": "unit-02-grammar-cloze-251",
+        "pointId": "l2-07-ta-bakari",
+        "pointTitle": "〜たばかりだ",
+        "sectionTitle": "文法・表現",
+        "type": "grammar_cloze_self_check",
+        "focus": "「Vた＋ばかり」で、ある動作が終わってから時間があまり経っていないことを表す。",
+        "prompt": "このジュースは冷蔵庫に入れた（　）なので、まだ冷えていません。",
+        "answer": "ばかり",
+        "acceptedAnswers": [
+          "ばかり"
+        ],
+        "explanationZh": "「〜たばかり」は、動作が完了して間もないことを表します。時間の長さよりも話し手の感覚として『すぐ後』であることを示します。 本题应填「ばかり」。"
+      },
+      {
+        "id": "unit-02-grammar-cloze-252",
+        "pointId": "l2-07-ta-bakari",
+        "pointTitle": "〜たばかりだ",
+        "sectionTitle": "文法・表現",
+        "type": "grammar_cloze_self_check",
+        "focus": "「Vた＋ばかり」で、ある動作が終わってから時間があまり経っていないことを表す。",
+        "prompt": "日本に来た（　）の時は言葉が分かりませんでした。",
+        "answer": "ばかり",
+        "acceptedAnswers": [
+          "ばかり"
+        ],
+        "explanationZh": "「〜たばかり」は、動作が完了して間もないことを表します。時間の長さよりも話し手の感覚として『すぐ後』であることを示します。 本题应填「ばかり」。"
+      },
+      {
+        "id": "unit-02-grammar-cloze-253",
+        "pointId": "l2-07-ta-bakari",
+        "pointTitle": "〜たばかりだ",
+        "sectionTitle": "文法・表現",
+        "type": "grammar_cloze_self_check",
+        "focus": "「Vた＋ばかり」で、ある動作が終わってから時間があまり経っていないことを表す。",
+        "prompt": "買った（　）の靴なので汚したくありません。",
+        "answer": "ばかり",
+        "acceptedAnswers": [
+          "ばかり"
+        ],
+        "explanationZh": "「〜たばかり」は、動作が完了して間もないことを表します。時間の長さよりも話し手の感覚として『すぐ後』であることを示します。 本题应填「ばかり」。"
+      },
+      {
+        "id": "unit-02-grammar-cloze-254",
+        "pointId": "l2-07-ta-bakari",
+        "pointTitle": "〜たばかりだ",
+        "sectionTitle": "文法・表現",
+        "type": "grammar_cloze_self_check",
+        "focus": "「Vた＋ばかり」で、ある動作が終わってから時間があまり経っていないことを表す。",
+        "prompt": "店を出た（　）なのに、もう忘れ物に気づいた。",
+        "answer": "ばかり",
+        "acceptedAnswers": [
+          "ばかり"
+        ],
+        "explanationZh": "「〜たばかり」は、動作が完了して間もないことを表します。時間の長さよりも話し手の感覚として『すぐ後』であることを示します。 本题应填「ばかり」。"
+      },
+      {
+        "id": "unit-02-grammar-cloze-255",
+        "pointId": "l2-07-ta-bakari",
+        "pointTitle": "〜たばかりだ",
+        "sectionTitle": "文法・表現",
+        "type": "grammar_cloze_self_check",
+        "focus": "「Vた＋ばかり」で、ある動作が終わってから時間があまり経っていないことを表す。",
+        "prompt": "食べた（　）なので、まだお腹がいっぱいです。",
+        "answer": "ばかり",
+        "acceptedAnswers": [
+          "ばかり"
+        ],
+        "explanationZh": "「〜たばかり」は、動作が完了して間もないことを表します。時間の長さよりも話し手の感覚として『すぐ後』であることを示します。 本题应填「ばかり」。"
+      },
+      {
+        "id": "unit-02-grammar-cloze-256",
+        "pointId": "l2-07-ta-bakari",
+        "pointTitle": "〜たばかりだ",
+        "sectionTitle": "文法・表現",
+        "type": "grammar_cloze_self_check",
+        "focus": "「Vた＋ばかり」で、ある動作が終わってから時間があまり経っていないことを表す。",
+        "prompt": "始めた（　）のアルバイトで、まだ慣れていません。",
+        "answer": "ばかり",
+        "acceptedAnswers": [
+          "ばかり"
+        ],
+        "explanationZh": "「〜たばかり」は、動作が完了して間もないことを表します。時間の長さよりも話し手の感覚として『すぐ後』であることを示します。 本题应填「ばかり」。"
+      },
+      {
+        "id": "unit-02-grammar-cloze-257",
+        "pointId": "l2-07-ta-bakari",
+        "pointTitle": "〜たばかりだ",
+        "sectionTitle": "文法・表現",
+        "type": "grammar_cloze_self_check",
+        "focus": "「Vた＋ばかり」で、ある動作が終わってから時間があまり経っていないことを表す。",
+        "prompt": "開店した（　）の店に行ってみました。",
+        "answer": "ばかり",
+        "acceptedAnswers": [
+          "ばかり"
+        ],
+        "explanationZh": "「〜たばかり」は、動作が完了して間もないことを表します。時間の長さよりも話し手の感覚として『すぐ後』であることを示します。 本题应填「ばかり」。"
+      },
+      {
+        "id": "unit-02-grammar-cloze-258",
+        "pointId": "l2-07-ta-bakari",
+        "pointTitle": "〜たばかりだ",
+        "sectionTitle": "文法・表現",
+        "type": "grammar_cloze_self_check",
+        "focus": "「Vた＋ばかり」で、ある動作が終わってから時間があまり経っていないことを表す。",
+        "prompt": "洗った（　）のシャツをまた汚してしまった。",
+        "answer": "ばかり",
+        "acceptedAnswers": [
+          "ばかり"
+        ],
+        "explanationZh": "「〜たばかり」は、動作が完了して間もないことを表します。時間の長さよりも話し手の感覚として『すぐ後』であることを示します。 本题应填「ばかり」。"
+      },
+      {
+        "id": "unit-02-grammar-cloze-259",
+        "pointId": "l2-07-ta-bakari",
+        "pointTitle": "〜たばかりだ",
+        "sectionTitle": "文法・表現",
+        "type": "grammar_cloze_self_check",
+        "focus": "「Vた＋ばかり」で、ある動作が終わってから時間があまり経っていないことを表す。",
+        "prompt": "習った（　）の文法を使って作文を書いた。",
+        "answer": "ばかり",
+        "acceptedAnswers": [
+          "ばかり"
+        ],
+        "explanationZh": "「〜たばかり」は、動作が完了して間もないことを表します。時間の長さよりも話し手の感覚として『すぐ後』であることを示します。 本题应填「ばかり」。"
+      },
+      {
+        "id": "unit-02-grammar-cloze-260",
+        "pointId": "l2-07-ta-bakari",
+        "pointTitle": "〜たばかりだ",
+        "sectionTitle": "文法・表現",
+        "type": "grammar_cloze_self_check",
+        "focus": "「Vた＋ばかり」で、ある動作が終わってから時間があまり経っていないことを表す。",
+        "prompt": "届いた（　）の商品をすぐ開けました。",
+        "answer": "ばかり",
+        "acceptedAnswers": [
+          "ばかり"
+        ],
+        "explanationZh": "「〜たばかり」は、動作が完了して間もないことを表します。時間の長さよりも話し手の感覚として『すぐ後』であることを示します。 本题应填「ばかり」。"
+      },
+      {
+        "id": "unit-02-grammar-cloze-261",
+        "pointId": "l2-07-no-deshouka",
+        "pointTitle": "〜のでしょうか",
+        "sectionTitle": "文法・表現",
+        "type": "grammar_cloze_self_check",
+        "focus": "「〜のでしょうか」は、理由・方法・判断を丁寧に問いかける表現。",
+        "prompt": "この野菜はどうやって切ればいい（　）。",
+        "answer": "のでしょうか",
+        "acceptedAnswers": [
+          "のでしょうか"
+        ],
+        "explanationZh": "「〜のでしょうか」は、疑問を丁寧に、少し考えながら尋ねる表現です。文章や改まった会話で自然に使えます。 本题应填「のでしょうか」。"
+      },
+      {
+        "id": "unit-02-grammar-cloze-262",
+        "pointId": "l2-07-no-deshouka",
+        "pointTitle": "〜のでしょうか",
+        "sectionTitle": "文法・表現",
+        "type": "grammar_cloze_self_check",
+        "focus": "「〜のでしょうか」は、理由・方法・判断を丁寧に問いかける表現。",
+        "prompt": "なぜこの店にはいつも行列ができる（　）。",
+        "answer": "のでしょうか",
+        "acceptedAnswers": [
+          "のでしょうか"
+        ],
+        "explanationZh": "「〜のでしょうか」は、疑問を丁寧に、少し考えながら尋ねる表現です。文章や改まった会話で自然に使えます。 本题应填「のでしょうか」。"
+      },
+      {
+        "id": "unit-02-grammar-cloze-263",
+        "pointId": "l2-07-no-deshouka",
+        "pointTitle": "〜のでしょうか",
+        "sectionTitle": "文法・表現",
+        "type": "grammar_cloze_self_check",
+        "focus": "「〜のでしょうか」は、理由・方法・判断を丁寧に問いかける表現。",
+        "prompt": "どうしてこの商品はこんなに安い（　）。",
+        "answer": "のでしょうか",
+        "acceptedAnswers": [
+          "のでしょうか"
+        ],
+        "explanationZh": "「〜のでしょうか」は、疑問を丁寧に、少し考えながら尋ねる表現です。文章や改まった会話で自然に使えます。 本题应填「のでしょうか」。"
+      },
+      {
+        "id": "unit-02-grammar-cloze-264",
+        "pointId": "l2-07-no-deshouka",
+        "pointTitle": "〜のでしょうか",
+        "sectionTitle": "文法・表現",
+        "type": "grammar_cloze_self_check",
+        "focus": "「〜のでしょうか」は、理由・方法・判断を丁寧に問いかける表現。",
+        "prompt": "何を基準に店を選べばいい（　）。",
+        "answer": "のでしょうか",
+        "acceptedAnswers": [
+          "のでしょうか"
+        ],
+        "explanationZh": "「〜のでしょうか」は、疑問を丁寧に、少し考えながら尋ねる表現です。文章や改まった会話で自然に使えます。 本题应填「のでしょうか」。"
+      },
+      {
+        "id": "unit-02-grammar-cloze-265",
+        "pointId": "l2-07-no-deshouka",
+        "pointTitle": "〜のでしょうか",
+        "sectionTitle": "文法・表現",
+        "type": "grammar_cloze_self_check",
+        "focus": "「〜のでしょうか」は、理由・方法・判断を丁寧に問いかける表現。",
+        "prompt": "このサービスはいつから始まった（　）。",
+        "answer": "のでしょうか",
+        "acceptedAnswers": [
+          "のでしょうか"
+        ],
+        "explanationZh": "「〜のでしょうか」は、疑問を丁寧に、少し考えながら尋ねる表現です。文章や改まった会話で自然に使えます。 本题应填「のでしょうか」。"
+      },
+      {
+        "id": "unit-02-grammar-cloze-266",
+        "pointId": "l2-07-no-deshouka",
+        "pointTitle": "〜のでしょうか",
+        "sectionTitle": "文法・表現",
+        "type": "grammar_cloze_self_check",
+        "focus": "「〜のでしょうか」は、理由・方法・判断を丁寧に問いかける表現。",
+        "prompt": "どうすればもっと自然に話せる（　）。",
+        "answer": "のでしょうか",
+        "acceptedAnswers": [
+          "のでしょうか"
+        ],
+        "explanationZh": "「〜のでしょうか」は、疑問を丁寧に、少し考えながら尋ねる表現です。文章や改まった会話で自然に使えます。 本题应填「のでしょうか」。"
+      },
+      {
+        "id": "unit-02-grammar-cloze-267",
+        "pointId": "l2-07-no-deshouka",
+        "pointTitle": "〜のでしょうか",
+        "sectionTitle": "文法・表現",
+        "type": "grammar_cloze_self_check",
+        "focus": "「〜のでしょうか」は、理由・方法・判断を丁寧に問いかける表現。",
+        "prompt": "なぜ人は評判の店に並ぶ（　）。",
+        "answer": "のでしょうか",
+        "acceptedAnswers": [
+          "のでしょうか"
+        ],
+        "explanationZh": "「〜のでしょうか」は、疑問を丁寧に、少し考えながら尋ねる表現です。文章や改まった会話で自然に使えます。 本题应填「のでしょうか」。"
+      },
+      {
+        "id": "unit-02-grammar-cloze-268",
+        "pointId": "l2-07-no-deshouka",
+        "pointTitle": "〜のでしょうか",
+        "sectionTitle": "文法・表現",
+        "type": "grammar_cloze_self_check",
+        "focus": "「〜のでしょうか」は、理由・方法・判断を丁寧に問いかける表現。",
+        "prompt": "どこで受け取ればいい（　）。",
+        "answer": "のでしょうか",
+        "acceptedAnswers": [
+          "のでしょうか"
+        ],
+        "explanationZh": "「〜のでしょうか」は、疑問を丁寧に、少し考えながら尋ねる表現です。文章や改まった会話で自然に使えます。 本题应填「のでしょうか」。"
+      },
+      {
+        "id": "unit-02-grammar-cloze-269",
+        "pointId": "l2-07-no-deshouka",
+        "pointTitle": "〜のでしょうか",
+        "sectionTitle": "文法・表現",
+        "type": "grammar_cloze_self_check",
+        "focus": "「〜のでしょうか」は、理由・方法・判断を丁寧に問いかける表現。",
+        "prompt": "いつまでに申し込めばよい（　）。",
+        "answer": "のでしょうか",
+        "acceptedAnswers": [
+          "のでしょうか"
+        ],
+        "explanationZh": "「〜のでしょうか」は、疑問を丁寧に、少し考えながら尋ねる表現です。文章や改まった会話で自然に使えます。 本题应填「のでしょうか」。"
+      },
+      {
+        "id": "unit-02-grammar-cloze-270",
+        "pointId": "l2-07-no-deshouka",
+        "pointTitle": "〜のでしょうか",
+        "sectionTitle": "文法・表現",
+        "type": "grammar_cloze_self_check",
+        "focus": "「〜のでしょうか」は、理由・方法・判断を丁寧に問いかける表現。",
+        "prompt": "本当にサイズが合う（　）。",
+        "answer": "のでしょうか",
+        "acceptedAnswers": [
+          "のでしょうか"
+        ],
+        "explanationZh": "「〜のでしょうか」は、疑問を丁寧に、少し考えながら尋ねる表現です。文章や改まった会話で自然に使えます。 本题应填「のでしょうか」。"
+      },
+      {
+        "id": "unit-02-grammar-cloze-271",
+        "pointId": "l2-07-tashikameru",
+        "pointTitle": "〜を確かめる",
+        "sectionTitle": "文法・表現",
+        "type": "grammar_cloze_self_check",
+        "focus": "「確かめる」は、間違いがないか、事実かどうかを確認することを表す。",
+        "prompt": "出かける時は戸じまりをしたかよく（　）ましょう。",
+        "answer": "確かめ",
+        "acceptedAnswers": [
+          "確かめ"
+        ],
+        "explanationZh": "「確かめる」は、サイズ・時間・中身・戸締まりなど、正しいかどうかを確認する時に使います。買い物や外出前の場面でよく使えます。 本题应填「確かめ」。"
+      },
+      {
+        "id": "unit-02-grammar-cloze-272",
+        "pointId": "l2-07-tashikameru",
+        "pointTitle": "〜を確かめる",
+        "sectionTitle": "文法・表現",
+        "type": "grammar_cloze_self_check",
+        "focus": "「確かめる」は、間違いがないか、事実かどうかを確認することを表す。",
+        "prompt": "買う前にサイズが合うか（　）てください。",
+        "answer": "確かめ",
+        "acceptedAnswers": [
+          "確かめ"
+        ],
+        "explanationZh": "「確かめる」は、サイズ・時間・中身・戸締まりなど、正しいかどうかを確認する時に使います。買い物や外出前の場面でよく使えます。 本题应填「確かめ」。"
+      },
+      {
+        "id": "unit-02-grammar-cloze-273",
+        "pointId": "l2-07-tashikameru",
+        "pointTitle": "〜を確かめる",
+        "sectionTitle": "文法・表現",
+        "type": "grammar_cloze_self_check",
+        "focus": "「確かめる」は、間違いがないか、事実かどうかを確認することを表す。",
+        "prompt": "予約時間をもう一度（　）ました。",
+        "answer": "確かめ",
+        "acceptedAnswers": [
+          "確かめ"
+        ],
+        "explanationZh": "「確かめる」は、サイズ・時間・中身・戸締まりなど、正しいかどうかを確認する時に使います。買い物や外出前の場面でよく使えます。 本题应填「確かめ」。"
+      },
+      {
+        "id": "unit-02-grammar-cloze-274",
+        "pointId": "l2-07-tashikameru",
+        "pointTitle": "〜を確かめる",
+        "sectionTitle": "文法・表現",
+        "type": "grammar_cloze_self_check",
+        "focus": "「確かめる」は、間違いがないか、事実かどうかを確認することを表す。",
+        "prompt": "中身を（　）てから受け取ってください。",
+        "answer": "確かめ",
+        "acceptedAnswers": [
+          "確かめ"
+        ],
+        "explanationZh": "「確かめる」は、サイズ・時間・中身・戸締まりなど、正しいかどうかを確認する時に使います。買い物や外出前の場面でよく使えます。 本题应填「確かめ」。"
+      },
+      {
+        "id": "unit-02-grammar-cloze-275",
+        "pointId": "l2-07-tashikameru",
+        "pointTitle": "〜を確かめる",
+        "sectionTitle": "文法・表現",
+        "type": "grammar_cloze_self_check",
+        "focus": "「確かめる」は、間違いがないか、事実かどうかを確認することを表す。",
+        "prompt": "道が正しいか地図で（　）ます。",
+        "answer": "確かめ",
+        "acceptedAnswers": [
+          "確かめ"
+        ],
+        "explanationZh": "「確かめる」は、サイズ・時間・中身・戸締まりなど、正しいかどうかを確認する時に使います。買い物や外出前の場面でよく使えます。 本题应填「確かめ」。"
+      },
+      {
+        "id": "unit-02-grammar-cloze-276",
+        "pointId": "l2-07-tashikameru",
+        "pointTitle": "〜を確かめる",
+        "sectionTitle": "文法・表現",
+        "type": "grammar_cloze_self_check",
+        "focus": "「確かめる」は、間違いがないか、事実かどうかを確認することを表す。",
+        "prompt": "レシートを見て金額を（　）ました。",
+        "answer": "確かめ",
+        "acceptedAnswers": [
+          "確かめ"
+        ],
+        "explanationZh": "「確かめる」は、サイズ・時間・中身・戸締まりなど、正しいかどうかを確認する時に使います。買い物や外出前の場面でよく使えます。 本题应填「確かめ」。"
+      },
+      {
+        "id": "unit-02-grammar-cloze-277",
+        "pointId": "l2-07-tashikameru",
+        "pointTitle": "〜を確かめる",
+        "sectionTitle": "文法・表現",
+        "type": "grammar_cloze_self_check",
+        "focus": "「確かめる」は、間違いがないか、事実かどうかを確認することを表す。",
+        "prompt": "商品に傷がないか（　）る必要があります。",
+        "answer": "確かめ",
+        "acceptedAnswers": [
+          "確かめ"
+        ],
+        "explanationZh": "「確かめる」は、サイズ・時間・中身・戸締まりなど、正しいかどうかを確認する時に使います。買い物や外出前の場面でよく使えます。 本题应填「確かめ」。"
+      },
+      {
+        "id": "unit-02-grammar-cloze-278",
+        "pointId": "l2-07-tashikameru",
+        "pointTitle": "〜を確かめる",
+        "sectionTitle": "文法・表現",
+        "type": "grammar_cloze_self_check",
+        "focus": "「確かめる」は、間違いがないか、事実かどうかを確認することを表す。",
+        "prompt": "メールが届いたか（　）てから出発します。",
+        "answer": "確かめ",
+        "acceptedAnswers": [
+          "確かめ"
+        ],
+        "explanationZh": "「確かめる」は、サイズ・時間・中身・戸締まりなど、正しいかどうかを確認する時に使います。買い物や外出前の場面でよく使えます。 本题应填「確かめ」。"
+      },
+      {
+        "id": "unit-02-grammar-cloze-279",
+        "pointId": "l2-07-tashikameru",
+        "pointTitle": "〜を確かめる",
+        "sectionTitle": "文法・表現",
+        "type": "grammar_cloze_self_check",
+        "focus": "「確かめる」は、間違いがないか、事実かどうかを確認することを表す。",
+        "prompt": "セールの期間を店員に（　）ました。",
+        "answer": "確かめ",
+        "acceptedAnswers": [
+          "確かめ"
+        ],
+        "explanationZh": "「確かめる」は、サイズ・時間・中身・戸締まりなど、正しいかどうかを確認する時に使います。買い物や外出前の場面でよく使えます。 本题应填「確かめ」。"
+      },
+      {
+        "id": "unit-02-grammar-cloze-280",
+        "pointId": "l2-07-tashikameru",
+        "pointTitle": "〜を確かめる",
+        "sectionTitle": "文法・表現",
+        "type": "grammar_cloze_self_check",
+        "focus": "「確かめる」は、間違いがないか、事実かどうかを確認することを表す。",
+        "prompt": "使い方を（　）ずに触ると危ないです。",
+        "answer": "確かめ",
+        "acceptedAnswers": [
+          "確かめ"
+        ],
+        "explanationZh": "「確かめる」は、サイズ・時間・中身・戸締まりなど、正しいかどうかを確認する時に使います。買い物や外出前の場面でよく使えます。 本题应填「確かめ」。"
       }
     ]
   }

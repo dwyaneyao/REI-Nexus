@@ -111,6 +111,13 @@ const sections = {
   log: document.querySelector("#logView"),
 };
 
+const VALID_ACTIVE_VIEWS = new Set(Object.keys(sections));
+const VALID_FILTERS = new Set(["all", "new", "due", "learning", "mastered"]);
+const VALID_CARD_MODES = new Set(["filtered", "today"]);
+const VALID_PRACTICE_POOLS = new Set(["all", "unattempted", "incorrect", "type"]);
+const VALID_LESSON_TEST_TYPES = new Set(["vocabulary", "grammar"]);
+const LESSON_TEST_SIZE = 50;
+
 const state = {
   manifest: null,
   activeScreen: "library",
@@ -138,8 +145,15 @@ const state = {
   lessonReviewRevealed: false,
   lessonPracticeReviewOrder: [],
   lessonPracticeReviewSignature: "",
+  lessonTestType: "",
   lessonVocabularyPracticeIndex: 0,
   lessonGrammarPracticeIndex: 0,
+  lessonVocabularyPracticeShuffle: false,
+  lessonGrammarPracticeShuffle: false,
+  lessonVocabularyPracticeOrder: [],
+  lessonVocabularyPracticeOrderSignature: "",
+  lessonGrammarPracticeOrder: [],
+  lessonGrammarPracticeOrderSignature: "",
   checkinFailure: "",
 };
 
@@ -190,6 +204,7 @@ function emptyProgress() {
     dailyPlans: {},
     events: [],
     checkins: {},
+    sourceLocations: {},
   };
 }
 
@@ -227,6 +242,8 @@ function normalizeProgress(progress) {
     dailyPlans: progress.dailyPlans || {},
     events: Array.isArray(progress.events) ? progress.events : [],
     checkins: progress.checkins || {},
+    sourceLocations:
+      progress.sourceLocations && typeof progress.sourceLocations === "object" ? progress.sourceLocations : {},
   };
 }
 
@@ -236,6 +253,91 @@ function saveProgressObject(progress) {
 
 function saveProgress() {
   saveProgressObject(state.progress);
+}
+
+function normalizeStoredIndex(value) {
+  const number = Number.parseInt(value, 10);
+  return Number.isFinite(number) && number >= 0 ? number : 0;
+}
+
+function normalizeStoredChoice(value, validValues, fallback) {
+  return validValues.has(value) ? value : fallback;
+}
+
+function currentDatasetId() {
+  return state.unitData?.unit?.id || elements.unitSelect.value || "";
+}
+
+function sourceLocation(sourceId) {
+  const location = state.progress.sourceLocations?.[sourceId];
+  return location && typeof location === "object" ? location : null;
+}
+
+function saveCurrentSourceLocation() {
+  if (state.activeScreen !== "study" || !state.sourceId || !state.unitData) {
+    return;
+  }
+
+  const datasetId = currentDatasetId();
+  if (!datasetId) {
+    return;
+  }
+
+  state.progress.sourceLocations = state.progress.sourceLocations || {};
+  state.progress.sourceLocations[state.sourceId] = {
+    datasetId,
+    activeView: normalizeStoredChoice(state.activeView, VALID_ACTIVE_VIEWS, "today"),
+    activeFilter: normalizeStoredChoice(state.activeFilter, VALID_FILTERS, "all"),
+    cardIndex: normalizeStoredIndex(state.cardIndex),
+    cardMode: normalizeStoredChoice(state.cardMode, VALID_CARD_MODES, "filtered"),
+    quizIndex: normalizeStoredIndex(state.quizIndex),
+    quizGrammarPointId: state.quizGrammarPointId || "",
+    practicePool: normalizeStoredChoice(state.practicePool, VALID_PRACTICE_POOLS, "all"),
+    practiceTypeFilter: state.practiceTypeFilter || "all",
+    lessonStepId: state.lessonStepId || "",
+    lessonReviewIndex: normalizeStoredIndex(state.lessonReviewIndex),
+    lessonTestType: VALID_LESSON_TEST_TYPES.has(state.lessonTestType) ? state.lessonTestType : "",
+    lessonVocabularyPracticeIndex: normalizeStoredIndex(state.lessonVocabularyPracticeIndex),
+    lessonGrammarPracticeIndex: normalizeStoredIndex(state.lessonGrammarPracticeIndex),
+    lessonVocabularyPracticeShuffle: Boolean(state.lessonVocabularyPracticeShuffle),
+    lessonGrammarPracticeShuffle: Boolean(state.lessonGrammarPracticeShuffle),
+    updatedAt: new Date().toISOString(),
+  };
+  saveProgress();
+}
+
+function applySourceLocation(location) {
+  if (!location || typeof location !== "object") {
+    return;
+  }
+
+  state.activeView = normalizeStoredChoice(location.activeView, VALID_ACTIVE_VIEWS, "today");
+  state.activeFilter = normalizeStoredChoice(location.activeFilter, VALID_FILTERS, "all");
+  state.cardIndex = normalizeStoredIndex(location.cardIndex);
+  state.cardMode = normalizeStoredChoice(location.cardMode, VALID_CARD_MODES, "filtered");
+  state.quizIndex = normalizeStoredIndex(location.quizIndex);
+  state.quizGrammarPointId = typeof location.quizGrammarPointId === "string" ? location.quizGrammarPointId : "";
+  state.practicePool = normalizeStoredChoice(location.practicePool, VALID_PRACTICE_POOLS, "all");
+  state.practiceTypeFilter =
+    typeof location.practiceTypeFilter === "string" && location.practiceTypeFilter ? location.practiceTypeFilter : "all";
+  state.lessonReviewIndex = normalizeStoredIndex(location.lessonReviewIndex);
+  state.lessonTestType = VALID_LESSON_TEST_TYPES.has(location.lessonTestType) ? location.lessonTestType : "";
+  state.lessonVocabularyPracticeIndex = normalizeStoredIndex(location.lessonVocabularyPracticeIndex);
+  state.lessonGrammarPracticeIndex = normalizeStoredIndex(location.lessonGrammarPracticeIndex);
+  state.lessonVocabularyPracticeShuffle = Boolean(location.lessonVocabularyPracticeShuffle);
+  state.lessonGrammarPracticeShuffle = Boolean(location.lessonGrammarPracticeShuffle);
+  state.lessonVocabularyPracticeOrder = [];
+  state.lessonVocabularyPracticeOrderSignature = "";
+  state.lessonGrammarPracticeOrder = [];
+  state.lessonGrammarPracticeOrderSignature = "";
+
+  const lessonStepId = typeof location.lessonStepId === "string" ? location.lessonStepId : "";
+  if (lessonStepId && lessonStep(lessonStepId)) {
+    state.lessonStepId = lessonStepId;
+  }
+  if (isPracticeUnit() && state.activeFilter === "mastered") {
+    state.activeFilter = "all";
+  }
 }
 
 function normalize(value) {
@@ -279,7 +381,7 @@ function itemTypeLabels() {
       newContent: "课程步骤",
       exampleTitle: "学习内容",
       noExamples: "这一步还没有补充内容。",
-      tabs: { today: "课程", cards: "词汇", list: "练习", quiz: "复习", log: "记录" },
+      tabs: { today: "课程", cards: "词汇", list: "练习", quiz: "测验", log: "记录" },
     };
   }
   if (isPracticeUnit()) {
@@ -360,8 +462,8 @@ function renderStatLabels(labels) {
     elements.statDueLabel.textContent = "已完成";
     elements.statStudiedTodayLabel.textContent = "今日活动";
     elements.statStreakLabel.textContent = "完成率";
-    elements.statLearningLabel.textContent = "待复习";
-    elements.statMasteredLabel.textContent = "已掌握";
+    elements.statLearningLabel.textContent = "测验完成";
+    elements.statMasteredLabel.textContent = "最近分";
     return;
   }
   if (isPracticeUnit()) {
@@ -612,8 +714,9 @@ function renderLibrary() {
 
 async function openSource(sourceId) {
   showStudy();
-  await loadSource(sourceId);
-  setActiveView("today");
+  const location = sourceLocation(sourceId);
+  state.activeView = "today";
+  await loadSource(sourceId, location?.datasetId || "", { restoreLocation: location });
 }
 
 function renderSourceOptions() {
@@ -651,6 +754,7 @@ function resetCourseFilters() {
   state.lessonReviewRevealed = false;
   state.lessonPracticeReviewOrder = [];
   state.lessonPracticeReviewSignature = "";
+  state.lessonTestType = "";
   state.lessonVocabularyPracticeIndex = 0;
   state.lessonGrammarPracticeIndex = 0;
   document.querySelectorAll(".filter-button").forEach((button) => {
@@ -1028,6 +1132,9 @@ function lessonGrammarPracticeQuestions() {
     sectionTitle: question.sectionTitle || "文法・表現",
     type: question.type || "语境文法・表达选择",
     answer: String(question.answer || ""),
+    acceptedAnswers: (question.acceptedAnswers || [])
+      .map((answer) => String(answer || "").trim())
+      .filter(Boolean),
     choices: (question.choices || [])
       .map((choice) => ({
         ...choice,
@@ -1053,7 +1160,10 @@ function filteredLessonGrammarPracticeQuestions() {
         question.sectionTitle,
         question.prompt,
         question.promptZh,
+        question.answer,
+        question.focus,
         question.explanationZh,
+        ...(question.acceptedAnswers || []),
         ...(question.choices || []).map((choice) => choice.label),
       ].join(" ")
     );
@@ -1063,6 +1173,90 @@ function filteredLessonGrammarPracticeQuestions() {
 
 function lessonGrammarPracticeQuestion(questionId) {
   return lessonGrammarPracticeQuestions().find((question) => question.id === questionId) || null;
+}
+
+function isGrammarSelfCheckQuestion(question) {
+  return question?.type === "grammar_cloze_self_check";
+}
+
+function lessonGrammarAcceptedAnswers(question) {
+  return (question?.acceptedAnswers || [])
+    .map((answer) => String(answer || "").trim())
+    .filter(Boolean);
+}
+
+function orderedLessonPracticeQuestions(kind, questions) {
+  const shuffleKey =
+    kind === "vocabulary" ? "lessonVocabularyPracticeShuffle" : "lessonGrammarPracticeShuffle";
+  const orderKey = kind === "vocabulary" ? "lessonVocabularyPracticeOrder" : "lessonGrammarPracticeOrder";
+  const signatureKey =
+    kind === "vocabulary" ? "lessonVocabularyPracticeOrderSignature" : "lessonGrammarPracticeOrderSignature";
+  if (!state[shuffleKey]) {
+    return questions;
+  }
+
+  const signature = questions.map((question) => question.id).join("|");
+  const idMap = new Map(questions.map((question) => [question.id, question]));
+  if (state[signatureKey] !== signature) {
+    state[signatureKey] = signature;
+    state[orderKey] = shuffledIds(questions);
+  }
+
+  const ordered = (state[orderKey] || []).map((id) => idMap.get(id)).filter(Boolean);
+  if (ordered.length !== questions.length) {
+    const usedIds = new Set(ordered.map((question) => question.id));
+    const missing = questions.filter((question) => !usedIds.has(question.id));
+    state[orderKey] = [...ordered.map((question) => question.id), ...shuffledIds(missing)];
+    return state[orderKey].map((id) => idMap.get(id)).filter(Boolean);
+  }
+
+  return ordered;
+}
+
+function orderedLessonVocabularyPracticeQuestions() {
+  return orderedLessonPracticeQuestions("vocabulary", filteredLessonVocabularyPracticeQuestions());
+}
+
+function orderedLessonGrammarPracticeQuestions() {
+  return orderedLessonPracticeQuestions("grammar", filteredLessonGrammarPracticeQuestions());
+}
+
+function renderLessonPracticeShuffleToggle(kind, checked) {
+  const label = document.createElement("label");
+  label.className = "lesson-practice-shuffle-toggle";
+  const input = document.createElement("input");
+  const span = document.createElement("span");
+  input.type = "checkbox";
+  input.dataset.lessonPracticeShuffle = kind;
+  input.checked = Boolean(checked);
+  span.textContent = "乱序";
+  label.append(input, span);
+  return label;
+}
+
+function resetLessonPracticeOrder(kind = "all") {
+  if (kind === "all" || kind === "vocabulary") {
+    state.lessonVocabularyPracticeOrder = [];
+    state.lessonVocabularyPracticeOrderSignature = "";
+  }
+  if (kind === "all" || kind === "grammar") {
+    state.lessonGrammarPracticeOrder = [];
+    state.lessonGrammarPracticeOrderSignature = "";
+  }
+}
+
+function setLessonPracticeShuffle(kind, enabled) {
+  if (kind === "vocabulary") {
+    state.lessonVocabularyPracticeShuffle = Boolean(enabled);
+    state.lessonVocabularyPracticeIndex = 0;
+    resetLessonPracticeOrder("vocabulary");
+  } else if (kind === "grammar") {
+    state.lessonGrammarPracticeShuffle = Boolean(enabled);
+    state.lessonGrammarPracticeIndex = 0;
+    resetLessonPracticeOrder("grammar");
+  }
+  renderList();
+  saveCurrentSourceLocation();
 }
 
 function lessonActivities() {
@@ -1106,6 +1300,7 @@ function createEmptyLessonStore(showChinese = true) {
     reviewItems: {},
     vocabularyPractice: {},
     grammarPractice: {},
+    tests: {},
     audio: {},
     showChinese,
   };
@@ -1125,6 +1320,7 @@ function lessonStore() {
   store.reviewItems = store.reviewItems || {};
   store.vocabularyPractice = store.vocabularyPractice || {};
   store.grammarPractice = store.grammarPractice || {};
+  store.tests = store.tests || {};
   store.audio = store.audio || {};
   return store;
 }
@@ -1164,10 +1360,13 @@ function lessonResetSnapshot() {
   const reviewItems = Object.values(store.reviewItems || {}).filter(
     (record) => record?.reviews || (record?.status && record.status !== "new")
   ).length;
+  const tests = Object.values(store.tests || {}).filter(
+    (record) => record?.questionIds?.length || record?.completedAt || Number.isFinite(record?.score)
+  ).length;
   const events = state.progress.events.filter((event) => isLessonEventForUnit(event, unitId)).length;
   const total =
-    completedSteps + activities + audioPlays + vocabularyPractice + grammarPractice + reviewItems + events;
-  return { completedSteps, activities, audioPlays, vocabularyPractice, grammarPractice, reviewItems, events, total };
+    completedSteps + activities + audioPlays + vocabularyPractice + grammarPractice + tests + events;
+  return { completedSteps, activities, audioPlays, vocabularyPractice, grammarPractice, reviewItems, tests, events, total };
 }
 
 function resetCurrentLessonProgress() {
@@ -1186,6 +1385,7 @@ function resetCurrentLessonProgress() {
   state.lessonReviewRevealed = false;
   state.lessonPracticeReviewOrder = [];
   state.lessonPracticeReviewSignature = "";
+  state.lessonTestType = "";
   state.lessonVocabularyPracticeIndex = 0;
   state.lessonGrammarPracticeIndex = 0;
   state.query = "";
@@ -1196,6 +1396,7 @@ function resetCurrentLessonProgress() {
   state.activeView = "today";
   saveProgress();
   render();
+  saveCurrentSourceLocation();
 }
 
 function confirmResetCurrentLessonProgress() {
@@ -1204,7 +1405,7 @@ function confirmResetCurrentLessonProgress() {
   }
   const title = state.unitData?.unit?.title || "当前课程";
   const confirmed = window.confirm(
-    `重置「${title}」的学习状态？\n\n这会清空本课步骤完成、自测答案、音频播放、词汇练习、文法练习、课程复习和学习记录。其他课程不会受影响。`
+    `重置「${title}」的学习状态？\n\n这会清空本课步骤完成、自测答案、音频播放、词汇练习、文法练习、测验成绩和学习记录。其他课程不会受影响。`
   );
   if (confirmed) {
     resetCurrentLessonProgress();
@@ -1364,16 +1565,18 @@ function filteredLessonReviewItems() {
 
 function textbookStats() {
   const completion = lessonStepCompletion();
-  const reviews = lessonReviewItems();
-  const due = reviews.filter(isLessonReviewDue).length;
-  const mastered = reviews.filter((item) => lessonReviewStatus(item) === "mastered").length;
+  const testStats = lessonTestTypes().map((type) => ({ type, ...lessonTestStats(type) }));
+  const completedTests = testStats.filter((stats) => stats.completed).length;
+  const latestCompleted = testStats
+    .filter((stats) => stats.completedAt)
+    .sort((a, b) => b.completedAt.localeCompare(a.completedAt))[0];
   const todayActivities = todayEvents().filter(
     (event) => event.unitId === currentUnitId() && String(event.type || "").startsWith("lesson-")
   ).length;
   return {
     ...completion,
-    due,
-    mastered,
+    due: completedTests,
+    mastered: latestCompleted ? `${latestCompleted.score}%` : "0%",
     todayActivities,
   };
 }
@@ -1415,6 +1618,198 @@ function lessonGrammarPracticeStats(questions = lessonGrammarPracticeQuestions()
     correct,
     wrong: Math.max(attempted - correct, 0),
     accuracy: percentage(correct, attempted),
+  };
+}
+
+function lessonTestConfig(type) {
+  if (type === "vocabulary") {
+    return {
+      type,
+      title: "词汇测验",
+      questionLabel: "词汇",
+      questions: lessonVocabularyPracticeQuestions,
+    };
+  }
+  if (type === "grammar") {
+    return {
+      type,
+      title: "文法・表达测验",
+      questionLabel: "文法・表达",
+      questions: lessonGrammarPracticeQuestions,
+    };
+  }
+  return null;
+}
+
+function lessonTestTypes() {
+  return ["vocabulary", "grammar"];
+}
+
+function lessonTestQuestions(type) {
+  return lessonTestConfig(type)?.questions() || [];
+}
+
+function createEmptyLessonTestSession(questionIds = []) {
+  return {
+    questionIds,
+    answers: {},
+    currentIndex: 0,
+    startedAt: questionIds.length ? new Date().toISOString() : "",
+    completedAt: "",
+    total: questionIds.length,
+    correct: 0,
+    score: null,
+  };
+}
+
+function lessonTestSession(type) {
+  if (!VALID_LESSON_TEST_TYPES.has(type)) {
+    return null;
+  }
+  const store = lessonStore();
+  store.tests = store.tests || {};
+  if (!store.tests[type]) {
+    store.tests[type] = createEmptyLessonTestSession();
+  }
+  const session = store.tests[type];
+  const validIds = new Set(lessonTestQuestions(type).map((question) => question.id));
+  session.questionIds = Array.isArray(session.questionIds)
+    ? session.questionIds.filter((questionId) => validIds.has(questionId))
+    : [];
+  session.answers = session.answers && typeof session.answers === "object" ? session.answers : {};
+  for (const questionId of Object.keys(session.answers)) {
+    if (!validIds.has(questionId)) {
+      delete session.answers[questionId];
+    }
+  }
+  session.currentIndex = normalizeStoredIndex(session.currentIndex);
+  session.currentIndex = session.questionIds.length ? Math.min(session.currentIndex, session.questionIds.length - 1) : 0;
+  session.total = session.questionIds.length;
+  return session;
+}
+
+function lessonTestAnswerRecord(type, questionId) {
+  return lessonTestSession(type)?.answers?.[questionId] || null;
+}
+
+function ensureLessonTestAnswerRecord(type, questionId) {
+  const session = lessonTestSession(type);
+  if (!session) {
+    return null;
+  }
+  session.answers[questionId] = session.answers[questionId] || {
+    selectedAnswer: "",
+    submittedAnswer: "",
+    submittedAnswerLabel: "",
+    checked: false,
+    revealed: false,
+    correct: null,
+    updatedAt: "",
+  };
+  return session.answers[questionId];
+}
+
+function lessonTestStats(type) {
+  const session = lessonTestSession(type);
+  if (!session) {
+    return { total: 0, answered: 0, correct: 0, score: 0, completed: false, completedAt: "" };
+  }
+  let answered = 0;
+  let correct = 0;
+  for (const questionId of session.questionIds) {
+    const record = session.answers?.[questionId];
+    if (!record?.checked) {
+      continue;
+    }
+    answered += 1;
+    if (record.correct) {
+      correct += 1;
+    }
+  }
+  const total = session.questionIds.length;
+  return {
+    total,
+    answered,
+    correct,
+    score: percentage(correct, total),
+    completed: Boolean(total && answered >= total),
+    completedAt: session.completedAt || "",
+  };
+}
+
+function completeLessonTestIfReady(type) {
+  const session = lessonTestSession(type);
+  const stats = lessonTestStats(type);
+  if (!session || !stats.completed) {
+    return;
+  }
+  const firstCompletion = !session.completedAt;
+  session.completedAt = session.completedAt || new Date().toISOString();
+  session.correct = stats.correct;
+  session.total = stats.total;
+  session.score = stats.score;
+  if (firstCompletion) {
+    recordEvent("lesson-test", {
+      testType: type,
+      term: lessonTestConfig(type)?.title || "测验",
+      result: "completed",
+      correct: stats.correct,
+      total: stats.total,
+      score: stats.score,
+    });
+  }
+}
+
+function startLessonTest(type, forceNew = false) {
+  const config = lessonTestConfig(type);
+  if (!config) {
+    return;
+  }
+  const existing = lessonTestSession(type);
+  const existingStats = lessonTestStats(type);
+  if (!forceNew && existing?.questionIds?.length && !existingStats.completed) {
+    state.lessonTestType = type;
+    resetQuizFeedback();
+    renderQuiz();
+    saveCurrentSourceLocation();
+    return;
+  }
+  const questions = lessonTestQuestions(type);
+  const limit = Math.min(LESSON_TEST_SIZE, questions.length);
+  const questionIds = shuffledIds(questions.map((question) => ({ id: question.id }))).slice(0, limit);
+  const store = lessonStore();
+  store.tests[type] = createEmptyLessonTestSession(questionIds);
+  state.lessonTestType = type;
+  resetQuizFeedback();
+  saveProgress();
+  render();
+  saveCurrentSourceLocation();
+}
+
+function currentLessonTestEntry() {
+  if (!VALID_LESSON_TEST_TYPES.has(state.lessonTestType)) {
+    return null;
+  }
+  const session = lessonTestSession(state.lessonTestType);
+  if (!session?.questionIds?.length) {
+    return null;
+  }
+  const questions = lessonTestQuestions(state.lessonTestType);
+  const questionMap = new Map(questions.map((question) => [question.id, question]));
+  session.currentIndex = Math.min(session.currentIndex, session.questionIds.length - 1);
+  const questionId = session.questionIds[session.currentIndex];
+  const question = questionMap.get(questionId);
+  if (!question) {
+    return null;
+  }
+  return {
+    type: state.lessonTestType,
+    config: lessonTestConfig(state.lessonTestType),
+    session,
+    question,
+    record: lessonTestAnswerRecord(state.lessonTestType, question.id),
+    index: session.currentIndex,
+    total: session.questionIds.length,
   };
 }
 
@@ -1495,6 +1890,7 @@ function markLessonStep(stepId, completed) {
   });
   saveProgress();
   render();
+  saveCurrentSourceLocation();
 }
 
 function recordLessonAudioPlay(audioId) {
@@ -1619,6 +2015,7 @@ function checkLessonActivity(activity) {
   });
   saveProgress();
   render();
+  saveCurrentSourceLocation();
 }
 
 function toggleLessonActivityReference(activity) {
@@ -1688,17 +2085,21 @@ function toggleLessonVocabularyPracticeAnswer(question) {
 }
 
 function moveLessonVocabularyPractice(offset) {
-  const questions = filteredLessonVocabularyPracticeQuestions();
+  const questions = orderedLessonVocabularyPracticeQuestions();
   if (!questions.length) {
     return;
   }
   state.lessonVocabularyPracticeIndex =
     (state.lessonVocabularyPracticeIndex + offset + questions.length) % questions.length;
   renderList();
+  saveCurrentSourceLocation();
 }
 
 function checkLessonGrammarPractice(question) {
   if (!question) {
+    return;
+  }
+  if (isGrammarSelfCheckQuestion(question)) {
     return;
   }
   const record = ensureLessonGrammarPracticeRecord(question.id);
@@ -1731,6 +2132,30 @@ function checkLessonGrammarPractice(question) {
   render();
 }
 
+function selfGradeLessonGrammarPractice(question, correct) {
+  if (!question) {
+    return;
+  }
+  const record = ensureLessonGrammarPracticeRecord(question.id);
+  record.checked = true;
+  record.revealed = true;
+  record.correct = Boolean(correct);
+  record.attempts = (record.attempts || 0) + 1;
+  record.lastAnswer = correct ? "self-correct" : "self-wrong";
+  record.lastAnswerLabel = correct ? "答对了" : "没答对";
+  record.notice = "";
+  record.updatedAt = new Date().toISOString();
+  recordEvent("lesson-grammar-practice", {
+    questionId: question.id,
+    pointId: question.pointId,
+    term: question.pointTitle || question.focus || question.prompt,
+    result: correct ? "correct" : "wrong",
+    submittedAnswer: record.lastAnswerLabel,
+  });
+  saveProgress();
+  render();
+}
+
 function toggleLessonGrammarPracticeAnswer(question) {
   if (!question) {
     return;
@@ -1750,13 +2175,14 @@ function toggleLessonGrammarPracticeAnswer(question) {
 }
 
 function moveLessonGrammarPractice(offset) {
-  const questions = filteredLessonGrammarPracticeQuestions();
+  const questions = orderedLessonGrammarPracticeQuestions();
   if (!questions.length) {
     return;
   }
   state.lessonGrammarPracticeIndex =
     (state.lessonGrammarPracticeIndex + offset + questions.length) % questions.length;
   renderList();
+  saveCurrentSourceLocation();
 }
 
 function gradeLessonReview(item, gradeKey) {
@@ -1989,10 +2415,12 @@ function todayStudySummary() {
       (event) => event.unitId === currentUnitId() && String(event.type || "").startsWith("lesson-")
     );
     return {
-      studiedWords: new Set(events.map((event) => event.stepId || event.activityId || event.itemId || event.audioId).filter(Boolean))
+      studiedWords: new Set(
+        events.map((event) => event.stepId || event.activityId || event.itemId || event.audioId || event.testType).filter(Boolean)
+      )
         .size,
-      reviews: events.filter((event) => event.type === "lesson-review" || event.type === "lesson-practice-review").length,
-      quizzes: events.filter((event) => event.type === "lesson-activity").length,
+      reviews: 0,
+      quizzes: events.filter((event) => event.type === "lesson-activity" || event.type === "lesson-test").length,
     };
   }
 
@@ -2017,7 +2445,7 @@ function todayStudySummary() {
 
 function currentMasteredCount() {
   if (isTextbookUnit()) {
-    return lessonReviewItems().filter((item) => lessonReviewStatus(item) === "mastered").length;
+    return lessonTestTypes().filter((type) => lessonTestStats(type).completed).length;
   }
 
   if (isPracticeUnit()) {
@@ -2264,7 +2692,9 @@ function renderCheckin() {
   elements.checkinStatus.classList.toggle("fail", Boolean(state.checkinFailure && !checkin));
   if (checkin) {
     const unitLabel = isTextbookUnit() ? "项课程活动" : "条目";
-    elements.checkinStatus.textContent = `今天已打卡：${checkin.studiedWords} ${unitLabel}，${checkin.reviews} 次复习。`;
+    elements.checkinStatus.textContent = isTextbookUnit()
+      ? `今天已打卡：${checkin.studiedWords} ${unitLabel}，${checkin.quizzes} 次测验。`
+      : `今天已打卡：${checkin.studiedWords} ${unitLabel}，${checkin.reviews} 次复习。`;
   } else {
     elements.checkinStatus.textContent = state.checkinFailure || "今天还没有打卡。";
   }
@@ -2837,7 +3267,7 @@ function renderTextbookVocabularyPracticeModule() {
   const module = document.createElement("section");
   module.className = "lesson-practice-module";
   const allQuestions = lessonVocabularyPracticeQuestions();
-  const questions = filteredLessonVocabularyPracticeQuestions();
+  const questions = orderedLessonVocabularyPracticeQuestions();
   const stats = lessonVocabularyPracticeStats(allQuestions);
 
   const head = document.createElement("div");
@@ -2845,7 +3275,7 @@ function renderTextbookVocabularyPracticeModule() {
   const titleWrap = document.createElement("div");
   const title = document.createElement("h3");
   title.textContent = "词汇练习";
-  titleWrap.append(title);
+  titleWrap.append(title, renderLessonPracticeShuffleToggle("vocabulary", state.lessonVocabularyPracticeShuffle));
 
   const metrics = document.createElement("div");
   metrics.className = "lesson-practice-metrics";
@@ -2984,11 +3414,94 @@ function renderTextbookVocabularyPracticeModule() {
   return module;
 }
 
+function renderTextbookGrammarSelfCheckCard(question, record, position, total) {
+  const card = document.createElement("article");
+  card.className = "lesson-vocabulary-practice-card";
+
+  const meta = document.createElement("div");
+  meta.className = "lesson-vocabulary-practice-meta";
+  const counter = document.createElement("span");
+  counter.textContent = `${position} / ${total}`;
+  meta.append(counter);
+
+  const prompt = document.createElement("div");
+  prompt.className = "lesson-vocabulary-practice-prompt";
+  const stem = document.createElement("p");
+  stem.textContent = question.prompt || "";
+  prompt.append(stem);
+
+  const actions = document.createElement("div");
+  actions.className = "lesson-practice-actions";
+  const reveal = document.createElement("button");
+  const prev = document.createElement("button");
+  const next = document.createElement("button");
+  reveal.type = "button";
+  reveal.dataset.lessonGrammarPracticeReveal = question.id;
+  reveal.textContent = record.revealed ? "隐藏答案" : "显示答案";
+  prev.type = "button";
+  prev.dataset.lessonGrammarPracticeMove = "-1";
+  prev.textContent = "上一题";
+  next.type = "button";
+  next.dataset.lessonGrammarPracticeMove = "1";
+  next.textContent = "下一题";
+  actions.append(reveal, prev, next);
+
+  card.append(meta, prompt, actions);
+
+  if (record.revealed) {
+    const selfCheck = document.createElement("div");
+    selfCheck.className = "lesson-self-check";
+    for (const [value, label] of [
+      ["true", "答对了"],
+      ["false", "没答对"],
+    ]) {
+      const button = document.createElement("button");
+      button.type = "button";
+      button.dataset.lessonGrammarPracticeSelfGrade = question.id;
+      button.dataset.correct = value;
+      button.textContent = label;
+      button.classList.toggle("active", record.checked && String(Boolean(record.correct)) === value);
+      selfCheck.append(button);
+    }
+    card.append(selfCheck);
+  }
+
+  if (record.revealed) {
+    const feedback = document.createElement("div");
+    feedback.className = `lesson-feedback ${record.correct === true ? "correct" : record.correct === false ? "miss" : ""}`.trim();
+    const verdict = document.createElement("p");
+    const answerLine = document.createElement("p");
+    const acceptedAnswers = lessonGrammarAcceptedAnswers(question);
+    verdict.textContent = record.checked
+      ? record.correct
+        ? "已标记为答对。"
+        : "已标记为没答对。"
+      : "答案已显示。";
+    answerLine.className = "lesson-reference-answer";
+    answerLine.textContent = `答案：${question.answer}`;
+    feedback.append(verdict, answerLine);
+    if (acceptedAnswers.length > 1) {
+      const acceptedLine = document.createElement("p");
+      acceptedLine.className = "lesson-reference-answer";
+      acceptedLine.textContent = `可接受答案：${acceptedAnswers.join(" / ")}`;
+      feedback.append(acceptedLine);
+    }
+    appendChineseText(
+      feedback,
+      question.explanationZh ? `解析：${question.explanationZh}` : "",
+      "lesson-reference-analysis"
+    );
+    card.append(feedback);
+  }
+
+  return card;
+}
+
 function renderTextbookGrammarPracticeModule() {
   const module = document.createElement("section");
   module.className = "lesson-practice-module";
   const allQuestions = lessonGrammarPracticeQuestions();
-  const questions = filteredLessonGrammarPracticeQuestions();
+  const questions = orderedLessonGrammarPracticeQuestions();
   const stats = lessonGrammarPracticeStats(allQuestions);
 
   const head = document.createElement("div");
@@ -2996,7 +3509,7 @@ function renderTextbookGrammarPracticeModule() {
   const titleWrap = document.createElement("div");
   const title = document.createElement("h3");
   title.textContent = "文法・表現练习";
-  titleWrap.append(title);
+  titleWrap.append(title, renderLessonPracticeShuffleToggle("grammar", state.lessonGrammarPracticeShuffle));
 
   const metrics = document.createElement("div");
   metrics.className = "lesson-practice-metrics";
@@ -3035,6 +3548,10 @@ function renderTextbookGrammarPracticeModule() {
   state.lessonGrammarPracticeIndex = Math.min(state.lessonGrammarPracticeIndex, questions.length - 1);
   const question = questions[state.lessonGrammarPracticeIndex];
   const record = lessonGrammarPracticeRecord(question.id) || {};
+  if (isGrammarSelfCheckQuestion(question)) {
+    module.append(renderTextbookGrammarSelfCheckCard(question, record, state.lessonGrammarPracticeIndex + 1, questions.length));
+    return module;
+  }
   const selectedValue = (question.choices || []).some((choice) => choice.value === record.value) ? record.value : "";
   const answerChoice = (question.choices || []).find((choice) => choice.value === question.answer);
   const selectedChoice = (question.choices || []).find((choice) => choice.value === selectedValue);
@@ -3837,6 +4354,37 @@ function renderLessonPracticeReviewFeedback(entry) {
   }
 
   const question = entry.question;
+  const isSelfCheck = isGrammarSelfCheckQuestion(question);
+  if (isSelfCheck) {
+    const verdict = document.createElement("p");
+    verdict.className = "quiz-verdict";
+    if (state.quizIsCorrect === true) {
+      verdict.textContent = "已标记为答对。";
+    } else if (state.quizIsCorrect === false) {
+      verdict.textContent = "已标记为没答对。";
+    } else {
+      verdict.textContent = "答案已显示。";
+    }
+    const answerLine = document.createElement("p");
+    answerLine.className = "quiz-answer-line";
+    answerLine.textContent = `答案：${question.answer}`;
+    elements.quizFeedback.append(verdict, answerLine);
+    const acceptedAnswers = lessonGrammarAcceptedAnswers(question);
+    if (acceptedAnswers.length > 1) {
+      const acceptedLine = document.createElement("p");
+      acceptedLine.className = "quiz-answer-line";
+      acceptedLine.textContent = `可接受答案：${acceptedAnswers.join(" / ")}`;
+      elements.quizFeedback.append(acceptedLine);
+    }
+    if (lessonChineseEnabled() && question.explanationZh) {
+      const explanation = document.createElement("p");
+      explanation.className = "quiz-explanation";
+      explanation.textContent = question.explanationZh;
+      elements.quizFeedback.append(explanation);
+    }
+    return;
+  }
+
   const answerChoice = (question.choices || []).find((choice) => choice.value === question.answer);
   const submittedChoice = (question.choices || []).find((choice) => choice.value === state.quizSubmittedAnswer);
   const verdict = document.createElement("p");
@@ -3862,42 +4410,218 @@ function renderLessonPracticeReviewFeedback(entry) {
   }
 }
 
-function renderTextbookReview() {
-  const entries = orderedLessonPracticeReviewPool();
+function renderLessonTestCompletion(entry) {
+  const stats = lessonTestStats(entry.type);
+  if (!stats.completed) {
+    return;
+  }
+  const card = document.createElement("div");
+  const title = document.createElement("strong");
+  const detail = document.createElement("span");
+  const actions = document.createElement("div");
+  const restart = document.createElement("button");
+  const back = document.createElement("button");
+  card.className = "lesson-test-score-card";
+  title.textContent = `本次成绩：${stats.score}分`;
+  detail.textContent = `${stats.correct} / ${stats.total} 正确`;
+  actions.className = "lesson-test-score-actions";
+  restart.type = "button";
+  restart.className = "primary-button";
+  restart.dataset.lessonTestRestart = entry.type;
+  restart.textContent = "重新测验";
+  back.type = "button";
+  back.dataset.lessonTestBack = "true";
+  back.textContent = "回到测验列表";
+  actions.append(restart, back);
+  card.append(title, detail, actions);
+  elements.quizFeedback.append(card);
+}
+
+function renderLessonTestFeedback(entry) {
+  const record = entry.record;
+  elements.quizFeedback.textContent = "";
+  elements.quizFeedback.className = `quiz-feedback ${
+    record?.checked && record.correct === true ? "correct" : record?.checked && record.correct === false ? "miss" : ""
+  }`.trim();
+  if (!record?.revealed) {
+    renderLessonTestCompletion(entry);
+    return;
+  }
+
+  const question = entry.question;
+  const isSelfCheck = isGrammarSelfCheckQuestion(question);
+  if (isSelfCheck) {
+    const verdict = document.createElement("p");
+    verdict.className = "quiz-verdict";
+    if (record.correct === true) {
+      verdict.textContent = "已标记为答对。";
+    } else if (record.correct === false) {
+      verdict.textContent = "已标记为没答对。";
+    } else {
+      verdict.textContent = "答案已显示。";
+    }
+    const answerLine = document.createElement("p");
+    answerLine.className = "quiz-answer-line";
+    answerLine.textContent = `答案：${question.answer}`;
+    elements.quizFeedback.append(verdict, answerLine);
+    const acceptedAnswers = lessonGrammarAcceptedAnswers(question);
+    if (acceptedAnswers.length > 1) {
+      const acceptedLine = document.createElement("p");
+      acceptedLine.className = "quiz-answer-line";
+      acceptedLine.textContent = `可接受答案：${acceptedAnswers.join(" / ")}`;
+      elements.quizFeedback.append(acceptedLine);
+    }
+    if (lessonChineseEnabled() && question.explanationZh) {
+      const explanation = document.createElement("p");
+      explanation.className = "quiz-explanation";
+      explanation.textContent = question.explanationZh;
+      elements.quizFeedback.append(explanation);
+    }
+    renderLessonTestCompletion(entry);
+    return;
+  }
+
+  const answerChoice = (question.choices || []).find((choice) => choice.value === question.answer);
+  const submittedChoice = (question.choices || []).find((choice) => choice.value === record.submittedAnswer);
+  const verdict = document.createElement("p");
+  verdict.className = "quiz-verdict";
+  if (record.correct === true) {
+    verdict.textContent = "正确。";
+  } else if (record.correct === false) {
+    verdict.textContent = submittedChoice ? `还差一点，你选了：${submittedChoice.label}` : "还差一点。";
+  } else {
+    verdict.textContent = "答案已显示。";
+  }
+
+  const answerLine = document.createElement("p");
+  answerLine.className = "quiz-answer-line";
+  answerLine.textContent = `答案：${answerChoice?.label || question.answer}`;
+  elements.quizFeedback.append(verdict, answerLine);
+
+  if (lessonChineseEnabled() && question.explanationZh) {
+    const explanation = document.createElement("p");
+    explanation.className = "quiz-explanation";
+    explanation.textContent = question.explanationZh;
+    elements.quizFeedback.append(explanation);
+  }
+  renderLessonTestCompletion(entry);
+}
+
+function renderLessonTestOverview() {
   elements.practiceQuizTools.hidden = true;
   elements.practiceQuizTools.textContent = "";
   elements.quizChoices.textContent = "";
   elements.quizAnswerBox.hidden = true;
   elements.quizContext.hidden = true;
   elements.quizContext.textContent = "";
-  elements.quizModeLabel.textContent = "复习";
+  elements.quizModeLabel.textContent = "测验";
+  elements.quizCounter.textContent = "";
+  elements.quizPrompt.textContent = "";
+  elements.quizFeedback.textContent = "";
+  elements.quizFeedback.className = "quiz-feedback";
+  elements.quizActions.hidden = true;
   elements.checkQuizButton.textContent = "检查";
   elements.showQuizAnswerButton.textContent = "显示答案";
+  elements.checkQuizButton.hidden = false;
 
-  if (!entries.length) {
-    elements.quizCounter.textContent = "";
-    elements.quizModeLabel.textContent = "";
-    elements.quizPrompt.textContent = "";
-    elements.quizActions.hidden = true;
-    elements.quizFeedback.textContent = "";
-    elements.quizFeedback.className = "quiz-feedback";
+  const overview = document.createElement("div");
+  overview.className = "lesson-test-overview";
+  for (const type of lessonTestTypes()) {
+    const config = lessonTestConfig(type);
+    const questions = lessonTestQuestions(type);
+    const session = lessonTestSession(type);
+    const stats = lessonTestStats(type);
+    const card = document.createElement("article");
+    const title = document.createElement("h3");
+    const summary = document.createElement("p");
+    const detail = document.createElement("p");
+    const actions = document.createElement("div");
+    const start = document.createElement("button");
+    card.className = "lesson-test-card";
+    title.textContent = config.title;
+    summary.textContent = questions.length
+      ? `从本课 ${questions.length} 道${config.questionLabel}练习题中随机抽取 ${Math.min(LESSON_TEST_SIZE, questions.length)} 道。`
+      : `本课还没有${config.questionLabel}练习题。`;
+    detail.className = "lesson-test-card-detail";
+    if (stats.completed) {
+      detail.textContent = `最近成绩：${stats.score}分（${stats.correct} / ${stats.total}）。`;
+    } else if (session.questionIds.length) {
+      detail.textContent = `进行中：${stats.answered} / ${stats.total}。`;
+    } else {
+      detail.textContent = "尚未开始。";
+    }
+    actions.className = "lesson-test-card-actions";
+    start.type = "button";
+    start.className = "primary-button";
+    start.disabled = !questions.length;
+    if (stats.completed) {
+      start.dataset.lessonTestRestart = type;
+      start.textContent = "重新测验";
+    } else {
+      start.dataset.lessonTestStart = type;
+      start.textContent = session.questionIds.length ? "继续测验" : "开始测验";
+    }
+    actions.append(start);
+    card.append(title, summary, detail, actions);
+    overview.append(card);
+  }
+  elements.quizPrompt.append(overview);
+}
+
+function renderActiveLessonTest() {
+  const entry = currentLessonTestEntry();
+  if (!entry) {
+    state.lessonTestType = "";
+    renderLessonTestOverview();
     return;
   }
-
-  state.lessonReviewIndex = Math.min(state.lessonReviewIndex, entries.length - 1);
-  const entry = entries[state.lessonReviewIndex];
-  const question = entry.question;
-  const selectedValue = (question.choices || []).some((choice) => choice.value === state.quizSelectedChoice)
-    ? state.quizSelectedChoice
+  const { question, record } = entry;
+  const isSelfCheck = isGrammarSelfCheckQuestion(question);
+  const selectedValue = (question.choices || []).some((choice) => choice.value === record?.selectedAnswer)
+    ? record.selectedAnswer
     : "";
 
-  elements.quizActions.hidden = false;
-  elements.quizCounter.textContent = `${state.lessonReviewIndex + 1} / ${entries.length}`;
+  elements.practiceQuizTools.hidden = true;
+  elements.practiceQuizTools.textContent = "";
+  elements.quizChoices.textContent = "";
+  elements.quizAnswerBox.hidden = true;
+  elements.quizContext.hidden = false;
+  elements.quizContext.textContent = "";
+  const back = document.createElement("button");
+  back.type = "button";
+  back.dataset.lessonTestBack = "true";
+  back.textContent = "测验列表";
+  elements.quizContext.append(back);
+  elements.quizModeLabel.textContent = entry.config.title;
+  elements.quizCounter.textContent = `${entry.index + 1} / ${entry.total}`;
   elements.quizPrompt.textContent = question.prompt || "";
-  elements.prevQuizButton.disabled = entries.length <= 1;
-  elements.nextQuizButton.disabled = entries.length <= 1;
-  elements.prevQuizButton.textContent = state.lessonReviewIndex === 0 ? "回到最后一题" : "上一题";
-  elements.nextQuizButton.textContent = state.lessonReviewIndex + 1 === entries.length ? "回到第一题" : "下一题";
+  elements.quizActions.hidden = false;
+  elements.checkQuizButton.hidden = isSelfCheck;
+  elements.checkQuizButton.textContent = "检查";
+  elements.showQuizAnswerButton.textContent = isSelfCheck && record?.revealed ? "隐藏答案" : "显示答案";
+  elements.prevQuizButton.disabled = entry.total <= 1;
+  elements.nextQuizButton.disabled = entry.total <= 1;
+  elements.prevQuizButton.textContent = entry.index === 0 ? "回到最后一题" : "上一题";
+  elements.nextQuizButton.textContent = entry.index + 1 === entry.total ? "回到第一题" : "下一题";
+
+  if (isSelfCheck) {
+    if (record?.revealed) {
+      for (const [value, label] of [
+        ["true", "答对了"],
+        ["false", "没答对"],
+      ]) {
+        const button = document.createElement("button");
+        button.type = "button";
+        button.className = "lesson-review-self-grade-button";
+        button.dataset.lessonTestSelfGrade = value;
+        button.textContent = label;
+        button.classList.toggle("active", record.checked && String(Boolean(record.correct)) === value);
+        elements.quizChoices.append(button);
+      }
+    }
+    renderLessonTestFeedback(entry);
+    return;
+  }
 
   for (const choice of question.choices || []) {
     const button = document.createElement("button");
@@ -3905,8 +4629,8 @@ function renderTextbookReview() {
     const text = document.createElement("span");
     button.type = "button";
     button.className = "quiz-choice-button";
-    button.dataset.lessonReviewChoice = choice.value;
-    button.disabled = state.quizRevealed;
+    button.dataset.lessonTestChoice = choice.value;
+    button.disabled = Boolean(record?.revealed);
     label.className = "quiz-choice-label";
     label.textContent = choice.value;
     text.className = "quiz-choice-text";
@@ -3914,16 +4638,24 @@ function renderTextbookReview() {
     if (selectedValue === choice.value) {
       button.classList.add("selected");
     }
-    if (state.quizRevealed && choice.value === question.answer) {
+    if (record?.revealed && choice.value === question.answer) {
       button.classList.add("correct");
-    } else if (state.quizRevealed && state.quizIsCorrect === false && state.quizSubmittedAnswer === choice.value) {
+    } else if (record?.revealed && record.correct === false && record.submittedAnswer === choice.value) {
       button.classList.add("wrong");
     }
     button.append(label, text);
     elements.quizChoices.append(button);
   }
 
-  renderLessonPracticeReviewFeedback(entry);
+  renderLessonTestFeedback(entry);
+}
+
+function renderTextbookReview() {
+  if (!VALID_LESSON_TEST_TYPES.has(state.lessonTestType)) {
+    renderLessonTestOverview();
+    return;
+  }
+  renderActiveLessonTest();
 }
 
 function renderQuiz() {
@@ -3932,6 +4664,7 @@ function renderQuiz() {
     return;
   }
 
+  elements.checkQuizButton.hidden = false;
   elements.checkQuizButton.textContent = "检查";
   elements.showQuizAnswerButton.textContent = "看答案";
 
@@ -4017,7 +4750,7 @@ function renderPracticeMistakes() {
 function renderReview() {
   if (isTextbookUnit()) {
     elements.reviewList.textContent = "";
-    elements.reviewSummary.textContent = "教材课程复习集中在“复习”视图。";
+    elements.reviewSummary.textContent = "教材课程测验集中在“测验”视图。";
     return;
   }
 
@@ -4045,7 +4778,7 @@ function renderLessonResetPanel() {
   }
   const snapshot = lessonResetSnapshot();
   elements.lessonResetSummary.textContent = snapshot.total
-    ? `当前记录：步骤 ${snapshot.completedSteps}、自测 ${snapshot.activities}、音频播放 ${snapshot.audioPlays}、词汇练习 ${snapshot.vocabularyPractice}、文法练习 ${snapshot.grammarPractice}、课程复习 ${snapshot.reviewItems}、学习记录 ${snapshot.events}。`
+    ? `当前记录：步骤 ${snapshot.completedSteps}、自测 ${snapshot.activities}、音频播放 ${snapshot.audioPlays}、词汇练习 ${snapshot.vocabularyPractice}、文法练习 ${snapshot.grammarPractice}、测验 ${snapshot.tests}、学习记录 ${snapshot.events}。`
     : "本课还没有可清空的学习状态。";
   elements.resetLessonButton.disabled = snapshot.total === 0;
 }
@@ -4115,10 +4848,13 @@ function eventLabel(event) {
     return `${event.date} 播放音频 ${event.term}`;
   }
   if (event.type === "lesson-review") {
-    return `${event.date} 课程复习 ${event.term}`;
+    return `${event.date} 课程测验 ${event.term}`;
   }
   if (event.type === "lesson-practice-review") {
-    return `${event.date} 随机复习 ${event.term}`;
+    return `${event.date} 课程测验 ${event.term}`;
+  }
+  if (event.type === "lesson-test") {
+    return `${event.date} 测验 ${event.term}`;
   }
   if (event.type === "review") {
     return `${event.date} 复习 ${event.term}`;
@@ -4162,6 +4898,9 @@ function eventDetail(event) {
   if (event.type === "lesson-practice-review") {
     return event.result === "correct" ? "答对" : "答错";
   }
+  if (event.type === "lesson-test") {
+    return `${event.correct || 0}/${event.total || 0} · ${event.score || 0}分`;
+  }
   if (event.type === "review") {
     return `${REVIEW_GRADES[event.result]?.label || event.result} · 下次 ${formatReviewDate(event.nextReview)} · ${STATUS_LABELS[event.status]}`;
   }
@@ -4196,6 +4935,7 @@ function setActiveView(view) {
   state.activeView = view;
   syncActiveView();
   render();
+  saveCurrentSourceLocation();
 }
 
 function resetQuizFeedback() {
@@ -4256,7 +4996,7 @@ function checkIn() {
   render();
 }
 
-async function loadUnit(datasetId) {
+async function loadUnit(datasetId, options = {}) {
   const dataset = manifestDatasets().find((item) => item.id === datasetId);
   if (!dataset) {
     state.unitData = null;
@@ -4281,15 +5021,25 @@ async function loadUnit(datasetId) {
   state.lessonReviewRevealed = false;
   state.lessonPracticeReviewOrder = [];
   state.lessonPracticeReviewSignature = "";
+  state.lessonTestType = "";
   state.lessonVocabularyPracticeIndex = 0;
   state.lessonGrammarPracticeIndex = 0;
+  state.lessonVocabularyPracticeShuffle = false;
+  state.lessonGrammarPracticeShuffle = false;
+  resetLessonPracticeOrder();
+  resetQuizFeedback();
+  if (options.restoreLocation) {
+    applySourceLocation(options.restoreLocation);
+  }
   elements.sourceSelect.value = state.sourceId;
   elements.unitSelect.value = dataset.id;
-  resetQuizFeedback();
   render();
+  if (options.saveLocation !== false) {
+    saveCurrentSourceLocation();
+  }
 }
 
-async function loadSource(sourceId, preferredDatasetId = "") {
+async function loadSource(sourceId, preferredDatasetId = "", options = {}) {
   const sourceChanged = state.sourceId && state.sourceId !== sourceId;
   state.sourceId = sourceId;
   if (sourceChanged) {
@@ -4303,7 +5053,12 @@ async function loadSource(sourceId, preferredDatasetId = "") {
     render();
     return;
   }
-  await loadUnit(dataset.id);
+  const restoreLocation =
+    options.restoreLocation?.datasetId === dataset.id ? options.restoreLocation : null;
+  await loadUnit(dataset.id, {
+    restoreLocation,
+    saveLocation: options.saveLocation,
+  });
 }
 
 async function init() {
@@ -4317,7 +5072,12 @@ async function init() {
 }
 
 elements.backToLibraryButton.addEventListener("click", () => {
+  saveCurrentSourceLocation();
   showLibrary();
+});
+
+window.addEventListener("beforeunload", () => {
+  saveCurrentSourceLocation();
 });
 
 elements.categoryList.addEventListener("click", (event) => {
@@ -4331,7 +5091,8 @@ elements.categoryList.addEventListener("click", (event) => {
 });
 
 elements.sourceSelect.addEventListener("change", (event) => {
-  loadSource(event.target.value).catch((error) => {
+  saveCurrentSourceLocation();
+  openSource(event.target.value).catch((error) => {
     console.error(error);
   });
 });
@@ -4350,7 +5111,9 @@ elements.searchInput.addEventListener("input", (event) => {
   state.lessonReviewIndex = 0;
   state.lessonVocabularyPracticeIndex = 0;
   state.lessonGrammarPracticeIndex = 0;
+  resetLessonPracticeOrder();
   render();
+  saveCurrentSourceLocation();
 });
 
 document.addEventListener("input", (event) => {
@@ -4405,6 +5168,7 @@ document.querySelectorAll(".filter-button").forEach((button) => {
       item.classList.toggle("active", item === button);
     });
     render();
+    saveCurrentSourceLocation();
   });
 });
 
@@ -4433,6 +5197,7 @@ document.addEventListener("click", (event) => {
   if (lessonStepButton) {
     state.lessonStepId = lessonStepButton.dataset.lessonStep || "";
     renderToday();
+    saveCurrentSourceLocation();
     return;
   }
 
@@ -4530,9 +5295,37 @@ document.addEventListener("click", (event) => {
     return;
   }
 
+  const grammarPracticeSelfGrade = event.target.closest("button[data-lesson-grammar-practice-self-grade]");
+  if (grammarPracticeSelfGrade) {
+    const question = lessonGrammarPracticeQuestion(grammarPracticeSelfGrade.dataset.lessonGrammarPracticeSelfGrade || "");
+    selfGradeLessonGrammarPractice(question, grammarPracticeSelfGrade.dataset.correct === "true");
+    return;
+  }
+
   const grammarPracticeMove = event.target.closest("button[data-lesson-grammar-practice-move]");
   if (grammarPracticeMove) {
     moveLessonGrammarPractice(Number(grammarPracticeMove.dataset.lessonGrammarPracticeMove || 0));
+    return;
+  }
+
+  const lessonTestStart = event.target.closest("button[data-lesson-test-start]");
+  if (lessonTestStart) {
+    startLessonTest(lessonTestStart.dataset.lessonTestStart || "", false);
+    return;
+  }
+
+  const lessonTestRestart = event.target.closest("button[data-lesson-test-restart]");
+  if (lessonTestRestart) {
+    startLessonTest(lessonTestRestart.dataset.lessonTestRestart || "", true);
+    return;
+  }
+
+  const lessonTestBack = event.target.closest("button[data-lesson-test-back]");
+  if (lessonTestBack) {
+    state.lessonTestType = "";
+    resetQuizFeedback();
+    renderQuiz();
+    saveCurrentSourceLocation();
     return;
   }
 
@@ -4562,6 +5355,7 @@ document.addEventListener("click", (event) => {
     state.quizIndex = 0;
     resetQuizFeedback();
     renderQuiz();
+    saveCurrentSourceLocation();
     return;
   }
 
@@ -4596,6 +5390,7 @@ document.addEventListener("click", (event) => {
     state.cardIndex = (state.cardIndex + 1) % words.length;
   }
   render();
+  saveCurrentSourceLocation();
 });
 
 document.addEventListener("change", (event) => {
@@ -4604,9 +5399,15 @@ document.addEventListener("change", (event) => {
     return;
   }
 
+  if (event.target.matches("input[data-lesson-practice-shuffle]")) {
+    setLessonPracticeShuffle(event.target.dataset.lessonPracticeShuffle || "", event.target.checked);
+    return;
+  }
+
   if (event.target.matches("select[data-practice-type-filter]")) {
     state.practiceTypeFilter = event.target.value || "all";
     renderList();
+    saveCurrentSourceLocation();
     return;
   }
 
@@ -4616,6 +5417,7 @@ document.addEventListener("change", (event) => {
     state.quizIndex = 0;
     resetQuizFeedback();
     renderQuiz();
+    saveCurrentSourceLocation();
   }
 });
 
@@ -4639,6 +5441,7 @@ elements.prevCardButton.addEventListener("click", () => {
   state.cardIndex = (state.cardIndex - 1 + length) % length;
   state.cardRevealed = false;
   renderCards();
+  saveCurrentSourceLocation();
 });
 
 elements.nextCardButton.addEventListener("click", () => {
@@ -4649,6 +5452,7 @@ elements.nextCardButton.addEventListener("click", () => {
   state.cardIndex = (state.cardIndex + 1) % length;
   state.cardRevealed = false;
   renderCards();
+  saveCurrentSourceLocation();
 });
 
 elements.revealCardButton.addEventListener("click", () => {
@@ -4718,14 +5522,36 @@ function checkSourceTextQuiz() {
   });
   saveProgress();
   render();
+  saveCurrentSourceLocation();
 }
 
-function checkLessonPracticeReviewQuiz() {
-  const entry = currentLessonPracticeReviewEntry();
+function chooseLessonTestChoice(value) {
+  const entry = currentLessonTestEntry();
   if (!entry) {
     return;
   }
-  const submittedAnswer = state.quizSelectedChoice;
+  const record = ensureLessonTestAnswerRecord(entry.type, entry.question.id);
+  if (!record || record.revealed) {
+    return;
+  }
+  record.selectedAnswer = value;
+  record.submittedAnswer = "";
+  record.submittedAnswerLabel = "";
+  record.correct = null;
+  record.checked = false;
+  record.revealed = false;
+  record.updatedAt = new Date().toISOString();
+  saveProgress();
+  renderQuiz();
+}
+
+function checkLessonTestQuiz() {
+  const entry = currentLessonTestEntry();
+  if (!entry || isGrammarSelfCheckQuestion(entry.question)) {
+    return;
+  }
+  const record = ensureLessonTestAnswerRecord(entry.type, entry.question.id);
+  const submittedAnswer = record?.selectedAnswer || "";
   if (!submittedAnswer) {
     elements.quizFeedback.textContent = "先选一个答案。";
     elements.quizFeedback.className = "quiz-feedback miss";
@@ -4733,29 +5559,100 @@ function checkLessonPracticeReviewQuiz() {
   }
   const question = entry.question;
   const isCorrect = submittedAnswer === question.answer;
-  state.quizSubmittedAnswer = submittedAnswer;
-  state.quizIsCorrect = isCorrect;
-  state.quizRevealed = true;
-  recordEvent("lesson-practice-review", {
-    questionId: question.id,
-    term: question.prompt,
-    result: isCorrect ? "correct" : "wrong",
-    submittedAnswer,
-  });
+  const answerChoice = (question.choices || []).find((choice) => choice.value === submittedAnswer);
+  record.submittedAnswer = submittedAnswer;
+  record.submittedAnswerLabel = answerChoice?.label || "";
+  record.correct = isCorrect;
+  record.checked = true;
+  record.revealed = true;
+  record.updatedAt = new Date().toISOString();
+  completeLessonTestIfReady(entry.type);
   saveProgress();
   renderStats();
   renderLogs();
   renderQuiz();
+  saveCurrentSourceLocation();
+}
+
+function revealLessonTestAnswer() {
+  const entry = currentLessonTestEntry();
+  if (!entry) {
+    return;
+  }
+  const record = ensureLessonTestAnswerRecord(entry.type, entry.question.id);
+  if (!record) {
+    return;
+  }
+  const question = entry.question;
+  if (isGrammarSelfCheckQuestion(question)) {
+    record.revealed = !record.revealed;
+    if (!record.revealed && !record.checked) {
+      record.correct = null;
+      record.submittedAnswer = "";
+      record.submittedAnswerLabel = "";
+    }
+  } else {
+    const submittedAnswer = record.selectedAnswer || "";
+    const answerChoice = (question.choices || []).find((choice) => choice.value === submittedAnswer);
+    record.submittedAnswer = submittedAnswer;
+    record.submittedAnswerLabel = answerChoice?.label || "";
+    record.correct = submittedAnswer === question.answer;
+    record.checked = true;
+    record.revealed = true;
+    completeLessonTestIfReady(entry.type);
+  }
+  record.updatedAt = new Date().toISOString();
+  saveProgress();
+  renderStats();
+  renderLogs();
+  renderQuiz();
+  saveCurrentSourceLocation();
+}
+
+function selfGradeLessonTest(isCorrect) {
+  const entry = currentLessonTestEntry();
+  if (!entry || !isGrammarSelfCheckQuestion(entry.question)) {
+    return;
+  }
+  const record = ensureLessonTestAnswerRecord(entry.type, entry.question.id);
+  if (!record?.revealed) {
+    return;
+  }
+  record.submittedAnswer = isCorrect ? "答对了" : "没答对";
+  record.submittedAnswerLabel = record.submittedAnswer;
+  record.correct = isCorrect;
+  record.checked = true;
+  record.updatedAt = new Date().toISOString();
+  completeLessonTestIfReady(entry.type);
+  saveProgress();
+  renderStats();
+  renderLogs();
+  renderQuiz();
+  saveCurrentSourceLocation();
+}
+
+function moveLessonTest(delta) {
+  const entry = currentLessonTestEntry();
+  if (!entry) {
+    return;
+  }
+  entry.session.currentIndex = (entry.session.currentIndex + delta + entry.total) % entry.total;
+  resetQuizFeedback();
+  saveProgress();
+  renderQuiz();
+  saveCurrentSourceLocation();
 }
 
 elements.quizChoices.addEventListener("click", (event) => {
-  const lessonReviewChoice = event.target.closest("button[data-lesson-review-choice]");
-  if (lessonReviewChoice && isTextbookUnit() && !lessonReviewChoice.disabled) {
-    state.quizSelectedChoice = lessonReviewChoice.dataset.lessonReviewChoice;
-    state.quizSubmittedAnswer = "";
-    state.quizIsCorrect = null;
-    state.quizRevealed = false;
-    renderQuiz();
+  const lessonTestSelfGrade = event.target.closest("button[data-lesson-test-self-grade]");
+  if (lessonTestSelfGrade && isTextbookUnit()) {
+    selfGradeLessonTest(lessonTestSelfGrade.dataset.lessonTestSelfGrade === "true");
+    return;
+  }
+
+  const lessonTestChoice = event.target.closest("button[data-lesson-test-choice]");
+  if (lessonTestChoice && isTextbookUnit() && !lessonTestChoice.disabled) {
+    chooseLessonTestChoice(lessonTestChoice.dataset.lessonTestChoice);
     return;
   }
 
@@ -4772,7 +5669,7 @@ elements.quizChoices.addEventListener("click", (event) => {
 
 elements.checkQuizButton.addEventListener("click", () => {
   if (isTextbookUnit()) {
-    checkLessonPracticeReviewQuiz();
+    checkLessonTestQuiz();
     return;
   }
 
@@ -4806,10 +5703,7 @@ elements.checkQuizButton.addEventListener("click", () => {
 
 elements.showQuizAnswerButton.addEventListener("click", () => {
   if (isTextbookUnit()) {
-    state.quizSubmittedAnswer = state.quizSelectedChoice;
-    state.quizIsCorrect = null;
-    state.quizRevealed = true;
-    renderQuiz();
+    revealLessonTestAnswer();
     return;
   }
 
@@ -4833,13 +5727,7 @@ elements.showQuizAnswerButton.addEventListener("click", () => {
 
 elements.prevQuizButton.addEventListener("click", () => {
   if (isTextbookUnit()) {
-    const items = orderedLessonPracticeReviewPool();
-    if (!items.length) {
-      return;
-    }
-    state.lessonReviewIndex = (state.lessonReviewIndex - 1 + items.length) % items.length;
-    resetQuizFeedback();
-    renderQuiz();
+    moveLessonTest(-1);
     return;
   }
 
@@ -4853,6 +5741,7 @@ elements.prevQuizButton.addEventListener("click", () => {
     if (!usesChoices) {
       elements.quizAnswer.focus();
     }
+    saveCurrentSourceLocation();
     return;
   }
 
@@ -4864,17 +5753,12 @@ elements.prevQuizButton.addEventListener("click", () => {
   resetQuizFeedback();
   renderQuiz();
   elements.quizAnswer.focus();
+  saveCurrentSourceLocation();
 });
 
 elements.nextQuizButton.addEventListener("click", () => {
   if (isTextbookUnit()) {
-    const items = orderedLessonPracticeReviewPool();
-    if (!items.length) {
-      return;
-    }
-    state.lessonReviewIndex = (state.lessonReviewIndex + 1) % items.length;
-    resetQuizFeedback();
-    renderQuiz();
+    moveLessonTest(1);
     return;
   }
 
@@ -4888,6 +5772,7 @@ elements.nextQuizButton.addEventListener("click", () => {
     if (!usesChoices) {
       elements.quizAnswer.focus();
     }
+    saveCurrentSourceLocation();
     return;
   }
 
@@ -4899,6 +5784,7 @@ elements.nextQuizButton.addEventListener("click", () => {
   resetQuizFeedback();
   renderQuiz();
   elements.quizAnswer.focus();
+  saveCurrentSourceLocation();
 });
 
 elements.quizAnswer.addEventListener("keydown", (event) => {

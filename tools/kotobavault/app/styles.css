@@ -769,6 +769,13 @@ h3 {
   font-weight: 700;
 }
 
+.lesson-review-self-grade-button.active {
+  border-color: var(--accent);
+  background: var(--accent-soft);
+  color: var(--accent-strong);
+  font-weight: 700;
+}
+
 .lesson-feedback {
   border-left: 3px solid var(--accent);
   background: var(--surface-muted);
@@ -848,6 +855,23 @@ h3 {
   color: var(--muted);
 }
 
+.lesson-practice-shuffle-toggle {
+  display: inline-flex;
+  align-items: center;
+  gap: 6px;
+  width: fit-content;
+  margin-top: 6px;
+  color: var(--muted);
+  font-size: 13px;
+  font-weight: 760;
+}
+
+.lesson-practice-shuffle-toggle input {
+  width: 16px;
+  height: 16px;
+  accent-color: var(--accent);
+}
+
 .lesson-practice-metrics {
   display: flex;
   flex-wrap: wrap;
@@ -920,6 +944,57 @@ h3 {
 .lesson-practice-actions button {
   min-width: 96px;
   padding: 0 14px;
+}
+
+.lesson-test-overview {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(240px, 1fr));
+  gap: 14px;
+  font-size: 16px;
+  line-height: 1.6;
+}
+
+.lesson-test-card,
+.lesson-test-score-card {
+  display: grid;
+  gap: 10px;
+  border: 1px solid var(--line);
+  border-radius: 8px;
+  background: var(--surface);
+  padding: 14px;
+}
+
+.lesson-test-card h3,
+.lesson-test-card p {
+  margin: 0;
+}
+
+.lesson-test-card-detail {
+  color: var(--muted);
+  font-weight: 700;
+}
+
+.lesson-test-card-actions,
+.lesson-test-score-actions {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8px;
+}
+
+.lesson-test-card-actions button,
+.lesson-test-score-actions button {
+  min-width: 112px;
+  padding: 0 14px;
+}
+
+.lesson-test-score-card {
+  border-color: var(--accent);
+  background: var(--accent-soft);
+  color: var(--ink);
+}
+
+.lesson-test-score-card strong {
+  font-size: 20px;
 }
 
 .lesson-vocabulary-module {
@@ -1259,6 +1334,11 @@ td:nth-child(4) {
   color: var(--muted);
   font-size: 14px;
   font-weight: 700;
+}
+
+.quiz-context button {
+  min-height: 32px;
+  padding: 0 12px;
 }
 
 .practice-quiz-tools {
