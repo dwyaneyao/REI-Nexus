@@ -130,7 +130,7 @@ h1 {
 
 .tool-grid {
   display: grid;
-  grid-template-columns: repeat(2, minmax(0, 1fr));
+  grid-template-columns: repeat(auto-fit, minmax(260px, 1fr));
   gap: 16px;
 }
 
@@ -144,11 +144,6 @@ h1 {
   border-radius: 8px;
   background: rgba(255, 255, 255, 0.82);
   box-shadow: var(--shadow);
-}
-
-.tool-card.muted {
-  background: rgba(255, 255, 255, 0.48);
-  box-shadow: none;
 }
 
 .tool-card h2 {
@@ -186,34 +181,6 @@ h1 {
   outline: none;
 }
 
-.button.ghost {
-  border-color: var(--line);
-  background: transparent;
-  color: var(--muted);
-}
-
-.preview-canvas {
-  display: grid;
-  min-height: calc(100vh - 124px);
-  padding: 56px 0 32px;
-}
-
-.blank-panel {
-  display: grid;
-  place-items: center;
-  align-content: center;
-  min-height: min(620px, calc(100vh - 180px));
-  border: 1px dashed rgba(96, 105, 120, 0.36);
-  border-radius: 8px;
-  background: rgba(255, 255, 255, 0.6);
-}
-
-.blank-panel h1 {
-  max-width: none;
-  font-size: clamp(2.2rem, 7vw, 5.2rem);
-  line-height: 1;
-}
-
 @media (max-width: 760px) {
   .site-shell {
     width: min(100% - 24px, 1120px);
@@ -242,10 +209,6 @@ h1 {
 
   h1 {
     max-width: 100%;
-  }
-
-  .tool-grid {
-    grid-template-columns: 1fr;
   }
 
   .tool-card {
